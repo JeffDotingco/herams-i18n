@@ -5,23 +5,24 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  HeRAMS\n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-12 14:46+0000\n"
-"PO-Revision-Date: 2019-09-12 14:10+0000\n"
-"Last-Translator: Sam <sam@mousa.nl>\n"
+"PO-Revision-Date: 2019-09-13 13:42+0000\n"
+"Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
+"herrams-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French <https://weblate.herams-staging.org/projects/herams"
-"/herrams-user-guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:7
 msgid "Introduction"
-msgstr ""
+msgstr "Introduction"
 
 #: ../docs/index.rst:9
 msgid "Below is a sample button, it should be localized:"
@@ -38,6 +39,10 @@ msgid ""
 "information on the HeRAMS approach and for technical guidance please "
 "consult the `WHO HeRAMS webpage <https://www.who.int/hac/herams/en//>`_."
 msgstr ""
+"Bienvenue dans le guide de l'utilisateur de HeRAMS. Ce guide est conçu pour "
+"les utilisateurs de la plate-forme HeRAMS. Il vise à fournir aux "
+"utilisateurs un bref aperçu des éléments principaux de la plate-forme et "
+"contient des instructions étape par étape pour des tâches courantes."
 
 #: ../docs/index.rst:18
 msgid ""
@@ -45,6 +50,10 @@ msgid ""
 "provide step-by-step instructions on how to `access the HeRAMS "
 "platform`__ as well as a brief overview on the `project dashboards`__."
 msgstr ""
+"Les deux premiers chapitres de ce guide s'adressent à tous les utilisateurs "
+"et fournissent des instructions étape-par-étape sur la façon de se connecter "
+"à la plate-forme HeRAMS, ainsi qu'un bref aperçu des tableaux de bord du "
+"projet."
 
 #: ../docs/index.rst:23
 msgid ""
@@ -1875,4 +1884,3 @@ msgid ""
 " cache of the workspace. For more information on data caching read the "
 "section on [Workspaces](#workspaces). </details>"
 msgstr ""
-
