@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  HeRAMS\n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-17 15:04+0000\n"
-"PO-Revision-Date: 2019-09-17 15:00+0000\n"
+"PO-Revision-Date: 2019-09-17 16:39+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
+"herrams-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French <https://weblate.herams-staging.org/projects/herams"
-"/herrams-user-guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:7
@@ -35,17 +36,16 @@ msgid ""
 "advanced topics related to user management and project administration, "
 "please consult the `Project Administration`__ section."
 msgstr ""
-"Bienvenue dans le **guide de l'utilisateur de HeRAMS**. Ce guide fournit "
-"des instructions pas à pas sur la façon de s’inscrire et se connecter à "
-"la `plate-forme  <https://herams.org/user/login/>`_ ainsi qu'un bref "
-"aperçu des éléments principaux de la plate-forme y compris des "
-"informations détaillées sur l'exploration des données disponibles à "
-"l'aide des tableaux de bord interactifs. Les gestionnaires de données "
-"peuvent trouver des informations supplémentaires sur la manière de "
-"modifier les données dans la section `Modifier les données` __. Pour des "
-"sujets plus avancés liée à la gestion des utilisateurs et à "
-"l'administration de projet veuillez consulter la section `Administration "
-"du projet`__."
+"Bienvenue dans le **guide de l'utilisateur de HeRAMS**. Ce guide fournit des "
+"instructions pas à pas sur la façon de s’inscrire et se connecter à la "
+"`plate-forme  HeRAMS <https://herams.org/user/login/>`_ ainsi qu'un bref "
+"aperçu des éléments principaux de la plate-forme y compris des informations "
+"détaillées sur l'exploration des données disponibles à l'aide des tableaux "
+"de bord interactifs. Les gestionnaires de données peuvent trouver des "
+"informations supplémentaires sur la manière de modifier les données dans la "
+"section `Modifier les données`__. Pour des sujets plus avancés liée à la "
+"gestion des utilisateurs et à l'administration de projet veuillez consulter "
+"la section `Administration du projet`__."
 
 #: ../docs/index.rst:15
 msgid ""
@@ -56,14 +56,13 @@ msgid ""
 "covered in this guide, please contact the `HeRAMS Support Team "
 "<mailto:herams@who.int?>`_."
 msgstr ""
-"Veuillez noter que le guide ne traite que des problèmes rencontrés par la"
-" plate-forme HERAMS. Pour des informations générales sur l'approche "
-"HeRAMS et des conseils techniques, veuillez consulter la page Web "
-"officielle de l’OMS dédiée à `HeRAMS "
-"<https://www.who.int/hac/herams/en//>`_. Pour des questions "
-"supplémentaires qui ne sont pas abordées dans ce guide, veuillez "
-"contacter l’équipe de support HeRAMS en envoyant un courriel à  ` "
-"herams@who.int <mailto: herams@who.int?>` _."
+"Veuillez noter que le guide ne traite que des problèmes rencontrés par la "
+"plate-forme HERAMS. Pour des informations générales sur l'approche HeRAMS et "
+"des conseils techniques, veuillez consulter la page Web officielle de l’OMS "
+"dédiée à `HeRAMS <https://www.who.int/hac/herams/en//>`_. Pour des questions "
+"supplémentaires qui ne sont pas abordées dans ce guide, veuillez contacter l’"
+"équipe de support HeRAMS en envoyant un courriel à   `herams@who.int "
+"<mailto:herams@who.int?>`_."
 
 #: ../docs/index.rst:20
 msgid "Getting started"
@@ -83,14 +82,12 @@ msgstr ""
 "mettre à jour votre profil d'utilisateur."
 
 #: ../docs/index.rst:27
-#, fuzzy
 msgid "To register as a new user, go to `herams.org <https://herams.org.>`_."
 msgstr ""
-"Pour vous inscrire comme nouvel utilisateur, veuillez ouvrir le lien "
-"`herams.org <https://herams.org.>`_ dans votre navigateur."
+"Pour vous inscrire comme nouvel utilisateur, veuillez ouvrir le lien `"
+"herams.org <https://herams.org.>`_ dans votre navigateur."
 
 #: ../docs/index.rst:28
-#, fuzzy
 msgid ""
 "On the sign-in page, click the `sign up "
 "<https://herams.org/user/register/>`_ link located just above the |login|"
@@ -98,7 +95,7 @@ msgid ""
 msgstr ""
 "Dans la page d'ouverture, veuillez cliquer sur le lien `sign up "
 "<https://herams.org/user/register/>`_, situé au-dessus du bouton de "
-"connexion."
+"connexion |login|."
 
 #: ../docs/index.rst:39
 msgid "On the page that opens, enter your details."
@@ -106,7 +103,7 @@ msgstr "Dans la page qui s’affiche, veuillez saisir vos données."
 
 #: ../docs/index.rst:40
 msgid "Submit your information by clicking the |sign-up| button."
-msgstr ""
+msgstr "4.\tEnregistrez votre compte en cliquant le bouton |sign-up|."
 
 #: ../docs/index.rst:46
 msgid "A confirmation email will be sent to the email address you entered."
@@ -134,44 +131,57 @@ msgid ""
 " able to login to the HeRAMS platform. To create a user account, follow "
 "the instruction `here`__."
 msgstr ""
+"Les nouveaux utilisateurs sans compte existant devront s’inscrire avant de "
+"pouvoir se connecter à la plate-forme HeRAMS. Pour créer un compte "
+"d'utilisateur veuillez suivez les instructions `ici`__."
 
 #: ../docs/index.rst:64
 msgid ""
 "Go to `https://herams.org <https://herams.org>`_ in either FireFox or "
 "Chrome."
 msgstr ""
+"Veuillez ouvrir le lien `https://herams.org <https://herams.org>` dans votre "
+"navigateur (FireFox ou Chrome)."
 
 #: ../docs/index.rst:65
 msgid "Enter your email address and password in the designated fields."
 msgstr ""
+"Veuillez saisir vos informations d'identification (e-mail et mot de passe) "
+"dans les champs désignés."
 
 #: ../docs/index.rst:66
 msgid "Click the |login| button."
-msgstr ""
+msgstr "Veuillez cliquer sur le bouton de connexion |login| ."
 
 #: ../docs/index.rst:71
 msgid "It is strongly recommended to either user FireFox or Chrome"
 msgstr ""
+"Il est fortement recommandé d'utuliser les navigateurs FireFox ou Chrome."
 
 #: ../docs/index.rst:74
 msgid "Logging out"
-msgstr ""
+msgstr "Se déconnecter"
 
 #: ../docs/index.rst:76
 msgid ""
 "When on a shared system you want to make sure that you log out when you "
 "are down. To logout click |button| in the top right corner of the screen."
 msgstr ""
+"Si vous êtes sur un système partagé, veuillez-vous assurer que vous vous "
+"déconnectez lorsque vous aurez terminé. Pour vous déconnecter, cliquez sur "
+"le bouton |logoug| dans le coin en haut à droite de l'écran."
 
 #: ../docs/index.rst:83
 msgid "Reset password"
-msgstr ""
+msgstr "Réinitialiser le mot de passe"
 
 #: ../docs/index.rst:85
 msgid ""
 "In case you forgot your password, the instruction below will guide "
 "through the steps to reset your password."
 msgstr ""
+"Dans le cas où vous auriez oublié votre mot de passe,  les instructions ci-"
+"dessous vous guiderons dans la réinitialisation de votre mot de passe."
 
 #: ../docs/index.rst:87
 msgid ""
@@ -3306,4 +3316,3 @@ msgstr ""
 
 #~ msgid "Click |login|"
 #~ msgstr ""
-
