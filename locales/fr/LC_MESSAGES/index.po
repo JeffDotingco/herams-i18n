@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-17 15:04+0000\n"
-"PO-Revision-Date: 2019-09-17 16:39+0000\n"
+"PO-Revision-Date: 2019-09-18 09:37+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herrams-user-guide/fr/>\n"
@@ -188,6 +188,8 @@ msgid ""
 "Go to`https://herams.org <https://herams.org>`_  in either FireFox or "
 "Chrome"
 msgstr ""
+"Veuillez ouvrir la page `https://herams.org <https://herams.org>`_ dans les "
+"navaigateurs FireFox ou Chrome."
 
 #: ../docs/index.rst:88
 msgid ""
@@ -195,30 +197,37 @@ msgid ""
 "<https://herams.org/user/forgot/>`_ link located just below the password "
 "field."
 msgstr ""
+"Sur la page d'ouverture de session, veuillez cliquer sur le lien`reset "
+"password <https://herams.org/user/forgot/>`_ comme illustré ci-dessous."
 
 #: ../docs/index.rst:89
 msgid "Enter your email address in the top field."
-msgstr ""
+msgstr "Veuillez saisir votre adresse email dans le premier champ."
 
 #: ../docs/index.rst:90
 msgid ""
 "Below the email field, you will see an image similar to this one: "
 "|captcha|"
 msgstr ""
+"Au-dessous du champ email, vous devriez voir une image semblable à celle-ci: "
+"|captcha|"
 
 #: ../docs/index.rst:96
 msgid "Enter the the characters displayed into the field below the image."
 msgstr ""
+"Veuillez taper les caractères dans le champ situé en dessous de l'image."
 
 #: ../docs/index.rst:97
 msgid "Click the |submit| button"
-msgstr ""
+msgstr "Veuillez cliquer sur le bouton |submit|"
 
 #: ../docs/index.rst:102
 msgid ""
 "You will receive an email with a password reset link. click the link to "
 "open the password rest page."
 msgstr ""
+"Un e-mail automatique avec un lien pour réinitialiser votre mot de passe "
+"sera envoyé sur votre compte."
 
 #: ../docs/index.rst:104
 msgid ""
