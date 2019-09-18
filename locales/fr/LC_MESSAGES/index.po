@@ -5,26 +5,25 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: HeRAMS\n"
+"Project-Id-Version:  HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-18 14:44+0000\n"
+"POT-Creation-Date: 2019-09-18 18:31+0000\n"
 "PO-Revision-Date: 2019-09-18 16:39+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
-"Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
-"herrams-user-guide/fr/>\n"
 "Language: fr\n"
+"Language-Team: French <https://weblate.herams-staging.org/projects/herams"
+"/herrams-user-guide/fr/>\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
-#: ../docs/index.rst:7
+#: ../docs/index.rst:24
 msgid "Introduction"
 msgstr "Introduction"
 
-#: ../docs/index.rst:9
+#: ../docs/index.rst:26
 msgid ""
 "Welcome to the **HeRAMS User Guide**. This user guide was designed for "
 "users of the `HeRAMS platform <https://herams.org/user/login/>`_. It "
@@ -48,7 +47,7 @@ msgstr ""
 "l'administration de projet veuillez consulter la section `Administration "
 "du projet`__."
 
-#: ../docs/index.rst:15
+#: ../docs/index.rst:32
 msgid ""
 "It should be noted that the guide only addresses issues related to the "
 "`HeRAMS platform <https://herams.org/user/login/>`_. For general "
@@ -58,33 +57,35 @@ msgid ""
 "are not covered in this guide, please contact the `HeRAMS Support Team "
 "<mailto:herams@who.int?>`_."
 msgstr ""
-"Veuillez noter que le guide ne traite que des problèmes rencontrés par la "
-"plate-forme HERAMS. Pour des informations générales sur l'approche HeRAMS et "
-"des conseils techniques, veuillez consulter la page Web officielle de l’OMS "
-"dédiée à `HeRAMS <https://www.who.int/hac/herams/en//>`_. Pour des questions "
-"supplémentaires qui ne sont pas abordées dans ce guide, veuillez contacter l’"
-"équipe de support HeRAMS en envoyant un courriel à  `herams@who.int "
-"<mailto:herams@who.int?>`_."
+"Veuillez noter que le guide ne traite que des problèmes rencontrés par la"
+" plate-forme HERAMS. Pour des informations générales sur l'approche "
+"HeRAMS et des conseils techniques, veuillez consulter la page Web "
+"officielle de l’OMS dédiée à `HeRAMS "
+"<https://www.who.int/hac/herams/en//>`_. Pour des questions "
+"supplémentaires qui ne sont pas abordées dans ce guide, veuillez "
+"contacter l’équipe de support HeRAMS en envoyant un courriel à  "
+"`herams@who.int <mailto:herams@who.int?>`_."
 
-#: ../docs/index.rst:20
+#: ../docs/index.rst:37
 msgid "Getting started"
 msgstr "Prise en main"
 
-#: ../docs/index.rst:23
+#: ../docs/index.rst:40
 msgid "Creating a User Account"
 msgstr "Créer un compte d'utilisateur"
 
-#: ../docs/index.rst:25
+#: ../docs/index.rst:42
 msgid ""
 "This chapter provides step-by-step instructions on how to access the "
 "`HeRAMS platform <https://herams.org/user/login/>`_, create a user "
 "account and update your user profile."
 msgstr ""
 "Ce chapitre fournit des instructions étape par étape sur la manière "
-"d'accéder à la `plate-forme HeRAMS <https://herams.org/user/login/>`_, de "
-"créer un compte utilisateur et de mettre à jour votre profil d'utilisateur."
+"d'accéder à la `plate-forme HeRAMS <https://herams.org/user/login/>`_, de"
+" créer un compte utilisateur et de mettre à jour votre profil "
+"d'utilisateur."
 
-#: ../docs/index.rst:27
+#: ../docs/index.rst:44
 msgid ""
 "To register as a new user, open the link `herams.org "
 "<https://herams.org.>`_ in your browser."
@@ -92,11 +93,11 @@ msgstr ""
 "Pour vous inscrire comme nouvel utilisateur, veuillez ouvrir le lien "
 "`herams.org <https://herams.org.>`_ dans votre navigateur."
 
-#: ../docs/index.rst:29 ../docs/index.rst:73 ../docs/index.rst:92
+#: ../docs/index.rst:46 ../docs/index.rst:78 ../docs/index.rst:97
 msgid "It is strongly recommended to either user FireFox or Chrome."
 msgstr "Il est fortement recommandé d'utuliser les navigateurs FireFox ou Chrome."
 
-#: ../docs/index.rst:31
+#: ../docs/index.rst:48
 msgid ""
 "On the sign-in page, click the `sign up "
 "<https://herams.org/user/register/>`_ link located just above the |login|"
@@ -106,19 +107,19 @@ msgstr ""
 "<https://herams.org/user/register/>`_, situé au-dessus du bouton de "
 "connexion |login|."
 
-#: ../docs/index.rst:42
+#: ../docs/index.rst:55
 msgid "On the page that opens, enter your details."
 msgstr "Dans la page qui s’affiche, veuillez saisir vos données."
 
-#: ../docs/index.rst:43
+#: ../docs/index.rst:56
 msgid "Submit your information by clicking the |sign-up| button."
 msgstr "Enregistrez votre compte en cliquant le bouton |sign-up|."
 
-#: ../docs/index.rst:44
+#: ../docs/index.rst:57
 msgid "A confirmation email will be sent to the email address you entered."
 msgstr "Un e-mail automatique de confirmation sera envoyé sur votre compte."
 
-#: ../docs/index.rst:50
+#: ../docs/index.rst:59
 msgid ""
 "If you don't receive a confirmation email within a few minutes, check "
 "your spam folder."
@@ -126,15 +127,15 @@ msgstr ""
 "Si vous n'avez pas reçu d'e-mail de confirmation au bout de quelques "
 "minutes,  veuillez vérifier votre dossier \"courrier indésirable\"."
 
-#: ../docs/index.rst:52
+#: ../docs/index.rst:61
 msgid "Confirm your registration by clicking the link in your email."
 msgstr "Veuillez confirmer votre inscription en cliquant le lien dans l’e-mail."
 
-#: ../docs/index.rst:59
+#: ../docs/index.rst:68
 msgid "Logging in"
 msgstr "Se connecter"
 
-#: ../docs/index.rst:61
+#: ../docs/index.rst:70
 msgid ""
 "New users without an existing account, will have to register before being"
 " able to login to the HeRAMS platform. To create a user account, follow "
@@ -144,27 +145,27 @@ msgstr ""
 "de pouvoir se connecter à la plate-forme HeRAMS. Pour créer un compte "
 "d'utilisateur veuillez suivez les instructions `ici`__."
 
-#: ../docs/index.rst:65 ../docs/index.rst:90
+#: ../docs/index.rst:74 ../docs/index.rst:95
 msgid "Open the link `https://herams.org <https://herams.org>`_ in your browser."
 msgstr ""
 "Veuillez ouvrir le lien `https://herams.org <https://herams.org>` dans "
 "votre navigateur."
 
-#: ../docs/index.rst:66
+#: ../docs/index.rst:75
 msgid "Enter your email address and password in the designated fields."
 msgstr ""
 "Veuillez saisir vos informations d'identification (e-mail et mot de "
 "passe) dans les champs désignés."
 
-#: ../docs/index.rst:67
+#: ../docs/index.rst:76
 msgid "Click the |login| button."
 msgstr "Veuillez cliquer sur le bouton de connexion |login| ."
 
-#: ../docs/index.rst:76
+#: ../docs/index.rst:81
 msgid "Logging out"
 msgstr "Se déconnecter"
 
-#: ../docs/index.rst:78
+#: ../docs/index.rst:83
 msgid ""
 "When on a shared system you want to make sure that you log out when you "
 "are down. To logout click the |logout| button in the top right corner of "
@@ -174,11 +175,11 @@ msgstr ""
 "déconnectez lorsque vous aurez terminé. Pour vous déconnecter, veuillez "
 "cliquer sur le bouton |logout| dans le coin en haut à droite de l'écran."
 
-#: ../docs/index.rst:86
+#: ../docs/index.rst:91
 msgid "Reset password"
 msgstr "Réinitialiser le mot de passe"
 
-#: ../docs/index.rst:88
+#: ../docs/index.rst:93
 msgid ""
 "In case you forgot your password, the instruction below will guide "
 "through the steps to reset your password."
@@ -186,7 +187,7 @@ msgstr ""
 "Dans le cas où vous auriez oublié votre mot de passe,  les instructions "
 "ci-dessous vous guiderons dans la réinitialisation de votre mot de passe."
 
-#: ../docs/index.rst:94
+#: ../docs/index.rst:99
 msgid ""
 "On the sign in page, click the `reset password "
 "<https://herams.org/user/forgot/>`_ link located below the password "
@@ -196,11 +197,11 @@ msgstr ""
 "password <https://herams.org/user/forgot/>`_ situé en dessous du champs "
 "**Password**."
 
-#: ../docs/index.rst:95
+#: ../docs/index.rst:100
 msgid "Enter your email address in the top field."
 msgstr "Veuillez saisir votre adresse e-mail dans le premier champ."
 
-#: ../docs/index.rst:96
+#: ../docs/index.rst:101
 msgid ""
 "Below the email field, you will see an image similar to this one: "
 "|captcha|"
@@ -208,15 +209,15 @@ msgstr ""
 "Au-dessous du champ e-mail, vous devriez voir une image semblable à "
 "celle-ci: |captcha|"
 
-#: ../docs/index.rst:97
+#: ../docs/index.rst:102
 msgid "Enter the the characters displayed into the field below the image."
 msgstr "Veuillez taper les caractères dans le champ situé en dessous de l'image."
 
-#: ../docs/index.rst:98
+#: ../docs/index.rst:103
 msgid "Click the |submit| button."
 msgstr "Veuillez cliquer sur le bouton |submit|."
 
-#: ../docs/index.rst:99
+#: ../docs/index.rst:104
 msgid ""
 "You will receive an email with a password reset link. Click the link to "
 "open the password rest page."
@@ -224,7 +225,7 @@ msgstr ""
 "Un e-mail automatique avec un lien pour réinitialiser votre mot de passe "
 "sera envoyé sur votre compte."
 
-#: ../docs/index.rst:110
+#: ../docs/index.rst:106
 msgid ""
 "If you did not receive this email within a few minutes, check your spam "
 "folder."
@@ -232,15 +233,15 @@ msgstr ""
 "Si vous n'avez pas reçu d'e-mail de confirmation au bout de quelques "
 "minutes,  veuillez vérifier votre dossier \"courrier indésirable\"."
 
-#: ../docs/index.rst:112
+#: ../docs/index.rst:108
 msgid "In the page that opens, enter your new password."
 msgstr "Dans la page qui s’affiche, veuillez saisir votre nouvel mot de passe."
 
-#: ../docs/index.rst:113
+#: ../docs/index.rst:109
 msgid "Click the |submit| button to confirm your new password."
 msgstr "Confirmez votre nouvel mot de passe en cliquant le bouton |submit|."
 
-#: ../docs/index.rst:118
+#: ../docs/index.rst:110
 msgid ""
 "To login into HeRAMS, return to the `sign in page "
 "<https://herams.org/user/login/>`_."
@@ -248,11 +249,11 @@ msgstr ""
 "Pour se connecter à la plate-forme HeRAMS, veuillez retourner à la `page "
 "de connexion  <https://herams.org/user/login/>`_."
 
-#: ../docs/index.rst:126
+#: ../docs/index.rst:118
 msgid "Update your User Profile"
 msgstr "Mise à jour du profil utilisateur"
 
-#: ../docs/index.rst:127
+#: ../docs/index.rst:119
 msgid ""
 "Each user has a profile associated with their account. This permits you "
 "do to customize your profile, change your email address or password "
@@ -262,7 +263,7 @@ msgstr ""
 "personnaliser votre profil, de changer votre adresse e-mail ou votre mot "
 "de passe sans avoir besoin d'assistance supplémentaire."
 
-#: ../docs/index.rst:129
+#: ../docs/index.rst:121
 msgid ""
 "To update your user profile or account details, click your username shown"
 " on the top right corner of the page."
@@ -271,7 +272,7 @@ msgstr ""
 " compte, veuillez cliquer sur votre nom d'utilisateur dans le coin "
 "supérieur droit de la page."
 
-#: ../docs/index.rst:130
+#: ../docs/index.rst:122
 msgid ""
 "This opens your `user profile "
 "<https://herams.org/user/settings/profile>`_ and allows you to change "
@@ -283,7 +284,7 @@ msgstr ""
 "modifier vos informations personnelles telles que votre nom, votre "
 "organisation et vos coordonnées."
 
-#: ../docs/index.rst:132
+#: ../docs/index.rst:124
 msgid ""
 "Please note that first name, last name and organization are mandatory "
 "fields."
@@ -291,17 +292,17 @@ msgstr ""
 "Veuillez noter que le prénom, le nom et l'organisation sont des champs "
 "obligatoires."
 
-#: ../docs/index.rst:135
+#: ../docs/index.rst:127
 msgid "Change Password"
 msgstr "Modifier le mot de passe"
 
-#: ../docs/index.rst:137
+#: ../docs/index.rst:129
 msgid "To alter your password, open your user profile as explained `above`__."
 msgstr ""
 "Pour modifier votre mot de passe, veuillez ouvrir votre profil de "
 "l'utilisateur comme expliqué `ci-dessus`__."
 
-#: ../docs/index.rst:138
+#: ../docs/index.rst:130
 msgid ""
 "Click the `Account <https://herams.org/user/settings/account>`_ link to "
 "access your account information."
@@ -310,7 +311,7 @@ msgstr ""
 "<https://herams.org/user/settings/account>`_ pour accéder aux "
 "informations de votre compte."
 
-#: ../docs/index.rst:139
+#: ../docs/index.rst:131
 msgid ""
 "In the page opening, you should be able to change your email address and "
 "enter a new password."
@@ -318,17 +319,17 @@ msgstr ""
 "Dans la page qui s'affiche, vous pourrez maintenant enregistrer un "
 "nouveau mot de passe ou change votre adresse email."
 
-#: ../docs/index.rst:140
+#: ../docs/index.rst:132
 msgid "Make sure to click the |submit| button to confirm your changes."
 msgstr ""
 "Assurez-vous de cliquer sur le bouton |submit| pour confirmer vos "
 "modifications."
 
-#: ../docs/index.rst:152
+#: ../docs/index.rst:144
 msgid "World map"
 msgstr "Vue globale"
 
-#: ../docs/index.rst:154
+#: ../docs/index.rst:146
 msgid ""
 "After logging in, you will see a world map with several blue dots. Each "
 "of these dots represents a HeRAMS project. You can also see the list of "
@@ -337,15 +338,15 @@ msgid ""
 "number of contributors and health facilities is shown in the bottom left "
 "corner."
 msgstr ""
-"Lorsque vous êtes connecté, vous devriez voir la page d'accueil, illustrant "
-"une carte mondiale avec des points bleus. Chaque point affiché sur la carte "
-"correspond à un projet de HeRAMS. Vous trouverez également une liste de tous "
-"les projets (pays) dans le volet de navigation situé à la gauche. En plus, "
-"un aperçu du nombre total de projets disponible sur HeRAMS, de contributeurs "
-"et des formations sanitaire (FOSA) sont présenté dans le coin inférieur "
-"gauche."
+"Lorsque vous êtes connecté, vous devriez voir la page d'accueil, "
+"illustrant une carte mondiale avec des points bleus. Chaque point affiché"
+" sur la carte correspond à un projet de HeRAMS. Vous trouverez également "
+"une liste de tous les projets (pays) dans le volet de navigation situé à "
+"la gauche. En plus, un aperçu du nombre total de projets disponible sur "
+"HeRAMS, de contributeurs et des formations sanitaire (FOSA) sont présenté"
+" dans le coin inférieur gauche."
 
-#: ../docs/index.rst:158
+#: ../docs/index.rst:150
 msgid ""
 "To learn more about a project, either click the blue dot on the world map"
 " or select the project from the navigation pane on the left."
@@ -354,7 +355,7 @@ msgstr ""
 "le volet de navigation situé à la gauche ou cliquer sur le point dans la "
 "carte mondiale."
 
-#: ../docs/index.rst:159
+#: ../docs/index.rst:151
 msgid ""
 "You should now see a pop-up window displaying an overview of the selected"
 " project. In the upper part of the pop-up you can see the project name, "
@@ -370,7 +371,7 @@ msgstr ""
 "de la répartition des types de FOSA, de leurs fonctionnalités et de la "
 "disponibilité des services."
 
-#: ../docs/index.rst:160
+#: ../docs/index.rst:152
 msgid ""
 "For further details, click the |details| button. This will open the "
 "project dashboard."
@@ -378,7 +379,7 @@ msgstr ""
 "Pour en savoir plus, veuillez cliquer sur le bouton |details|. Cela "
 "ouvrira le tableau de bord du projet."
 
-#: ../docs/index.rst:166
+#: ../docs/index.rst:158
 msgid ""
 "Access to the project dashboards is restricted to selected users. If you "
 "would like to be granted access to a project dashboard, please contact "
@@ -387,26 +388,27 @@ msgid ""
 " brief explanation why you would like to access the dashboard."
 msgstr ""
 "L'accès aux tableaux de bord du projet est limité aux utilisateurs "
-"sélectionnés. Si vous souhaitez avoir accès au tableau de bord d'un projet, "
-"veuillez contacter le point focal de votre pays ou envoyer un e-mail à "
-"`herams@who.int <mailto:herams@who.int?>`_, en précisant votre fonction et "
-"votre rôle, ainsi qu'une brève explication des raisons pour lesquelles vous "
-"aimeriez avoir accès au tableau de bord."
+"sélectionnés. Si vous souhaitez avoir accès au tableau de bord d'un "
+"projet, veuillez contacter le point focal de votre pays ou envoyer un "
+"e-mail à `herams@who.int <mailto:herams@who.int?>`_, en précisant votre "
+"fonction et votre rôle, ainsi qu'une brève explication des raisons pour "
+"lesquelles vous aimeriez avoir accès au tableau de bord."
 
-#: ../docs/index.rst:174
+#: ../docs/index.rst:166
 msgid "Project Dashboard"
 msgstr "Tableau de bord"
 
-#: ../docs/index.rst:176
+#: ../docs/index.rst:168
+#, fuzzy
 msgid ""
-"Each project in HeRAMS has a custom, interactive dashboard providing an "
+"Each project in HeRAMS has a custom interactive dashboard providing an "
 "instant and in-depth analysis based on the available data."
 msgstr ""
 "Chaque projet dans HeRAMS a un tableau de bord interactif personnalisé "
 "fournissant une analyse instantanée et approfondie basée sur les données "
 "disponibles."
 
-#: ../docs/index.rst:178
+#: ../docs/index.rst:170
 msgid ""
 "To view a project dashboard, open the project summary by selecting your "
 "project form the navigation pane on the left. Alternatively, you can open"
@@ -417,7 +419,7 @@ msgstr ""
 "soit par cliquer sur le nom du projet dans le volet de navigation situé à"
 " gauche, soit en cliquant sur le projet dans sur la carte mondiale."
 
-#: ../docs/index.rst:179
+#: ../docs/index.rst:171
 msgid ""
 "In the pop-up window, click the |details| button. This will open the "
 "interactive dashboard."
@@ -425,7 +427,7 @@ msgstr ""
 "Dans la fenêtre contextuelle, veuillez cliquer sur le bouton |details|. "
 "Cela ouvrira le tableau de bord."
 
-#: ../docs/index.rst:184
+#: ../docs/index.rst:172
 msgid ""
 "You should now see a page similar to the one shown below. In the "
 "navigation pane on the left you will find a list of all available pages."
@@ -434,11 +436,11 @@ msgstr ""
 "le volet de navigation situé à gauche, vous voyez toutes les pages "
 "disponibles dans le tableau de bord."
 
-#: ../docs/index.rst:190
+#: ../docs/index.rst:181
 msgid "To open a page, click the page name in the navigation pane."
 msgstr "Pour ouvrir une page, veuillez cliquer sur le le volet de navigation."
 
-#: ../docs/index.rst:192
+#: ../docs/index.rst:183
 msgid ""
 "Some pages may contain a sub-page, indicated by a |forward| icon next to "
 "the page's name."
@@ -446,7 +448,7 @@ msgstr ""
 "Certaines pages peuvent contenir des sous-pages désignées par une icône  "
 "|forward|  à côte du nom de la page."
 
-#: ../docs/index.rst:197
+#: ../docs/index.rst:188
 msgid ""
 "5. To return to a previous page, you can either select the page in the "
 "navigation pane on the left or use the breadcrumb trail on top of the "
@@ -456,19 +458,19 @@ msgid ""
 msgstr ""
 "Pour revenir à  une page précédente, veuillez utiliser le volet de "
 "navigation situé à gauche ou la piste de navigation en haut de la page.\n"
-"Par exemple, l'image ci-dessous affiche une sous-page du tableau de bord de "
-"Nigeria. Pour retourner à la première page du tableau de bord, veuillez "
-"cliquer sur **Nigeria** dans la piste de navigation."
+"Par exemple, l'image ci-dessous affiche une sous-page du tableau de bord "
+"de Nigeria. Pour retourner à la première page du tableau de bord, "
+"veuillez cliquer sur **Nigeria** dans la piste de navigation."
 
-#: ../docs/index.rst:205
+#: ../docs/index.rst:196
 msgid "The animation below shows the dashboards in action."
 msgstr "L'animation ci-dessous montre les tableaux de bord en action."
 
-#: ../docs/index.rst:214
+#: ../docs/index.rst:205
 msgid "Filtering data"
 msgstr "Filtrage des données"
 
-#: ../docs/index.rst:216
+#: ../docs/index.rst:207
 msgid ""
 "Data in the dashboard can be filtered. This allows you to zoom in on "
 "subsets that are of interest to you."
@@ -476,19 +478,19 @@ msgstr ""
 "Les données du tableau de bord peuvent être filtrées. Cela vous permet "
 "d'afficher des sous-ensembles de données qui vous intéresse."
 
-#: ../docs/index.rst:218
+#: ../docs/index.rst:209
 msgid "Filtering is not persistent and only visible during your current session."
 msgstr ""
-"Le filtrage n'est pas persistant et n'est visible que pendant votre session "
-"en cours."
+"Le filtrage n'est pas persistant et n'est visible que pendant votre "
+"session en cours."
 
-#: ../docs/index.rst:220
+#: ../docs/index.rst:211
 msgid "In the top right corner of the dashboard, click the |filter| button."
 msgstr ""
 "Dans le coin supérieur droit du tableau de bord, cliquez sur le bouton "
 "|filter|."
 
-#: ../docs/index.rst:225
+#: ../docs/index.rst:216
 msgid ""
 "You should now see the filter configuration page. Use the drop-down list "
 "to select your filter criteria. Repeat this process until you have added "
@@ -499,7 +501,7 @@ msgstr ""
 "critères de filtrage. Répétez cette procédure jusqu'à ce que vous ayez "
 "ajouté tous les critères de filtrage souhaités."
 
-#: ../docs/index.rst:227
+#: ../docs/index.rst:218
 msgid ""
 "If you apply multiple search criteria, only results that contain all "
 "terms will be shown."
@@ -507,7 +509,7 @@ msgstr ""
 "Si vous appliquez plusieurs critères de recherche, que les résultats qui "
 "contiennent tous les termes seront affichés."
 
-#: ../docs/index.rst:229
+#: ../docs/index.rst:220
 msgid ""
 "You can limit the number of fields displayed using the search field on "
 "top of the page."
@@ -515,11 +517,11 @@ msgstr ""
 "Vous pouvez limiter le nombre de champs affichés en utilisant le champ de"
 " recherche situé en haut de la page."
 
-#: ../docs/index.rst:231
+#: ../docs/index.rst:222
 msgid "Click the |applyfilter| button to activate your filter."
 msgstr "Cliquez sur le bouton |applyfilter| pour activer votre filtre."
 
-#: ../docs/index.rst:236
+#: ../docs/index.rst:223
 msgid ""
 "To remove the filters, return to the **Filter** pages and click the "
 "|clear| button."
@@ -527,11 +529,11 @@ msgstr ""
 "Pour supprimer les filtres, veuillez retourner à la page de filtrage et "
 "cliquer sur le bouton |clear| ."
 
-#: ../docs/index.rst:247
+#: ../docs/index.rst:237
 msgid "Customizing the dashboard"
 msgstr "Personnaliser le tableau de bord"
 
-#: ../docs/index.rst:249
+#: ../docs/index.rst:239
 msgid ""
 "This section provides a few tips and tricks on how to customize the "
 "dashboard and view additional details."
@@ -539,41 +541,42 @@ msgstr ""
 "Cette section fournit quelques conseils et astuces sur la façon de "
 "personnaliser le tableau de bord."
 
-#: ../docs/index.rst:252
+#: ../docs/index.rst:242
 msgid "Tooltips"
 msgstr "Info-bulles"
 
-#: ../docs/index.rst:254
+#: ../docs/index.rst:244
 msgid ""
 "If you hover with your mouse over a point on a map or a chart, a small "
 "pop-up message will appear, displaying additional details."
 msgstr ""
 "Si vous passez la souris sur un point d'une carte ou d'un graphique, un "
-"petit message contextuel apparaîtra, affichant des détails supplémentaires."
+"petit message contextuel apparaîtra, affichant des détails "
+"supplémentaires."
 
-#: ../docs/index.rst:257
+#: ../docs/index.rst:247
 msgid "Adjust the Map Zoom Level and Focus Area"
 msgstr "Modifier le niveau de zoom et la zone de mise au point d'une carte"
 
-#: ../docs/index.rst:259
+#: ../docs/index.rst:249
 msgid ""
 "You can adjust the zoom level of a map by using the scroll button on your"
 " mouse. To change the focus area of a map, position you mouse in the map "
 "element. Right click (hold) and drag the map in the desired direction. "
 "This will move the map focus area."
 msgstr ""
-"Vous pouvez ajuster le niveau de zoom d'une carte en utilisant le bouton de "
-"défilement de votre souris. Pour modifier la zone de mise au point d'une "
-"carte, placez le pointeur de la souris dans l'élément de la carte. F "
-"Veuillez cliquer (sans relâcher) avec le bouton droit de votre souris et "
-"faites glisser la carte dans la direction souhaitée. Cela bougera la zone de "
-"focus de la carte."
+"Vous pouvez ajuster le niveau de zoom d'une carte en utilisant le bouton "
+"de défilement de votre souris. Pour modifier la zone de mise au point "
+"d'une carte, placez le pointeur de la souris dans l'élément de la carte. "
+"F Veuillez cliquer (sans relâcher) avec le bouton droit de votre souris "
+"et faites glisser la carte dans la direction souhaitée. Cela bougera la "
+"zone de focus de la carte."
 
-#: ../docs/index.rst:262
+#: ../docs/index.rst:252
 msgid "Remove a Category from Charts or Maps"
 msgstr "Enlever une catégorie d’un graphique ou d’une carte"
 
-#: ../docs/index.rst:264
+#: ../docs/index.rst:254
 msgid ""
 "By clicking the icons in the legend, you can remove a category from a "
 "chart or map. To add it again, simply click the circle again."
@@ -582,11 +585,11 @@ msgstr ""
 "catégorie d'un graphique ou d'une carte. Pour l'ajouter à nouveau, il "
 "suffit de cliquer à nouveau l'icône."
 
-#: ../docs/index.rst:267
+#: ../docs/index.rst:257
 msgid "Reorder map layers"
 msgstr "Réorganiser les couches de la carte"
 
-#: ../docs/index.rst:269
+#: ../docs/index.rst:259
 msgid ""
 "Depending on the zoom level applied to a map, it may happen that several "
 "points lie on top of each other, hiding some facilities. To bring a "
@@ -602,11 +605,11 @@ msgstr ""
 "(veuillez cliquer sur le cercle vide), la catégorie sera ajoutée au-"
 "dessus des autres points."
 
-#: ../docs/index.rst:276
+#: ../docs/index.rst:266
 msgid "Default dashboard pages"
 msgstr "Les pages standard du tableau de bord"
 
-#: ../docs/index.rst:278
+#: ../docs/index.rst:268
 msgid ""
 "The below section provides an overview of the standard pages available in"
 " a dashboard. Each page refers to a HeRAMS standard information pillar."
@@ -615,7 +618,7 @@ msgstr ""
 " un tableau de bord. Chaque page fait référence au pilier d’information "
 "standard de HeRAMS."
 
-#: ../docs/index.rst:280
+#: ../docs/index.rst:270
 msgid ""
 "The order and the content of dashboards is customized based on the needs "
 "for individual projects. Your dashboard might therefore be substantially "
@@ -625,15 +628,15 @@ msgstr ""
 "fonction des besoins locaux. Donc, votre tableau de bord peut être "
 "profusément différent des pages affichés ci-dessous."
 
-#: ../docs/index.rst:283
+#: ../docs/index.rst:273
 msgid "Overview"
 msgstr "Vue d’ensemble"
 
-#: ../docs/index.rst:285
+#: ../docs/index.rst:275
 msgid "The **Overview** page provides a summary, in form of:"
 msgstr "La page **Vue d’ensemble** fournit un résumé sous la forme de:"
 
-#: ../docs/index.rst:287
+#: ../docs/index.rst:277
 msgid ""
 "a map to spot the distribution and number of health facilities by level "
 "of care (i.e. primary, secondary and tertiary health care facilities); "
@@ -642,7 +645,7 @@ msgstr ""
 "une carte présentant la répartition et le nombre des FOSA par niveau de "
 "soins (p. ex. les FOSA de santé primaires, secondaires et tertiaires); et"
 
-#: ../docs/index.rst:288
+#: ../docs/index.rst:278
 msgid ""
 "doughnut charts to summarize different indicators, such as level of "
 "damage, functionality status, accessibility and service availability in "
@@ -652,211 +655,211 @@ msgstr ""
 "niveau de dommage, l'état de fonctionnalité, l'accessibilité et la "
 "disponibilité des services dans les FOSA évalué."
 
-#: ../docs/index.rst:290
+#: ../docs/index.rst:280
 msgid ""
 "Service availability is country-specific. Thus, direct comparisons form "
 "one country to another should be avoided."
 msgstr ""
-"La disponibilité des services est spécifique au pays. Pour cette raison, les "
-"comparaisons directes d'un pays à l'autre doivent être évitées."
+"La disponibilité des services est spécifique au pays. Pour cette raison, "
+"les comparaisons directes d'un pays à l'autre doivent être évitées."
 
-#: ../docs/index.rst:297
+#: ../docs/index.rst:287
 msgid "Infrastructure"
 msgstr "Infrastructure"
 
-#: ../docs/index.rst:299
+#: ../docs/index.rst:289
 msgid "The **Infrastructure** page displays a descriptive analysis, including:"
 msgstr "La page **infrastructure** affiche une analyse descriptive, y compris:"
 
-#: ../docs/index.rst:301
+#: ../docs/index.rst:291
 msgid "a map to spot the distribution and number of health facilities by type;"
 msgstr ""
 
-#: ../docs/index.rst:302
+#: ../docs/index.rst:292
 msgid ""
 "doughnut charts to illustrate **Mo** des of **S** ervice **D** elivery "
 "(**MoSD**s) by type as well as the modality of the building structure "
 "(permanent vs. temporary); and"
 msgstr ""
 
-#: ../docs/index.rst:303
+#: ../docs/index.rst:293
 msgid "a table to illustrate reported accessibility barriers."
 msgstr ""
 
-#: ../docs/index.rst:310
+#: ../docs/index.rst:300
 msgid "Condition"
 msgstr ""
 
-#: ../docs/index.rst:312
+#: ../docs/index.rst:302
 msgid ""
 "The **Condition** page displays the level of reported damage to MoDS "
 "buildings following a standard classification and scale (Not Damaged to "
 "Fully Damaged). Information is visualized as:"
 msgstr ""
 
-#: ../docs/index.rst:314
+#: ../docs/index.rst:304
 msgid ""
 "a map to spot the distribution and number of health facilities according "
 "to the level of building damage (i.e. condition);"
 msgstr ""
 
-#: ../docs/index.rst:315
+#: ../docs/index.rst:305
 msgid ""
 "doughnut charts summarizing the reported level of building damage by "
 "level of severity as well as the distribution of MoDS by type; and"
 msgstr ""
 
-#: ../docs/index.rst:316
+#: ../docs/index.rst:306
 msgid ""
 "a table to provide the name of the prioritized localities in terms of "
 "damage and their main causes."
 msgstr ""
 
-#: ../docs/index.rst:322
+#: ../docs/index.rst:313
 msgid "Functionality"
 msgstr ""
 
-#: ../docs/index.rst:324
+#: ../docs/index.rst:315
 msgid ""
 "The **Functionality** page displays the level of functionality of the "
 "MoSDs following a standard classification and scale (Fully Functioning to"
 " Not Functioning) represented as:"
 msgstr ""
 
-#: ../docs/index.rst:326
+#: ../docs/index.rst:317
 msgid ""
 "a map to spot the distribution and number of MoSDs according to the "
 "functionality status;"
 msgstr ""
 
-#: ../docs/index.rst:327
+#: ../docs/index.rst:318
 msgid ""
 "doughnut charts to summarize the level of functionality as well as main "
 "causes of non-functionality; and"
 msgstr ""
 
-#: ../docs/index.rst:328
+#: ../docs/index.rst:319
 msgid ""
 "a table displays the list of priority areas in terms of non-functional "
 "health facilities and reported causes."
 msgstr ""
 
-#: ../docs/index.rst:334
+#: ../docs/index.rst:326
 msgid "Accessibility"
 msgstr ""
 
-#: ../docs/index.rst:336
+#: ../docs/index.rst:328
 msgid ""
 "The **Accessibility** page displays the level of accessibility to MoSDs "
 "following a standard classification and scale (Fully Accessible to Not "
 "Accessible) in the form of:"
 msgstr ""
 
-#: ../docs/index.rst:338
+#: ../docs/index.rst:330
 msgid ""
 "a map to spot the distribution and number of MoSDs according to the "
 "accessibility status;"
 msgstr ""
 
-#: ../docs/index.rst:339
+#: ../docs/index.rst:331
 msgid ""
 "doughnut charts to summarize the level of accessibility per number of "
 "MoSDs as well as the reported causes of inaccessibility per number of "
 "MoSDs; and"
 msgstr ""
 
-#: ../docs/index.rst:340
+#: ../docs/index.rst:332
 msgid ""
 "a table displays the list of priority areas with inaccessible MoSDs and "
 "the main reported cause of inaccessibility."
 msgstr ""
 
-#: ../docs/index.rst:346
+#: ../docs/index.rst:339
 msgid "Management & support"
 msgstr ""
 
-#: ../docs/index.rst:348
+#: ../docs/index.rst:341
 msgid ""
 "The **Management & support** page displays information on the management "
 "of the MoSDs and the level of support provided by partners. The "
 "information is illustrated in terms of:"
 msgstr ""
 
-#: ../docs/index.rst:350
+#: ../docs/index.rst:343
 msgid "Ownership:"
 msgstr ""
 
-#: ../docs/index.rst:352
+#: ../docs/index.rst:345
 msgid ""
 "A map to spot the distribution of MoSDs according to their ownership "
 "(i.e. public, private, faith-based and, NGO/iNGO)."
 msgstr ""
 
-#: ../docs/index.rst:353
+#: ../docs/index.rst:346
 msgid ""
 "A doughnut  chart to highlighting the categories of ownership as a "
 "percentage of the total number of MoSDs."
 msgstr ""
 
-#: ../docs/index.rst:355
+#: ../docs/index.rst:348
 msgid "External support:"
 msgstr ""
 
-#: ../docs/index.rst:357
+#: ../docs/index.rst:350
 msgid "A doughnut  chart to illustrate the level of support provided by partners."
 msgstr ""
 
-#: ../docs/index.rst:363
+#: ../docs/index.rst:357
 msgid "Basic Amenities"
 msgstr ""
 
-#: ../docs/index.rst:365
+#: ../docs/index.rst:359
 msgid ""
-"The **Basic Amenities** page presents a series of doughnut  charts "
+"The **Basic Amenities** page presents a series of doughnut charts "
 "displaying information of core areas such as:"
 msgstr ""
 
-#: ../docs/index.rst:367
+#: ../docs/index.rst:361
 msgid "the principle source of water and power; and"
 msgstr ""
 
-#: ../docs/index.rst:368
+#: ../docs/index.rst:362
 msgid "the percentage of MoDS with sufficient water and power supplies"
 msgstr ""
 
-#: ../docs/index.rst:374
+#: ../docs/index.rst:369
 msgid "Service Availability"
 msgstr ""
 
-#: ../docs/index.rst:376
+#: ../docs/index.rst:371
 msgid ""
 "The **Service Availability** page displays multiple pages per type of "
 "service. Each page displays:"
 msgstr ""
 
-#: ../docs/index.rst:378
+#: ../docs/index.rst:373
 msgid ""
 "a map to spot the distribution of the MoSDs providing the selected health"
 " service;"
 msgstr ""
 
-#: ../docs/index.rst:379
+#: ../docs/index.rst:374
 msgid ""
 "doughnut charts to summarize the level of service availability as well as"
 " the underlying causes of unavailability of the service; and"
 msgstr ""
 
-#: ../docs/index.rst:380
+#: ../docs/index.rst:375
 msgid ""
 "a table displays the list of priority areas per service unavailability "
 "and the main reported underlying cause."
 msgstr ""
 
-#: ../docs/index.rst:387
+#: ../docs/index.rst:383
 msgid "Edit Data"
 msgstr ""
 
-#: ../docs/index.rst:389
+#: ../docs/index.rst:385
 msgid ""
 "This chapter is itended primarily for data managers responsible to update"
 " the HeRAMS data. It covers all aspects related to data editing, "
@@ -865,125 +868,117 @@ msgid ""
 "duplicates)."
 msgstr ""
 
-#: ../docs/index.rst:392
+#: ../docs/index.rst:387
 msgid ""
 "Please not that access to the data edit interface is limited to users "
-"responsible to update the data."
+"responsible to update the data. If you require your access permissions to"
+" be changed, kindly contact your country focal point or send an email to "
+"`herams@who.int <mailto:herams@who.int?>`_ specifying your function and "
+"role as well as a brief explanation why you would like your access "
+"permissions to altered."
 msgstr ""
 
-#: ../docs/index.rst:393
-msgid ""
-"If you require your access permissions to be changed, kindly contact your"
-" country focal point or send an email to `herams@who.int "
-"<mailto:herams@who.int?>`_ specifying your function and role as well as a"
-" brief explanation why you would like your access permissions to altered."
-msgstr ""
-
-#: ../docs/index.rst:395
+#: ../docs/index.rst:389
 msgid ""
 "For technical information related to the questionnaire please contact "
 "your country focal point or send an email to `herams@who.int "
 "<mailto:herams@who.int?>`_."
 msgstr ""
 
-#: ../docs/index.rst:398
+#: ../docs/index.rst:392
 msgid "Access the Data Update Interface"
 msgstr ""
 
-#: ../docs/index.rst:400
+#: ../docs/index.rst:394
 msgid ""
 "Open the admin interface by clicking the |settings| button on the top "
 "right corner of the page (next to your username)."
 msgstr ""
 
-#: ../docs/index.rst:407
+#: ../docs/index.rst:395
 msgid ""
 "From the navigation pane on the left, select `Projects "
 "<https://herams.org/project/index>`_."
 msgstr ""
 
-#: ../docs/index.rst:408
+#: ../docs/index.rst:396
 msgid ""
 "You should now see a table of all available projects. For each project, "
 "the table displays the number **Workspaces**, **Contributors**, **Health "
 "facilities** and **Responses**."
 msgstr ""
 
-#: ../docs/index.rst:410
+#: ../docs/index.rst:403
 msgid ""
 "The number of responses can be higher than the total number of health "
 "facilities. This indicates that a health facility was assessed multiple "
 "times."
 msgstr ""
 
-#: ../docs/index.rst:411
+#: ../docs/index.rst:405
 msgid ""
 "In the last column of the table, click the |workspace| icon. This will "
 "open a new page displaying a list of all available workspace."
 msgstr ""
 
-#: ../docs/index.rst:418
+#: ../docs/index.rst:412
 msgid ""
 "HeRAMS uses so called **Workspaces** to manage access permission to the "
-"underlying data."
+"underlying data. A workspace might for example constitute a specific "
+"organization or a geographic region. For more information on "
+"**Workspaces** click `here`__."
 msgstr ""
 
-#: ../docs/index.rst:420
-msgid ""
-"A workspace might for example constitute a specific organization or a "
-"geographic region. For more information on **Workspaces** click `here`__."
-msgstr ""
-
-#: ../docs/index.rst:424
+#: ../docs/index.rst:416
 msgid ""
 "To view the health facilities that are part of a specific workspace, "
 "click the |update-data| icon in the Action column."
 msgstr ""
 
-#: ../docs/index.rst:431
+#: ../docs/index.rst:417
 msgid ""
 "Use the |forward| buttons to move to the next page or filter the "
 "workspaces by typing the workspace name in the field below the header "
 "row."
 msgstr ""
 
-#: ../docs/index.rst:443
+#: ../docs/index.rst:434
 msgid ""
 "You should now see a table with all the health facilities of the selected"
 " workspace."
 msgstr ""
 
-#: ../docs/index.rst:445
+#: ../docs/index.rst:436
 msgid "The video below summarizes the steps to access the data entry interface."
 msgstr ""
 
-#: ../docs/index.rst:454
+#: ../docs/index.rst:445
 msgid "Edit a Health Facility"
 msgstr ""
 
-#: ../docs/index.rst:456
+#: ../docs/index.rst:447
 msgid ""
 "Editing a record will overwrite the existing record. If you would like to"
 " update the status of a health facility while keeping the history of "
 "changes, follow the instructions in the section below."
 msgstr ""
 
-#: ../docs/index.rst:458
+#: ../docs/index.rst:449
 msgid "Open the data update interface as outlined `above`__."
 msgstr ""
 
-#: ../docs/index.rst:462
-msgid "To edit a record, click the |pencil| icon in the left most column."
+#: ../docs/index.rst:450
+msgid "To edit a record, click the |pencil-blue| icon in the left most column."
 msgstr ""
 
-#: ../docs/index.rst:469
+#: ../docs/index.rst:459
 msgid ""
 "Keep in mind that the table might have multiple pages. Use the button in "
 "the bottom right corner to advance to the next page. You can also reduce "
 "the number of records displayed by applying filters."
 msgstr ""
 
-#: ../docs/index.rst:476 ../docs/index.rst:515 ../docs/index.rst:546
+#: ../docs/index.rst:466 ../docs/index.rst:498 ../docs/index.rst:526
 msgid ""
 "You should now be able to edit the selected record. Use the |next| "
 "buttons in the lower right corner to move to the next page of the "
@@ -992,193 +987,186 @@ msgid ""
 "questionnaire."
 msgstr ""
 
-#: ../docs/index.rst:483 ../docs/index.rst:522 ../docs/index.rst:553
+#: ../docs/index.rst:467 ../docs/index.rst:499 ../docs/index.rst:527
 msgid ""
 "Make sure to validate and save your changes before exiting the record. To"
 " save your changes, navigate to the last page, **Validate**, and click "
 "the |submit| button."
 msgstr ""
 
-#: ../docs/index.rst:490 ../docs/index.rst:529 ../docs/index.rst:560
+#: ../docs/index.rst:468 ../docs/index.rst:500 ../docs/index.rst:528
 msgid ""
 "If you would like to discard your edits, click the |clear| button in the "
 "lower right corner of the page."
 msgstr ""
 
-#: ../docs/index.rst:503
+#: ../docs/index.rst:491
 msgid "Update a Health Facility"
 msgstr ""
 
-#: ../docs/index.rst:505
+#: ../docs/index.rst:493
 msgid ""
 "If HeRAMS is used as a monitoring tool, you can record changes to a "
 "health facility while keeping the existing information."
 msgstr ""
 
-#: ../docs/index.rst:507
+#: ../docs/index.rst:495
 msgid ""
 "Please note that the ability to update health facilities is not enabled "
 "in all projects. Contact your country focal point or send an email to "
 "`herams@who.int <mailto:herams@who.int?>`_ for further information."
 msgstr ""
 
-#: ../docs/index.rst:508
+#: ../docs/index.rst:497
 msgid ""
 "To update the status of a health facility, use the |update| button to "
 "open the record."
 msgstr ""
 
-#: ../docs/index.rst:537
+#: ../docs/index.rst:523
 msgid "Register a New Health Facility"
 msgstr ""
 
-#: ../docs/index.rst:539
+#: ../docs/index.rst:525
 msgid "To create a new record, click the button |new-record|."
 msgstr ""
 
-#: ../docs/index.rst:568
+#: ../docs/index.rst:551
 msgid "Delete a Health Facility"
 msgstr ""
 
-#: ../docs/index.rst:570
+#: ../docs/index.rst:553
 msgid "To delete a record, click the |delete| icon in the first column."
 msgstr ""
 
-#: ../docs/index.rst:577
-msgid ""
-"To delete a record, click the <img src=\"media/img/icon_delete_blue.png\""
-" height=\"20\" align=\"top\" alt='delete'></img> icon in the first "
-"column."
-msgstr ""
-
-#: ../docs/index.rst:579
+#: ../docs/index.rst:560
 msgid "Deleting records cannot be undone. Be careful when deleting a record."
 msgstr ""
 
-#: ../docs/index.rst:583
+#: ../docs/index.rst:564
 msgid "Download Data"
 msgstr ""
 
-#: ../docs/index.rst:586
+#: ../docs/index.rst:567
 msgid ""
 "It is possible to download part of the data as **CSV** for further "
 "analysis in-depth analysis. In rare cases, permission have been granted "
 "to download"
 msgstr ""
 
-#: ../docs/index.rst:586
+#: ../docs/index.rst:567
 msgid ""
 "the entire data set. To download the entire data set please follow the "
 "instructions `here`__, otherwise see the section below."
 msgstr ""
 
-#: ../docs/index.rst:591
+#: ../docs/index.rst:572
 msgid "Download Workspace Data"
 msgstr ""
 
-#: ../docs/index.rst:594
+#: ../docs/index.rst:575
 msgid ""
 "Follow the instructions below to download data for a single workspaces. "
 "If you require data from multiple workspace, follow the below steps for "
 "each workspace."
 msgstr ""
 
-#: ../docs/index.rst:594
+#: ../docs/index.rst:575
 msgid "You can then merge the data in your analysis tool of choice."
 msgstr ""
 
-#: ../docs/index.rst:596
+#: ../docs/index.rst:577
 msgid ""
 "In order to download data, you will require access to the corresponding "
 "workspace. Contact your system administrator to elevate your access "
 "rights if needed."
 msgstr ""
 
-#: ../docs/index.rst:598
+#: ../docs/index.rst:579
 msgid ""
 "Navigate to the workspace page of your project (see `Access the Data "
 "Update Interface`__ steps 1 - 4 for detailed instructions)."
 msgstr ""
 
-#: ../docs/index.rst:602
+#: ../docs/index.rst:580
 msgid ""
 "In the rightmost column, click the |download| button. This will download "
 "all records of this workspace."
 msgstr ""
 
-#: ../docs/index.rst:609
+#: ../docs/index.rst:589
 msgid ""
 "For surveys in languages other than English, make sure to correctly "
 "define the encoding when opening the data in Excel (see `Data Encoding in"
 " Excel`__ for details)."
 msgstr ""
 
-#: ../docs/index.rst:614
+#: ../docs/index.rst:594
 msgid "Download the Entire Data Set"
 msgstr ""
 
-#: ../docs/index.rst:616
+#: ../docs/index.rst:596
 msgid ""
 "Users are advised to download data for individual workspace as outlined "
 "above. The ability to download the entire data set is restricted to few "
 "users. Contact your system administrator for further information."
 msgstr ""
 
-#: ../docs/index.rst:618
+#: ../docs/index.rst:598
 msgid "*Coming soon*"
 msgstr ""
 
-#: ../docs/index.rst:621
+#: ../docs/index.rst:601
 msgid "Data Encoding in Excel"
 msgstr ""
 
-#: ../docs/index.rst:622
+#: ../docs/index.rst:602
 msgid ""
 "If data is downloaded for further analysis in Excel or a statistical "
 "software of choice (e.g. R or STATA), data encoding should always be set "
 "to UTF-8."
 msgstr ""
 
-#: ../docs/index.rst:624
+#: ../docs/index.rst:604
 msgid ""
 "Encoding issues are particullary prevalent in languages with special "
 "character and can results in the data being unreadable. For examples "
 "instead of **camp de réfugiés** you get **Camp de rÃ©fugiÃ©s**."
 msgstr ""
 
-#: ../docs/index.rst:626
+#: ../docs/index.rst:606
 msgid ""
 "The below instructions guide users through the steps to define the data "
 "encoding in Excel."
 msgstr ""
 
-#: ../docs/index.rst:628
+#: ../docs/index.rst:608
 msgid "Open a new Excel file."
 msgstr ""
 
-#: ../docs/index.rst:629
+#: ../docs/index.rst:609
 msgid ""
 "On the Data tab in the **Get & Transform Data** group, click **From "
 "Text/CSV**."
 msgstr ""
 
-#: ../docs/index.rst:630
+#: ../docs/index.rst:610
 msgid ""
 "In the **Import Data** dialog box, locate and double-click the text file "
 "that you want to import, and click **Import**."
 msgstr ""
 
-#: ../docs/index.rst:631
+#: ../docs/index.rst:611
 msgid ""
 "In the top left corner of the pop-up window that opens, change the "
 "encoding type to **UTF-8**, and click **Import**."
 msgstr ""
 
-#: ../docs/index.rst:641
+#: ../docs/index.rst:621
 msgid "HeRAMS Administration"
 msgstr ""
 
-#: ../docs/index.rst:643
+#: ../docs/index.rst:623
 msgid ""
 "This chapter provides an overview of the admin pages in HeRAMS and offers"
 " step-by-step instructions for common tasks performed by advanced users "
@@ -1188,7 +1176,7 @@ msgid ""
 "`Dashboards`__."
 msgstr ""
 
-#: ../docs/index.rst:649
+#: ../docs/index.rst:629
 msgid ""
 "If you require your permissions to be changed, kindly contact your "
 "country focal point or send an email to `HeRAMS Support Team "
@@ -1196,11 +1184,11 @@ msgid ""
 " brief explanation why you would like your access permissions to altered."
 msgstr ""
 
-#: ../docs/index.rst:653
+#: ../docs/index.rst:633
 msgid "Workspaces"
 msgstr ""
 
-#: ../docs/index.rst:655
+#: ../docs/index.rst:635
 msgid ""
 "HeRAMS uses the concept of workspaces to manage user permissions. Each "
 "workspace consists of several health facilities and has a dedicated focal"
@@ -1214,7 +1202,7 @@ msgid ""
 "all workspaces."
 msgstr ""
 
-#: ../docs/index.rst:658
+#: ../docs/index.rst:638
 msgid ""
 "|refresh| **Refresh Data Cache**: This button allows users to manually "
 "refresh the data cache of a workspace. Data is automatically refreshed "
@@ -1224,56 +1212,56 @@ msgid ""
 "changes made will become visible immediately."
 msgstr ""
 
-#: ../docs/index.rst:665
+#: ../docs/index.rst:639
 msgid ""
 "|pencil| **Update Workspace**:  allows to change the title or token of a "
 "workspace."
 msgstr ""
 
-#: ../docs/index.rst:672
+#: ../docs/index.rst:640
 msgid ""
-"|share| **Share Workspace**: To grant a user access to workspace, the "
-"workspace must be shared with the user. For more information on how to "
-"add users to a workspace click `here`__."
+"|share-icon| **Share Workspace**: To grant a user access to workspace, "
+"the workspace must be shared with the user. For more information on how "
+"to add users to a workspace click `here`__."
 msgstr ""
 
-#: ../docs/index.rst:681
+#: ../docs/index.rst:641
 msgid ""
 "|delete| **Delete Workspace**: Permanetly removes a workspace from a "
 "project. See `Delete a Workspace`__ for more information."
 msgstr ""
 
-#: ../docs/index.rst:690
+#: ../docs/index.rst:642
 msgid ""
 "|download| **Download Data**: Downloads all records belonging to the "
 "selected workspace. See `Download Data`__ for more information."
 msgstr ""
 
-#: ../docs/index.rst:699
+#: ../docs/index.rst:643
 msgid ""
 "|edit| **Data Update**: This opens the data edit interface. More "
 "information on data editing and updating is available `here`__."
 msgstr ""
 
-#: ../docs/index.rst:711
+#: ../docs/index.rst:683
 msgid "Workspace Permissions"
 msgstr ""
 
-#: ../docs/index.rst:713
+#: ../docs/index.rst:685
 msgid "There are two permission levels for workspaces:"
 msgstr ""
 
-#: ../docs/index.rst:715
+#: ../docs/index.rst:687
 msgid "access to manage the underlying response data; and"
 msgstr ""
 
-#: ../docs/index.rst:716
+#: ../docs/index.rst:688
 msgid ""
 "full access (includes editing the workspace properties, token and "
 "response data)."
 msgstr ""
 
-#: ../docs/index.rst:718
+#: ../docs/index.rst:690
 msgid ""
 "Users with the role of **Data Editor** have access to update the response"
 " data (option 1) while **Workspace Owners** might be given elevated "
@@ -1281,31 +1269,31 @@ msgid ""
 "workspace as well as to manage the underlying response data."
 msgstr ""
 
-#: ../docs/index.rst:721
+#: ../docs/index.rst:693
 msgid "Add a User to a Workspace"
 msgstr ""
 
-#: ../docs/index.rst:723
+#: ../docs/index.rst:695
 msgid ""
 "To grant a user access to a workspace, open the admin interface by "
 "clicking the |settings| icon in the top right corner of the screen."
 msgstr ""
 
-#: ../docs/index.rst:730
+#: ../docs/index.rst:696
 msgid ""
 "In the navigation pane on the left, click "
 "`Projects<https://herams.org/project/index>` to open the **Projects** "
 "overview table."
 msgstr ""
 
-#: ../docs/index.rst:731
+#: ../docs/index.rst:697
 msgid ""
 "In the rightmost column of the table, you should see several **Action** "
 "buttons. Click the |workspace| icon. This will open the workspace of the "
 "selected project."
 msgstr ""
 
-#: ../docs/index.rst:738
+#: ../docs/index.rst:698
 msgid ""
 "You should now see a table with all workspaces of your project. For each "
 "workspace the table provides information on the last time data was synced"
@@ -1314,14 +1302,14 @@ msgid ""
 "contains several **Action** buttons."
 msgstr ""
 
-#: ../docs/index.rst:739
+#: ../docs/index.rst:699
 msgid ""
 "To grant a user access to a workspace (e.g. to update the data), you have"
 " to share the workspace with them. Click the |share| icon in the "
 "**Actions** column."
 msgstr ""
 
-#: ../docs/index.rst:746
+#: ../docs/index.rst:700
 msgid ""
 "You should now see a page similar to the image below. On the bottom half "
 "of the page you can see a list of all users currently having access to "
@@ -1331,116 +1319,116 @@ msgid ""
 "filtering. Select the user you would like to add."
 msgstr ""
 
-#: ../docs/index.rst:757
+#: ../docs/index.rst:726
 msgid ""
 "Use the checkboxes to select the appropriate permission level. See "
 "`above`__ for further details on workspace permissions."
 msgstr ""
 
-#: ../docs/index.rst:761
+#: ../docs/index.rst:727
 msgid "Click the |share| button to share the workspace with the selected user(s)."
 msgstr ""
 
-#: ../docs/index.rst:774
+#: ../docs/index.rst:742
 msgid "Remove a User from a Workspace"
 msgstr ""
 
-#: ../docs/index.rst:776
+#: ../docs/index.rst:744
 msgid ""
 "To remove a user from a workspace, navigate to the workspace from which "
 "you would like to remove the user. (Follow steps 1 - 5 outlined `above`__"
 " to access the workspace)."
 msgstr ""
 
-#: ../docs/index.rst:780 ../docs/index.rst:944
+#: ../docs/index.rst:745 ../docs/index.rst:907
 msgid ""
 "On the second half of the page you will see a list of all users having "
 "access to the workspace. Click the |delete| icon to remove the user "
 "permanently."
 msgstr ""
 
-#: ../docs/index.rst:788
+#: ../docs/index.rst:755
 msgid "Change a User's Workspace Permission"
 msgstr ""
 
-#: ../docs/index.rst:790
+#: ../docs/index.rst:757
 msgid ""
 "To change a user's permission, remove the user from the workspace as "
 "outlined `above`__"
 msgstr ""
 
-#: ../docs/index.rst:794
+#: ../docs/index.rst:758
 msgid ""
 "Now add the user again using the new permission level (see `Add a User to"
 " a Workspace`__ for details)."
 msgstr ""
 
-#: ../docs/index.rst:799
+#: ../docs/index.rst:765
 msgid "Create a New Workspace"
 msgstr ""
 
-#: ../docs/index.rst:801
+#: ../docs/index.rst:767
 msgid ""
 "To create a new workspace, access the workspace page of your project. "
 "(Follow steps 1 - 5 outlined `above`__ to access the workspace)."
 msgstr ""
 
-#: ../docs/index.rst:805
+#: ../docs/index.rst:768
 msgid ""
 "In the upper left corner, you will see a button labelled |create-"
 "workspace|."
 msgstr ""
 
-#: ../docs/index.rst:812
+#: ../docs/index.rst:769
 msgid "On the page that opens, you should now be able to create a new workspace."
 msgstr ""
 
-#: ../docs/index.rst:819
+#: ../docs/index.rst:770
 msgid "Enter the workspace's name into the title field."
 msgstr ""
 
-#: ../docs/index.rst:820
+#: ../docs/index.rst:771
 msgid ""
 "Use the dropdown list to select the corresponding **Token** or create a "
 "new token by selecting **Create new token**."
 msgstr ""
 
-#: ../docs/index.rst:825
+#: ../docs/index.rst:788
 msgid "Delete a Workspaces"
 msgstr ""
 
-#: ../docs/index.rst:827
+#: ../docs/index.rst:790
 msgid ""
 "You can remove a workspace by clicking the |delete| icon in the "
 "**Actions** column next to the selected workspace."
 msgstr ""
 
-#: ../docs/index.rst:839
+#: ../docs/index.rst:802
 msgid "Projects"
 msgstr ""
 
-#: ../docs/index.rst:841
+#: ../docs/index.rst:804
 msgid ""
 "The `Projects<https://herams.org/project/index>`_ page provides a brief "
 "overview of all projects available on the HeRAMS platform."
 msgstr ""
 
-#: ../docs/index.rst:848
+#: ../docs/index.rst:811
 msgid ""
 "|workspace| **Workspaces**: This opens the list of all available "
 "workspace belonging to the project. See `here`__ form information on "
 "workspaces."
 msgstr ""
 
-#: ../docs/index.rst:857
+#: ../docs/index.rst:820
 msgid ""
 "|dashboard| **Dashboard**: By clicking the dashboard icon, the project "
 "`dashboard`__ will be opened."
 msgstr ""
 
-#: ../docs/index.rst:866
+#: ../docs/index.rst:829
 msgid ""
-"|edit| **Edit Project Properties**: Permits users with appropriate "
+"|pencil| **Edit Project Properties**: Permits users with appropriate "
 "permission to alter the project properties as well as to configure the "
 "project dashboard. See `Modify a Project`__ for more information on "
 "editing the project properties. For addtional information on how to "
@@ -1448,42 +1436,42 @@ msgid ""
 "Dashboard`__."
 msgstr ""
 
-#: ../docs/index.rst:876
+#: ../docs/index.rst:839
 msgid ""
 "|check| **Check Data**: Can be used for a quick review of the data to "
 "identify invalid responses."
 msgstr ""
 
-#: ../docs/index.rst:883
+#: ../docs/index.rst:846
 msgid ""
 "|share| **Share**: The sharing function is used to grant users access to "
 "a project. See `below`__ for further details."
 msgstr ""
 
-#: ../docs/index.rst:895
+#: ../docs/index.rst:858
 msgid "Add a User to a Project"
 msgstr ""
 
-#: ../docs/index.rst:897
+#: ../docs/index.rst:860
 msgid ""
 "To grant a user access to a specific project, open the admin interface by"
 " clicking the |settings| button in the top right corner of the screen."
 msgstr ""
 
-#: ../docs/index.rst:904
+#: ../docs/index.rst:867
 msgid ""
 "In the navigation pane on the left, click `Projects "
 "<https://herams.org/project/index>`_ to display the list of all available"
 " projects."
 msgstr ""
 
-#: ../docs/index.rst:905
+#: ../docs/index.rst:868
 msgid ""
 "In the last of the table, you have several action buttons. Click the "
 "|share| icon."
 msgstr ""
 
-#: ../docs/index.rst:912
+#: ../docs/index.rst:875
 msgid ""
 "You should now see a page similar to the image shown below. On the bottom"
 " half of the screen you can see a list of all users currently having "
@@ -1493,107 +1481,107 @@ msgid ""
 "filtering. Select the user you would like to add."
 msgstr ""
 
-#: ../docs/index.rst:920
+#: ../docs/index.rst:883
 msgid ""
 "Use the checkboxes to select the appropriate permission level. See "
 "`above`__ for further details on project level permissions."
 msgstr ""
 
-#: ../docs/index.rst:924
+#: ../docs/index.rst:887
 msgid "Click the |share| button to share the project with the selected user(s)."
 msgstr ""
 
-#: ../docs/index.rst:938
+#: ../docs/index.rst:901
 msgid "Remove a User from a Project"
 msgstr ""
 
-#: ../docs/index.rst:940
+#: ../docs/index.rst:903
 msgid ""
 "To remove a user from a Project, follow steps 1-3 outlined in the "
 "`previous section`__ to access the project sharing page."
 msgstr ""
 
-#: ../docs/index.rst:953
+#: ../docs/index.rst:916
 msgid "Change a User's Project Permissions"
 msgstr ""
 
-#: ../docs/index.rst:955
+#: ../docs/index.rst:918
 msgid ""
 "To change a user's permission, remove the user from the project as "
 "outlined `above`__"
 msgstr ""
 
-#: ../docs/index.rst:959
+#: ../docs/index.rst:922
 msgid ""
 "Now add the user again using the new permission level (see `Add a User to"
 " a Project`__ for details)."
 msgstr ""
 
-#: ../docs/index.rst:965
+#: ../docs/index.rst:928
 msgid "Modify a Project"
 msgstr ""
 
-#: ../docs/index.rst:967
+#: ../docs/index.rst:930
 msgid ""
 "To modify the project properties, open the admin interface by clicking "
 "the |settings| button in the top right corner of the page."
 msgstr ""
 
-#: ../docs/index.rst:974
+#: ../docs/index.rst:937
 msgid ""
 "Open the **Projects** page by selecting `Projects "
 "<https://herams.org/project/index>`_ in the navigation pane on the left."
 msgstr ""
 
-#: ../docs/index.rst:975
+#: ../docs/index.rst:938
 msgid ""
-"Click the |edit| icon in the **Actions** column of your project. This "
+"Click the |pencil| icon in the **Actions** column of your project. This "
 "will open the project properties page."
 msgstr ""
 
-#: ../docs/index.rst:988
+#: ../docs/index.rst:951
 msgid ""
 "You should now see a page similar to the one displayed below, which "
 "permits you:"
 msgstr ""
 
-#: ../docs/index.rst:983
+#: ../docs/index.rst:946
 msgid "to update the project title;"
 msgstr ""
 
-#: ../docs/index.rst:984
+#: ../docs/index.rst:947
 msgid "to alter the survey linked to this project;"
 msgstr ""
 
-#: ../docs/index.rst:985
+#: ../docs/index.rst:948
 msgid ""
 "to change the centroids (latitude and longitude) of the blue dot shown on"
 " the world map;"
 msgstr ""
 
-#: ../docs/index.rst:986
+#: ../docs/index.rst:949
 msgid "to update the status of the project;"
 msgstr ""
 
-#: ../docs/index.rst:987
+#: ../docs/index.rst:950
 msgid "to configure the pop-up information displayed on the main page; and"
 msgstr ""
 
-#: ../docs/index.rst:988
+#: ../docs/index.rst:951
 msgid ""
 "to configure the project dashboard. Additional information on how to "
 "configure the project dashboard is available `here`__."
 msgstr ""
 
-#: ../docs/index.rst:992
+#: ../docs/index.rst:955
 msgid "Make sure you save your changes by clicking the |update-project| button."
 msgstr ""
 
-#: ../docs/index.rst:1000
+#: ../docs/index.rst:963
 msgid "Configure the Project Dashboard"
 msgstr ""
 
-#: ../docs/index.rst:1002
+#: ../docs/index.rst:965
 msgid ""
 "For each HeRAMS Project, an interactive dashboard can be configured "
 "providing summarizing key indicators and findings of a project. This "
@@ -1602,51 +1590,51 @@ msgid ""
 "available `here`__."
 msgstr ""
 
-#: ../docs/index.rst:1010
+#: ../docs/index.rst:973
 msgid "Modify an Existing Dashboard Element"
 msgstr ""
 
-#: ../docs/index.rst:1012
+#: ../docs/index.rst:975
 msgid ""
 "Users with the permissions to edit dashboards can modify charts and maps "
 "directly from within the dashboard."
 msgstr ""
 
-#: ../docs/index.rst:1017
+#: ../docs/index.rst:980
 msgid "Open the dashboard and navigate to the element you would like to change."
 msgstr ""
 
-#: ../docs/index.rst:1018
+#: ../docs/index.rst:981
 msgid ""
 "In the top right corner of the element you should see a |pencil| icon. "
 "Right click the icon to open the element's configuration page."
 msgstr ""
 
-#: ../docs/index.rst:1028
+#: ../docs/index.rst:991
 msgid "You should now be able:"
 msgstr ""
 
-#: ../docs/index.rst:1026
+#: ../docs/index.rst:989
 msgid "to change the variable displayed;"
 msgstr ""
 
-#: ../docs/index.rst:1027
+#: ../docs/index.rst:990
 msgid "to change the colors of a map or a chart; and"
 msgstr ""
 
-#: ../docs/index.rst:1028
+#: ../docs/index.rst:991
 msgid "to rename the element."
 msgstr ""
 
-#: ../docs/index.rst:1034
+#: ../docs/index.rst:997
 msgid "Save your changes by clicking the |update-element| button."
 msgstr ""
 
-#: ../docs/index.rst:1048
+#: ../docs/index.rst:1011
 msgid "Add a New Element to a Page"
 msgstr ""
 
-#: ../docs/index.rst:1050
+#: ../docs/index.rst:1013
 msgid ""
 "This section covers the steps required to add a new element to an "
 "existing dashboard page. If you would like to extend your dashboard by "
@@ -1654,82 +1642,82 @@ msgid ""
 " further information."
 msgstr ""
 
-#: ../docs/index.rst:1055 ../docs/index.rst:1127
+#: ../docs/index.rst:1018 ../docs/index.rst:1090
 msgid ""
 "Open the Project's property page (Follow steps 1 - 3 in the `Modify a "
 "Project`__ section."
 msgstr ""
 
-#: ../docs/index.rst:1063
+#: ../docs/index.rst:1026
 msgid ""
 "In the bottom half of the page you will see a list of all available "
 "dashboard pages. For each page, the table displays the:"
 msgstr ""
 
-#: ../docs/index.rst:1060
+#: ../docs/index.rst:1023
 msgid "page ID;"
 msgstr ""
 
-#: ../docs/index.rst:1061
+#: ../docs/index.rst:1024
 msgid "title;"
 msgstr ""
 
-#: ../docs/index.rst:1062
+#: ../docs/index.rst:1025
 msgid "parent page; and"
 msgstr ""
 
-#: ../docs/index.rst:1063
+#: ../docs/index.rst:1026
 msgid "sort ID."
 msgstr ""
 
-#: ../docs/index.rst:1070
+#: ../docs/index.rst:1033
 msgid ""
 "Open the page you would like to modify using the |pencil| icon next to "
 "the page's name."
 msgstr ""
 
-#: ../docs/index.rst:1077
+#: ../docs/index.rst:1040
 msgid ""
 "In the bottom half of the page, you should see the following three "
 "buttons |create-element|. Select the type of element you would like to "
 "add by clicking the corresponding button."
 msgstr ""
 
-#: ../docs/index.rst:1084 ../docs/index.rst:1154
+#: ../docs/index.rst:1047 ../docs/index.rst:1117
 msgid "You should now see a page similar to the one displayed below."
 msgstr ""
 
-#: ../docs/index.rst:1091
+#: ../docs/index.rst:1054
 msgid ""
 "The **Transpose** feature allows to switch between aggregating data at "
 "the health facility and the health service level. Set the feature to "
 "**No** to display data aggregated at the health facility level."
 msgstr ""
 
-#: ../docs/index.rst:1092
+#: ../docs/index.rst:1055
 msgid ""
 "Now use the **Code** dropdown list to select which field you would like "
 "to display on your element."
 msgstr ""
 
-#: ../docs/index.rst:1096
+#: ../docs/index.rst:1059
 msgid ""
 "Define the element position on the dashboard page by specifying the "
 "**Sort** index. Increment the index by 1 for each new item, starting with"
 " 0 for the first page."
 msgstr ""
 
-#: ../docs/index.rst:1097
+#: ../docs/index.rst:1060
 msgid ""
 "The **Width** and **Height** fields allow to create a custom-sized "
 "element."
 msgstr ""
 
-#: ../docs/index.rst:1101
+#: ../docs/index.rst:1064
 msgid "Optionally, the **Title** field allows you to overwrite the default title."
 msgstr ""
 
-#: ../docs/index.rst:1102
+#: ../docs/index.rst:1065
 msgid ""
 "For **Maps & Charts**, The bottom half of the page, displays the list of "
 "pre-defined answer options of the selected question. Click the color next"
@@ -1737,123 +1725,123 @@ msgid ""
 "custom colors."
 msgstr ""
 
-#: ../docs/index.rst:1103
+#: ../docs/index.rst:1066
 msgid ""
 "For **Maps**, you can further specify the size of the dots by "
 "increasing/decreasing the  **Marker Radius**."
 msgstr ""
 
-#: ../docs/index.rst:1110
+#: ../docs/index.rst:1073
 msgid ""
 "For **tables**, two additional fields will be displayed to specify the "
 "**Reason Code** and **Group Code**."
 msgstr ""
 
-#: ../docs/index.rst:1117
+#: ../docs/index.rst:1080
 msgid ""
 "Finally, click the |create-element| button to add the element to the "
 "dashboard page."
 msgstr ""
 
-#: ../docs/index.rst:1125
+#: ../docs/index.rst:1088
 msgid "Remove an element from the dashboard"
 msgstr ""
 
-#: ../docs/index.rst:1131
+#: ../docs/index.rst:1094
 msgid ""
 "In the bottom half of the page you will see a list of all available "
 "dashboard pages. Click the |pencil| icon to open the page you would like "
 "to modify."
 msgstr ""
 
-#: ../docs/index.rst:1138
+#: ../docs/index.rst:1101
 msgid ""
 "In the lower lalf of the page you will see a list of all elements "
 "displayed on the dashbaord page. Use the |delete| to permanently delete "
 "the element."
 msgstr ""
 
-#: ../docs/index.rst:1148
+#: ../docs/index.rst:1111
 msgid "Add a New Page to a Dashboard"
 msgstr ""
 
-#: ../docs/index.rst:1150
+#: ../docs/index.rst:1113
 msgid ""
 "To add a new page to a dashboard, open the Project's property page. "
 "(Follow steps 1 - 3 in the `Modify a Project`__ section."
 msgstr ""
 
-#: ../docs/index.rst:1161
+#: ../docs/index.rst:1124
 msgid "Enter the page name in the top field."
 msgstr ""
 
-#: ../docs/index.rst:1162
+#: ../docs/index.rst:1125
 msgid ""
 "For sub-pages, select the parent page from the **Parent Id** drop-down "
 "list. For all other pages select **No parent**."
 msgstr ""
 
-#: ../docs/index.rst:1163
+#: ../docs/index.rst:1126
 msgid ""
 "Define the page order by entering a **Sort** index. Increment the index "
 "by 1 for each new page, starting with **0** for the first page."
 msgstr ""
 
-#: ../docs/index.rst:1164
+#: ../docs/index.rst:1127
 msgid ""
 "Click the <img src=\"media/img/bt_create_page_blue.png\" height=\"20\" "
 "align=\"top\" alt='create page'></img> button to add the page to the "
 "dashboard."
 msgstr ""
 
-#: ../docs/index.rst:1165
+#: ../docs/index.rst:1128
 msgid ""
 "If you return to the previous page, you will see the page appearing in "
 "the list of available pages."
 msgstr ""
 
-#: ../docs/index.rst:1173
+#: ../docs/index.rst:1136
 msgid "Update a Dashboard Page"
 msgstr ""
 
-#: ../docs/index.rst:1175
+#: ../docs/index.rst:1138
 msgid ""
 "To alter an existing page, click the |pencil icon next to the page's "
 "name. This will open the page's setting page. You are now able to change "
 "the title and the order of the page. See `above`__ for further details."
 msgstr ""
 
-#: ../docs/index.rst:1184
+#: ../docs/index.rst:1147
 msgid ""
 "On the page that opens you should now be able to alter the page name, and"
 " display order."
 msgstr ""
 
-#: ../docs/index.rst:1185
+#: ../docs/index.rst:1148
 msgid "Save your changes by clicking the |update-page| button."
 msgstr ""
 
-#: ../docs/index.rst:1193
+#: ../docs/index.rst:1156
 msgid "Delete a Dashboard Page"
 msgstr ""
 
-#: ../docs/index.rst:1195
+#: ../docs/index.rst:1158
 msgid ""
-"To delete a dashboard page,  open the Project's property page. (Follow "
+"To delete a dashboard page, open the Project's property page. (Follow "
 "steps 1 - 3 in the `Modify a Project`__ section."
 msgstr ""
 
-#: ../docs/index.rst:1199
+#: ../docs/index.rst:1162
 msgid ""
 "In the list of available page, use the |delete| icon next to the page you"
 " would like to delete."
 msgstr ""
 
-#: ../docs/index.rst:1211
+#: ../docs/index.rst:1174
 msgid "FAQ"
 msgstr ""
 
-#: ../docs/index.rst:1212
+#: ../docs/index.rst:1175
 msgid ""
 "This section aims to help users troubleshoot frequently encountered "
 "issues. In case you encounter an issue that is not addressed here, please"
@@ -1861,13 +1849,13 @@ msgid ""
 "[herams@who.int](mailto:herams@who.int)."
 msgstr ""
 
-#: ../docs/index.rst:1215
+#: ../docs/index.rst:1178
 msgid ""
 "<details> <summary><b>I did not receive an email upon registering or "
 "resting my password</b> </summary>"
 msgstr ""
 
-#: ../docs/index.rst:1219
+#: ../docs/index.rst:1182
 msgid ""
 "If you did not receive an email upon registering or resetting your "
 "password, follow the steps below to troubleshoot the issue. 1. Refresh "
@@ -1878,14 +1866,14 @@ msgid ""
 "to [herams@who.int](mailto:herams@who.int). </details>"
 msgstr ""
 
-#: ../docs/index.rst:1226
+#: ../docs/index.rst:1189
 msgid ""
 "<details> <summary><b>How can I reset my password?</b> </summary> If you "
 "forgot your password, follow the instructions porvided [here](#rest-"
 "password) to reset your password."
 msgstr ""
 
-#: ../docs/index.rst:1231
+#: ../docs/index.rst:1194
 msgid ""
 "</details> <details> <summary><b>Data export is unreadable or contains "
 "weird characters</b></summary> If you open data downloaded from HeRAMS in"
@@ -1897,17 +1885,17 @@ msgid ""
 "in-excel)."
 msgstr ""
 
-#: ../docs/index.rst:1238 ../docs/index.rst:1247
+#: ../docs/index.rst:1201 ../docs/index.rst:1210
 msgid "</details>"
 msgstr ""
 
-#: ../docs/index.rst:1241
+#: ../docs/index.rst:1204
 msgid ""
 "<details> <summary><b>Why can't I access the project "
 "dashboard</b></summary>"
 msgstr ""
 
-#: ../docs/index.rst:1244
+#: ../docs/index.rst:1207
 msgid ""
 "For data protection reasons, access to the project dashbaords is only "
 "granted upon request. If you require access to a project, please contact "
@@ -1916,7 +1904,7 @@ msgid ""
 "access to the project."
 msgstr ""
 
-#: ../docs/index.rst:1249
+#: ../docs/index.rst:1212
 msgid ""
 "<details> <summary><b>Who has access to our dashboard or "
 "workspace</b></summary> In-country administrators and users responsible "
@@ -1926,7 +1914,7 @@ msgid ""
 "[workspaces](#workspaces). </details>"
 msgstr ""
 
-#: ../docs/index.rst:1256
+#: ../docs/index.rst:1219
 msgid ""
 "<details> <summary><b>Edits/updates to a health facility don't appear on "
 "the dashboard</b></summary> It is important to note that the data "
@@ -3533,3 +3521,86 @@ msgstr ""
 #~ "la carte dans la direction souhaitée."
 #~ " Cela bougera la zone de focus "
 #~ "de la carte."
+
+#~ msgid ""
+#~ "The **Basic Amenities** page presents a"
+#~ " series of doughnut  charts displaying "
+#~ "information of core areas such as:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Please not that access to the data"
+#~ " edit interface is limited to users"
+#~ " responsible to update the data."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you require your access permissions"
+#~ " to be changed, kindly contact your"
+#~ " country focal point or send an "
+#~ "email to `herams@who.int <mailto:herams@who.int?>`_"
+#~ " specifying your function and role as"
+#~ " well as a brief explanation why "
+#~ "you would like your access permissions"
+#~ " to altered."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "HeRAMS uses so called **Workspaces** to"
+#~ " manage access permission to the "
+#~ "underlying data."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A workspace might for example constitute"
+#~ " a specific organization or a "
+#~ "geographic region. For more information "
+#~ "on **Workspaces** click `here`__."
+#~ msgstr ""
+
+#~ msgid "To edit a record, click the |pencil| icon in the left most column."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To delete a record, click the <img"
+#~ " src=\"media/img/icon_delete_blue.png\" height=\"20\" "
+#~ "align=\"top\" alt='delete'></img> icon in the"
+#~ " first column."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "|share| **Share Workspace**: To grant a"
+#~ " user access to workspace, the "
+#~ "workspace must be shared with the "
+#~ "user. For more information on how "
+#~ "to add users to a workspace click"
+#~ " `here`__."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "|edit| **Edit Project Properties**: Permits"
+#~ " users with appropriate permission to "
+#~ "alter the project properties as well "
+#~ "as to configure the project dashboard."
+#~ " See `Modify a Project`__ for more"
+#~ " information on editing the project "
+#~ "properties. For addtional information on "
+#~ "how to configuring the dashboard, "
+#~ "consult the section `Configure the "
+#~ "Project Dashboard`__."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Click the |edit| icon in the "
+#~ "**Actions** column of your project. This"
+#~ " will open the project properties "
+#~ "page."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To delete a dashboard page,  open "
+#~ "the Project's property page. (Follow "
+#~ "steps 1 - 3 in the `Modify a"
+#~ " Project`__ section."
+#~ msgstr ""
+
