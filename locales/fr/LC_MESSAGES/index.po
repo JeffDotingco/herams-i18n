@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  HeRAMS\n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-18 14:44+0000\n"
-"PO-Revision-Date: 2019-09-18 14:41+0000\n"
+"PO-Revision-Date: 2019-09-18 16:39+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
+"herrams-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French <https://weblate.herams-staging.org/projects/herams"
-"/herrams-user-guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:7
@@ -57,6 +58,13 @@ msgid ""
 "are not covered in this guide, please contact the `HeRAMS Support Team "
 "<mailto:herams@who.int?>`_."
 msgstr ""
+"Veuillez noter que le guide ne traite que des problèmes rencontrés par la "
+"plate-forme HERAMS. Pour des informations générales sur l'approche HeRAMS et "
+"des conseils techniques, veuillez consulter la page Web officielle de l’OMS "
+"dédiée à `HeRAMS <https://www.who.int/hac/herams/en//>`_. Pour des questions "
+"supplémentaires qui ne sont pas abordées dans ce guide, veuillez contacter l’"
+"équipe de support HeRAMS en envoyant un courriel à  `herams@who.int "
+"<mailto:herams@who.int?>`_."
 
 #: ../docs/index.rst:20
 msgid "Getting started"
@@ -67,16 +75,14 @@ msgid "Creating a User Account"
 msgstr "Créer un compte d'utilisateur"
 
 #: ../docs/index.rst:25
-#, fuzzy
 msgid ""
 "This chapter provides step-by-step instructions on how to access the "
 "`HeRAMS platform <https://herams.org/user/login/>`_, create a user "
 "account and update your user profile."
 msgstr ""
 "Ce chapitre fournit des instructions étape par étape sur la manière "
-"d'accéder à la `plate-forme HeRAMS  <https://herams.org/user/login/>`_, "
-"de créer un compte utilisateur et de mettre à jour votre profil "
-"d'utilisateur."
+"d'accéder à la `plate-forme HeRAMS <https://herams.org/user/login/>`_, de "
+"créer un compte utilisateur et de mettre à jour votre profil d'utilisateur."
 
 #: ../docs/index.rst:27
 msgid ""
@@ -323,7 +329,6 @@ msgid "World map"
 msgstr "Vue globale"
 
 #: ../docs/index.rst:154
-#, fuzzy
 msgid ""
 "After logging in, you will see a world map with several blue dots. Each "
 "of these dots represents a HeRAMS project. You can also see the list of "
@@ -332,14 +337,13 @@ msgid ""
 "number of contributors and health facilities is shown in the bottom left "
 "corner."
 msgstr ""
-"Lorsque vous êtes connecté, vous devriez voir la page d'accueil, "
-"illustrant une carte mondiale avec des points bleus. Chaque point affiché"
-" sur la carte correspond à un projet de HeRAMS. Vous trouverez également "
-"une liste de tous les projets (pays) dans le volet de navigation situé à "
-"la gauche. \n"
-"En plus, un aperçu du nombre total de projets disponible sur HeRAMS, de "
-"contributeurs et des formations sanitaire (FOSA) sont présenté dans le "
-"coin inférieur gauche."
+"Lorsque vous êtes connecté, vous devriez voir la page d'accueil, illustrant "
+"une carte mondiale avec des points bleus. Chaque point affiché sur la carte "
+"correspond à un projet de HeRAMS. Vous trouverez également une liste de tous "
+"les projets (pays) dans le volet de navigation situé à la gauche. En plus, "
+"un aperçu du nombre total de projets disponible sur HeRAMS, de contributeurs "
+"et des formations sanitaire (FOSA) sont présenté dans le coin inférieur "
+"gauche."
 
 #: ../docs/index.rst:158
 msgid ""
@@ -375,7 +379,6 @@ msgstr ""
 "ouvrira le tableau de bord du projet."
 
 #: ../docs/index.rst:166
-#, fuzzy
 msgid ""
 "Access to the project dashboards is restricted to selected users. If you "
 "would like to be granted access to a project dashboard, please contact "
@@ -384,25 +387,24 @@ msgid ""
 " brief explanation why you would like to access the dashboard."
 msgstr ""
 "L'accès aux tableaux de bord du projet est limité aux utilisateurs "
-"sélectionnés. Si vous souhaitez avoir accès au tableau de bord d'un "
-"projet, veuillez contacter le point focal de votre pays ou envoyer un "
-"e-mail à `herams@who.int <mailto:herams@who.int?>`_, en précisant votre "
-"fonction et votre rôle, ainsi qu'une brève explication des raisons pour "
-"lesquelles vous aimeriez avoir accès au tableau de bord."
+"sélectionnés. Si vous souhaitez avoir accès au tableau de bord d'un projet, "
+"veuillez contacter le point focal de votre pays ou envoyer un e-mail à "
+"`herams@who.int <mailto:herams@who.int?>`_, en précisant votre fonction et "
+"votre rôle, ainsi qu'une brève explication des raisons pour lesquelles vous "
+"aimeriez avoir accès au tableau de bord."
 
 #: ../docs/index.rst:174
-#, fuzzy
 msgid "Project Dashboard"
 msgstr "Tableau de bord"
 
 #: ../docs/index.rst:176
-#, fuzzy
 msgid ""
 "Each project in HeRAMS has a custom, interactive dashboard providing an "
 "instant and in-depth analysis based on the available data."
 msgstr ""
-"Each project in HeRAMS has a custom, interactive dashboard providing an "
-"instant and in-depth analysis based on the available data."
+"Chaque projet dans HeRAMS a un tableau de bord interactif personnalisé "
+"fournissant une analyse instantanée et approfondie basée sur les données "
+"disponibles."
 
 #: ../docs/index.rst:178
 msgid ""
@@ -452,6 +454,11 @@ msgid ""
 "Nigeria dashboard. To return to the first page of the dashboard, click on"
 " **Nigeria** in the breadcrumb trail."
 msgstr ""
+"Pour revenir à  une page précédente, veuillez utiliser le volet de "
+"navigation situé à gauche ou la piste de navigation en haut de la page.\n"
+"Par exemple, l'image ci-dessous affiche une sous-page du tableau de bord de "
+"Nigeria. Pour retourner à la première page du tableau de bord, veuillez "
+"cliquer sur **Nigeria** dans la piste de navigation."
 
 #: ../docs/index.rst:205
 msgid "The animation below shows the dashboards in action."
@@ -462,7 +469,6 @@ msgid "Filtering data"
 msgstr "Filtrage des données"
 
 #: ../docs/index.rst:216
-#, fuzzy
 msgid ""
 "Data in the dashboard can be filtered. This allows you to zoom in on "
 "subsets that are of interest to you."
@@ -473,6 +479,8 @@ msgstr ""
 #: ../docs/index.rst:218
 msgid "Filtering is not persistent and only visible during your current session."
 msgstr ""
+"Le filtrage n'est pas persistant et n'est visible que pendant votre session "
+"en cours."
 
 #: ../docs/index.rst:220
 msgid "In the top right corner of the dashboard, click the |filter| button."
@@ -492,7 +500,6 @@ msgstr ""
 "ajouté tous les critères de filtrage souhaités."
 
 #: ../docs/index.rst:227
-#, fuzzy
 msgid ""
 "If you apply multiple search criteria, only results that contain all "
 "terms will be shown."
@@ -534,20 +541,17 @@ msgstr ""
 
 #: ../docs/index.rst:252
 msgid "Tooltips"
-msgstr ""
+msgstr "Info-bulles"
 
 #: ../docs/index.rst:254
-#, fuzzy
 msgid ""
 "If you hover with your mouse over a point on a map or a chart, a small "
 "pop-up message will appear, displaying additional details."
 msgstr ""
 "Si vous passez la souris sur un point d'une carte ou d'un graphique, un "
-"petit message contextuel apparaîtra, affichant des détails "
-"supplémentaires."
+"petit message contextuel apparaîtra, affichant des détails supplémentaires."
 
 #: ../docs/index.rst:257
-#, fuzzy
 msgid "Adjust the Map Zoom Level and Focus Area"
 msgstr "Modifier le niveau de zoom et la zone de mise au point d'une carte"
 
@@ -558,9 +562,14 @@ msgid ""
 "element. Right click (hold) and drag the map in the desired direction. "
 "This will move the map focus area."
 msgstr ""
+"Vous pouvez ajuster le niveau de zoom d'une carte en utilisant le bouton de "
+"défilement de votre souris. Pour modifier la zone de mise au point d'une "
+"carte, placez le pointeur de la souris dans l'élément de la carte. F "
+"Veuillez cliquer (sans relâcher) avec le bouton droit de votre souris et "
+"faites glisser la carte dans la direction souhaitée. Cela bougera la zone de "
+"focus de la carte."
 
 #: ../docs/index.rst:262
-#, fuzzy
 msgid "Remove a Category from Charts or Maps"
 msgstr "Enlever une catégorie d’un graphique ou d’une carte"
 
@@ -594,7 +603,6 @@ msgstr ""
 "dessus des autres points."
 
 #: ../docs/index.rst:276
-#, fuzzy
 msgid "Default dashboard pages"
 msgstr "Les pages standard du tableau de bord"
 
@@ -645,20 +653,18 @@ msgstr ""
 "disponibilité des services dans les FOSA évalué."
 
 #: ../docs/index.rst:290
-#, fuzzy
 msgid ""
 "Service availability is country-specific. Thus, direct comparisons form "
 "one country to another should be avoided."
 msgstr ""
-"La disponibilité des services est spécifique au pays. Pour cette raison, "
-"les comparaisons directes d'un pays à l'autre doivent être évitées."
+"La disponibilité des services est spécifique au pays. Pour cette raison, les "
+"comparaisons directes d'un pays à l'autre doivent être évitées."
 
 #: ../docs/index.rst:297
 msgid "Infrastructure"
 msgstr "Infrastructure"
 
 #: ../docs/index.rst:299
-#, fuzzy
 msgid "The **Infrastructure** page displays a descriptive analysis, including:"
 msgstr "La page **infrastructure** affiche une analyse descriptive, y compris:"
 
@@ -3527,4 +3533,3 @@ msgstr ""
 #~ "la carte dans la direction souhaitée."
 #~ " Cela bougera la zone de focus "
 #~ "de la carte."
-
