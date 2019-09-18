@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-17 15:04+0000\n"
-"PO-Revision-Date: 2019-09-18 09:37+0000\n"
+"PO-Revision-Date: 2019-09-18 12:22+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herrams-user-guide/fr/>\n"
@@ -56,13 +56,13 @@ msgid ""
 "covered in this guide, please contact the `HeRAMS Support Team "
 "<mailto:herams@who.int?>`_."
 msgstr ""
-"Veuillez noter que le guide ne traite que des problèmes rencontrés par la "
-"plate-forme HERAMS. Pour des informations générales sur l'approche HeRAMS et "
-"des conseils techniques, veuillez consulter la page Web officielle de l’OMS "
-"dédiée à `HeRAMS <https://www.who.int/hac/herams/en//>`_. Pour des questions "
-"supplémentaires qui ne sont pas abordées dans ce guide, veuillez contacter l’"
-"équipe de support HeRAMS en envoyant un courriel à   `herams@who.int "
-"<mailto:herams@who.int?>`_."
+"Veuillez noter que le guide ne traite que des questions liées à la `plate-"
+"forme HERAMS  <https://herams.org/user/login/>`_. Pour des informations "
+"générales sur l'approche HeRAMS et des conseils techniques, veuillez "
+"consulter la page Web officielle de l’OMS dédiée à `HeRAMS <https://www.who."
+"int/hac/herams/en//>`_. Pour des questions supplémentaires qui ne sont pas "
+"abordées dans ce guide, veuillez contacter l’équipe de support HeRAMS en "
+"envoyant un courriel à   `herams@who.int <mailto:herams@who.int?>`_."
 
 #: ../docs/index.rst:20
 msgid "Getting started"
@@ -78,8 +78,8 @@ msgid ""
 "HeRAMS platform, create a user account and update your user profile."
 msgstr ""
 "Ce chapitre fournit des instructions étape par étape sur la manière "
-"d'accéder à la plate-forme HeRAMS, de créer un compte utilisateur et de "
-"mettre à jour votre profil d'utilisateur."
+"d'accéder à la `plate-forme HeRAMS  <https://herams.org/user/login/>`_, de "
+"créer un compte utilisateur et de mettre à jour votre profil d'utilisateur."
 
 #: ../docs/index.rst:27
 msgid "To register as a new user, go to `herams.org <https://herams.org.>`_."
@@ -103,7 +103,7 @@ msgstr "Dans la page qui s’affiche, veuillez saisir vos données."
 
 #: ../docs/index.rst:40
 msgid "Submit your information by clicking the |sign-up| button."
-msgstr "4.\tEnregistrez votre compte en cliquant le bouton |sign-up|."
+msgstr "Enregistrez votre compte en cliquant le bouton |sign-up|."
 
 #: ../docs/index.rst:46
 msgid "A confirmation email will be sent to the email address you entered."
@@ -114,8 +114,8 @@ msgid ""
 "If you don't receive a confirmation email within a few minutes, check "
 "your spam folder."
 msgstr ""
-"Si vous n'avez pas reçu un e-mail de confirmation, vérifiez votre dossier"
-" de courrier indésirable."
+"Si vous n'avez pas reçu d'e-mail de confirmation au bout de quelques "
+"minutes,  veuillez vérifier votre dossier \"courrier indésirable\"."
 
 #: ../docs/index.rst:51
 msgid "Confirm your registration by clicking the link in your email."
@@ -141,7 +141,7 @@ msgid ""
 "Chrome."
 msgstr ""
 "Veuillez ouvrir le lien `https://herams.org <https://herams.org>` dans votre "
-"navigateur (FireFox ou Chrome)."
+"navigateur."
 
 #: ../docs/index.rst:65
 msgid "Enter your email address and password in the designated fields."
@@ -168,8 +168,8 @@ msgid ""
 "are down. To logout click |button| in the top right corner of the screen."
 msgstr ""
 "Si vous êtes sur un système partagé, veuillez-vous assurer que vous vous "
-"déconnectez lorsque vous aurez terminé. Pour vous déconnecter, cliquez sur "
-"le bouton |logoug| dans le coin en haut à droite de l'écran."
+"déconnectez lorsque vous aurez terminé. Pour vous déconnecter, veuillez "
+"cliquer sur le bouton |logout| dans le coin en haut à droite de l'écran."
 
 #: ../docs/index.rst:83
 msgid "Reset password"
@@ -188,8 +188,8 @@ msgid ""
 "Go to`https://herams.org <https://herams.org>`_  in either FireFox or "
 "Chrome"
 msgstr ""
-"Veuillez ouvrir la page `https://herams.org <https://herams.org>`_ dans les "
-"navaigateurs FireFox ou Chrome."
+"Veuillez ouvrir la page `https://herams.org <https://herams.org>`_ dans "
+"votre navigateur."
 
 #: ../docs/index.rst:88
 msgid ""
@@ -198,19 +198,20 @@ msgid ""
 "field."
 msgstr ""
 "Sur la page d'ouverture de session, veuillez cliquer sur le lien`reset "
-"password <https://herams.org/user/forgot/>`_ comme illustré ci-dessous."
+"password <https://herams.org/user/forgot/>`_ situé en dessous du champs "
+"**Password**."
 
 #: ../docs/index.rst:89
 msgid "Enter your email address in the top field."
-msgstr "Veuillez saisir votre adresse email dans le premier champ."
+msgstr "Veuillez saisir votre adresse e-mail dans le premier champ."
 
 #: ../docs/index.rst:90
 msgid ""
 "Below the email field, you will see an image similar to this one: "
 "|captcha|"
 msgstr ""
-"Au-dessous du champ email, vous devriez voir une image semblable à celle-ci: "
-"|captcha|"
+"Au-dessous du champ e-mail, vous devriez voir une image semblable à celle-ci:"
+" |captcha|"
 
 #: ../docs/index.rst:96
 msgid "Enter the the characters displayed into the field below the image."
@@ -219,7 +220,7 @@ msgstr ""
 
 #: ../docs/index.rst:97
 msgid "Click the |submit| button"
-msgstr "Veuillez cliquer sur le bouton |submit|"
+msgstr "Veuillez cliquer sur le bouton |submit|."
 
 #: ../docs/index.rst:102
 msgid ""
@@ -234,24 +235,28 @@ msgid ""
 "If you did not receive this email, please ceck your spam or bulk email "
 "folders."
 msgstr ""
+"Si vous n'avez pas reçu cet e-mail  au bout de quelques minutes, veuillez "
+"vérifier votre dossier \"courrier indésirable\"."
 
 #: ../docs/index.rst:106
 msgid "In the page that opens, enter your new password."
-msgstr ""
+msgstr "Dans la page qui s’affiche, veuillez saisir votre nouvel mot de passe."
 
 #: ../docs/index.rst:107
 msgid "Click the |submit| button to confirm your new password."
-msgstr ""
+msgstr "Confirmez votre nouvel mot de passe en cliquant le bouton |submit|."
 
 #: ../docs/index.rst:112
 msgid ""
 "To login into HeRAMS, return to the `sign in page "
 "<https://herams.org/user/login/>`_."
 msgstr ""
+"Pour se connecter à la plate-forme HeRAMS, veuillez retourner à la `page de "
+"connexion  <https://herams.org/user/login/>`_."
 
 #: ../docs/index.rst:120
 msgid "Update your User Profile"
-msgstr ""
+msgstr "Mise à jour du profil utilisateur"
 
 #: ../docs/index.rst:121
 msgid ""
@@ -259,12 +264,18 @@ msgid ""
 "do to customize your profile, change your email address or password "
 "without requiring additional support."
 msgstr ""
+"Chaque utilisateur a un profil associé à son compte. Cela vous permet de "
+"personnaliser votre profil, de changer votre adresse e-mail ou votre mot de "
+"passe sans avoir besoin d'assistance supplémentaire."
 
 #: ../docs/index.rst:123
 msgid ""
 "To update your user profile or account details, click your username shown"
 " on the top right corner of the page."
 msgstr ""
+"1.\tPour mettre à jour votre profil d'utilisateur ou les détails de votre "
+"compte, veuillez cliquer sur votre nom d'utilisateur dans le coin supérieur "
+"droit de la page."
 
 #: ../docs/index.rst:124
 msgid ""
@@ -273,36 +284,49 @@ msgid ""
 "your personal information such as your name, organization and contact "
 "details."
 msgstr ""
+"2.\tCeci ouvrira votre `profil d'utilisateur <https://herams.org/user/"
+"settings/profile>`_ et vous permettra de modifier vos informations "
+"personnelles telles que votre nom, votre organisation et vos coordonnées."
 
 #: ../docs/index.rst:126
 msgid ""
 "Please note that first name, last name and organization are mandatory "
 "fields."
 msgstr ""
+"Veuillez noter que le prénom, le nom et l'organisation sont des champs "
+"obligatoires."
 
 #: ../docs/index.rst:129
 msgid "Change Password"
-msgstr ""
+msgstr "Modifier le mot de passe"
 
 #: ../docs/index.rst:131
 msgid "To alter your password, open your user profile as explained `above`__."
 msgstr ""
+"Pour modifier votre mot de passe, veuillez ouvrir votre profil de "
+"l'utilisateur comme expliqué `ci-dessus`__."
 
 #: ../docs/index.rst:135
 msgid ""
 "Click the `account <https://herams.org/user/settings/account>`_ link to "
 "access your account information."
 msgstr ""
+"Veuillez cliquer sur le lien `Account <https://herams.org/user/settings/"
+"account>`_ pour accéder aux informations de votre compte."
 
 #: ../docs/index.rst:136
 msgid ""
 "In the page opening, you should be able to change your email address and "
 "enter a new password."
 msgstr ""
+"Dans la page qui s'affiche, vous pourrez maintenant enregistrer un nouveau "
+"mot de passe ou change votre adresse email."
 
 #: ../docs/index.rst:137
 msgid "Make sure to click the |submit| button to confirm your changes."
 msgstr ""
+"Assurez-vous de cliquer sur le bouton |submit| pour confirmer vos "
+"modifications."
 
 #: ../docs/index.rst:147
 msgid "Add a Profile Picture"
