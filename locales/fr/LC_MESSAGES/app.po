@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-11 11:33+0000\n"
+"POT-Creation-Date: 2019-09-19 08:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,19 +45,19 @@ msgid "> 75%"
 msgstr ""
 
 msgctxt "app"
-msgid "A bar chart, size 1x1"
+msgid "A bar chart"
 msgstr ""
 
 msgctxt "app"
-msgid "A chart, size 1x1"
+msgid "A chart"
 msgstr ""
 
 msgctxt "app"
-msgid "A dashboard element that shows a map, size 2x2"
+msgid "A dashboard element that shows a map"
 msgstr ""
 
 msgctxt "app"
-msgid "A table, size 2x1"
+msgid "A table"
 msgstr ""
 
 msgctxt "app"
@@ -815,4 +815,20 @@ msgstr ""
 msgctxt "user"
 msgid "{0}: Your account has successfully been activated!"
 msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "A bar chart, size 1x1"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "A chart, size 1x1"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "A dashboard element that shows a map, size 2x2"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "A table, size 2x1"
+#~ msgstr ""
 

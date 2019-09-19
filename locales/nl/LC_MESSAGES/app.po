@@ -1,18 +1,18 @@
+
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-09-11 11:33+0000\n"
+"POT-Creation-Date: 2019-09-19 08:30+0000\n"
 "PO-Revision-Date: 2019-09-18 09:51+0000\n"
 "Last-Translator: Sam <sam@mousa.nl>\n"
-"Language-Team: Dutch <https://weblate.herams-staging.org/projects/herams/"
-"herams-platform/nl/>\n"
 "Language: nl\n"
+"Language-Team: Dutch <https://weblate.herams-staging.org/projects/herams"
+"/herams-platform/nl/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 msgctxt "app"
@@ -48,19 +48,19 @@ msgid "> 75%"
 msgstr "> 75%"
 
 msgctxt "app"
-msgid "A bar chart, size 1x1"
+msgid "A bar chart"
 msgstr ""
 
 msgctxt "app"
-msgid "A chart, size 1x1"
+msgid "A chart"
 msgstr ""
 
 msgctxt "app"
-msgid "A dashboard element that shows a map, size 2x2"
+msgid "A dashboard element that shows a map"
 msgstr ""
 
 msgctxt "app"
-msgid "A table, size 2x1"
+msgid "A table"
 msgstr ""
 
 msgctxt "app"
@@ -818,3 +818,20 @@ msgstr ""
 msgctxt "user"
 msgid "{0}: Your account has successfully been activated!"
 msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "A bar chart, size 1x1"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "A chart, size 1x1"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "A dashboard element that shows a map, size 2x2"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "A table, size 2x1"
+#~ msgstr ""
+
