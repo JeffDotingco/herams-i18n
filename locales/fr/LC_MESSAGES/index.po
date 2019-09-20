@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  HeRAMS\n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-18 18:31+0000\n"
-"PO-Revision-Date: 2019-09-18 16:39+0000\n"
+"PO-Revision-Date: 2019-09-20 15:39+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
+"herrams-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French <https://weblate.herams-staging.org/projects/herams"
-"/herrams-user-guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:24
@@ -364,12 +365,11 @@ msgid ""
 "summary on the distribution of health facility types, their functionality"
 " and service availability."
 msgstr ""
-"2.\tUne fenêtre contextuelle apparaîtra, affichant un aperçu du projet. "
-"Dans la partie supérieure vous voyez le nom du pays, le nombre de FOSA "
-"(l'ensemble des formations sanitaires) évalué et le nombre total des "
-"contributeurs. La partie inférieure de la fenêtre affiche un bref résumé "
-"de la répartition des types de FOSA, de leurs fonctionnalités et de la "
-"disponibilité des services."
+"Une fenêtre contextuelle apparaîtra, affichant un aperçu du projet. Dans la "
+"partie supérieure vous voyez le nom du pays, le nombre de FOSA (l'ensemble "
+"des formations sanitaires) évalué et le nombre total des contributeurs. La "
+"partie inférieure de la fenêtre affiche un bref résumé de la répartition des "
+"types de FOSA, de leurs fonctionnalités et de la disponibilité des services."
 
 #: ../docs/index.rst:152
 msgid ""
@@ -399,13 +399,12 @@ msgid "Project Dashboard"
 msgstr "Tableau de bord"
 
 #: ../docs/index.rst:168
-#, fuzzy
 msgid ""
 "Each project in HeRAMS has a custom interactive dashboard providing an "
 "instant and in-depth analysis based on the available data."
 msgstr ""
-"Chaque projet dans HeRAMS a un tableau de bord interactif personnalisé "
-"fournissant une analyse instantanée et approfondie basée sur les données "
+"Chaque projet dans HeRAMS a un tableau de bord interactif personnalisé qui "
+"fournit une analyse instantanée et approfondie basée sur les données "
 "disponibles."
 
 #: ../docs/index.rst:170
@@ -415,9 +414,9 @@ msgid ""
 " the project summary by clicking the corresponding blue dot on the world "
 "map."
 msgstr ""
-"Pour afficher le tableau de bord, veuillez d'abord choisir votre projet "
-"soit par cliquer sur le nom du projet dans le volet de navigation situé à"
-" gauche, soit en cliquant sur le projet dans sur la carte mondiale."
+"Pour afficher le tableau de bord, veuillez d'abord choisir votre projet soit "
+"par cliquer sur le nom du projet dans le volet de navigation situé à gauche, "
+"soit en cliquant sur le projet dans la carte mondiale."
 
 #: ../docs/index.rst:171
 msgid ""
@@ -857,7 +856,7 @@ msgstr ""
 
 #: ../docs/index.rst:383
 msgid "Edit Data"
-msgstr ""
+msgstr "Modifier  les données"
 
 #: ../docs/index.rst:385
 msgid ""
@@ -867,6 +866,11 @@ msgid ""
 "exisiting health facilities as well as deleting erroneous records (e.g. "
 "duplicates)."
 msgstr ""
+"Le présent chapitre sert de guide  pour les gestionnaires de données "
+"chargées de mettre à jour les données de HeRAMS. Il  couvre tous les aspects "
+"liés a la mise à jour des données y compris l’enregistrement de nouvelles "
+"FOSAs, la mise à jour de l’état des FOSAs existants et la suppression des "
+"enregistrements erronés (par exemple, les doublons)."
 
 #: ../docs/index.rst:387
 msgid ""
@@ -877,6 +881,13 @@ msgid ""
 "role as well as a brief explanation why you would like your access "
 "permissions to altered."
 msgstr ""
+"L'accès à l'interface d'édition de données est limité aux utilisateurs "
+"responsables de la mise à jour des données. Si vous souhaitez que vos "
+"autorisations d'accès soient modifiées, veuillez contacter votre point focal "
+"national ou envoyer un email à `herams@who.int <mailto:herams@who.int?>`_ "
+"spécifiant votre fonction et votre rôle, ainsi qu'une brève explication des "
+"raisons pour lesquelles vous souhaitez que vos autorisations d'accès soient "
+"modifiées."
 
 #: ../docs/index.rst:389
 msgid ""
@@ -887,19 +898,24 @@ msgstr ""
 
 #: ../docs/index.rst:392
 msgid "Access the Data Update Interface"
-msgstr ""
+msgstr "Accéder l’interface de mise à jour de données"
 
 #: ../docs/index.rst:394
 msgid ""
 "Open the admin interface by clicking the |settings| button on the top "
 "right corner of the page (next to your username)."
 msgstr ""
+"Veuillez ouvrir l'interface d'administration en cliquant sur le bouton "
+"|settings| dans le coin supérieur droit de la page (à côté de votre nom "
+"d'utilisateur)."
 
 #: ../docs/index.rst:395
 msgid ""
 "From the navigation pane on the left, select `Projects "
 "<https://herams.org/project/index>`_."
 msgstr ""
+"Dans le volet de navigation gauche, veuillez cliquer sur `Projects "
+"<https://herams.org/project/index>`_."
 
 #: ../docs/index.rst:396
 msgid ""
@@ -907,6 +923,9 @@ msgid ""
 "the table displays the number **Workspaces**, **Contributors**, **Health "
 "facilities** and **Responses**."
 msgstr ""
+"Vous devriez maintenant voir un tableau de tous les projets disponibles dans "
+"HeRAMS. Pour chaque projet, le tableau montre le nombre des **espaces de "
+"travail**, le nombre des **FOSA** et le nombre des **contributeurs**."
 
 #: ../docs/index.rst:403
 msgid ""
@@ -3603,4 +3622,3 @@ msgstr ""
 #~ "steps 1 - 3 in the `Modify a"
 #~ " Project`__ section."
 #~ msgstr ""
-
