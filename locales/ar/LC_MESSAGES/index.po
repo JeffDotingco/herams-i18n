@@ -3,23 +3,27 @@
 # This file is distributed under the same license as the HeRAMS package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: HeRAMS \n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-24 12:55+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-10-01 16:40+0000\n"
+"Last-Translator: Fatma Giha <gihaf@who.int>\n"
+"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
+"herrams-user-guide/ar/>\n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
 msgid "Introduction"
-msgstr ""
+msgstr "المقدمة"
 
 #: ../docs/index.rst:10
 msgid ""
@@ -33,6 +37,14 @@ msgid ""
 "advanced topics related to user management and project administration, "
 "please consult the `Project Administration`__ section."
 msgstr ""
+"مرحبًا بك في  **دليل مستخدم  هيرامس**. تم تصميم دليل المستخدم هذا لمستخدمي `"
+"منصة هيرامس <https://herams.org/user/login/>`_.  إنه يوفر إرشادات خطوة بخطوة "
+"حول كيفية التسجيل والدخول للنظام بالإضافة إلى نظرة عامة مختصرة على المكونات "
+"الرئيسية لنظام هيرامس، بما في ذلك معلومات مفصلة حول كيفية استكشاف البيانات "
+"المتاحة باستخدام لوحات المعلومات التفاعلية. يمكن لمديري البيانات العثور على "
+"معلومات إضافية حول كيفية تحرير البيانات في قسم `تحرير البيانات`__. لمزيد من "
+"الموضوعات المتقدمة المتعلقة بإدارة المستخدم وإدارة المشروع ، يرجى الرجوع إلى "
+"قسم `Project Administration`__."
 
 #: ../docs/index.rst:16
 msgid ""
@@ -47,11 +59,11 @@ msgstr ""
 
 #: ../docs/index.rst:21
 msgid "Getting started"
-msgstr ""
+msgstr "ابدء"
 
 #: ../docs/index.rst:24
 msgid "Creating a User Account"
-msgstr ""
+msgstr "إنشاء حساب مستخدم"
 
 #: ../docs/index.rst:26
 msgid ""
@@ -68,7 +80,7 @@ msgstr ""
 
 #: ../docs/index.rst:30 ../docs/index.rst:62 ../docs/index.rst:77
 msgid "It is strongly recommended to either user FireFox or Chrome."
-msgstr ""
+msgstr "يُنصح بشدة استخدام متصفح الإنترنت  فايرفوكس (FireFox) أو كروم (Chrome)."
 
 #: ../docs/index.rst:32
 msgid ""
@@ -79,7 +91,7 @@ msgstr ""
 
 #: ../docs/index.rst:39
 msgid "On the page that opens, enter your details."
-msgstr ""
+msgstr "في الصفحة التي تفتح، أدخل التفاصيل الخاصة بك."
 
 #: ../docs/index.rst:40
 msgid "Submit your information by clicking the |sign-up| button."
@@ -88,6 +100,8 @@ msgstr ""
 #: ../docs/index.rst:41
 msgid "A confirmation email will be sent to the email address you entered."
 msgstr ""
+"سيتم إرسال رسالة تأكيد بالبريد الإلكتروني إلى عنوان البريد الإلكتروني الذي "
+"أدخلته."
 
 #: ../docs/index.rst:43
 msgid ""
@@ -2595,4 +2609,3 @@ msgstr ""
 
 #~ msgid "HeRAMS User Guide"
 #~ msgstr ""
-
