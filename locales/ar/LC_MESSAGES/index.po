@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-24 12:55+0000\n"
-"PO-Revision-Date: 2019-10-01 16:40+0000\n"
+"PO-Revision-Date: 2019-10-02 16:40+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
-"herrams-user-guide/ar/>\n"
+"herams-user-guide/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -56,6 +56,12 @@ msgid ""
 "are not covered in this guide, please contact the `HeRAMS Support Team "
 "<mailto:herams@who.int?>`_."
 msgstr ""
+"تجدر الإشارة إلى أن دليل المستخدم لا يتناول سوى القضايا المتعلقة 'بمنصة "
+"هيرامس <HeRAMS <https://herams.org/user/login/> `_. للحصول على معلومات عامة "
+"حول نهج هيرامس وللحصول على إرشادات فنية ، يرجى الرجوع إلى 'صفحة ويب WHO "
+"HeRAMS الرسمية <https://www.who.int/hac/herams/en//> `_. للأسئلة الإضافية "
+"التي لم يتم تغطيتها في هذا الدليل ، يرجى الاتصال 'بفريق دعم هيرامس <mailto: "
+"herams@who.int؟> `_."
 
 #: ../docs/index.rst:21
 msgid "Getting started"
@@ -71,12 +77,17 @@ msgid ""
 "`HeRAMS platform <https://herams.org/user/login/>`_, create a user "
 "account and update your user profile."
 msgstr ""
+"يوفر هذا الفصل إرشادات خطوة بخطوة حول كيفية الوصول إلى نظام <HeRAMS "
+"<https://herams.org/user/login/> `_ ، وإنشاء حساب مستخدم وتحديث ملف تعريف "
+"المستخدم الخاص بك."
 
 #: ../docs/index.rst:28
 msgid ""
 "To register as a new user, open the link `herams.org "
 "<https://herams.org>`_ in your browser."
 msgstr ""
+"للتسجيل كمستخدم جديد ، افتح الرابط `<herams.org <https://herams.org>` _ في "
+"متصفحك."
 
 #: ../docs/index.rst:30 ../docs/index.rst:62 ../docs/index.rst:77
 msgid "It is strongly recommended to either user FireFox or Chrome."
@@ -88,6 +99,8 @@ msgid ""
 "<https://herams.org/user/register/>`_ link located just above the |login|"
 " button."
 msgstr ""
+"في صفحة تسجيل الدخول ، انقر فوق رابط `الاشتراك <https://herams.org/user/"
+"register/>` _ الموجود أعلى زر | login |."
 
 #: ../docs/index.rst:39
 msgid "On the page that opens, enter your details."
@@ -95,7 +108,7 @@ msgstr "في الصفحة التي تفتح، أدخل التفاصيل الخا
 
 #: ../docs/index.rst:40
 msgid "Submit your information by clicking the |sign-up| button."
-msgstr ""
+msgstr "إرسال المعلومات الخاصة بك عن طريق النقر فوق | sign-up | زر."
 
 #: ../docs/index.rst:41
 msgid "A confirmation email will be sent to the email address you entered."
@@ -108,14 +121,16 @@ msgid ""
 "If you don't receive a confirmation email within a few minutes, check "
 "your spam folder."
 msgstr ""
+"إذا لم تتلق رسالة تأكيد عبر البريد الإلكتروني في غضون بضع دقائق ، فتحقق من "
+"ملف سبام ببريدك الإلكتروني."
 
 #: ../docs/index.rst:45
 msgid "Confirm your registration by clicking the link in your email."
-msgstr ""
+msgstr "أكد تسجيلك من خلال النقر على الرابط في بريدك الإلكتروني."
 
 #: ../docs/index.rst:52
 msgid "Logging in"
-msgstr ""
+msgstr "تسجيل الدخول"
 
 #: ../docs/index.rst:54
 msgid ""
@@ -123,22 +138,24 @@ msgid ""
 " able to login to the HeRAMS platform. To create a user account, follow "
 "the instruction `here`__."
 msgstr ""
+"سيتعين على المستخدمين الجدد الذين ليس لديهم حساب، التسجيل قبل التمكن من "
+"الدخول إلى نظام هيرامس. لإنشاء حساب مستخدم ، اتبع التعليمات `هنا`__."
 
 #: ../docs/index.rst:58 ../docs/index.rst:75
 msgid "Open the link `herams.org <https://herams.org>`_ in your browser."
-msgstr ""
+msgstr "افتح الرابط `<herams.org <https://herams.org>` _ في متصفحك بالإنترنت."
 
 #: ../docs/index.rst:59
 msgid "Enter your email address and password in the designated fields."
-msgstr ""
+msgstr "أدخل عنوان البريد الإلكتروني وكلمة المرور في الحقل المخصص لذلك."
 
 #: ../docs/index.rst:60
 msgid "Click the |login| button."
-msgstr ""
+msgstr "انقر فوق زر | login |."
 
 #: ../docs/index.rst:65
 msgid "Logging out"
-msgstr ""
+msgstr "تسجيل الخروج"
 
 #: ../docs/index.rst:67
 msgid ""
@@ -146,16 +163,21 @@ msgid ""
 "are down. To logout click the |logout| button in the top right corner of "
 "the screen."
 msgstr ""
+"عندما تكون على نظام مشترك ، فأنت تريد التأكد من تسجيل الخروج عند عند "
+"الانتهاء. لتسجيل الخروج ، انقر فوق زر |logout| في الزاوية اليمنى العليا من "
+"الشاشة."
 
 #: ../docs/index.rst:71
 msgid "Reset password"
-msgstr ""
+msgstr "إعادة تخصيص كلمة المرور"
 
 #: ../docs/index.rst:73
 msgid ""
 "In case you forgot your password, the instruction below will guide "
 "through the steps to reset your password."
 msgstr ""
+"في حالة نسيان كلمة المرور الخاصة بك ، فإن الإرشادات الموضحة أدناه ستقوم "
+"بتوجيهك خلال خطوات إعادة تخصيص كلمة المرور الخاصة بك."
 
 #: ../docs/index.rst:79
 msgid ""
@@ -163,24 +185,26 @@ msgid ""
 "<https://herams.org/user/forgot/>`_ link located below the password "
 "field."
 msgstr ""
+"في صفحة تسجيل الدخول ، انقر فوق رابط `إعادة تخصيص كلمة المرور "
+"<https://herams.org/user/forgot/> `_ الموجودة أسفل حقل كلمة المرور."
 
 #: ../docs/index.rst:80
 msgid "Enter your email address in the top field."
-msgstr ""
+msgstr "أدخل عنوان بريدك الإلكتروني في الحقل العلوي."
 
 #: ../docs/index.rst:81
 msgid ""
 "Below the email field, you will see an image similar to this one: "
 "|captcha|"
-msgstr ""
+msgstr "أسفل حقل البريد الإلكتروني ، سترى صورة مشابهة لهذه الصورة: | captcha |"
 
 #: ../docs/index.rst:82
 msgid "Enter the the characters displayed into the field below the image."
-msgstr ""
+msgstr "أدخل الحروف المعروضة في الحقل أسفل الصورة."
 
 #: ../docs/index.rst:83
 msgid "Click the |submit| button."
-msgstr ""
+msgstr "انقر فوق | submit | زر."
 
 #: ../docs/index.rst:84
 msgid ""
@@ -193,6 +217,8 @@ msgid ""
 "If you did not receive this email within a few minutes, check your spam "
 "folder."
 msgstr ""
+"إذا لم تستلم هذه الرسالة الإلكترونية في غضون دقائق قليلة ، فتحقق من ملف سبام "
+"ببريدك الالكتروني."
 
 #: ../docs/index.rst:88
 msgid "In the page that opens, enter your new password."
