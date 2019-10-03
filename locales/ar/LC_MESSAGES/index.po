@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-24 12:55+0000\n"
-"PO-Revision-Date: 2019-10-02 16:40+0000\n"
+"PO-Revision-Date: 2019-10-03 18:40+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -169,7 +169,7 @@ msgstr ""
 
 #: ../docs/index.rst:71
 msgid "Reset password"
-msgstr "إعادة تخصيص كلمة المرور"
+msgstr "إعادة تشغيل كلمة المرور"
 
 #: ../docs/index.rst:73
 msgid ""
@@ -177,7 +177,7 @@ msgid ""
 "through the steps to reset your password."
 msgstr ""
 "في حالة نسيان كلمة المرور الخاصة بك ، فإن الإرشادات الموضحة أدناه ستقوم "
-"بتوجيهك خلال خطوات إعادة تخصيص كلمة المرور الخاصة بك."
+"بتوجيهك خلال خطوات إعادة تشغيل كلمة المرور الخاصة بك."
 
 #: ../docs/index.rst:79
 msgid ""
@@ -185,7 +185,7 @@ msgid ""
 "<https://herams.org/user/forgot/>`_ link located below the password "
 "field."
 msgstr ""
-"في صفحة تسجيل الدخول ، انقر فوق رابط `إعادة تخصيص كلمة المرور "
+"في صفحة تسجيل الدخول ، انقر فوق رابط `إعادة تشغيل كلمة المرور "
 "<https://herams.org/user/forgot/> `_ الموجودة أسفل حقل كلمة المرور."
 
 #: ../docs/index.rst:80
@@ -204,13 +204,15 @@ msgstr "أدخل الحروف المعروضة في الحقل أسفل الصو
 
 #: ../docs/index.rst:83
 msgid "Click the |submit| button."
-msgstr "انقر فوق | submit | زر."
+msgstr "انقر فوق زر | submit | ."
 
 #: ../docs/index.rst:84
 msgid ""
 "You will receive an email with a password reset link. Click the link to "
 "open the password rest page."
 msgstr ""
+"سوف تتلقى رسالة بريد إلكتروني مع رابط إعادة تشغيل كلمة المرور. انقر على "
+"الرابط لفتح صفحة إعادة تشغيل كلمة المرور."
 
 #: ../docs/index.rst:86
 msgid ""
@@ -222,21 +224,23 @@ msgstr ""
 
 #: ../docs/index.rst:88
 msgid "In the page that opens, enter your new password."
-msgstr ""
+msgstr "في الصفحة التي تفتح ، أدخل كلمة المرور الجديدة."
 
 #: ../docs/index.rst:89
 msgid "Click the |submit| button to confirm your new password."
-msgstr ""
+msgstr "انقر فوق | submit | زر لتأكيد كلمة المرور الجديدة."
 
 #: ../docs/index.rst:90
 msgid ""
 "To login into HeRAMS, return to the `sign in page "
 "<https://herams.org/user/login/>`_."
 msgstr ""
+"لتسجيل الدخول إلى هيرامس، ارجع إلى صفحة تسجيل الدخول `<https://herams.org/"
+"user/login/> `_."
 
 #: ../docs/index.rst:98
 msgid "Update your User Profile"
-msgstr ""
+msgstr "تحديث ملف تعريف المستخدم الخاص بك"
 
 #: ../docs/index.rst:99
 msgid ""
@@ -244,12 +248,16 @@ msgid ""
 "do to customize your profile, change your email address or password "
 "without requiring additional support."
 msgstr ""
+"كل مستخدم لديه ملف تعريف مرتبط بحسابه. هذا يسمح لك بتخصيص ملف التعريف الخاص "
+"بك ، وتغيير عنوان البريد الإلكتروني أو كلمة المرور دون الحاجة إلى دعم إضافي."
 
 #: ../docs/index.rst:101
 msgid ""
 "To update your user profile or account details, click your username shown"
 " on the top right corner of the page."
 msgstr ""
+"لتحديث ملف تعريف المستخدم أو تفاصيل الحساب الخاصة بك ، انقر فوق اسم المستخدم "
+"الخاص بك الظاهر في الركن الأيمن العلوي من الصفحة."
 
 #: ../docs/index.rst:102
 msgid ""
@@ -258,38 +266,47 @@ msgid ""
 "your personal information such as your name, organization and contact "
 "details."
 msgstr ""
+"يفتح هذا ملف تعريف المستخدم الخاص بك `<https://herams.org/user/settings/"
+"profile> `_ ويسمح لك بتغيير معلوماتك الشخصية مثل اسمك ومؤسستك وتفاصيل "
+"الاتصال الخاصة بك."
 
 #: ../docs/index.rst:104
 msgid "First name, last name and organization are mandatory fields."
-msgstr ""
+msgstr "الاسم الأول والاسم الأخير والمنظمة هي حقول إلزامية ويجب تعبئتها."
 
 #: ../docs/index.rst:107
 msgid "Change Password"
-msgstr ""
+msgstr "تغيير كلمة المرور"
 
 #: ../docs/index.rst:109
 msgid "To alter your password, open your user profile as explained `above`__."
 msgstr ""
+"لتغيير كلمة المرور الخاصة بك ، افتح ملف تعريف المستخدم الخاص بك كما هو موضح "
+"`أعلاه`__."
 
 #: ../docs/index.rst:110
 msgid ""
 "Click the `Account <https://herams.org/user/settings/account>`_ link to "
 "access your account information."
 msgstr ""
+"انقر على رابط الحساب ` <https://herams.org/user/settings/account>`_  للوصول "
+"إلى معلومات حسابك."
 
 #: ../docs/index.rst:111
 msgid ""
 "In the page opening, you should be able to change your email address and "
 "enter a new password."
 msgstr ""
+"في الصفحة المفتوحة ، يجب أن تكون قادرًا على تغيير عنوان بريدك الإلكتروني "
+"وإدخال كلمة مرور جديدة."
 
 #: ../docs/index.rst:112
 msgid "Make sure to click the |submit| button to confirm your changes."
-msgstr ""
+msgstr "تأكد من النقر فوق زر |submit| لتأكيد التغييرات الخاصة بك."
 
 #: ../docs/index.rst:121
 msgid "World map"
-msgstr ""
+msgstr "خريطة العالم"
 
 #: ../docs/index.rst:123
 msgid ""
@@ -300,12 +317,19 @@ msgid ""
 "number of contributors and health facilities is shown in the bottom left "
 "corner."
 msgstr ""
+"بعد تسجيل الدخول ، سترى خريطة العالم مع العديد من النقاط الزرقاء. اي نقطة من "
+"هذه النقاط تمثل مشروع هيرامس بأحد البلدان. يمكنك أيضًا الاطلاع على قائمة "
+"بجميع المشاريع المتاحة في لوحة التنقل على اليسار. بالإضافة إلى ذلك ، يوجد "
+"ملخص موجز عن عدد المشروعات المتاحة في هيرامس ، ويظهر العدد الإجمالي "
+"للمساهمين بالبيانات والمرافق الصحية في الركن الأيسر السفلي."
 
 #: ../docs/index.rst:127
 msgid ""
 "To learn more about a project, either click the blue dot on the world map"
 " or select the project from the navigation pane on the left."
 msgstr ""
+"لمعرفة المزيد حول مشروع ما ، إما انقر فوق النقطة الزرقاء على خريطة العالم أو "
+"اختار المشروع من لوحة التنقل على اليسار."
 
 #: ../docs/index.rst:128
 msgid ""
@@ -316,12 +340,18 @@ msgid ""
 "summary on the distribution of health facility types, their functionality"
 " and service availability."
 msgstr ""
+"ستشاهد الآن نافذة منبثقة تعرض نظرة عامة على المشروع المحدد. في الجزء العلوي "
+"من النافذة المنبثقة، يمكنك رؤية اسم المشروع وعدد المنشآت الصحية التي تم "
+"تقييمها بالإضافة إلى عدد المساهمين. يعرض النصف السفلي من النافذة المنبثقة "
+"ملخصًا موجزًا عن توزيع أنواع المنشآت الصحية ووظائفها وتوفر الخدمة."
 
 #: ../docs/index.rst:129
 msgid ""
 "For further details, click the |details| button. This will open the "
 "project dashboard."
 msgstr ""
+"لمزيد من التفاصيل، انقر فوق زر |details| . سيؤدي هذا إلى فتح لوحة معلومات "
+"المشروع."
 
 #: ../docs/index.rst:131
 msgid ""
@@ -331,16 +361,23 @@ msgid ""
 "<mailto:herams@who.int?>`_ specifying your function and role as well as a"
 " brief explanation why you would like to access the dashboard."
 msgstr ""
+"يقتصر الوصول إلى لوحات معلومات المشروع على المستخدمين المحددين. إذا كنت ترغب "
+"في الحصول على حق الوصول إلى لوحة معلومات المشروع، فيرجى الاتصال بمسئول "
+"التنسيق في بلدك أو إرسال بريد إلكتروني إلى `?<herams@who.int <mailto: "
+"herams@who.in`_ مع تحديد وظيفتك ودورك بالنسبة لمشروع هيرامس وكذلك شرح موجز "
+"عن سبب رغبتك في الوصول إلى لوحة القيادة."
 
 #: ../docs/index.rst:139
 msgid "Project Dashboard"
-msgstr ""
+msgstr "لوحة معلومات المشروع"
 
 #: ../docs/index.rst:141
 msgid ""
 "Each project in HeRAMS has a custom interactive dashboard providing an "
 "instant and in-depth analysis based on the available data."
 msgstr ""
+"يحتوي كل مشروع في هيرامس على لوحة معلومات تفاعلية مخصصة توفر تحليلًا فوريًا "
+"ومتعمقًا استنادًا إلى البيانات المتاحة."
 
 #: ../docs/index.rst:143
 msgid ""
@@ -349,28 +386,37 @@ msgid ""
 " the project summary by clicking the corresponding blue dot on the world "
 "map."
 msgstr ""
+"لعرض لوحة معلومات المشروع ، افتح ملخص المشروع عن طريق اختيار مشروعك من لوحة "
+"التنقل على اليسار. بدلاً من ذلك ، يمكنك فتح ملخص المشروع عن طريق النقر فوق "
+"النقطة الزرقاء المقابلة على خريطة العالم."
 
 #: ../docs/index.rst:144
 msgid ""
 "In the pop-up window, click the |details| button. This will open the "
 "interactive dashboard."
 msgstr ""
+"في النافذة المنبثقة ، انقر فوق زر |details| . هذا سيفتح لوحة القيادة "
+"التفاعلية."
 
 #: ../docs/index.rst:145
 msgid ""
 "You should now see a page similar to the one shown below. In the "
 "navigation pane on the left you will find a list of all available pages."
 msgstr ""
+"يجب أن تشاهد الآن صفحة مشابهة للصفحة الموضحة أدناه. في لوحة التنقل الموجودة "
+"على اليسار، ستجد قائمة بجميع الصفحات المتاحة."
 
 #: ../docs/index.rst:151
 msgid "To open a page, click the page name in the navigation pane."
-msgstr ""
+msgstr "لفتح صفحة، انقر فوق اسم الصفحة في لوحة التنقل."
 
 #: ../docs/index.rst:153
 msgid ""
 "Some pages may contain a sub-page, indicated by a |forward| icon next to "
 "the page's name."
 msgstr ""
+"قد تحتوي بعض الصفحات على صفحة فرعية ، يشار إليها بأيقونة |forward| بجانب اسم "
+"الصفحة."
 
 #: ../docs/index.rst:155
 msgid ""
@@ -380,28 +426,36 @@ msgid ""
 "Nigeria dashboard. To return to the first page of the dashboard, click on"
 " **Nigeria** in the breadcrumb trail."
 msgstr ""
+"5. للرجوع إلى صفحة سابقة، يمكنك إما تحديد الصفحة في لوحة التنقل على اليسار "
+"أو استخدام مسار التنقل في أعلى لوحة القيادة. على سبيل المثال، تعرض الصورة "
+"أدناه صفحة فرعية من لوحة معلومات نيجيريا. للعودة إلى الصفحة الأولى من لوحة "
+"القيادة ، انقر فوق ** Nigeria ** في مسار التنقل."
 
 #: ../docs/index.rst:162
 msgid "The animation below shows the dashboards in action."
-msgstr ""
+msgstr "يظهر الرسم المتحرك أدناه لوحات المعلومات قيد التنفيذ."
 
 #: ../docs/index.rst:171
 msgid "Filtering data"
-msgstr ""
+msgstr "تصفية البيانات (الفلتر)"
 
 #: ../docs/index.rst:173
 msgid ""
 "Data in the dashboard can be filtered. This allows you to zoom in on "
 "subsets that are of interest to you."
 msgstr ""
+"يمكن تصفية البيانات الموجودة على لوحة القيادة.هذه الخاصية تتيح لك التدقيق "
+"مجموعات البيانات الفرعية التي تهمك."
 
 #: ../docs/index.rst:175
 msgid "Filtering is not persistent and only visible during your current session."
 msgstr ""
+"خاصية التصفية (الفلتر) ليست دائمة، وتكون مرئية فقط خلال الجلسة الحالية "
+"المخصصة لك."
 
 #: ../docs/index.rst:177
 msgid "In the top right corner of the dashboard, click the |filter| button."
-msgstr ""
+msgstr "في الزاوية العلوية اليمنى من لوحة المعلومات ، انقر فوق زر |filter| ."
 
 #: ../docs/index.rst:178
 msgid ""
@@ -409,42 +463,48 @@ msgid ""
 "to select your filter criteria. Repeat this process until you have added "
 "all the desired filter criteria."
 msgstr ""
+"ستشاهد الآن صفحة إعداد التصفية. استخدم القائمة المنسدلة لتحديد معايير "
+"التصفية الخاصة بك. كرر هذه العملية حتى تضيف جميع معايير التصفية المطلوبة."
 
 #: ../docs/index.rst:180
 msgid ""
 "If you apply multiple search criteria, only results that contain all "
 "terms will be shown."
 msgstr ""
+"إذا قمت بتطبيق معايير بحث متعددة ، فسيتم عرض النتائج التي تحتوي على جميع "
+"المصطلحات فقط."
 
 #: ../docs/index.rst:182
 msgid ""
 "You can limit the number of fields displayed using the search field on "
 "top of the page."
-msgstr ""
+msgstr "يمكنك تحديد عدد الحقول المعروضة باستخدام حقل البحث في أعلى الصفحة."
 
 #: ../docs/index.rst:184
 msgid "Click the |applyfilter| button to activate your filter."
-msgstr ""
+msgstr "انقر فوق زر | Applyfilter | لتفعيل الفلتر الخاص بك."
 
 #: ../docs/index.rst:185
 msgid ""
 "To remove the filters, return to the **Filter** pages and click the "
 "|clearfilter| button."
 msgstr ""
+"لإزالة الفلتر، ارجع إلى صفحة ** Filter ** وانقر فوق زر | clearfilter | ."
 
 #: ../docs/index.rst:193
 msgid "Customizing the dashboard"
-msgstr ""
+msgstr "تعديل لوحة القيادة"
 
 #: ../docs/index.rst:195
 msgid ""
 "This section provides a few tips and tricks on how to customize the "
 "dashboard and view additional details."
 msgstr ""
+"يقدم هذا القسم بعض النصائح  حول كيفية تعديل لوحة القيادة وعرض تفاصيل إضافية."
 
 #: ../docs/index.rst:198
 msgid "Tooltips"
-msgstr ""
+msgstr "إشارات"
 
 #: ../docs/index.rst:200
 msgid ""
