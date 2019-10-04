@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-24 12:55+0000\n"
-"PO-Revision-Date: 2019-10-03 18:40+0000\n"
+"PO-Revision-Date: 2019-10-04 16:40+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -500,7 +500,7 @@ msgid ""
 "This section provides a few tips and tricks on how to customize the "
 "dashboard and view additional details."
 msgstr ""
-"يقدم هذا القسم بعض النصائح  حول كيفية تعديل لوحة القيادة وعرض تفاصيل إضافية."
+"يقدم هذا القسم بعض النصائح حول كيفية تعديل لوحة القيادة وعرض تفاصيل إضافية."
 
 #: ../docs/index.rst:198
 msgid "Tooltips"
@@ -511,10 +511,12 @@ msgid ""
 "If you hover with your mouse over a point on a map or a chart, a small "
 "pop-up message will appear, displaying additional details."
 msgstr ""
+"إذا مررت بالماوس فوق نقطة على خريطة أو مخطط، فستظهر رسالة منبثقة صغيرة تعرض "
+"تفاصيل إضافية."
 
 #: ../docs/index.rst:203
 msgid "Adjust the Map Zoom Level and Focus Area"
-msgstr ""
+msgstr "اضبط مستوى تكبير الخريطة ومنطقة التركيز"
 
 #: ../docs/index.rst:205
 msgid ""
@@ -523,20 +525,26 @@ msgid ""
 "element. Right click (hold) and drag the map in the desired direction. "
 "This will move the map focus area."
 msgstr ""
+"يمكنك ضبط مستوى التكبير / التصغير للخريطة باستخدام زر التمرير الموجود "
+"بالماوس. لتغيير منطقة التركيز بالخريطة ، ضع مؤشر الماوس في عنصر الخريطة. "
+"انقر بزر الماوس الأيمن (اضغط) واسحب الخريطة في الاتجاه المطلوب. سيؤدي هذا "
+"إلى نقل منطقة التركيز على الخريطة."
 
 #: ../docs/index.rst:208
 msgid "Remove a Category from Charts or Maps"
-msgstr ""
+msgstr "أزل فئة من المخططات أو الخرائط"
 
 #: ../docs/index.rst:210
 msgid ""
 "By clicking the icons in the legend, you can remove a category from a "
 "chart or map. To add it again, simply click the circle again."
 msgstr ""
+"بالنقر فوق الرموز الموجودة في وسيلة الإيضاح ، يمكنك إزالة فئة من مخطط أو "
+"خريطة. لإضافته مرة أخرى ، ببساطة انقر فوق الدائرة مرة أخرى."
 
 #: ../docs/index.rst:213
 msgid "Reorder map layers"
-msgstr ""
+msgstr "إعادة ترتيب طبقات الخريطة"
 
 #: ../docs/index.rst:215
 msgid ""
@@ -547,16 +555,23 @@ msgid ""
 "(click the now empty circle), the category will be added on top of the "
 "other points."
 msgstr ""
+"اعتمادًا على مستوى التكبير المطبق على الخريطة ، قد يحدث أن تتواجد عدة نقاط "
+"فوق بعضها البعض، حيث تخفي بعض المرافق. لإحضار فئة معينة إلى المقدمة ، قم "
+"بإلغاء تحديد الفئة في وسيلة الإيضاح. سيؤدي هذا إلى إزالة الفئة من الخريطة. "
+"إذا قمت بإضافة الفئة مرة أخرى (انقر فوق الدائرة الفارغة الآن) ، فستتم إضافة "
+"الفئة أعلى النقاط الأخرى."
 
 #: ../docs/index.rst:222
 msgid "Default dashboard pages"
-msgstr ""
+msgstr "صفحات لوحة القيادة الافتراضية"
 
 #: ../docs/index.rst:224
 msgid ""
 "The below section provides an overview of the standard pages available in"
 " a dashboard. Each page refers to a HeRAMS standard information pillar."
 msgstr ""
+"يقدم القسم أدناه نظرة عامة على الصفحات القياسية المتوفرة في لوحة القيادة. "
+"تشير كل صفحة إلى عمود معلومات هيرامس القياسي."
 
 #: ../docs/index.rst:226
 msgid ""
@@ -564,6 +579,8 @@ msgid ""
 "for individual projects. Your dashboard might therefore be substantially "
 "different from the example pages displayed below."
 msgstr ""
+"يتم تخصيص الطلب ومحتوى لوحات المعلومات بشكل فردي بناءً على حاجة كل مشروع. "
+"لذلك، قد تكون لوحة المعلومات مختلفة تمامًا عن أمثلة الصفحات المعروضة أدناه."
 
 #: ../docs/index.rst:229
 msgid "Overview"
