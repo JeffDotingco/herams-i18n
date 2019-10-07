@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-24 12:55+0000\n"
-"PO-Revision-Date: 2019-10-04 16:40+0000\n"
+"PO-Revision-Date: 2019-10-07 10:40+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -584,11 +584,11 @@ msgstr ""
 
 #: ../docs/index.rst:229
 msgid "Overview"
-msgstr ""
+msgstr "نظرة عامة"
 
 #: ../docs/index.rst:231
 msgid "The **Overview** page provides a summary, in form of:"
-msgstr ""
+msgstr "تقدم صفحة ** نظرة عامة ** ملخصًا في شكل:"
 
 #: ../docs/index.rst:233
 msgid ""
@@ -596,6 +596,8 @@ msgid ""
 "of care (i.e. primary, secondary and tertiary health care facilities); "
 "and"
 msgstr ""
+"خريطة لتحديد توزيع وعدد المرافق الصحية حسب مستوى الرعاية (أي مرافق الرعاية "
+"الصحية الأولية والثانوية والثالثية) ؛ و"
 
 #: ../docs/index.rst:234
 msgid ""
@@ -603,24 +605,28 @@ msgid ""
 " functionality status, accessibility and service availability in the "
 "assessed health facility."
 msgstr ""
+"مخططات دونات لتلخيص مؤشرات مختلفة ، مثل مستوى الضرر ، وحالة الوظيفة ، وسهولة "
+"الوصول وتوافر الخدمة في المنشأة الصحية التي تم تقييمها."
 
 #: ../docs/index.rst:236
 msgid ""
 "Service availability is country-specific. Thus, direct comparisons form "
 "one country to another should be avoided."
 msgstr ""
+"توفر الخدمة خاص بكل بلد. وبالتالي ، ينبغي تجنب المقارنات المباشرة من بلد إلى "
+"آخر."
 
 #: ../docs/index.rst:243
 msgid "Infrastructure"
-msgstr ""
+msgstr "البنية التحتية"
 
 #: ../docs/index.rst:245
 msgid "The **Infrastructure** page displays a descriptive analysis, including:"
-msgstr ""
+msgstr "تعرض صفحة ** البنية التحتية ** تحليلًا وصفيًا ، يتضمن:"
 
 #: ../docs/index.rst:247
 msgid "a map to spot the distribution and number of health facilities by type;"
-msgstr ""
+msgstr "خريطة لتحديد توزيع وعدد المنشآت الصحية حسب النوع؛"
 
 #: ../docs/index.rst:248
 msgid ""
@@ -628,14 +634,16 @@ msgid ""
 "(**MoSD**\\s) by type as well as the modality of the building structure "
 "(permanent vs. temporary); and"
 msgstr ""
+"مخططات دونات لتوضيح ** Mo ** \\ des of ** S ** \\ service ** التسليم (** "
+"MoDE ** \\ s) حسب النوع وكذلك طريقة هيكل المبنى (دائم مقابل مؤقت) ؛ و"
 
 #: ../docs/index.rst:249
 msgid "a table to illustrate reported accessibility barriers."
-msgstr ""
+msgstr "جدول لتوضيح الحواجز المبلغ عنها لإمكانية الوصول ."
 
 #: ../docs/index.rst:256
 msgid "Condition"
-msgstr ""
+msgstr "حالة المبنى"
 
 #: ../docs/index.rst:258
 msgid ""
@@ -643,28 +651,35 @@ msgid ""
 "buildings following a standard classification and scale (Not Damaged to "
 "Fully Damaged). Information is visualized as:"
 msgstr ""
+"تعرض صفحة **حالة المبنى** مستوى الأضرار التي تم الإبلاغ عنها في مباني وزارة "
+"النقل بعد التصنيف والمقياس القياسي (غير تالف إلى تلف تام). يتم تصور "
+"المعلومات على النحو التالي:"
 
 #: ../docs/index.rst:260
 msgid ""
 "a map to spot the distribution and number of health facilities according "
 "to the level of building damage (i.e. condition);"
 msgstr ""
+"خريطة لتحديد توزيع وعدد المرافق الصحية وفقًا لمستوى الأضرار التي لحقت "
+"بالمبنى (أي حالة المبنى)؛"
 
 #: ../docs/index.rst:261
 msgid ""
 "donout charts summarizing the reported level of building damage by level "
 "of severity as well as the distribution of MoDS by type; and"
 msgstr ""
+"مخططات دونات التي تلخص مستوى أضرار المباني المبلغ عنها حسب مستوى الشدة وكذلك "
+"توزيع وسائل تقديم الخدمة حسب النوع ؛ و"
 
 #: ../docs/index.rst:262
 msgid ""
 "a table to provide the name of the prioritized localities in terms of "
 "damage and their main causes."
-msgstr ""
+msgstr "جدول لتقديم اسم المواقع ذات الأولوية من حيث الضرر وأسبابها الرئيسية."
 
 #: ../docs/index.rst:269
 msgid "Functionality"
-msgstr ""
+msgstr "حالة العمل"
 
 #: ../docs/index.rst:271
 msgid ""
@@ -672,18 +687,21 @@ msgid ""
 "MoSDs following a standard classification and scale (Fully Functioning to"
 " Not Functioning) represented as:"
 msgstr ""
+"تعرض صفحة ** حالة العمل ** مستوى حالة عمل المرفق الصحي بعد تصنيف ومقياس "
+"قياسي (يعمل بشكل كامل الى لا يعمل) ممثلاً على النحو التالي:"
 
 #: ../docs/index.rst:273
 msgid ""
 "a map to spot the distribution and number of MoSDs according to the "
 "functionality status;"
-msgstr ""
+msgstr "خريطة لتحديد توزيع وعدد وسائل تقديم الخدمة وفقا لحالة العمل؛"
 
 #: ../docs/index.rst:274
 msgid ""
 "donout charts to summarize the level of functionality as well as main "
 "causes of non-functionality; and"
 msgstr ""
+"مخططات دونات لتلخيص مستوى حالة العمل وكذلك الأسباب الرئيسية لعدم العمل؛ و"
 
 #: ../docs/index.rst:275
 msgid ""
