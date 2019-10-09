@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-24 12:55+0000\n"
+"POT-Creation-Date: 2019-10-09 07:49+0000\n"
 "PO-Revision-Date: 2019-09-17 14:00+0000\n"
 "Last-Translator: Sam <sam@mousa.nl>\n"
 "Language: nl\n"
@@ -129,10 +129,7 @@ msgid "Logging out"
 msgstr ""
 
 #: ../docs/index.rst:67
-msgid ""
-"When on a shared system you want to make sure that you log out when you "
-"are down. To logout click the |logout| button in the top right corner of "
-"the screen."
+msgid "To logout click the |logout| button in the top right corner of the screen."
 msgstr ""
 
 #: ../docs/index.rst:71
@@ -141,7 +138,7 @@ msgstr ""
 
 #: ../docs/index.rst:73
 msgid ""
-"In case you forgot your password, the instruction below will guide "
+"In case you forgot your password, the instruction below will guide you "
 "through the steps to reset your password."
 msgstr ""
 
@@ -173,7 +170,7 @@ msgstr ""
 #: ../docs/index.rst:84
 msgid ""
 "You will receive an email with a password reset link. Click the link to "
-"open the password rest page."
+"open the password reset page."
 msgstr ""
 
 #: ../docs/index.rst:86
@@ -183,7 +180,7 @@ msgid ""
 msgstr ""
 
 #: ../docs/index.rst:88
-msgid "In the page that opens, enter your new password."
+msgid "On the page that opens, enter your new password."
 msgstr ""
 
 #: ../docs/index.rst:89
@@ -235,13 +232,13 @@ msgstr ""
 
 #: ../docs/index.rst:110
 msgid ""
-"Click the `Account <https://herams.org/user/settings/account>`_ link to "
-"access your account information."
+"Click on the `Account <https://herams.org/user/settings/account>`_ link "
+"to access your account information."
 msgstr ""
 
 #: ../docs/index.rst:111
 msgid ""
-"In the page opening, you should be able to change your email address and "
+"On the page opening, you should be able to change your email address and "
 "enter a new password."
 msgstr ""
 
@@ -307,7 +304,7 @@ msgstr ""
 #: ../docs/index.rst:143
 msgid ""
 "To view a project dashboard, open the project summary by selecting your "
-"project form the navigation pane on the left. Alternatively, you can open"
+"project from the navigation pane on the left. Alternatively, you can open"
 " the project summary by clicking the corresponding blue dot on the world "
 "map."
 msgstr ""
@@ -353,8 +350,8 @@ msgstr ""
 
 #: ../docs/index.rst:173
 msgid ""
-"Data in the dashboard can be filtered. This allows you to zoom in on "
-"subsets that are of interest to you."
+"Data on the dashboard can be filtered. This allows you to scrutinise the "
+"data subsets that are of interest to you."
 msgstr ""
 
 #: ../docs/index.rst:175
@@ -367,9 +364,9 @@ msgstr ""
 
 #: ../docs/index.rst:178
 msgid ""
-"You should now see the filter configuration page. Use the drop-down list "
-"to select your filter criteria. Repeat this process until you have added "
-"all the desired filter criteria."
+"You should now see the filtering setting page. Use the drop-down list to "
+"select your filter criteria. Repeat this process until you have added all"
+" the desired filter criteria."
 msgstr ""
 
 #: ../docs/index.rst:180
@@ -462,9 +459,9 @@ msgstr ""
 
 #: ../docs/index.rst:226
 msgid ""
-"The order and the content of dashboards is customized based on the needs "
-"for individual projects. Your dashboard might therefore be substantially "
-"different from the example pages displayed below."
+"The order and the content of dashboards are customized individually based"
+" on each project's need. Your dashboard might, therefore, be "
+"substantially different from the example pages displayed below."
 msgstr ""
 
 #: ../docs/index.rst:229
@@ -491,7 +488,7 @@ msgstr ""
 
 #: ../docs/index.rst:236
 msgid ""
-"Service availability is country-specific. Thus, direct comparisons form "
+"Service availability is country-specific. Thus, direct comparisons from "
 "one country to another should be avoided."
 msgstr ""
 
@@ -524,7 +521,7 @@ msgstr ""
 
 #: ../docs/index.rst:258
 msgid ""
-"The **Condition** page displays the level of reported damage to MoDS "
+"The **Condition** page displays the level of reported damage to MoSD "
 "buildings following a standard classification and scale (Not Damaged to "
 "Fully Damaged). Information is visualized as:"
 msgstr ""
@@ -538,7 +535,7 @@ msgstr ""
 #: ../docs/index.rst:261
 msgid ""
 "donout charts summarizing the reported level of building damage by level "
-"of severity as well as the distribution of MoDS by type; and"
+"of severity as well as the distribution of MoSD by type; and"
 msgstr ""
 
 #: ../docs/index.rst:262
@@ -1237,7 +1234,7 @@ msgstr ""
 #: ../docs/index.rst:612
 msgid ""
 "|workspace| **Workspaces**: This opens the list of all available "
-"workspace belonging to the project. See `here`__ form information on "
+"workspace belonging to the project. See `here`__ for more information on "
 "workspaces."
 msgstr ""
 
@@ -4040,5 +4037,103 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "HeRAMS User Guide"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "When on a shared system you want"
+#~ " to make sure that you log out"
+#~ " when you are down. To logout "
+#~ "click the |logout| button in the "
+#~ "top right corner of the screen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In case you forgot your password, "
+#~ "the instruction below will guide through"
+#~ " the steps to reset your password."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You will receive an email with a"
+#~ " password reset link. Click the link"
+#~ " to open the password rest page."
+#~ msgstr ""
+
+#~ msgid "In the page that opens, enter your new password."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Click the `Account "
+#~ "<https://herams.org/user/settings/account>`_ link to "
+#~ "access your account information."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the page opening, you should be"
+#~ " able to change your email address"
+#~ " and enter a new password."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To view a project dashboard, open "
+#~ "the project summary by selecting your"
+#~ " project form the navigation pane on"
+#~ " the left. Alternatively, you can "
+#~ "open the project summary by clicking "
+#~ "the corresponding blue dot on the "
+#~ "world map."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Data in the dashboard can be "
+#~ "filtered. This allows you to zoom "
+#~ "in on subsets that are of interest"
+#~ " to you."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You should now see the filter "
+#~ "configuration page. Use the drop-down"
+#~ " list to select your filter criteria."
+#~ " Repeat this process until you have"
+#~ " added all the desired filter "
+#~ "criteria."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The order and the content of "
+#~ "dashboards is customized based on the"
+#~ " needs for individual projects. Your "
+#~ "dashboard might therefore be substantially "
+#~ "different from the example pages "
+#~ "displayed below."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Service availability is country-specific. "
+#~ "Thus, direct comparisons form one "
+#~ "country to another should be avoided."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The **Condition** page displays the "
+#~ "level of reported damage to MoDS "
+#~ "buildings following a standard classification"
+#~ " and scale (Not Damaged to Fully "
+#~ "Damaged). Information is visualized as:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "donout charts summarizing the reported "
+#~ "level of building damage by level "
+#~ "of severity as well as the "
+#~ "distribution of MoDS by type; and"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "|workspace| **Workspaces**: This opens the "
+#~ "list of all available workspace "
+#~ "belonging to the project. See `here`__"
+#~ " form information on workspaces."
 #~ msgstr ""
 
