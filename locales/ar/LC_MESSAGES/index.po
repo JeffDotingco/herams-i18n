@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-09 07:49+0000\n"
-"PO-Revision-Date: 2019-10-14 10:40+0000\n"
+"PO-Revision-Date: 2019-10-14 23:40+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -857,10 +857,12 @@ msgid ""
 "a table displays the list of priority areas per service unavailability "
 "and the main reported underlying cause."
 msgstr ""
+"يعرض الجدول قائمة بأسماء المناطق ذات الاولوية التي لا تتوفر بها الخدمة "
+"والاسباب الرئيسية المبلغ عنها."
 
 #: ../docs/index.rst:340
 msgid "Edit Data"
-msgstr ""
+msgstr "تحرير البيانات"
 
 #: ../docs/index.rst:342
 msgid ""
@@ -870,6 +872,10 @@ msgid ""
 "exisiting health facilities as well as deleting erroneous records (e.g. "
 "duplicates)."
 msgstr ""
+"هذا الفصل مُعد بشكل أساسي لمديري البيانات المسؤولين عن تحديث بيانات هيرامس. "
+"ويغطي جميع الجوانب المتعلقة بتحرير البيانات ، بما في ذلك تسجيل المرافق "
+"الصحية الجديدة ، وتحديث حالة المرافق الصحية الموجودة ، وكذلك حذف السجلات "
+"الخاطئة (مثل التكرارات)."
 
 #: ../docs/index.rst:344
 msgid ""
@@ -880,22 +886,31 @@ msgid ""
 "role as well as a brief explanation on why you would like your access "
 "permissions to altered."
 msgstr ""
+"يقتصر الوصول إلى واجهة تحرير البيانات على المستخدمين المسؤولين عن تحديث "
+"البيانات. إذا كنت تحتاج إلى تغيير أذونات الوصول الخاصة بك ، فيرجى الاتصال "
+"بمركز التنسيق في بلدك أو إرسال بريد إلكتروني إلى `<?herams@who.int <mailto: "
+"herams@who.int`_ لتحديد وظيفتك ودورك وكذلك شرح موجز حول سبب رغبتك في تغيير "
+"أذونات الوصول الخاصة بك."
 
 #: ../docs/index.rst:347
 msgid "Access the Data Update Interface"
-msgstr ""
+msgstr "الوصول إلى واجهة تحديث البيانات"
 
 #: ../docs/index.rst:349
 msgid ""
 "Open the admin interface by clicking the |settings| button on the top "
 "right corner of the page (next to your username)."
 msgstr ""
+"للدخول الى واجهة المسؤول انقر فوق زر |settings| في الزاوية اليمنى العليا من "
+"الصفحة (بجانب اسم المستخدم الخاص بك)."
 
 #: ../docs/index.rst:350
 msgid ""
 "From the navigation pane on the left, select `Projects "
 "<https://herams.org/project/index>`_."
 msgstr ""
+"من جزء التنقل الموجود على اليسار، حدد `<Projects <https://herams.org/project/"
+"index>` _."
 
 #: ../docs/index.rst:351
 msgid ""
@@ -903,6 +918,8 @@ msgid ""
 "the table displays the number **Workspaces**, **Contributors**, **Health "
 "facilities** and **Responses**."
 msgstr ""
+"يمكنك الآن رؤية جدول بجميع المشاريع المتاحة. لكل مشروع ، يعرض الجدول رقم ** "
+"مساحات العمل ** ، ** المساهمين ** ، ** المرافق الصحية ** و ** الاستجابات **."
 
 #: ../docs/index.rst:353
 msgid ""
@@ -910,12 +927,16 @@ msgid ""
 "facilities. This indicates that a health facility was assessed multiple "
 "times."
 msgstr ""
+"من الممكن أن يكون عدد الاستجابات أعلى من إجمالي عدد المرافق الصحية. هذا يشير "
+"إلى أن المنشأة الصحية تم تقييمها عدة مرات."
 
 #: ../docs/index.rst:355
 msgid ""
 "In the last column of the table, click the |workspace| icon. This will "
 "open a new page displaying a list of all available workspace."
 msgstr ""
+"في العمود الأخير من الجدول ، انقر فوق أيقونة |workspace|. سيؤدي ذلك إلى فتح "
+"صفحة جديدة تعرض قائمة بجميع مساحات العمل المتاحة."
 
 #: ../docs/index.rst:357
 msgid ""
@@ -924,12 +945,17 @@ msgid ""
 "organization or a geographic region. For more information on "
 "**Workspaces** click `here`__."
 msgstr ""
+"يستخدم هيرامس ما يسمى **مساحات العمل** لإدارة إذن الوصول إلى البيانات "
+"الأساسية. قد تمثل مساحة العمل ، على سبيل المثال ، مؤسسة معينة أو منطقة "
+"جغرافية. لمزيد من المعلومات حول ** مساحات العمل ** ، انقر فوق `here`__."
 
 #: ../docs/index.rst:361
 msgid ""
 "To view the health facilities that are part of a specific workspace, "
 "click the |update-data| icon in the Action column."
 msgstr ""
+"لعرض المرافق الصحية التي تعد جزءًا من مساحة عمل معينة، انقر فوق أيقونة "
+"|update-data| في خانة الإجراء."
 
 #: ../docs/index.rst:362
 msgid ""
@@ -937,20 +963,24 @@ msgid ""
 "workspaces by typing the workspace name in the field below the header "
 "row."
 msgstr ""
+"استخدم أزرار |forward-page| للانتقال إلى الصفحة التالية أو تصفية مساحات "
+"العمل عن طريق كتابة اسم مساحة العمل في الحقل الذي يوجدأسفل صف المقدمة ."
 
 #: ../docs/index.rst:369
 msgid ""
 "You should now see a table with all the health facilities of the selected"
 " workspace."
 msgstr ""
+"ستتمكن الآن من رؤية جدولًا يحتوي على جميع المرافق الصحية في مساحة العمل "
+"المحددة."
 
 #: ../docs/index.rst:371
 msgid "The video below summarizes the steps to access the data entry interface."
-msgstr ""
+msgstr "يلخص الفيديو أدناه خطوات الوصول إلى واجهة إدخال البيانات."
 
 #: ../docs/index.rst:380
 msgid "Edit a Health Facility"
-msgstr ""
+msgstr "تحرير سجل المرفق الصحي"
 
 #: ../docs/index.rst:382
 msgid ""
@@ -958,14 +988,17 @@ msgid ""
 " update the status of a health facility while keeping the history of "
 "changes, follow the instructions in the section below."
 msgstr ""
+"سيؤدي تحرير سجل إلى الكتابة فوق السجل الحالي. إذا كنت ترغب في تحديث حالة "
+"المنشأة الصحية مع الاحتفاظ بسجل التغييرات، فاتبع الإرشادات الواردة في القسم "
+"أدناه."
 
 #: ../docs/index.rst:384
 msgid "Open the data update interface as outlined `above`__."
-msgstr ""
+msgstr "افتح واجهة تحديث البيانات كما هو موضح `أعلاه`__."
 
 #: ../docs/index.rst:385
 msgid "To edit a record, click the |pencil-blue| icon in the left most column."
-msgstr ""
+msgstr "لتحرير سجل ، انقر فوق أيقونة |pencil-blue| في العمود الأكثر اليسار."
 
 #: ../docs/index.rst:390
 msgid ""
@@ -973,6 +1006,9 @@ msgid ""
 "the bottom right corner to advance to the next page. You can also reduce "
 "the number of records displayed by applying filters."
 msgstr ""
+"ضع في اعتبارك أن الجدول قد يحتوي على عدة صفحات. استخدم الزر الموجود في الركن "
+"الأيمن السفلي للتقدم إلى الصفحة التالية. يمكنك أيضًا تقليل عدد السجلات "
+"المعروضة عن طريق تطبيق المرشحات."
 
 #: ../docs/index.rst:397 ../docs/index.rst:414 ../docs/index.rst:423
 msgid ""
@@ -982,6 +1018,10 @@ msgid ""
 "navigation pane on the left to access a specific section of the "
 "questionnaire."
 msgstr ""
+"يمكنك الآن تحرير السجل الذي تم اختيارة. استخدم أزرار |next|  في الزاوية "
+"اليمنى السفلى للانتقال إلى الصفحة التالية من الاستبيان أو العودة إلى الصفحة "
+"السابقة. يمكنك أيضًا استخدام جزء التنقل الموجود على اليسار للوصول إلى قسم "
+"معين من الاستبيان."
 
 #: ../docs/index.rst:398 ../docs/index.rst:415 ../docs/index.rst:424
 msgid ""
@@ -989,22 +1029,28 @@ msgid ""
 " save your changes, navigate to the last page, **Validate**, and click "
 "the |submit| button."
 msgstr ""
+"تأكد من التحقق من صحة وحفظ التغييرات قبل الخروج من السجل. لحفظ التغييرات، "
+"انتقل إلى الصفحة الأخيرة ، **التحقق من صحة ** ، وانقر فوق زر |submit|."
 
 #: ../docs/index.rst:399 ../docs/index.rst:416 ../docs/index.rst:425
 msgid ""
 "If you would like to discard your edits, click the |clear| button in the "
 "lower right corner of the page."
 msgstr ""
+"إذا كنت ترغب في تجاهل تعديلاتك، فانقر فوق زر |clear|  في الزاوية اليمنى "
+"السفلى من الصفحة."
 
 #: ../docs/index.rst:407
 msgid "Update a Health Facility"
-msgstr ""
+msgstr "تحديث سجل مرفق صحي"
 
 #: ../docs/index.rst:409
 msgid ""
 "If HeRAMS is used as a monitoring tool, you can record changes to a "
 "health facility while keeping the existing information."
 msgstr ""
+"إذا تم استخدام هيرامس كأداة مراقبة، فيمكنك تسجيل التغييرات في سجل المرفق "
+"الصحي مع الاحتفاظ بالمعلومات الموجودة."
 
 #: ../docs/index.rst:411
 msgid ""
