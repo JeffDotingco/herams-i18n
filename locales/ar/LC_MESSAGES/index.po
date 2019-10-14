@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-09 07:49+0000\n"
-"PO-Revision-Date: 2019-10-10 16:40+0000\n"
+"PO-Revision-Date: 2019-10-14 10:40+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -725,7 +725,7 @@ msgstr ""
 
 #: ../docs/index.rst:282
 msgid "Accessibility"
-msgstr ""
+msgstr "إمكانية الوصول"
 
 #: ../docs/index.rst:284
 msgid ""
@@ -733,12 +733,15 @@ msgid ""
 "following a standard classification and scale (Fully Accessible to Not "
 "Accessible) in the form of:"
 msgstr ""
+"تعرض صفحة ** إمكانية الوصول ** مستوى إمكانية الوصول إلى وسائل تقديم الخدمة "
+"بحسب تصنيف ومقياس قياسي (يمكن الوصول إليها بشكل كامل ولا يمكن الوصول إليها) "
+"كالآتي:"
 
 #: ../docs/index.rst:286
 msgid ""
 "a map to spot the distribution and number of MoSDs according to the "
 "accessibility status;"
-msgstr ""
+msgstr "خريطة لتحديد توزيع وعدد وسائل تقديم الخدمة وفقا لامكانية الوصول؛"
 
 #: ../docs/index.rst:287
 msgid ""
@@ -746,16 +749,20 @@ msgid ""
 " as well as the reported causes of inaccessibility per number of MoSDs; "
 "and"
 msgstr ""
+"مخططات دونات لتلخيص مستوى إمكانية الوصول بحسب عدد وسائل تقديم الخدمة وكذلك "
+"الأسباب المبلغ عنها لعدم الوصول حسب عدد وسائل تقديم الخدمة؛ و"
 
 #: ../docs/index.rst:288
 msgid ""
 "a table displays the list of priority areas with inaccessible MoSDs and "
 "the main reported cause of inaccessibility."
 msgstr ""
+"يعرض الجدول قائمة بأسماء المناطق ذات الاولوية التي بها وسائل تقديم خدمة لا "
+"يمكن الوصول اليها والسبب الرئيسي لعدم إمكانية الوصول."
 
 #: ../docs/index.rst:295
 msgid "Management & support"
-msgstr ""
+msgstr "الادارة والدعم"
 
 #: ../docs/index.rst:297
 msgid ""
@@ -763,72 +770,87 @@ msgid ""
 "of the MoSDs and the level of support provided by partners. The "
 "information is illustrated in terms of:"
 msgstr ""
+"تعرض صفحة ** الإدارة والدعم ** معلومات حول إدارة وسائل تقديم الخدمة ومستوى "
+"الدعم المقدم من الشركاء. يتم توضيح المعلومات من حيث:"
 
 #: ../docs/index.rst:299
 msgid "Ownership:"
-msgstr ""
+msgstr "الملكية:"
 
 #: ../docs/index.rst:301
 msgid ""
 "A map to spot the distribution of MoSDs according to their ownership "
 "(i.e. public, private, faith-based and, NGO/iNGO)."
 msgstr ""
+"خريطة للتعرف على توزيع وسائل تقديم الخدمة وفقًا لملكيتها (أي العامة والخاصة "
+"والعقائدية والمنظمات غير الحكومية الوطنية / العالمية)."
 
 #: ../docs/index.rst:302
 msgid ""
 "A donout  chart to highlighting the categories of ownership as a "
 "percentage of the total number of MoSDs."
 msgstr ""
+"مخطط دونات لتسليط الضوء على فئات الملكية كنسبة مئوية من إجمالي عدد وسائل "
+"تقديم الخدمة ."
 
 #: ../docs/index.rst:304
 msgid "External support:"
-msgstr ""
+msgstr "الدعم الخارجي:"
 
 #: ../docs/index.rst:306
 msgid "A donout  chart to illustrate the level of support provided by partners."
-msgstr ""
+msgstr "مخطط دونات لتوضيح مستوى الدعم المقدم من الشركاء."
 
 #: ../docs/index.rst:313
 msgid "Basic Amenities"
-msgstr ""
+msgstr "المرافق الأساسية"
 
 #: ../docs/index.rst:315
 msgid ""
 "Inforamtion on **Basic Amenities** is presented in a series of subpages. "
 "Each subpage is dedicated to a partiucular category and includes:"
 msgstr ""
+"يتم تقديم معلومات عن ** المرافق الأساسية ** في سلسلة من الصفحات الفرعية. كل "
+"صفحة فرعية مخصصة لفئة معينة وتشمل:"
 
 #: ../docs/index.rst:317
 msgid "a map displying the availability and sufficiency of the basic amenity; and"
-msgstr ""
+msgstr "خريطة توضح مدى توفر وكفاية وسائل الراحة الأساسية؛ و"
 
 #: ../docs/index.rst:318
 msgid ""
 "donut charts hightlighting the percentage of MoSDs with sufficient "
 "availability of the amenity as well as main sources."
 msgstr ""
+"مخططات دونات تسلط الضوء على نسبة وسائل تقديم الخدمة التي يتوفر فيها مايكفي "
+"من وسائل الراحة وكذلك مصادرها الرئيسية."
 
 #: ../docs/index.rst:326
 msgid "Service Availability"
-msgstr ""
+msgstr "توفر الخدمة"
 
 #: ../docs/index.rst:328
 msgid ""
 "The **Service Availability** page displays multiple pages per type of "
 "service. Each page displays:"
 msgstr ""
+"تعرض ** توفر الخدمة ** صفحات متعددة لكل نوع من أنواع الخدمة. كل صفحة تعرض:"
 
 #: ../docs/index.rst:330
 msgid ""
 "a map to spot the distribution of the MoSDs providing the selected health"
 " service;"
 msgstr ""
+"خريطة لتحديد توزع وسائل تقديم الخدمة التي تقدم الخدمة الصحية التي تم "
+"اختيارها;"
 
 #: ../docs/index.rst:331
 msgid ""
 "donout charts to summarize the level of service availability as well as "
 "the underlying causes of unavailability of the service; and"
 msgstr ""
+"مخططات دونات لتلخيص مستوى توفر الخدمة وكذلك الأسباب الكامنة وراء عدم توفر "
+"الخدمة؛ و"
 
 #: ../docs/index.rst:332
 msgid ""
