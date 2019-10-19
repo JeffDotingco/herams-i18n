@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-09 07:49+0000\n"
-"PO-Revision-Date: 2019-10-17 12:40+0000\n"
+"PO-Revision-Date: 2019-10-19 21:40+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -1058,36 +1058,39 @@ msgid ""
 "Contact your country focal point or send an email to `herams@who.int "
 "<mailto:herams@who.int?>`_ for further information."
 msgstr ""
+"لم يتم تفعيل ميزة تحديث المرافق الصحية في جميع المشاريع. اتصل بمركز الاتصال "
+"في بلدك أو أرسل بريدًا إلكترونيًا إلى `herams@who.int <mailto: "
+"herams@who.int؟> `_ للحصول على مزيد من المعلومات."
 
 #: ../docs/index.rst:413
 msgid ""
 "To update the status of a health facility, use the |update-blue| button "
 "to open the record."
-msgstr ""
+msgstr "لتحديث حالة المنشأة الصحية ، استخدم زر |update-blue|  لفتح السجل."
 
 #: ../docs/index.rst:420
 msgid "Register a New Health Facility"
-msgstr ""
+msgstr "تسجيل مرفق صحي جديد"
 
 #: ../docs/index.rst:422
 msgid "To create a new record, click the button |new-record|."
-msgstr ""
+msgstr "لإنشاء سجل جديد ، انقر فوق الزر |new-record|."
 
 #: ../docs/index.rst:429
 msgid "Delete a Health Facility"
-msgstr ""
+msgstr "احذف مرفق الصحة"
 
 #: ../docs/index.rst:431
 msgid "To delete a record, click the |delete-blue| icon in the first column."
-msgstr ""
+msgstr "لحذف سجل ، انقر فوق زر |delete-blue| في العمود الأول."
 
 #: ../docs/index.rst:433
 msgid "Deleting records cannot be undone. Be careful when deleting a record."
-msgstr ""
+msgstr "اذا تم حذف السجلات فلن يمكن استرجاعها. كن حذرا عند حذف سجل."
 
 #: ../docs/index.rst:437
 msgid "Download Data"
-msgstr ""
+msgstr "تحميل البيانات"
 
 #: ../docs/index.rst:439
 msgid ""
@@ -1096,10 +1099,13 @@ msgid ""
 "to download the entire data set. To download the entire data set please "
 "follow the instructions `here`__, otherwise see the section below."
 msgstr ""
+"من الممكن تنزيل جزء من البيانات كـ ** CSV ** لمزيد من التحليل المتعمق. في "
+"حالات نادرة ، يمكن منح إذن لتنزيل مجموعة البيانات بأكملها. لتنزيل مجموعة "
+"البيانات بأكملها ، يرجى اتباع التعليمات `هنا`__، وإلا فانظر للقسم أدناه."
 
 #: ../docs/index.rst:444
 msgid "Download Workspace Data"
-msgstr ""
+msgstr "تنزيل بيانات مساحة العمل"
 
 #: ../docs/index.rst:446
 msgid ""
