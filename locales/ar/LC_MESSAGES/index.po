@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-09 07:49+0000\n"
-"PO-Revision-Date: 2019-10-19 21:40+0000\n"
+"PO-Revision-Date: 2019-10-21 11:40+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -1114,6 +1114,9 @@ msgid ""
 "each workspace. You can then merge the data in your analysis tool of "
 "choice."
 msgstr ""
+"اتبع الإرشادات أدناه لتنزيل البيانات لمساحة عمل واحدة. إذا كنت تحتاج إلى "
+"بيانات من مساحات عمل متعددة ، فاتبع الخطوات التالية لكل مساحة عمل. يمكنك بعد "
+"ذلك دمج البيانات في أداة التحليل التي تختارها."
 
 #: ../docs/index.rst:448
 msgid ""
@@ -1121,18 +1124,24 @@ msgid ""
 "workspace. Contact your system administrator to elevate your access "
 "rights if needed."
 msgstr ""
+"لتنزيل البيانات، ستحتاج إلى الوصول إلى مساحة العمل الخاصة بك. اتصل بمسؤول "
+"النظام لتنشيط حقوق الوصول الخاصة بك إذا لزم الأمر."
 
 #: ../docs/index.rst:450
 msgid ""
 "Navigate to the workspace page of your project (see `Access the Data "
 "Update Interface`__ steps 1 - 4 for detailed instructions)."
 msgstr ""
+"انتقل إلى صفحة مساحة العمل في مشروعك (`راجع الوصول إلى واجهة تحديث البيانات` "
+"- الخطوات من 1 إلى 4 للحصول على إرشادات مفصلة)."
 
 #: ../docs/index.rst:451
 msgid ""
 "In the rightmost column, click the |download| button. This will download "
 "all records of this workspace."
 msgstr ""
+"في العمود أقصى اليمين، انقر فوق زر |download|. سيؤدي ذلك إلى تنزيل جميع "
+"السجلات الخاصة بمساحة العمل هذه."
 
 #: ../docs/index.rst:455
 msgid ""
@@ -1140,10 +1149,13 @@ msgid ""
 "define the encoding when opening the data in Excel (see `Data Encoding in"
 " Excel`__ for details)."
 msgstr ""
+"بالنسبة للمسوحات بلغات أخرى غير الإنجليزية ، تأكد من تحديد الترميز بشكل صحيح "
+"عند فتح البيانات في برنامج اكسيل (راجع `تشفير البيانات في برنامج اكسيل`__ "
+"للحصول على التفاصيل)."
 
 #: ../docs/index.rst:460
 msgid "Download the Entire Data Set"
-msgstr ""
+msgstr "قم بتنزيل مجموعة البيانات بالكامل"
 
 #: ../docs/index.rst:462
 msgid ""
@@ -1151,6 +1163,9 @@ msgid ""
 "above. The ability to download the entire data set is restricted to few "
 "users. Contact your system administrator for further information."
 msgstr ""
+"يُنصح المستخدمون بتنزيل البيانات الخاصة بمساحة العمل الفردية كما هو موضح "
+"أعلاه. يقتصر إذن تنزيل مجموعة البيانات بالكامل على عدد قليل من المستخدمين. "
+"اتصل بمسؤول النظام للحصول على مزيد من المعلومات."
 
 #: ../docs/index.rst:464
 msgid "*Coming soon*"
