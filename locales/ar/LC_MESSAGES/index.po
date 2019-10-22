@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-09 07:49+0000\n"
-"PO-Revision-Date: 2019-10-21 11:40+0000\n"
+"PO-Revision-Date: 2019-10-22 15:40+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -1169,11 +1169,11 @@ msgstr ""
 
 #: ../docs/index.rst:464
 msgid "*Coming soon*"
-msgstr ""
+msgstr "*قريبا*"
 
 #: ../docs/index.rst:467
 msgid "Data Encoding in Excel"
-msgstr ""
+msgstr "ترميز البيانات في برنامج اكسيل"
 
 #: ../docs/index.rst:468
 msgid ""
@@ -1181,6 +1181,8 @@ msgid ""
 "software of choice (e.g. R or STATA), data encoding should always be set "
 "to UTF-8."
 msgstr ""
+"إذا تم تنزيل البيانات لمزيد من التحليل في Excel أو برنامج إحصائي من اختياره ("
+"مثل R أو STATA) ، فيجب دائمًا ضبط تشفير البيانات على UTF-8."
 
 #: ../docs/index.rst:470
 msgid ""
@@ -1188,38 +1190,49 @@ msgid ""
 "character and can results in the data being unreadable. For examples "
 "instead of **camp de réfugiés** you get **Camp de rÃ©fugiÃ©s**."
 msgstr ""
+"مشكلات الترميز منتشرة في اللغات ذات الطابع الخاص ويمكن أن تؤدي إلى عدم "
+"إمكانية قراءة البيانات. مثال، بدلاً من **camp de réfugiés** ، تحصل على **"
+"Camp de rÃ © fugiÃ © s**."
 
 #: ../docs/index.rst:472
 msgid ""
 "The below instructions guide users through the steps to define the data "
 "encoding in Excel."
 msgstr ""
+"توجه الإرشادات أدناه المستخدمين خلال خطوات تحديد ترميز البيانات في برنامج "
+"اكسيل."
 
 #: ../docs/index.rst:474
 msgid "Open a new Excel file."
-msgstr ""
+msgstr "افتح ملف اكسيل جديد."
 
 #: ../docs/index.rst:475
 msgid ""
 "On the Data tab in the **Get & Transform Data** group, click **From "
 "Text/CSV**."
 msgstr ""
+"في علامة تبويب البيانات ضمن مجموعة **Get & Transform Data**، انقر فوق ** "
+"From Text / CSV **."
 
 #: ../docs/index.rst:476
 msgid ""
 "In the **Import Data** dialog box, locate and double-click the text file "
 "that you want to import, and click **Import**."
 msgstr ""
+"في مربع الحوار **Import Data**، حدد موقع الملف النصي الذي تريد استيراده "
+"وانقر فوقه نقرًا مزدوجًا، ثم انقر فوق **Import**."
 
 #: ../docs/index.rst:477
 msgid ""
 "In the top left corner of the pop-up window that opens, change the "
 "encoding type to **UTF-8**, and click **Import**."
 msgstr ""
+"في الزاوية العلوية اليسرى من النافذة التي تظهر، قم بتغيير نوع الترميز إلى "
+"**UTF-8**، وانقر فوق **Import**."
 
 #: ../docs/index.rst:487
 msgid "HeRAMS Administration"
-msgstr ""
+msgstr "إدارة هيرامس"
 
 #: ../docs/index.rst:489
 msgid ""
@@ -1230,6 +1243,10 @@ msgid ""
 "level administration and the configuration of project specific "
 "`Dashboard`__."
 msgstr ""
+"يقدم هذا الفصل نظرة عامة على صفحات ادارة هيرامس ويقدم إرشادات خطوة بخطوة "
+"للمهام العامة التي يؤديها المستخدمون ذات الصلاحيات العالية ومسؤولو المشروع. "
+"يقدم الجزء الأول من الفصل مفهوم `مساحات العمل`__ بينما يركز الجزء الثاني على "
+"مستوى إدارة  `المشروع`__ وتكوين `لوحة المعلومات`__ الخاصة بالمشروع."
 
 #: ../docs/index.rst:495
 msgid ""
@@ -1238,10 +1255,14 @@ msgid ""
 "<mailto:herams@who.int?>`_ specifying your function and role as well as a"
 " brief explanation why you would like your access permissions to altered."
 msgstr ""
+"إذا كنت بحاجة إلى تغيير صلاحياتك، يرجى الاتصال بمسؤول التنسيق في بلدك أو "
+"إرسال بريد إلكتروني إلى `فريق دعم هيرامس  <mailto: herams@who.int> ` _ مع "
+"تحديد وظيفتك ودورك بالإضافة إلى شرح موجز عن سبب  رغبتك في تغيير صلاحيات "
+"الوصول الخاصة بك."
 
 #: ../docs/index.rst:499
 msgid "Workspaces"
-msgstr ""
+msgstr "مساحات العمل"
 
 #: ../docs/index.rst:501
 msgid ""
@@ -1256,6 +1277,14 @@ msgid ""
 "single workspace, project administrators might have access to several or "
 "all workspaces."
 msgstr ""
+"يستخدم هيرامس مفهوم مساحات العمل لإدارة صلاحيات المستخدم. تتكون كل مساحة عمل "
+"من عدة منشآت صحية ولديها جهة اتصال مخصصة مسؤولة عن تحديث هذه السجلات. قد "
+"تتضمن مساحة العمل ، على سبيل المثال ، جميع المرافق الصحية في منطقة جغرافية "
+"أو منشآت صحية يديرها شريك محدد أو أي فئة منطقية أخرى. وبالتالي ، فإن استخدام "
+"مساحات العمل بالاقتران مع مستويات مختلفة من الصلاحيات (انظر أدناه) يضمن "
+"التحكم الدقيق في الوصول إلى المشروع والبيانات الأساسية. في حين أن معظم "
+"المستخدمين لديهم حق الوصول فقط إلى مساحة عمل واحدة ، قد يكون لمسؤولي المشروع "
+"حق الوصول إلى العديد من أو كل مساحات العمل."
 
 #: ../docs/index.rst:503
 msgid ""
@@ -1266,12 +1295,19 @@ msgid ""
 "data cash of a workspace the time lag limitation can be overcome and the "
 "changes made will become visible immediately."
 msgstr ""
+"|refresh| **تحديث ذاكرة التخزين المؤقت للبيانات**: يتيح هذا الزر للمستخدمين "
+"تحديث ذاكرة التخزين المؤقت لبيانات مساحة العمل، يدويًا. يتم تحديث البيانات "
+"تلقائيًا كل 30 دقيقة. هذا يعني أنه إذا تم تحديث السجل، فلن تنعكس التغييرات "
+"فورًا على لوحة المعلومات. وبالتالي، من خلال تحديث ذاكرة التخزين المؤقت "
+"لبيانات مساحة العمل يدويًا ، يمكن التغلب على قيود التأخير الزمني وتصبح "
+"التغييرات التي تم إجراؤها مرئية على الفور."
 
 #: ../docs/index.rst:504
 msgid ""
 "|pencil-thin| **Update Workspace**:  allows to change the title or token "
 "of a workspace."
 msgstr ""
+"|pencil-thin| **تحديث مساحة العمل**: يسمح بتغيير عنوان أو رمز مساحة العمل."
 
 #: ../docs/index.rst:505
 msgid ""
@@ -1279,42 +1315,52 @@ msgid ""
 "the workspace must be shared with the user. For more information on how "
 "to add users to a workspace click `here`__."
 msgstr ""
+"|share-icon| **مشاركة مساحة العمل**: لمنح المستخدم حق الوصول إلى مساحة العمل "
+"، يجب مشاركة مساحة العمل مع المستخدم. لمزيد من المعلومات حول كيفية إضافة "
+"مستخدمين إلى مساحة عمل ، انقر فوق `هنا`__."
 
 #: ../docs/index.rst:506
 msgid ""
 "|delete-black| **Delete Workspace**: Permanetly removes a workspace from "
 "a project. See `Delete a Workspace`__ for more information."
 msgstr ""
+"|delete-black| **حذف مساحة العمل**: يزيل مساحة العمل بشكل دائم من المشروع. "
+"راجع `حذف مساحة عمل`__ للحصول على مزيد من المعلومات."
 
 #: ../docs/index.rst:507
 msgid ""
 "|download| **Download Data**: Downloads all records belonging to the "
 "selected workspace. See `Download Data`__ for more information."
 msgstr ""
+"|download| **تنزيل البيانات**: تنزيل جميع السجلات التي تنتمي إلى مساحة العمل "
+"المحددة. راجع `تنزيل البيانات`__ للحصول على مزيد من المعلومات."
 
 #: ../docs/index.rst:508
 msgid ""
 "|pencil-black| **Data Update**: This opens the data edit interface. More "
 "information on data editing and updating is available `here`__."
 msgstr ""
+"|pencil-black| **تحديث البيانات**: هذا يفتح واجهة تحرير البيانات. تتوفر "
+"المزيد من المعلومات حول تحرير البيانات وتحديثها `هنا`__."
 
 #: ../docs/index.rst:518
 msgid "Workspace Permissions"
-msgstr ""
+msgstr "صلاحيات مساحة العمل"
 
 #: ../docs/index.rst:520
 msgid "There are two permission levels for workspaces:"
-msgstr ""
+msgstr "يوجد مستويان لصلاحيات مساحات العمل:"
 
 #: ../docs/index.rst:522
 msgid "access to manage the underlying response data; and"
-msgstr ""
+msgstr "الوصول لإدارة بيانات الردود الأساسية ؛ و"
 
 #: ../docs/index.rst:523
 msgid ""
 "full access (includes editing the workspace properties, token and "
 "response data)."
 msgstr ""
+"الوصول الكامل (يشمل تحرير خصائص مساحة العمل، الرمز المميز، وبيانات الردود)."
 
 #: ../docs/index.rst:525
 msgid ""
@@ -1323,16 +1369,22 @@ msgid ""
 "permission (option 2) allowing them to add additional users to their "
 "workspace as well as to manage the underlying response data."
 msgstr ""
+"يمكن للمستخدمين الذين لديهم دور **محرر البيانات** الوصول إلى تحديث بيانات "
+"الاستجابة (الخيار 1) بينما قد يُمنح **أصحاب مساحة العمل ** صلاحية اعلى ("
+"الخيار 2) مما يسمح لهم بإضافة مستخدمين إضافيين إلى مساحة عملهم وكذلك لإدارة "
+"بيانات الردود الأساسية."
 
 #: ../docs/index.rst:528
 msgid "Add a User to a Workspace"
-msgstr ""
+msgstr "إضافة مستخدم إلى مساحة العمل"
 
 #: ../docs/index.rst:530
 msgid ""
 "To grant a user access to a workspace, open the admin interface by "
 "clicking the |settings| icon in the top right corner of the screen."
 msgstr ""
+"لمنح المستخدم حق الوصول إلى مساحة العمل ، افتح واجهة المسؤول بالنقر فوق رز "
+"|settings| في الزاوية اليمنى العليا من الشاشة."
 
 #: ../docs/index.rst:531
 msgid ""
@@ -1340,6 +1392,8 @@ msgid ""
 "<https://herams.org/project/index>`_ to open the **Projects** overview "
 "table."
 msgstr ""
+"في جزء التنقل الموجود على اليسار، انقر فوق `<Projects <https://herams.org/"
+"project/index` _ لفتح جدول نظرة عامة **Projects **."
 
 #: ../docs/index.rst:532
 msgid ""
