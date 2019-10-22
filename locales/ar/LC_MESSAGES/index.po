@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-09 07:49+0000\n"
-"PO-Revision-Date: 2019-10-22 15:40+0000\n"
+"PO-Revision-Date: 2019-10-22 18:40+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -1401,6 +1401,8 @@ msgid ""
 "buttons. Click the |workspace| icon. This will open the workspace of the "
 "selected project."
 msgstr ""
+"في العمود الموجود في أقصى اليمين من الجدول ، سترى عدة أزرار **Action**. انقر "
+"فوق زر |workspace|. سيؤدي هذا إلى فتح مساحة العمل الخاصة بالمشروع المحدد."
 
 #: ../docs/index.rst:533
 msgid ""
@@ -1410,6 +1412,10 @@ msgid ""
 "facilities and responses. Alike the **Projects** table, the last column "
 "contains several **Action** buttons."
 msgstr ""
+"سوف تشاهد الآن جدولًا يحتوي على جميع مساحات العمل الخاصة بمشروعك. بالنسبة "
+"لكل مساحة عمل ، يوفر الجدول معلومات عن آخر مرة تمت فيها مزامنة البيانات مع "
+"قاعدة البيانات الأساسية وعدد المساهمين والمرافق الصحية والاستجابات. على غرار "
+"الجدول ** Projects ** ، يحتوي العمود الأخير على عدة أزرار ** Action **."
 
 #: ../docs/index.rst:534
 msgid ""
@@ -1417,6 +1423,9 @@ msgid ""
 " to share the workspace with them. Click the |share-icon| icon in the "
 "**Actions** column."
 msgstr ""
+"لمنح المستخدم حق الوصول إلى مساحة العمل (على سبيل المثال، تحديث البيانات) ، "
+"يجب عليك مشاركة مساحة العمل معهم. انقر فوق رمز |share-icon| في عمود "
+"**Actions** ."
 
 #: ../docs/index.rst:535
 msgid ""
@@ -1427,22 +1436,31 @@ msgid ""
 "in the top field. You will notice that the list of users is dynamically "
 "filtering. Select the user you would like to add."
 msgstr ""
+"يجب أن تشاهد الآن صفحة مشابهة للصورة أدناه. في النصف السفلي من الصفحة ، "
+"يمكنك رؤية قائمة بجميع المستخدمين الذين لديهم حق الوصول حاليًا إلى مساحة "
+"العمل بما في ذلك مستوى صلاحياتهم. في النصف العلوي من الصفحة ، لديك خيار "
+"لإضافة مستخدم جديد. ابدأ في كتابة اسم المستخدم في الحقل العلوي. ستلاحظ أن "
+"قائمة المستخدمين يتم تصفيتها بشكل حيوي. حدد المستخدم الذي تريد إضافته."
 
 #: ../docs/index.rst:546
 msgid ""
 "Use the checkboxes to select the appropriate permission level. See "
 "`above`__ for further details on workspace permissions."
 msgstr ""
+"استخدم مربعات الاختيار لتحديد مستوى الصلاحية المناسب. انظر `أعلاه`__ للحصول "
+"على مزيد من التفاصيل حول صلاحيات مساحة العمل."
 
 #: ../docs/index.rst:547
 msgid ""
 "Click the |share-button| button to share the workspace with the selected "
 "user(s)."
 msgstr ""
+"انقر فوق زر |share-button| لمشاركة مساحة العمل مع المستخدم (المستخدمين) "
+"المحدد."
 
 #: ../docs/index.rst:557
 msgid "Remove a User from a Workspace"
-msgstr ""
+msgstr "إزالة مستخدم من مساحة العمل"
 
 #: ../docs/index.rst:559
 msgid ""
@@ -1450,6 +1468,8 @@ msgid ""
 "you would like to remove the user. (Follow steps 1 - 5 outlined `above`__"
 " to access the workspace)."
 msgstr ""
+"لحذف مستخدم من مساحة عمل، انتقل إلى مساحة العمل التي ترغب في حذف المستخدم "
+"منها. (اتبع الخطوات من 1 إلى 5 `الموضحة أعلاه`__  للوصول إلى مساحة العمل)."
 
 #: ../docs/index.rst:560 ../docs/index.rst:658
 msgid ""
@@ -1457,72 +1477,85 @@ msgid ""
 "access to the workspace. Click the |delete-black| icon to remove the user"
 " permanently."
 msgstr ""
+"في النصف الثاني من الصفحة، سترى قائمة بجميع المستخدمين الذين لديهم حق الوصول "
+"إلى مساحة العمل. انقر فوق زر |delete-black| لحذف المستخدم بشكل دائم."
 
 #: ../docs/index.rst:566
 msgid "Change a User's Workspace Permission"
-msgstr ""
+msgstr "تغيير صلاحية المستخدم لمساحة العمل"
 
 #: ../docs/index.rst:568
 msgid ""
 "To change a user's permission, remove the user from the workspace as "
 "outlined `above`__"
 msgstr ""
+"لتغيير صلاحية المستخدم، أزل المستخدم من مساحة العمل كما هو موضح `أعلاه`__"
 
 #: ../docs/index.rst:569
 msgid ""
 "Now add the user again using the new permission level (see `Add a User to"
 " a Workspace`__ for details)."
 msgstr ""
+"أضف الآن المستخدم مرة أخرى باستخدام مستوى الأذونات الجديد (راجع `إضافة "
+"مستخدم إلى مساحة عمل`__ للحصول على التفاصيل)."
 
 #: ../docs/index.rst:576
 msgid "Create a New Workspace"
-msgstr ""
+msgstr "إنشاء مساحة عمل جديدة"
 
 #: ../docs/index.rst:578
 msgid ""
 "To create a new workspace, access the workspace page of your project. "
 "(Follow steps 1 - 5 outlined `above`__ to access the workspace)."
 msgstr ""
+"لإنشاء مساحة عمل جديدة ، قم بالدخول إلى صفحة مساحة العمل الخاصة بمشروعك. ("
+"اتبع الخطوات من 1 إلى 5 الموضحة `أعلاه`__ للوصول إلى مساحة العمل)."
 
 #: ../docs/index.rst:579
 msgid ""
 "In the upper left corner, you will see a button labelled |create-"
 "workspace|."
-msgstr ""
+msgstr "في الزاوية العلوية اليسرى ، سترى زرًا بعنوان |create-workspace|."
 
 #: ../docs/index.rst:580
 msgid "On the page that opens, you should now be able to create a new workspace."
-msgstr ""
+msgstr "على الصفحة التي تفتح، ستتمكن الآن من إنشاء مساحة عمل جديدة."
 
 #: ../docs/index.rst:581
 msgid "Enter the workspace's name into the title field."
-msgstr ""
+msgstr "أدخل اسم مساحة العمل في حقل العنوان."
 
 #: ../docs/index.rst:582
 msgid ""
 "Use the dropdown list to select the corresponding **Token** or create a "
 "new token by selecting **Create new token**."
 msgstr ""
+"استخدم القائمة المنسدلة لتحديد الرمز المميز **Token** أو إنشاء رمز مميز جديد "
+"عن طريق تحديد إنشاء رمز مميز جديد**Create new token**."
 
 #: ../docs/index.rst:594
 msgid "Delete a Workspace"
-msgstr ""
+msgstr "حذف مساحة العمل"
 
 #: ../docs/index.rst:596
 msgid ""
 "You can remove a workspace by clicking the |delete-black| icon in the "
 "**Actions** column next to the selected workspace."
 msgstr ""
+"يمكنك حذف مساحة عمل من خلال النقر فوق |delete-black| في العمود **Actions ** "
+"بجانب مساحة العمل المحددة."
 
 #: ../docs/index.rst:604
 msgid "Projects"
-msgstr ""
+msgstr "المشاريع"
 
 #: ../docs/index.rst:606
 msgid ""
 "The `Projects <https://herams.org/project/index>`_ page provides a brief "
 "overview of all projects available on the HeRAMS platform."
 msgstr ""
+"تقدم صفحة `المشاريع <https://herams.org/project/index>` _ نظرة عامة مختصرة "
+"على جميع المشروعات المتاحة على نظام هيرامس."
 
 #: ../docs/index.rst:612
 msgid ""
@@ -1530,6 +1563,8 @@ msgid ""
 "workspace belonging to the project. See `here`__ for more information on "
 "workspaces."
 msgstr ""
+"|workspace| **مساحات العمل**: تفتح  قائمة بجميع مساحات العمل المتاحة "
+"للمشروع. انظر `هنا`__  للحصول على مزيد من المعلومات حول مساحات العمل."
 
 #: ../docs/index.rst:613
 msgid ""
