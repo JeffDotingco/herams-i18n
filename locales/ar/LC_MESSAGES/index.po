@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-09 07:49+0000\n"
-"PO-Revision-Date: 2019-10-23 18:40+0000\n"
+"PO-Revision-Date: 2019-10-23 21:40+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -158,24 +158,22 @@ msgid "Logging out"
 msgstr "تسجيل الخروج"
 
 #: ../docs/index.rst:67
-#, fuzzy
 msgid "To logout click the |logout| button in the top right corner of the screen."
 msgstr ""
-"عندما تكون على نظام مشترك ، فأنت تريد التأكد من تسجيل الخروج عند عند "
-"الانتهاء. لتسجيل الخروج ، انقر فوق زر |logout| في الزاوية اليمنى العليا "
-"من الشاشة."
+"عندما تكون على نظام مشترك، فأنت تريد التأكد من تسجيل الخروج عند عند "
+"الانتهاء. لتسجيل الخروج، انقر فوق زر |logout| في الزاوية اليمنى العليا من "
+"الشاشة."
 
 #: ../docs/index.rst:71
 msgid "Reset password"
 msgstr "إعادة تشغيل كلمة المرور"
 
 #: ../docs/index.rst:73
-#, fuzzy
 msgid ""
 "In case you forgot your password, the instruction below will guide you "
 "through the steps to reset your password."
 msgstr ""
-"في حالة نسيان كلمة المرور الخاصة بك ، فإن الإرشادات الموضحة أدناه ستقوم "
+"في حالة نسيان كلمة المرور الخاصة بك، فإن الإرشادات الموضحة أدناه ستقوم "
 "بتوجيهك خلال خطوات إعادة تشغيل كلمة المرور الخاصة بك."
 
 #: ../docs/index.rst:79
@@ -206,7 +204,6 @@ msgid "Click the |submit| button."
 msgstr "انقر فوق زر | submit | ."
 
 #: ../docs/index.rst:84
-#, fuzzy
 msgid ""
 "You will receive an email with a password reset link. Click the link to "
 "open the password reset page."
@@ -223,9 +220,8 @@ msgstr ""
 "سبام ببريدك الالكتروني."
 
 #: ../docs/index.rst:88
-#, fuzzy
 msgid "On the page that opens, enter your new password."
-msgstr "في الصفحة التي تفتح ، أدخل كلمة المرور الجديدة."
+msgstr "في الصفحة التي تفتح، أدخل كلمة المرور الجديدة."
 
 #: ../docs/index.rst:89
 msgid "Click the |submit| button to confirm your new password."
@@ -287,21 +283,19 @@ msgstr ""
 "موضح `أعلاه`__."
 
 #: ../docs/index.rst:110
-#, fuzzy
 msgid ""
 "Click on the `Account <https://herams.org/user/settings/account>`_ link "
 "to access your account information."
 msgstr ""
-"انقر على رابط الحساب ` <https://herams.org/user/settings/account>`_  "
-"للوصول إلى معلومات حسابك."
+"انقر على رابط الحساب`<https://herams.org/user/settings/account>`_  للوصول "
+"إلى معلومات حسابك."
 
 #: ../docs/index.rst:111
-#, fuzzy
 msgid ""
 "On the page opening, you should be able to change your email address and "
 "enter a new password."
 msgstr ""
-"في الصفحة المفتوحة ، يجب أن تكون قادرًا على تغيير عنوان بريدك الإلكتروني "
+"في الصفحة المفتوحة، يجب أن تكون قادرًا على تغيير عنوان بريدك الإلكتروني "
 "وإدخال كلمة مرور جديدة."
 
 #: ../docs/index.rst:112
@@ -385,16 +379,15 @@ msgstr ""
 "فوريًا ومتعمقًا استنادًا إلى البيانات المتاحة."
 
 #: ../docs/index.rst:143
-#, fuzzy
 msgid ""
 "To view a project dashboard, open the project summary by selecting your "
 "project from the navigation pane on the left. Alternatively, you can open"
 " the project summary by clicking the corresponding blue dot on the world "
 "map."
 msgstr ""
-"لعرض لوحة معلومات المشروع ، افتح ملخص المشروع عن طريق اختيار مشروعك من "
-"لوحة التنقل على اليسار. بدلاً من ذلك ، يمكنك فتح ملخص المشروع عن طريق "
-"النقر فوق النقطة الزرقاء المقابلة على خريطة العالم."
+"لعرض لوحة معلومات المشروع، افتح ملخص المشروع عن طريق اختيار مشروعك من لوحة "
+"التنقل على اليسار. بدلاً من ذلك، يمكنك فتح ملخص المشروع عن طريق النقر فوق "
+"النقطة الزرقاء المقابلة على خريطة العالم."
 
 #: ../docs/index.rst:144
 msgid ""
@@ -446,13 +439,12 @@ msgid "Filtering data"
 msgstr "تصفية البيانات (الفلتر)"
 
 #: ../docs/index.rst:173
-#, fuzzy
 msgid ""
 "Data on the dashboard can be filtered. This allows you to scrutinise the "
 "data subsets that are of interest to you."
 msgstr ""
-"يمكن تصفية البيانات الموجودة على لوحة القيادة.هذه الخاصية تتيح لك التدقيق"
-" مجموعات البيانات الفرعية التي تهمك."
+"يمكن تصفية البيانات الموجودة على لوحة القيادة. هذه الخاصية تتيح لك التدقيق "
+"مجموعات البيانات الفرعية التي تهمك."
 
 #: ../docs/index.rst:175
 msgid "Filtering is not persistent and only visible during your current session."
@@ -465,7 +457,6 @@ msgid "In the top right corner of the dashboard, click the |filter| button."
 msgstr "في الزاوية العلوية اليمنى من لوحة المعلومات ، انقر فوق زر |filter| ."
 
 #: ../docs/index.rst:178
-#, fuzzy
 msgid ""
 "You should now see the filtering setting page. Use the drop-down list to "
 "select your filter criteria. Repeat this process until you have added all"
@@ -582,15 +573,13 @@ msgstr ""
 " تشير كل صفحة إلى عمود معلومات هيرامس القياسي."
 
 #: ../docs/index.rst:226
-#, fuzzy
 msgid ""
 "The order and the content of dashboards are customized individually based"
 " on each project's need. Your dashboard might, therefore, be "
 "substantially different from the example pages displayed below."
 msgstr ""
-"يتم تخصيص الطلب ومحتوى لوحات المعلومات بشكل فردي بناءً على حاجة كل مشروع."
-" لذلك، قد تكون لوحة المعلومات مختلفة تمامًا عن أمثلة الصفحات المعروضة "
-"أدناه."
+"يتم تخصيص الطلب ومحتوى لوحات المعلومات بشكل فردي بناءً على حاجة كل مشروع. "
+"لذلك، قد تكون لوحة المعلومات مختلفة تمامًا عن أمثلة الصفحات المعروضة أدناه."
 
 #: ../docs/index.rst:229
 msgid "Overview"
@@ -656,15 +645,14 @@ msgid "Condition"
 msgstr "حالة المبنى"
 
 #: ../docs/index.rst:258
-#, fuzzy
 msgid ""
 "The **Condition** page displays the level of reported damage to MoSD "
 "buildings following a standard classification and scale (Not Damaged to "
 "Fully Damaged). Information is visualized as:"
 msgstr ""
-"تعرض صفحة **حالة المبنى** مستوى الأضرار التي تم الإبلاغ عنها في مباني "
-"وزارة النقل بعد التصنيف والمقياس القياسي (غير تالف إلى تلف تام). يتم تصور"
-" المعلومات على النحو التالي:"
+"تعرض صفحة **حالة المبنى** مستوى الأضرار التي تم الإبلاغ عنها في مباني وسائل "
+"تقديم الخدمة على حسب التصنيف والمقياس القياسي (غير تالف إلى تلف تام). يتم "
+"تصور المعلومات على النحو التالي:"
 
 #: ../docs/index.rst:260
 msgid ""
@@ -675,13 +663,12 @@ msgstr ""
 "بالمبنى (أي حالة المبنى)،"
 
 #: ../docs/index.rst:261
-#, fuzzy
 msgid ""
 "donout charts summarizing the reported level of building damage by level "
 "of severity as well as the distribution of MoSD by type; and"
 msgstr ""
-"مخططات دونات التي تلخص مستوى أضرار المباني المبلغ عنها حسب مستوى الشدة "
-"وكذلك توزيع وسائل تقديم الخدمة حسب النوع ؛ و"
+"مخططات دونات التي تلخص مستوى أضرار المباني المبلغ عنها حسب مستوى الشدة وكذلك "
+"توزيع وسائل تقديم الخدمة حسب النوع؛ و"
 
 #: ../docs/index.rst:262
 msgid ""
@@ -1098,7 +1085,7 @@ msgid ""
 "to download the entire data set. To download the entire data set please "
 "follow the instructions `here`__, otherwise see the section below."
 msgstr ""
-"من الممكن تنزيل جزء من البيانات كـ ** CSV ** لمزيد من التحليل المتعمق. في "
+"من الممكن تنزيل جزء من البيانات كـ **CSV** لمزيد من التحليل المتعمق. في "
 "حالات نادرة ، يمكن منح إذن لتنزيل مجموعة البيانات بأكملها. لتنزيل مجموعة "
 "البيانات بأكملها ، يرجى اتباع التعليمات `هنا`__، وإلا فانظر للقسم أدناه."
 
@@ -1943,7 +1930,7 @@ msgid ""
 "For **Maps**, you can further specify the size of the dots by "
 "increasing/decreasing the  **Marker Radius**."
 msgstr ""
-"بالنسبة لـ **Maps** ، يمكنك تحديد حجم النقاط عن طريق زيادة / تقليل **Marker "
+"بالنسبة للـ **Maps**، يمكنك تحديد حجم النقاط عن طريق زيادة / تقليل **Marker "
 "Radius**."
 
 #: ../docs/index.rst:776
@@ -1973,7 +1960,7 @@ msgid ""
 "like to modify."
 msgstr ""
 "في النصف السفلي من الصفحة ، سترى قائمة بجميع الصفحات المتاحة للوحة "
-"المعلومات. انقر فوق زر |pencil-thin|  لفتح الصفحة التي ترغب في تعديلها."
+"المعلومات. انقر فوق زر |pencil-thin| لفتح الصفحة التي ترغب في تعديلها."
 
 #: ../docs/index.rst:791
 msgid ""
