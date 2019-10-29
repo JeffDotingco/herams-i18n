@@ -5,20 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: HeRAMS\n"
+"Project-Id-Version:  HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-29 08:46+0000\n"
+"POT-Creation-Date: 2019-10-29 09:52+0000\n"
 "PO-Revision-Date: 2019-10-29 09:45+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
-"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
-"herams-user-guide/ar/>\n"
 "Language: ar\n"
+"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams"
+"/herams-user-guide/ar/>\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
+"n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
@@ -56,12 +55,12 @@ msgid ""
 "are not covered in this guide, please contact the `HeRAMS Support Team "
 "<mailto:herams@who.int?>`_."
 msgstr ""
-"تجدر الإشارة إلى أن دليل المستخدم لا يتناول سوى القضايا المتعلقة 'بمنصة `"
-"هيرامس <HeRAMS <https://herams.org/user/login/>`_. للحصول على معلومات عامة "
-"حول نهج هيرامس وللحصول على إرشادات فنية ، يرجى الرجوع إلى 'صفحة `ويب WHO "
-"HeRAMS الرسمية <https://www.who.int/hac/herams/en//>`_. للأسئلة الإضافية "
-"التي لم يتم تغطيتها في هذا الدليل ، يرجى الاتصال `'بفريق دعم هيرامس "
-"<mailto:herams@who.int?>`_."
+"تجدر الإشارة إلى أن دليل المستخدم لا يتناول سوى القضايا المتعلقة 'بمنصة "
+"`هيرامس <HeRAMS <https://herams.org/user/login/>`_. للحصول على معلومات "
+"عامة حول نهج هيرامس وللحصول على إرشادات فنية ، يرجى الرجوع إلى 'صفحة `ويب"
+" WHO HeRAMS الرسمية <https://www.who.int/hac/herams/en//>`_. للأسئلة "
+"الإضافية التي لم يتم تغطيتها في هذا الدليل ، يرجى الاتصال `'بفريق دعم "
+"هيرامس <mailto:herams@who.int?>`_."
 
 #: ../docs/index.rst:21
 msgid "Getting started"
@@ -99,8 +98,8 @@ msgid ""
 "<https://herams.org/user/register/>`_ link located just above the |login|"
 " button."
 msgstr ""
-"في صفحة تسجيل الدخول ، انقر فوق رابط `الاشتراك <https://herams.org/user/"
-"register/>` _ الموجود أعلى زر |login|."
+"في صفحة تسجيل الدخول ، انقر فوق رابط `الاشتراك "
+"<https://herams.org/user/register/>` _ الموجود أعلى زر |login|."
 
 #: ../docs/index.rst:39
 msgid "On the page that opens, enter your details."
@@ -360,11 +359,11 @@ msgid ""
 "<mailto:herams@who.int?>`_ specifying your function and role as well as a"
 " brief explanation why you would like to access the dashboard."
 msgstr ""
-"يقتصر الوصول إلى لوحات معلومات المشروع على المستخدمين المحددين. إذا كنت ترغب "
-"في الحصول على حق الوصول إلى لوحة معلومات المشروع، فيرجى الاتصال بمسئول "
-"التنسيق في بلدك أو إرسال بريد إلكتروني إلى `<?herams@who.int "
-"<mailto:herams@who.int`_ مع تحديد وظيفتك ودورك بالنسبة لمشروع هيرامس وكذلك "
-"شرح موجز عن سبب رغبتك في الوصول إلى لوحة القيادة."
+"يقتصر الوصول إلى لوحات معلومات المشروع على المستخدمين المحددين. إذا كنت "
+"ترغب في الحصول على حق الوصول إلى لوحة معلومات المشروع، فيرجى الاتصال "
+"بمسئول التنسيق في بلدك أو إرسال بريد إلكتروني إلى `<?herams@who.int "
+"<mailto:herams@who.int`_ مع تحديد وظيفتك ودورك بالنسبة لمشروع هيرامس "
+"وكذلك شرح موجز عن سبب رغبتك في الوصول إلى لوحة القيادة."
 
 #: ../docs/index.rst:139
 msgid "Project Dashboard"
@@ -600,9 +599,10 @@ msgstr ""
 "الرعاية الصحية الأولية والثانوية والثالثية) ؛ و"
 
 #: ../docs/index.rst:234
+#, fuzzy
 msgid ""
-"donout charts to summarize different indicators, such as level of damage,"
-" functionality status, accessibility and service availability in the "
+"donut charts to summarize different indicators, such as level of damage, "
+"functionality status, accessibility and service availability in the "
 "assessed health facility."
 msgstr ""
 "مخططات دونات لتلخيص مؤشرات مختلفة ، مثل مستوى الضرر ، وحالة الوظيفة ، "
@@ -630,8 +630,9 @@ msgid "a map to spot the distribution and number of health facilities by type;"
 msgstr "خريطة لتحديد توزيع وعدد المنشآت الصحية حسب النوع،"
 
 #: ../docs/index.rst:248
+#, fuzzy
 msgid ""
-"donout charts to illustrate **Mo**\\des of **S**\\ervice **D**\\elivery "
+"donut charts to illustrate **Mo**\\des of **S**\\ervice **D**\\elivery "
 "(**MoSD**\\s) by type as well as the modality of the building structure "
 "(permanent vs. temporary); and"
 msgstr ""
@@ -665,8 +666,9 @@ msgstr ""
 "بالمبنى (أي حالة المبنى)،"
 
 #: ../docs/index.rst:261
+#, fuzzy
 msgid ""
-"donout charts summarizing the reported level of building damage by level "
+"donut charts summarizing the reported level of building damage by level "
 "of severity as well as the distribution of MoSD by type; and"
 msgstr ""
 "مخططات دونات التي تلخص مستوى أضرار المباني المبلغ عنها حسب مستوى الشدة "
@@ -698,8 +700,9 @@ msgid ""
 msgstr "خريطة لتحديد توزيع وعدد وسائل تقديم الخدمة وفقا لحالة العمل،"
 
 #: ../docs/index.rst:274
+#, fuzzy
 msgid ""
-"donout charts to summarize the level of functionality as well as main "
+"donut charts to summarize the level of functionality as well as main "
 "causes of non-functionality; and"
 msgstr "مخططات دونات لتلخيص مستوى حالة العمل وكذلك الأسباب الرئيسية لعدم العمل؛ و"
 
@@ -732,9 +735,10 @@ msgid ""
 msgstr "خريطة لتحديد توزيع وعدد وسائل تقديم الخدمة وفقا لامكانية الوصول،"
 
 #: ../docs/index.rst:287
+#, fuzzy
 msgid ""
-"donout charts to summarize the level of accessibility per number of MoSDs"
-" as well as the reported causes of inaccessibility per number of MoSDs; "
+"donut charts to summarize the level of accessibility per number of MoSDs "
+"as well as the reported causes of inaccessibility per number of MoSDs; "
 "and"
 msgstr ""
 "مخططات دونات لتلخيص مستوى إمكانية الوصول بحسب عدد وسائل تقديم الخدمة "
@@ -787,7 +791,8 @@ msgid "External support:"
 msgstr "الدعم الخارجي:"
 
 #: ../docs/index.rst:306
-msgid "A donout  chart to illustrate the level of support provided by partners."
+#, fuzzy
+msgid "A donut  chart to illustrate the level of support provided by partners."
 msgstr "مخطط دونات لتوضيح مستوى الدعم المقدم من الشركاء."
 
 #: ../docs/index.rst:313
@@ -835,8 +840,9 @@ msgstr ""
 "اختيارها;"
 
 #: ../docs/index.rst:331
+#, fuzzy
 msgid ""
-"donout charts to summarize the level of service availability as well as "
+"donut charts to summarize the level of service availability as well as "
 "the underlying causes of unavailability of the service; and"
 msgstr ""
 "مخططات دونات لتلخيص مستوى توفر الخدمة وكذلك الأسباب الكامنة وراء عدم توفر"
@@ -3137,3 +3143,4 @@ msgstr ""
 #~ "فيرجى الاتصال بمسؤول النظام أو إرسال "
 #~ "بريد إلكتروني إلى `<?hearms@who.int "
 #~ "<mailto:herams@who.int`_."
+

@@ -5,19 +5,18 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: HeRAMS\n"
+"Project-Id-Version:  HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-29 08:46+0000\n"
+"POT-Creation-Date: 2019-10-29 09:52+0000\n"
 "PO-Revision-Date: 2019-10-29 09:45+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
-"Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
-"herams-user-guide/fr/>\n"
 "Language: fr\n"
+"Language-Team: French <https://weblate.herams-staging.org/projects/herams"
+"/herams-user-guide/fr/>\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
@@ -91,8 +90,8 @@ msgid ""
 "To register as a new user, open the link `herams.org "
 "<https://herams.org>`_ in your browser."
 msgstr ""
-"Pour vous inscrire comme nouvel utilisateur, veuillez ouvrir le lien `"
-"herams.org <https://herams.org.>`_ dans votre navigateur."
+"Pour vous inscrire comme nouvel utilisateur, veuillez ouvrir le lien "
+"`herams.org <https://herams.org.>`_ dans votre navigateur."
 
 #: ../docs/index.rst:30 ../docs/index.rst:62 ../docs/index.rst:77
 msgid "It is strongly recommended to either user FireFox or Chrome."
@@ -149,8 +148,8 @@ msgstr ""
 #: ../docs/index.rst:58 ../docs/index.rst:75
 msgid "Open the link `herams.org <https://herams.org>`_ in your browser."
 msgstr ""
-"Veuillez ouvrir le lien `https://herams.org <https://herams.org>` dans votre "
-"navigateur."
+"Veuillez ouvrir le lien `https://herams.org <https://herams.org>` dans "
+"votre navigateur."
 
 #: ../docs/index.rst:59
 msgid "Enter your email address and password in the designated fields."
@@ -169,8 +168,8 @@ msgstr "Se déconnecter"
 #: ../docs/index.rst:67
 msgid "To logout click the |logout| button in the top right corner of the screen."
 msgstr ""
-"Pour vous déconnecter, veuillez cliquer sur le bouton |logout| dans le coin "
-"en haut à droite de l'écran."
+"Pour vous déconnecter, veuillez cliquer sur le bouton |logout| dans le "
+"coin en haut à droite de l'écran."
 
 #: ../docs/index.rst:71
 msgid "Reset password"
@@ -303,16 +302,17 @@ msgid ""
 "Click on the `Account <https://herams.org/user/settings/account>`_ link "
 "to access your account information."
 msgstr ""
-"Veuillez cliquer sur le lien `Account <https://herams.org/user/settings/"
-"account>`_ pour accéder aux informations de votre compte."
+"Veuillez cliquer sur le lien `Account "
+"<https://herams.org/user/settings/account>`_ pour accéder aux "
+"informations de votre compte."
 
 #: ../docs/index.rst:111
 msgid ""
 "On the page opening, you should be able to change your email address and "
 "enter a new password."
 msgstr ""
-"Dans la page qui s'affiche, vous devriez pouvoir changer votre adresse email "
-"et entrer un nouveau mot de passe."
+"Dans la page qui s'affiche, vous devriez pouvoir changer votre adresse "
+"email et entrer un nouveau mot de passe."
 
 #: ../docs/index.rst:112
 msgid "Make sure to click the |submit| button to confirm your changes."
@@ -409,9 +409,9 @@ msgid ""
 " the project summary by clicking the corresponding blue dot on the world "
 "map."
 msgstr ""
-"Pour afficher le tableau de bord, veuillez d'abord choisir votre projet soit "
-"par cliquer sur le nom du projet dans le volet de navigation situé à gauche, "
-"soit en cliquant sur le projet dans la carte mondiale."
+"Pour afficher le tableau de bord, veuillez d'abord choisir votre projet "
+"soit par cliquer sur le nom du projet dans le volet de navigation situé à"
+" gauche, soit en cliquant sur le projet dans la carte mondiale."
 
 #: ../docs/index.rst:144
 msgid ""
@@ -490,10 +490,10 @@ msgid ""
 "select your filter criteria. Repeat this process until you have added all"
 " the desired filter criteria."
 msgstr ""
-"Vous devriez maintenant voir la page la page de configuration des filtres. "
-"Veuillez utuliser la liste déroulante pour sélectionner vos critères de "
-"filtrage. Répétez cette procédure jusqu'à ce que vous ayez ajouté tous les "
-"critères de filtrage souhaités."
+"Vous devriez maintenant voir la page la page de configuration des "
+"filtres. Veuillez utuliser la liste déroulante pour sélectionner vos "
+"critères de filtrage. Répétez cette procédure jusqu'à ce que vous ayez "
+"ajouté tous les critères de filtrage souhaités."
 
 #: ../docs/index.rst:180
 msgid ""
@@ -640,22 +640,23 @@ msgstr ""
 "soins (p. ex. les FOSA de santé primaires, secondaires et tertiaires); et"
 
 #: ../docs/index.rst:234
+#, fuzzy
 msgid ""
-"donout charts to summarize different indicators, such as level of damage,"
-" functionality status, accessibility and service availability in the "
+"donut charts to summarize different indicators, such as level of damage, "
+"functionality status, accessibility and service availability in the "
 "assessed health facility."
 msgstr ""
-"des graphiques en anneau résumant différents indicateurs, tels que le niveau "
-"de dommage, l'état de fonctionnalité, l'accessibilité et la disponibilité "
-"des services dans les FOSA évalué."
+"des graphiques en anneau résumant différents indicateurs, tels que le "
+"niveau de dommage, l'état de fonctionnalité, l'accessibilité et la "
+"disponibilité des services dans les FOSA évalué."
 
 #: ../docs/index.rst:236
 msgid ""
 "The service availability indicator is country-specific. Thus, direct "
 "comparisons from one country to another should be avoided."
 msgstr ""
-"La disponibilité des services est spécifique au pays. Pour cette raison, les "
-"comparaisons directes d'un pays à l'autre doivent être évitées."
+"La disponibilité des services est spécifique au pays. Pour cette raison, "
+"les comparaisons directes d'un pays à l'autre doivent être évitées."
 
 #: ../docs/index.rst:243
 msgid "Infrastructure"
@@ -671,7 +672,7 @@ msgstr ""
 
 #: ../docs/index.rst:248
 msgid ""
-"donout charts to illustrate **Mo**\\des of **S**\\ervice **D**\\elivery "
+"donut charts to illustrate **Mo**\\des of **S**\\ervice **D**\\elivery "
 "(**MoSD**\\s) by type as well as the modality of the building structure "
 "(permanent vs. temporary); and"
 msgstr ""
@@ -699,7 +700,7 @@ msgstr ""
 
 #: ../docs/index.rst:261
 msgid ""
-"donout charts summarizing the reported level of building damage by level "
+"donut charts summarizing the reported level of building damage by level "
 "of severity as well as the distribution of MoSD by type; and"
 msgstr ""
 
@@ -728,7 +729,7 @@ msgstr ""
 
 #: ../docs/index.rst:274
 msgid ""
-"donout charts to summarize the level of functionality as well as main "
+"donut charts to summarize the level of functionality as well as main "
 "causes of non-functionality; and"
 msgstr ""
 
@@ -757,8 +758,8 @@ msgstr ""
 
 #: ../docs/index.rst:287
 msgid ""
-"donout charts to summarize the level of accessibility per number of MoSDs"
-" as well as the reported causes of inaccessibility per number of MoSDs; "
+"donut charts to summarize the level of accessibility per number of MoSDs "
+"as well as the reported causes of inaccessibility per number of MoSDs; "
 "and"
 msgstr ""
 
@@ -800,7 +801,7 @@ msgid "External support:"
 msgstr ""
 
 #: ../docs/index.rst:306
-msgid "A donout  chart to illustrate the level of support provided by partners."
+msgid "A donut  chart to illustrate the level of support provided by partners."
 msgstr ""
 
 #: ../docs/index.rst:313
@@ -841,7 +842,7 @@ msgstr ""
 
 #: ../docs/index.rst:331
 msgid ""
-"donout charts to summarize the level of service availability as well as "
+"donut charts to summarize the level of service availability as well as "
 "the underlying causes of unavailability of the service; and"
 msgstr ""
 
@@ -4438,3 +4439,45 @@ msgstr ""
 #~ " data. To correct the issue, follow"
 #~ " the instruction outlined `here`__."
 #~ msgstr ""
+
+#~ msgid ""
+#~ "donout charts to illustrate **Mo**\\des "
+#~ "of **S**\\ervice **D**\\elivery (**MoSD**\\s) "
+#~ "by type as well as the modality"
+#~ " of the building structure (permanent "
+#~ "vs. temporary); and"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "donout charts summarizing the reported "
+#~ "level of building damage by level "
+#~ "of severity as well as the "
+#~ "distribution of MoSD by type; and"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "donout charts to summarize the level "
+#~ "of functionality as well as main "
+#~ "causes of non-functionality; and"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "donout charts to summarize the level "
+#~ "of accessibility per number of MoSDs "
+#~ "as well as the reported causes of"
+#~ " inaccessibility per number of MoSDs; "
+#~ "and"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A donout  chart to illustrate the "
+#~ "level of support provided by partners."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "donout charts to summarize the level "
+#~ "of service availability as well as "
+#~ "the underlying causes of unavailability "
+#~ "of the service; and"
+#~ msgstr ""
+
