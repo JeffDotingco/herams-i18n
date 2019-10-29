@@ -5,19 +5,20 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  HeRAMS\n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-29 09:52+0000\n"
-"PO-Revision-Date: 2019-10-29 09:45+0000\n"
-"Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"PO-Revision-Date: 2019-10-29 14:40+0000\n"
+"Last-Translator: Fatma Giha <gihaf@who.int>\n"
+"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
+"herams-user-guide/ar/>\n"
 "Language: ar\n"
-"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams"
-"/herams-user-guide/ar/>\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
-"n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
@@ -599,23 +600,21 @@ msgstr ""
 "الرعاية الصحية الأولية والثانوية والثالثية) ؛ و"
 
 #: ../docs/index.rst:234
-#, fuzzy
 msgid ""
 "donut charts to summarize different indicators, such as level of damage, "
 "functionality status, accessibility and service availability in the "
 "assessed health facility."
 msgstr ""
-"مخططات دونات لتلخيص مؤشرات مختلفة ، مثل مستوى الضرر ، وحالة الوظيفة ، "
-"وسهولة الوصول وتوافر الخدمة في المنشأة الصحية التي تم تقييمها."
+"مخططات دونات لتلخيص مؤشرات مختلفة، مثل مستوى الضرر، وحالة الوظيفة، وسهولة "
+"الوصول وتوافر الخدمة في المنشأة الصحية التي تم تقييمها."
 
 #: ../docs/index.rst:236
-#, fuzzy
 msgid ""
 "The service availability indicator is country-specific. Thus, direct "
 "comparisons from one country to another should be avoided."
 msgstr ""
-"مؤشر توفر الخدمة خاص بكل بلد. وبالتالي ، ينبغي تجنب المقارنات المباشرة من"
-" بلد إلى آخر."
+"مؤشر توفر الخدمة خاص بكل بلد. وبالتالي، ينبغي تجنب المقارنات المباشرة من بلد "
+"إلى آخر."
 
 #: ../docs/index.rst:243
 msgid "Infrastructure"
@@ -630,14 +629,13 @@ msgid "a map to spot the distribution and number of health facilities by type;"
 msgstr "خريطة لتحديد توزيع وعدد المنشآت الصحية حسب النوع،"
 
 #: ../docs/index.rst:248
-#, fuzzy
 msgid ""
 "donut charts to illustrate **Mo**\\des of **S**\\ervice **D**\\elivery "
 "(**MoSD**\\s) by type as well as the modality of the building structure "
 "(permanent vs. temporary); and"
 msgstr ""
-"مخططات دونات لتوضيح ** Mo ** \\ des of ** S ** \\ service ** التسليم (** "
-"MoDE ** \\ s) حسب النوع وكذلك طريقة هيكل المبنى (دائم مقابل مؤقت) ؛ و"
+"مخططات دونات لتوضيح **Mo**\\des of **S**\\ervice **D**\\elivery (**MoSD**\\s)"
+" حسب النوع وكذلك طريقة هيكل المبنى (دائم مقابل مؤقت)؛ و"
 
 #: ../docs/index.rst:249
 msgid "a table to illustrate reported accessibility barriers."
@@ -666,13 +664,12 @@ msgstr ""
 "بالمبنى (أي حالة المبنى)،"
 
 #: ../docs/index.rst:261
-#, fuzzy
 msgid ""
 "donut charts summarizing the reported level of building damage by level "
 "of severity as well as the distribution of MoSD by type; and"
 msgstr ""
-"مخططات دونات التي تلخص مستوى أضرار المباني المبلغ عنها حسب مستوى الشدة "
-"وكذلك توزيع وسائل تقديم الخدمة حسب النوع؛ و"
+"مخططات دونات التي تلخص مستوى أضرار المباني المبلغ عنها حسب مستوى الشدة وكذلك "
+"توزيع وسائل تقديم الخدمة حسب النوع؛ و"
 
 #: ../docs/index.rst:262
 msgid ""
@@ -700,11 +697,11 @@ msgid ""
 msgstr "خريطة لتحديد توزيع وعدد وسائل تقديم الخدمة وفقا لحالة العمل،"
 
 #: ../docs/index.rst:274
-#, fuzzy
 msgid ""
 "donut charts to summarize the level of functionality as well as main "
 "causes of non-functionality; and"
-msgstr "مخططات دونات لتلخيص مستوى حالة العمل وكذلك الأسباب الرئيسية لعدم العمل؛ و"
+msgstr ""
+"مخططات دونات لتلخيص مستوى حالة العمل وكذلك الأسباب الرئيسية لعدم العمل؛ و"
 
 #: ../docs/index.rst:275
 msgid ""
@@ -735,14 +732,13 @@ msgid ""
 msgstr "خريطة لتحديد توزيع وعدد وسائل تقديم الخدمة وفقا لامكانية الوصول،"
 
 #: ../docs/index.rst:287
-#, fuzzy
 msgid ""
 "donut charts to summarize the level of accessibility per number of MoSDs "
 "as well as the reported causes of inaccessibility per number of MoSDs; "
 "and"
 msgstr ""
-"مخططات دونات لتلخيص مستوى إمكانية الوصول بحسب عدد وسائل تقديم الخدمة "
-"وكذلك الأسباب المبلغ عنها لعدم الوصول حسب عدد وسائل تقديم الخدمة؛ و"
+"مخططات دونات لتلخيص مستوى إمكانية الوصول بحسب عدد وسائل تقديم الخدمة وكذلك "
+"الأسباب المبلغ عنها لعدم الوصول حسب عدد وسائل تقديم الخدمة؛ و"
 
 #: ../docs/index.rst:288
 msgid ""
@@ -778,7 +774,6 @@ msgstr ""
 "والخاصة والعقائدية والمنظمات غير الحكومية الوطنية / العالمية)."
 
 #: ../docs/index.rst:302
-#, fuzzy
 msgid ""
 "A donut chart to highlight the categories of ownership as a percentage of"
 " the total number of MoSDs."
@@ -791,7 +786,6 @@ msgid "External support:"
 msgstr "الدعم الخارجي:"
 
 #: ../docs/index.rst:306
-#, fuzzy
 msgid "A donut  chart to illustrate the level of support provided by partners."
 msgstr "مخطط دونات لتوضيح مستوى الدعم المقدم من الشركاء."
 
@@ -800,13 +794,12 @@ msgid "Basic Amenities"
 msgstr "المرافق الأساسية"
 
 #: ../docs/index.rst:315
-#, fuzzy
 msgid ""
 "Information on **Basic Amenities** is presented in a series of subpages. "
 "Each subpage is dedicated to a particular category and includes:"
 msgstr ""
-"يتم تقديم معلومات عن ** المرافق الأساسية ** في سلسلة من الصفحات الفرعية. "
-"كل صفحة فرعية مخصصة لفئة معينة وتشمل:"
+"يتم تقديم معلومات عن **المرافق الأساسية ** في سلسلة من الصفحات الفرعية. كل "
+"صفحة فرعية مخصصة لفئة معينة وتشمل:"
 
 #: ../docs/index.rst:317
 msgid "a map displying the availability and sufficiency of the basic amenity; and"
@@ -3143,4 +3136,3 @@ msgstr ""
 #~ "فيرجى الاتصال بمسؤول النظام أو إرسال "
 #~ "بريد إلكتروني إلى `<?hearms@who.int "
 #~ "<mailto:herams@who.int`_."
-
