@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  HeRAMS\n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-29 08:46+0000\n"
-"PO-Revision-Date: 2019-09-20 15:39+0000\n"
+"PO-Revision-Date: 2019-10-29 09:33+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
+"herams-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French <https://weblate.herams-staging.org/projects/herams"
-"/herrams-user-guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
@@ -86,13 +87,12 @@ msgstr ""
 "d'utilisateur."
 
 #: ../docs/index.rst:28
-#, fuzzy
 msgid ""
 "To register as a new user, open the link `herams.org "
 "<https://herams.org>`_ in your browser."
 msgstr ""
-"Pour vous inscrire comme nouvel utilisateur, veuillez ouvrir le lien "
-"`herams.org <https://herams.org.>`_ dans votre navigateur."
+"Pour vous inscrire comme nouvel utilisateur, veuillez ouvrir le lien `"
+"herams.org <https://herams.org.>`_ dans votre navigateur."
 
 #: ../docs/index.rst:30 ../docs/index.rst:62 ../docs/index.rst:77
 msgid "It is strongly recommended to either user FireFox or Chrome."
@@ -147,11 +147,10 @@ msgstr ""
 "d'utilisateur veuillez suivez les instructions `ici`__."
 
 #: ../docs/index.rst:58 ../docs/index.rst:75
-#, fuzzy
 msgid "Open the link `herams.org <https://herams.org>`_ in your browser."
 msgstr ""
-"Veuillez ouvrir le lien `https://herams.org <https://herams.org>` dans "
-"votre navigateur."
+"Veuillez ouvrir le lien `https://herams.org <https://herams.org>` dans votre "
+"navigateur."
 
 #: ../docs/index.rst:59
 msgid "Enter your email address and password in the designated fields."
@@ -168,25 +167,22 @@ msgid "Logging out"
 msgstr "Se déconnecter"
 
 #: ../docs/index.rst:67
-#, fuzzy
 msgid "To logout click the |logout| button in the top right corner of the screen."
 msgstr ""
-"Si vous êtes sur un système partagé, veuillez-vous assurer que vous vous "
-"déconnectez lorsque vous aurez terminé. Pour vous déconnecter, veuillez "
-"cliquer sur le bouton |logout| dans le coin en haut à droite de l'écran."
+"Pour vous déconnecter, veuillez cliquer sur le bouton |logout| dans le coin "
+"en haut à droite de l'écran."
 
 #: ../docs/index.rst:71
 msgid "Reset password"
 msgstr "Réinitialiser le mot de passe"
 
 #: ../docs/index.rst:73
-#, fuzzy
 msgid ""
 "In case you forgot your password, the instruction below will guide you "
 "through the steps to reset your password."
 msgstr ""
-"Dans le cas où vous auriez oublié votre mot de passe,  les instructions "
-"ci-dessous vous guiderons dans la réinitialisation de votre mot de passe."
+"Si vous avez oublié votre mot de passe, l'instruction ci-dessous vous "
+"guidera à travers les étapes pour réinitialiser votre mot de passe."
 
 #: ../docs/index.rst:79
 msgid ""
@@ -236,7 +232,6 @@ msgstr ""
 "minutes,  veuillez vérifier votre dossier \"courrier indésirable\"."
 
 #: ../docs/index.rst:88
-#, fuzzy
 msgid "On the page that opens, enter your new password."
 msgstr "Dans la page qui s’affiche, veuillez saisir votre nouvel mot de passe."
 
@@ -4454,4 +4449,3 @@ msgstr ""
 #~ " data. To correct the issue, follow"
 #~ " the instruction outlined `here`__."
 #~ msgstr ""
-
