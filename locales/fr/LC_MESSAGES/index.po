@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-29 09:52+0000\n"
+"POT-Creation-Date: 2019-10-30 09:25+0000\n"
 "PO-Revision-Date: 2019-10-29 09:45+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language: fr\n"
@@ -24,9 +24,10 @@ msgid "Introduction"
 msgstr "Introduction"
 
 #: ../docs/index.rst:10
+#, fuzzy
 msgid ""
 "Welcome to the **HeRAMS User Guide**. This user guide was designed for "
-"users of the `HeRAMS platform <https://herams.org/user/login/>`_. It "
+"users of the `HeRAMS platform <https://herams.org/user/login>`_. It "
 "provides step-by-step instruction on how to register and access the "
 "platform as well as a brief overview on key components of the platform, "
 "including detailed information on how to explore the available data using"
@@ -48,9 +49,10 @@ msgstr ""
 "du projet`__."
 
 #: ../docs/index.rst:16
+#, fuzzy
 msgid ""
 "It should be noted that the guide only addresses issues related to the "
-"`HeRAMS platform <https://herams.org/user/login/>`_. For general "
+"`HeRAMS platform <https://herams.org/user/login>`_. For general "
 "information on the HeRAMS approach and for technical guidance please "
 "consult the official `WHO HeRAMS webpage "
 "<https://www.who.int/hac/herams/en//>`_. For additional questions that "
@@ -75,10 +77,11 @@ msgid "Creating a User Account"
 msgstr "Créer un compte d'utilisateur"
 
 #: ../docs/index.rst:26
+#, fuzzy
 msgid ""
 "This chapter provides step-by-step instructions on how to access the "
-"`HeRAMS platform <https://herams.org/user/login/>`_, create a user "
-"account and update your user profile."
+"`HeRAMS platform <https://herams.org/user/login>`_, create a user account"
+" and update your user profile."
 msgstr ""
 "Ce chapitre fournit des instructions étape par étape sur la manière "
 "d'accéder à la `plate-forme HeRAMS <https://herams.org/user/login/>`_, de"
@@ -98,10 +101,11 @@ msgid "It is strongly recommended to either user FireFox or Chrome."
 msgstr "Il est fortement recommandé d'utuliser les navigateurs FireFox ou Chrome."
 
 #: ../docs/index.rst:32
+#, fuzzy
 msgid ""
 "On the sign-in page, click the `sign up "
-"<https://herams.org/user/register/>`_ link located just above the |login|"
-" button."
+"<https://herams.org/user/register>`_ link located just above the |login| "
+"button."
 msgstr ""
 "Dans la page d'ouverture, veuillez cliquer sur le lien `sign up "
 "<https://herams.org/user/register/>`_, situé au-dessus du bouton de "
@@ -184,10 +188,10 @@ msgstr ""
 "guidera à travers les étapes pour réinitialiser votre mot de passe."
 
 #: ../docs/index.rst:79
+#, fuzzy
 msgid ""
 "On the sign in page, click the `reset password "
-"<https://herams.org/user/forgot/>`_ link located below the password "
-"field."
+"<https://herams.org/user/forgot>`_ link located below the password field."
 msgstr ""
 "Sur la page d'ouverture de session, veuillez cliquer sur le lien`reset "
 "password <https://herams.org/user/forgot/>`_ situé en dessous du champs "
@@ -239,9 +243,10 @@ msgid "Click the |submit| button to confirm your new password."
 msgstr "Confirmez votre nouvel mot de passe en cliquant le bouton |submit|."
 
 #: ../docs/index.rst:90
+#, fuzzy
 msgid ""
 "To login into HeRAMS, return to the `sign in page "
-"<https://herams.org/user/login/>`_."
+"<https://herams.org/user/login>`_."
 msgstr ""
 "Pour se connecter à la plate-forme HeRAMS, veuillez retourner à la `page "
 "de connexion  <https://herams.org/user/login/>`_."
