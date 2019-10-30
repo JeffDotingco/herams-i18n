@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  HeRAMS\n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-30 09:25+0000\n"
-"PO-Revision-Date: 2019-10-29 09:45+0000\n"
+"PO-Revision-Date: 2019-10-30 14:40+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
+"herams-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French <https://weblate.herams-staging.org/projects/herams"
-"/herams-user-guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
@@ -674,6 +675,8 @@ msgstr "La page **infrastructure** affiche une analyse descriptive, y compris:"
 #: ../docs/index.rst:247
 msgid "a map to spot the distribution and number of health facilities by type;"
 msgstr ""
+"une carte permettant de repérer la répartition et le nombre d'établissements "
+"de santé par type ;"
 
 #: ../docs/index.rst:248
 msgid ""
@@ -681,14 +684,18 @@ msgid ""
 "(**MoSD**\\s) by type as well as the modality of the building structure "
 "(permanent vs. temporary); and"
 msgstr ""
+"des graphiques de beignes pour illustrer  les modes de prestation des series "
+"(**MoSD**\\s, angl. *Mo**\\des of **S**\\ervice **D**\\elivery)  par type "
+"ainsi que la modalité de la structure du bâtiment (permanente vs. temporaire)"
+" ; et"
 
 #: ../docs/index.rst:249
 msgid "a table to illustrate reported accessibility barriers."
-msgstr ""
+msgstr "un tableau pour illustrer les obstacles à l'accessibilité signalés."
 
 #: ../docs/index.rst:256
 msgid "Condition"
-msgstr ""
+msgstr "État"
 
 #: ../docs/index.rst:258
 msgid ""
@@ -696,28 +703,40 @@ msgid ""
 "buildings following a standard classification and scale (Not Damaged to "
 "Fully Damaged). Information is visualized as:"
 msgstr ""
+"La page **état** affiche le niveau de dommages signalés au bâtiment "
+"d'établissements de santé selon une classification et une échelle standard ("
+"Non endommagée à entièrement endommagé). L'information est visualisée sous "
+"la forme :"
 
 #: ../docs/index.rst:260
 msgid ""
 "a map to spot the distribution and number of health facilities according "
 "to the level of building damage (i.e. condition);"
 msgstr ""
+"une carte permettant de repérer la répartition et le nombre d'établissements "
+"de santé en fonction de l'ampleur des dégâts causés aux bâtiments (c'est-à-"
+"dire l'état) ;"
 
 #: ../docs/index.rst:261
 msgid ""
 "donut charts summarizing the reported level of building damage by level "
 "of severity as well as the distribution of MoSD by type; and"
 msgstr ""
+"des graphique de beignes résumant le niveau de dommages aux bâtiments "
+"signalé  par niveau de gravité ainsi que la répartition des établissements "
+"de santé par type ; et"
 
 #: ../docs/index.rst:262
 msgid ""
 "a table to provide the name of the prioritized localities in terms of "
 "damage and their main causes."
 msgstr ""
+"un tableau indiquant le nom des localités prioritaires en termes de dégâts "
+"et leurs principales causes."
 
 #: ../docs/index.rst:269
 msgid "Functionality"
-msgstr ""
+msgstr "Fonctionnalité"
 
 #: ../docs/index.rst:271
 msgid ""
@@ -725,28 +744,37 @@ msgid ""
 "MoSDs following a standard classification and scale (Fully Functioning to"
 " Not Functioning) represented as:"
 msgstr ""
+"La page **Fonctionnalité** affiche le niveau de fonctionnalité des "
+"estabilissement de santé selon une classification et une échelle standard ("
+"Fonctionnement complet ou non fonctionnel) représentées par :"
 
 #: ../docs/index.rst:273
 msgid ""
 "a map to spot the distribution and number of MoSDs according to the "
 "functionality status;"
 msgstr ""
+"une carte permettant de repérer la répartition et le nombre d'établissements "
+"de santé en fonction de leur état fonctionnel ;"
 
 #: ../docs/index.rst:274
 msgid ""
 "donut charts to summarize the level of functionality as well as main "
 "causes of non-functionality; and"
 msgstr ""
+"des graphiques de beignes pour résumer le niveau de fonctionnalité ainsi que "
+"les principales causes de non-fonctionnalité ; et"
 
 #: ../docs/index.rst:275
 msgid ""
 "a table displays the list of priority areas in terms of non-functional "
 "health facilities and reported causes."
 msgstr ""
+"un tableau présentant la liste des domaines prioritaires en termes "
+"d'établissements de santé non fonctionnels et de causes signalées."
 
 #: ../docs/index.rst:282
 msgid "Accessibility"
-msgstr ""
+msgstr "Accessibilité"
 
 #: ../docs/index.rst:284
 msgid ""
@@ -754,12 +782,17 @@ msgid ""
 "following a standard classification and scale (Fully Accessible to Not "
 "Accessible) in the form of:"
 msgstr ""
+"La page **Accessibilité** affiche le niveau d'accès aux établissements de "
+"santé selon une classification et une échelle standard (entièrement "
+"accessible à non accessible) sous la forme de :"
 
 #: ../docs/index.rst:286
 msgid ""
 "a map to spot the distribution and number of MoSDs according to the "
 "accessibility status;"
 msgstr ""
+"une carte permettant de repérer la répartition et le nombre de MoSD en "
+"fonction de l'état d'accessibilité ;"
 
 #: ../docs/index.rst:287
 msgid ""
@@ -4485,4 +4518,3 @@ msgstr ""
 #~ "the underlying causes of unavailability "
 #~ "of the service; and"
 #~ msgstr ""
-
