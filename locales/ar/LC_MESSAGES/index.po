@@ -5,19 +5,20 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  HeRAMS\n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-30 09:25+0000\n"
-"PO-Revision-Date: 2019-10-29 18:40+0000\n"
+"PO-Revision-Date: 2019-10-30 14:40+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
+"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
+"herams-user-guide/ar/>\n"
 "Language: ar\n"
-"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams"
-"/herams-user-guide/ar/>\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
-"n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
@@ -25,7 +26,6 @@ msgid "Introduction"
 msgstr "المقدمة"
 
 #: ../docs/index.rst:10
-#, fuzzy
 msgid ""
 "Welcome to the **HeRAMS User Guide**. This user guide was designed for "
 "users of the `HeRAMS platform <https://herams.org/user/login>`_. It "
@@ -37,17 +37,16 @@ msgid ""
 "advanced topics related to user management and project administration, "
 "please consult the `Project Administration`__ section."
 msgstr ""
-"مرحبًا بك في  **دليل مستخدم  هيرامس**. تم تصميم دليل المستخدم هذا "
-"لمستخدمي `منصة هيرامس <https://herams.org/user/login>`_.  وهو يوفر "
-"إرشادات خطوة بخطوة حول كيفية التسجيل والدخول للنظام بالإضافة إلى نظرة "
-"عامة مختصرة على المكونات الرئيسية لنظام هيرامس، بما في ذلك معلومات مفصلة "
-"حول كيفية استكشاف البيانات المتاحة باستخدام لوحات المعلومات التفاعلية. "
-"يمكن لمديري البيانات العثور على معلومات إضافية حول كيفية تحرير البيانات "
-"في قسم `تحرير البيانات`_. لمزيد من الموضوعات المتقدمة المتعلقة بإدارة "
-"المستخدمين وإدارة المشروع، يرجى الرجوع إلى قسم `إدارة المشروع`_."
+"مرحبًا بك في **دليل مستخدم  هيرامس**. تم تصميم دليل المستخدم هذا لمستخدمي `"
+"منصة هيرامس <https://herams.org/user/login>`_. وهو يوفر إرشادات خطوة بخطوة "
+"حول كيفية التسجيل والدخول للنظام بالإضافة إلى نظرة عامة مختصرة على المكونات "
+"الرئيسية لنظام هيرامس، بما في ذلك معلومات مفصلة حول كيفية استكشاف البيانات "
+"المتاحة باستخدام لوحات المعلومات التفاعلية. يمكن لمديري البيانات العثور على "
+"معلومات إضافية حول كيفية تحرير البيانات في قسم `تحرير البيانات`_. لمزيد من "
+"الموضوعات المتقدمة المتعلقة بإدارة المستخدمين وإدارة المشروع، يرجى الرجوع "
+"إلى قسم `إدارة المشروع`_."
 
 #: ../docs/index.rst:16
-#, fuzzy
 msgid ""
 "It should be noted that the guide only addresses issues related to the "
 "`HeRAMS platform <https://herams.org/user/login>`_. For general "
@@ -58,11 +57,11 @@ msgid ""
 "<mailto:herams@who.int?>`_."
 msgstr ""
 "تجدر الإشارة إلى أن دليل المستخدم لا يتناول سوى القضايا المتعلقة 'بمنصة "
-"`هيرامس <HeRAMS <https://herams.org/user/login/>`_. للحصول على معلومات "
-"عامة حول نهج هيرامس وللحصول على إرشادات فنية ، يرجى الرجوع إلى 'صفحة `ويب"
-" WHO HeRAMS الرسمية <https://www.who.int/hac/herams/en//>`_. للأسئلة "
-"الإضافية التي لم يتم تغطيتها في هذا الدليل ، يرجى الاتصال `'بفريق دعم "
-"هيرامس <mailto:herams@who.int?>`_."
+"هيرامس <HeRAMS <https://herams.org/user/login/>`_. للحصول على معلومات عامة "
+"حول نهج هيرامس وللحصول على إرشادات فنية ، يرجى الرجوع إلى `صفحة ويب WHO "
+"HeRAMS الرسمية <https://www.who.int/hac/herams/en//>`_. للأسئلة الإضافية "
+"التي لم يتم تغطيتها في هذا الدليل، يرجى الاتصال `بفريق دعم هيرامس "
+"<?mailto:herams@who.int>`_."
 
 #: ../docs/index.rst:21
 msgid "Getting started"
@@ -73,15 +72,14 @@ msgid "Creating a User Account"
 msgstr "إنشاء حساب مستخدم"
 
 #: ../docs/index.rst:26
-#, fuzzy
 msgid ""
 "This chapter provides step-by-step instructions on how to access the "
 "`HeRAMS platform <https://herams.org/user/login>`_, create a user account"
 " and update your user profile."
 msgstr ""
-"يوفر هذا الفصل إرشادات خطوة بخطوة حول كيفية الوصول إلى نظام <HeRAMS "
-"<https://herams.org/user/login/> `_ ، وإنشاء حساب مستخدم وتحديث ملف تعريف"
-" المستخدم الخاص بك."
+"يوفر هذا الفصل إرشادات خطوة بخطوة حول كيفية الوصول إلى `منصة هيرامس  "
+"<https://herams.org/user/login>`_، وإنشاء حساب مستخدم وتحديث ملف تعريف "
+"المستخدم الخاص بك."
 
 #: ../docs/index.rst:28
 msgid ""
@@ -96,14 +94,13 @@ msgid "It is strongly recommended to either user FireFox or Chrome."
 msgstr "يُنصح بشدة استخدام متصفح الإنترنت  فايرفوكس (FireFox) أو كروم (Chrome)."
 
 #: ../docs/index.rst:32
-#, fuzzy
 msgid ""
 "On the sign-in page, click the `sign up "
 "<https://herams.org/user/register>`_ link located just above the |login| "
 "button."
 msgstr ""
-"في صفحة تسجيل الدخول ، انقر فوق رابط `الاشتراك "
-"<https://herams.org/user/register/>` _ الموجود أعلى زر |login|."
+"في صفحة تسجيل الدخول، انقر فوق رابط `الاشتراك <https://herams.org/user/"
+"register>`_ الموجود أعلى زر |login|."
 
 #: ../docs/index.rst:39
 msgid "On the page that opens, enter your details."
@@ -180,13 +177,12 @@ msgstr ""
 "بتوجيهك خلال خطوات إعادة تشغيل كلمة المرور الخاصة بك."
 
 #: ../docs/index.rst:79
-#, fuzzy
 msgid ""
 "On the sign in page, click the `reset password "
 "<https://herams.org/user/forgot>`_ link located below the password field."
 msgstr ""
-"في صفحة تسجيل الدخول ، انقر فوق رابط `إعادة تشغيل كلمة المرور "
-"<https://herams.org/user/forgot/> `_ الموجودة أسفل حقل كلمة المرور."
+"في صفحة تسجيل الدخول، انقر فوق رابط `إعادة تشغيل كلمة المرور <https://herams."
+"org/user/forgot>`_ الموجودة أسفل حقل كلمة المرور."
 
 #: ../docs/index.rst:80
 msgid "Enter your email address in the top field."
@@ -231,13 +227,12 @@ msgid "Click the |submit| button to confirm your new password."
 msgstr "انقر فوق | submit | زر لتأكيد كلمة المرور الجديدة."
 
 #: ../docs/index.rst:90
-#, fuzzy
 msgid ""
 "To login into HeRAMS, return to the `sign in page "
 "<https://herams.org/user/login>`_."
 msgstr ""
-"لتسجيل الدخول إلى هيرامس، ارجع إلى صفحة تسجيل الدخول "
-"`<https://herams.org/user/login/> `_."
+"لتسجيل الدخول إلى هيرامس، ارجع إلى `صفحة تسجيل الدخول <https://herams.org/"
+"user/login>`_."
 
 #: ../docs/index.rst:98
 msgid "Update your User Profile"
@@ -3109,4 +3104,3 @@ msgstr ""
 #~ "فيرجى الاتصال بمسؤول النظام أو إرسال "
 #~ "بريد إلكتروني إلى `<?hearms@who.int "
 #~ "<mailto:herams@who.int`_."
-
