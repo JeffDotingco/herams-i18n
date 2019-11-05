@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-01 12:53+0000\n"
+"POT-Creation-Date: 2019-11-05 11:19+0000\n"
 "PO-Revision-Date: 2019-09-18 09:51+0000\n"
 "Last-Translator: Sam <sam@mousa.nl>\n"
 "Language: nl\n"
@@ -76,11 +76,11 @@ msgid "Already shared with"
 msgstr ""
 
 msgctxt "app"
-msgid "Apply"
+msgid "Alternative phone"
 msgstr ""
 
 msgctxt "app"
-msgid "Apply changes"
+msgid "Apply"
 msgstr ""
 
 msgctxt "app"
@@ -134,6 +134,10 @@ msgid "Copy the code above"
 msgstr ""
 
 msgctxt "app"
+msgid "Country"
+msgstr ""
+
+msgctxt "app"
 msgid "Create chart"
 msgstr ""
 
@@ -163,10 +167,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Created {success} workspaces, failed to create {fail} workspaces"
-msgstr ""
-
-msgctxt "app"
-msgid "Current password"
 msgstr ""
 
 msgctxt "app"
@@ -216,19 +216,11 @@ msgid "Element updated"
 msgstr ""
 
 msgctxt "app"
-msgid "Email"
-msgstr ""
-
-msgctxt "app"
 msgid "Error!"
 msgstr ""
 
 msgctxt "app"
 msgid "Export all"
-msgstr ""
-
-msgctxt "app"
-msgid "Failed to update email address"
 msgstr ""
 
 msgctxt "app"
@@ -306,6 +298,10 @@ msgid "Latest update"
 msgstr ""
 
 msgctxt "app"
+msgid "Location"
+msgstr ""
+
+msgctxt "app"
 msgid "Log in to HeRAMS"
 msgstr ""
 
@@ -319,14 +315,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "N/A"
-msgstr ""
-
-msgctxt "app"
-msgid "New email address"
-msgstr ""
-
-msgctxt "app"
-msgid "New password"
 msgstr ""
 
 msgctxt "app"
@@ -354,7 +342,7 @@ msgid "Not normally provided"
 msgstr ""
 
 msgctxt "app"
-msgid "Old email address"
+msgid "Other contact point (e.g. Skype)"
 msgstr ""
 
 msgctxt "app"
@@ -374,14 +362,6 @@ msgid "Partially available"
 msgstr ""
 
 msgctxt "app"
-msgid "Password"
-msgstr ""
-
-msgctxt "app"
-msgid "Password changed"
-msgstr ""
-
-msgctxt "app"
 msgid "Password confirmation"
 msgstr ""
 
@@ -390,7 +370,7 @@ msgid "Permission"
 msgstr ""
 
 msgctxt "app"
-msgid "Please check your mailbox"
+msgid "Please enter a valid phone number"
 msgstr ""
 
 msgctxt "app"
@@ -452,10 +432,6 @@ msgid "Remove"
 msgstr ""
 
 msgctxt "app"
-msgid "Repeat password"
-msgstr ""
-
-msgctxt "app"
 msgid "Resend confirmation"
 msgstr ""
 
@@ -465,10 +441,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Save"
-msgstr ""
-
-msgctxt "app"
-msgid "Send confirmation"
 msgstr ""
 
 msgctxt "app"
@@ -534,23 +506,11 @@ msgid "Unknown"
 msgstr ""
 
 msgctxt "app"
-msgid "Unknown email"
-msgstr ""
-
-msgctxt "app"
 msgid "Update"
 msgstr ""
 
 msgctxt "app"
 msgid "Update & go to dashboard"
-msgstr ""
-
-msgctxt "app"
-msgid "Update account"
-msgstr ""
-
-msgctxt "app"
-msgid "Update account information"
 msgstr ""
 
 msgctxt "app"
@@ -563,10 +523,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Update page"
-msgstr ""
-
-msgctxt "app"
-msgid "Update password"
 msgstr ""
 
 msgctxt "app"
@@ -590,10 +546,6 @@ msgid "User"
 msgstr ""
 
 msgctxt "app"
-msgid "User updated"
-msgstr ""
-
-msgctxt "app"
 msgid "Users"
 msgstr ""
 
@@ -607,10 +559,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "We use this field to store the last name of the project owner."
-msgstr ""
-
-msgctxt "app"
-msgid "We will send a confirmation message to this address"
 msgstr ""
 
 msgctxt "app"
@@ -657,16 +605,8 @@ msgctxt "app"
 msgid "Yes"
 msgstr ""
 
-msgctxt "app"
-msgid "You do not have permission to change these values."
-msgstr ""
-
-msgctxt "app"
-msgid "Your email address has already been changed"
-msgstr ""
-
-msgctxt "app"
-msgid "Your email address has been updated"
+msgctxt "user"
+msgid "(not set)"
 msgstr ""
 
 msgctxt "user"
@@ -678,11 +618,47 @@ msgid "Account settings"
 msgstr ""
 
 msgctxt "user"
+msgid "Are you sure you want to block this user?"
+msgstr ""
+
+msgctxt "user"
+msgid "Are you sure you want to confirm this user?"
+msgstr ""
+
+msgctxt "user"
 msgid "Are you sure you want to switch to this user for the rest of this Session?"
 msgstr ""
 
 msgctxt "user"
+msgid "Are you sure you want to unblock this user?"
+msgstr ""
+
+msgctxt "user"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "user"
 msgid "Become this user"
+msgstr ""
+
+msgctxt "user"
+msgid "Block"
+msgstr ""
+
+msgctxt "user"
+msgid "Block status"
+msgstr ""
+
+msgctxt "user"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "user"
+msgid "Confirmation"
+msgstr ""
+
+msgctxt "user"
+msgid "Confirmed"
 msgstr ""
 
 msgctxt "user"
@@ -691,6 +667,10 @@ msgstr ""
 
 msgctxt "user"
 msgid "Disconnect"
+msgstr ""
+
+msgctxt "user"
+msgid "Generate and send new password to user"
 msgstr ""
 
 msgctxt "user"
@@ -774,6 +754,14 @@ msgid "To reset your password please follow this link:"
 msgstr ""
 
 msgctxt "user"
+msgid "Unblock"
+msgstr ""
+
+msgctxt "user"
+msgid "Update"
+msgstr ""
+
+msgctxt "user"
 msgid "We have generated a password for you"
 msgstr ""
 
@@ -789,6 +777,12 @@ msgstr ""
 
 msgctxt "user"
 msgid "We have received a request to reset your {0} password"
+msgstr ""
+
+msgctxt "user"
+msgid ""
+"Welcome to {0}, the Health Resources and Services Availability Monitoring"
+" System"
 msgstr ""
 
 msgctxt "user"
@@ -811,6 +805,14 @@ msgstr ""
 
 msgctxt "user"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
+msgstr ""
+
+msgctxt "user"
+msgid "{0}: Password reset"
+msgstr ""
+
+msgctxt "user"
+msgid "{0}: Your account has successfully been activated!"
 msgstr ""
 
 #~ msgctxt "app"
@@ -891,7 +893,7 @@ msgstr ""
 
 #~ msgctxt "app"
 #~ msgid "Alternative phone"
-#~ msgstr "Alternatief telefoonnummer"
+#~ msgstr ""
 
 #~ msgctxt "app"
 #~ msgid "Apply"
@@ -1652,88 +1654,86 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgctxt "app"
-#~ msgid "Alternative phone"
+#~ msgid "Apply changes"
 #~ msgstr ""
 
 #~ msgctxt "app"
-#~ msgid "Country"
+#~ msgid "Current password"
 #~ msgstr ""
 
 #~ msgctxt "app"
-#~ msgid "Location"
+#~ msgid "Email"
 #~ msgstr ""
 
 #~ msgctxt "app"
-#~ msgid "Other contact point (e.g. Skype)"
+#~ msgid "Failed to update email address"
 #~ msgstr ""
 
 #~ msgctxt "app"
-#~ msgid "Please enter a valid phone number"
+#~ msgid "New email address"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "(not set)"
+#~ msgctxt "app"
+#~ msgid "New password"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "Are you sure you want to block this user?"
+#~ msgctxt "app"
+#~ msgid "Old email address"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "Are you sure you want to confirm this user?"
+#~ msgctxt "app"
+#~ msgid "Password"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "Are you sure you want to unblock this user?"
+#~ msgctxt "app"
+#~ msgid "Password changed"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "Are you sure?"
+#~ msgctxt "app"
+#~ msgid "Please check your mailbox"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "Block"
+#~ msgctxt "app"
+#~ msgid "Repeat password"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "Block status"
+#~ msgctxt "app"
+#~ msgid "Send confirmation"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "Confirm"
+#~ msgctxt "app"
+#~ msgid "Unknown email"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "Confirmation"
+#~ msgctxt "app"
+#~ msgid "Update account"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "Confirmed"
+#~ msgctxt "app"
+#~ msgid "Update account information"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "Generate and send new password to user"
+#~ msgctxt "app"
+#~ msgid "Update password"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "Unblock"
+#~ msgctxt "app"
+#~ msgid "User updated"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "Update"
+#~ msgctxt "app"
+#~ msgid "We will send a confirmation message to this address"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid ""
-#~ "Welcome to {0}, the Health Resources "
-#~ "and Services Availability Monitoring System"
+#~ msgctxt "app"
+#~ msgid "You do not have permission to change these values."
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "{0}: Password reset"
+#~ msgctxt "app"
+#~ msgid "Your email address has already been changed"
 #~ msgstr ""
 
-#~ msgctxt "user"
-#~ msgid "{0}: Your account has successfully been activated!"
+#~ msgctxt "app"
+#~ msgid "Your email address has been updated"
 #~ msgstr ""
 
