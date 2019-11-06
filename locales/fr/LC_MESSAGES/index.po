@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  HeRAMS\n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-05 11:19+0000\n"
-"PO-Revision-Date: 2019-10-30 17:40+0000\n"
+"PO-Revision-Date: 2019-11-06 09:14+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
+"herams-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French <https://weblate.herams-staging.org/projects/herams"
-"/herams-user-guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
@@ -813,10 +814,12 @@ msgid ""
 "a table displays the list of priority areas with inaccessible MoSDs and "
 "the main reported cause of inaccessibility."
 msgstr ""
+"un tableau affichant la liste des zones prioritaires avec des FS "
+"inaccessibles ainsi que la principale cause signalée d'inaccessibilité."
 
 #: ../docs/index.rst:295
 msgid "Management & support"
-msgstr ""
+msgstr "Gestion et soutien"
 
 #: ../docs/index.rst:297
 msgid ""
@@ -824,16 +827,21 @@ msgid ""
 "of the MoSDs and the level of support provided by partners. The "
 "information is illustrated in terms of:"
 msgstr ""
+"La page **Gestion et soutien** affiche des informations sur la gestion des "
+"MoSDs et le niveau de soutien fourni par les partenaires. L'information est "
+"illustrée en termes de :"
 
 #: ../docs/index.rst:299
 msgid "Ownership:"
-msgstr ""
+msgstr "Propriété:"
 
 #: ../docs/index.rst:301
 msgid ""
 "A map to spot the distribution of MoSDs according to their ownership "
 "(i.e. public, private, faith-based and, NGO/iNGO)."
 msgstr ""
+"Une carte permettant de repérer la répartition des MoDS en fonction de leur "
+"propriété (c.-à-d. publique, privée, confessionnelle et ONG/ONGI)."
 
 #: ../docs/index.rst:302
 msgid ""
@@ -977,12 +985,17 @@ msgid ""
 "facilities. This indicates that a health facility was assessed multiple "
 "times."
 msgstr ""
+"Le nombre de réponses peut être supérieur au nombre total de FS. Cela "
+"indique qu'une FS a été évaluée plusieurs fois."
 
 #: ../docs/index.rst:355
 msgid ""
 "In the last column of the table, click the |workspace| icon. This will "
 "open a new page displaying a list of all available workspace."
 msgstr ""
+"Dans la dernière colonne du tableau, cliquez sur l'icône |workspace|. Cela "
+"ouvrira une nouvelle page affichant une liste de tout l'espace de travail "
+"disponible."
 
 #: ../docs/index.rst:357
 msgid ""
@@ -4827,4 +4840,3 @@ msgstr ""
 #~ " data. To correct the issue, follow"
 #~ " the instruction outlined `here`__."
 #~ msgstr ""
-
