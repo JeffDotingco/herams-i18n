@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-05 11:19+0000\n"
-"PO-Revision-Date: 2019-11-06 13:41+0000\n"
+"PO-Revision-Date: 2019-11-08 10:41+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -851,7 +851,7 @@ msgstr ""
 
 #: ../docs/index.rst:304
 msgid "External support:"
-msgstr ""
+msgstr "Soutien externe:"
 
 #: ../docs/index.rst:306
 msgid "A donut  chart to illustrate the level of support provided by partners."
@@ -859,7 +859,7 @@ msgstr ""
 
 #: ../docs/index.rst:313
 msgid "Basic Amenities"
-msgstr ""
+msgstr "Aménagements structurels"
 
 #: ../docs/index.rst:315
 msgid ""
@@ -870,6 +870,8 @@ msgstr ""
 #: ../docs/index.rst:317
 msgid "a map displying the availability and sufficiency of the basic amenity; and"
 msgstr ""
+"une carte indiquant la disponibilité et la suffisance de l'aménagement "
+"structurel ; et"
 
 #: ../docs/index.rst:318
 msgid ""
@@ -879,19 +881,23 @@ msgstr ""
 
 #: ../docs/index.rst:326
 msgid "Service Availability"
-msgstr ""
+msgstr "Disponibilité des services"
 
 #: ../docs/index.rst:328
 msgid ""
 "The **Service Availability** page displays multiple pages per type of "
 "service. Each page displays:"
 msgstr ""
+"La page **Disponibilité des services** affiche plusieurs pages par type de "
+"service. Chaque page affiche :"
 
 #: ../docs/index.rst:330
 msgid ""
 "a map to spot the distribution of the MoSDs providing the selected health"
 " service;"
 msgstr ""
+"une carte permettant de localiser la distribution des FS fournissant le "
+"service de santé sélectionné ;"
 
 #: ../docs/index.rst:331
 #, fuzzy
@@ -1028,10 +1034,14 @@ msgid ""
 "You should now see a table with all the health facilities of the selected"
 " workspace."
 msgstr ""
+"Vous devriez maintenant voir un tableau avec toutes les FS de l'espace de "
+"travail sélectionné."
 
 #: ../docs/index.rst:371
 msgid "The video below summarizes the steps to access the data entry interface."
 msgstr ""
+"La vidéo ci-dessous résume les étapes à suivre pour accéder à l'interface de "
+"saisie des données."
 
 #: ../docs/index.rst:380
 msgid "Edit a Health Facility Record"
@@ -1043,14 +1053,22 @@ msgid ""
 " update the status of a health facility while keeping the history of "
 "changes, follow the instructions in the section below."
 msgstr ""
+"La modification d'un enregistrement écrase l'enregistrement existant. Si "
+"vous souhaitez mettre à jour le statut d'une FS tout en conservant "
+"l'historique des changements, suivez les instructions dans la section ci-"
+"dessous."
 
 #: ../docs/index.rst:384
 msgid "Open the data update interface as outlined `above`__."
 msgstr ""
+"Veuillez ouvrir l'interface de mise à jour des données comme indiqué `ci-"
+"dessus`__."
 
 #: ../docs/index.rst:385
 msgid "To edit a record, click the |pencil-blue| icon in the left most column."
 msgstr ""
+"Pour modifier un enregistrement, veuillez cliquer sur l'icône |pencil-blue| "
+"dans la colonne la plus à gauche."
 
 #: ../docs/index.rst:390
 msgid ""
@@ -1058,6 +1076,10 @@ msgid ""
 "the bottom right corner to advance to the next page. You can also reduce "
 "the number of records displayed by applying filters."
 msgstr ""
+"Veuillez noter que  la table pourrait avoir plusieurs pages. Veuillez "
+"utiliser le bouton en bas à droite pour passer à la page suivante. Vous "
+"pouvez également réduire le nombre d'enregistrements affichés en appliquant "
+"des filtres."
 
 #: ../docs/index.rst:397 ../docs/index.rst:414 ../docs/index.rst:423
 msgid ""
@@ -1067,6 +1089,11 @@ msgid ""
 "navigation pane on the left to access a specific section of the "
 "questionnaire."
 msgstr ""
+"Vous devriez maintenant pouvoir modifier l'enregistrement sélectionné. "
+"Utilisez les boutons |next| en bas à droite pour passer à la page suivante "
+"du questionnaire ou retourner à la page précédente. Vous pouvez également "
+"utiliser le volet de navigation à gauche pour accéder à une section "
+"spécifique du questionnaire."
 
 #: ../docs/index.rst:398 ../docs/index.rst:415 ../docs/index.rst:424
 msgid ""
@@ -1074,12 +1101,17 @@ msgid ""
 " save your changes, navigate to the last page, **Validate**, and click "
 "the |submit| button."
 msgstr ""
+"Assurez-vous de valider et d'enregistrer vos modifications avant de quitter "
+"l'enregistrement. Pour enregistrer vos modifications, naviguez jusqu'à la "
+"dernière page, **Valider**, puis cliquez sur le bouton |submit|."
 
 #: ../docs/index.rst:399 ../docs/index.rst:416 ../docs/index.rst:425
 msgid ""
 "If you would like to discard your edits, click the |clear| button in the "
 "lower right corner of the page."
 msgstr ""
+"Si vous souhaitez annuler vos modifications, cliquez sur le bouton |clear| "
+"dans le coin inférieur droit de la page."
 
 #: ../docs/index.rst:407
 msgid "Update a Health Facility Record"
@@ -1090,6 +1122,9 @@ msgid ""
 "If HeRAMS is used as a monitoring tool, you can record changes to a "
 "health facility while keeping the existing information."
 msgstr ""
+"Si HeRAMS est utilisé comme outil de surveillance, vous pouvez enregistrer "
+"des modifications apportées à une FS tout en conservant les informations "
+"existantes."
 
 #: ../docs/index.rst:411
 msgid ""
@@ -1103,14 +1138,18 @@ msgid ""
 "To update the status of a health facility, use the |update-blue| button "
 "to open the record."
 msgstr ""
+"Pour mettre à jour le statut d'une FS, veuillez utiliser le bouton |update-"
+"blue| pour ouvrir l'enregistrement."
 
 #: ../docs/index.rst:420
 msgid "Register a New Health Facility"
-msgstr ""
+msgstr "Enregistrer une nouvelle FS"
 
 #: ../docs/index.rst:422
 msgid "To create a new record, click the button |new-record|."
 msgstr ""
+"Pour créer un nouvel enregistrement, veuillez cliquer sur le bouton |new-"
+"record|."
 
 #: ../docs/index.rst:429
 msgid "Delete a Health Facility Record"
@@ -1119,14 +1158,18 @@ msgstr ""
 #: ../docs/index.rst:431
 msgid "To delete a record, click the |delete-blue| icon in the first column."
 msgstr ""
+"Pour supprimer un enregistrement, cliquez sur l'icône |delete-blue| dans la "
+"première colonne."
 
 #: ../docs/index.rst:433
 msgid "Deleting records cannot be undone. Be careful when deleting a record."
 msgstr ""
+"La suppression d'enregistrements ne peut pas être annulée. Soyez prudent "
+"lorsque vous supprimez un enregistrement."
 
 #: ../docs/index.rst:437
 msgid "Download Data"
-msgstr ""
+msgstr "Téléchargement les données"
 
 #: ../docs/index.rst:439
 msgid ""
