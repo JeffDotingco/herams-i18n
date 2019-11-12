@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-05 11:19+0000\n"
-"PO-Revision-Date: 2019-11-08 10:41+0000\n"
+"PO-Revision-Date: 2019-11-12 14:41+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -1181,7 +1181,7 @@ msgstr ""
 
 #: ../docs/index.rst:444
 msgid "Download Workspace Data"
-msgstr ""
+msgstr "Télécharger les données d'un espace de travail"
 
 #: ../docs/index.rst:446
 msgid ""
@@ -1203,12 +1203,17 @@ msgid ""
 "Navigate to the workspace page of your project (see `Access the Data "
 "Update Interface`__ steps 1 - 4 for detailed instructions)."
 msgstr ""
+"Accédez à la page de l'espace de travail de votre projet (voir `Accéder à "
+"l'interface de mise à jour des données`__ étapes 1 à 4 pour des instructions "
+"détaillées)."
 
 #: ../docs/index.rst:451
 msgid ""
 "In the rightmost column, click the |download| button. This will download "
 "all records of this workspace."
 msgstr ""
+"Dans la colonne de droite, cliquez sur le bouton |download|. Ceci "
+"téléchargera tous les enregistrements de cet espace de travail."
 
 #: ../docs/index.rst:455
 msgid ""
@@ -1216,10 +1221,13 @@ msgid ""
 "define the encoding when opening the data in Excel (see `Data Encoding in"
 " Excel`__ for details)."
 msgstr ""
+"Pour les enquêtes dans des langues autres que l'anglais, assurez-vous de "
+"définir correctement l'encodage lors de l'ouverture des données dans Excel ("
+"voir `Codage des données dans Excel`__ pour plus de détails)."
 
 #: ../docs/index.rst:460
 msgid "Download the Entire Data Set"
-msgstr ""
+msgstr "Télécharger l'ensemble des données"
 
 #: ../docs/index.rst:462
 msgid ""
@@ -1230,11 +1238,11 @@ msgstr ""
 
 #: ../docs/index.rst:464
 msgid "*Coming soon*"
-msgstr ""
+msgstr "*Bientôt disponible*"
 
 #: ../docs/index.rst:467
 msgid "Data Encoding in Excel"
-msgstr ""
+msgstr "Encodage des données dans Excel"
 
 #: ../docs/index.rst:468
 msgid ""
@@ -1242,6 +1250,9 @@ msgid ""
 "software of choice (e.g. R or STATA), data encoding should always be set "
 "to UTF-8."
 msgstr ""
+"Si les données sont téléchargées pour une analyse plus poussée dans Excel ou "
+"dans un logiciel statistique de votre choix (par ex. R ou STATA), le codage "
+"des données doit toujours être réglé sur UTF-8."
 
 #: ../docs/index.rst:470
 msgid ""
@@ -1255,22 +1266,29 @@ msgid ""
 "The below instructions guide users through the steps to define the data "
 "encoding in Excel."
 msgstr ""
+"Les instructions ci-dessous guident les utilisateurs à travers les étapes "
+"pour définir l'encodage des données dans Excel."
 
 #: ../docs/index.rst:473
 msgid "Open a new Excel file."
-msgstr ""
+msgstr "Veuillez ouvrir un nouveau fichier Excel."
 
 #: ../docs/index.rst:474
 msgid ""
 "On the Data tab in the **Get & Transform Data** group, click **From "
 "Text/CSV**."
 msgstr ""
+"Dans l'onglet **Données** allez dans le  groupe **Obtenir & transformer les "
+"données**, cliquez sur **À partir du text**."
 
 #: ../docs/index.rst:475
 msgid ""
 "In the **Import Data** dialog box, locate and double-click the text file "
 "that you want to import, and click **Import**."
 msgstr ""
+"Dans la boîte de dialogue **Importer les données**, localisez et double-"
+"cliquez sur le fichier texte que vous souhaitez importer, puis cliquez sur "
+"**Importer**."
 
 #: ../docs/index.rst:476
 msgid ""
