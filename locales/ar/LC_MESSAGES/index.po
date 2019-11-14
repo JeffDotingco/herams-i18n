@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-05 11:19+0000\n"
-"PO-Revision-Date: 2019-11-06 09:14+0000\n"
+"PO-Revision-Date: 2019-11-14 10:41+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -42,7 +42,7 @@ msgstr ""
 "حول كيفية التسجيل والدخول للنظام بالإضافة إلى نظرة عامة مختصرة على المكونات "
 "الرئيسية لنظام هيرامس، بما في ذلك معلومات مفصلة حول كيفية استكشاف البيانات "
 "المتاحة باستخدام لوحات المعلومات التفاعلية. يمكن لمديري البيانات العثور على "
-"معلومات إضافية حول كيفية تحرير البيانات في قسم 'تحرير البيانات'_. لمزيد من "
+"معلومات إضافية حول كيفية تحرير البيانات في قسم `تحرير البيانات`_. لمزيد من "
 "الموضوعات المتقدمة المتعلقة بإدارة المستخدمين وإدارة المشروع، يرجى الرجوع "
 "إلى قسم `إدارة المشروع`_."
 
@@ -696,11 +696,11 @@ msgid ""
 msgstr "خريطة لتحديد توزيع وعدد وسائل تقديم الخدمة وفقا لحالة العمل;"
 
 #: ../docs/index.rst:274
-#, fuzzy
 msgid ""
 "donut charts to summarize the level of functionality as well as main "
 "causes of non-functionality; and"
-msgstr "مخططات دونات لتلخيص مستوى حالة العمل وكذلك الأسباب الرئيسية لعدم العمل؛ و"
+msgstr ""
+"مخططات دونات لتلخيص مستوى حالة العمل وكذلك الأسباب الرئيسية لعدم العمل؛ و"
 
 #: ../docs/index.rst:275
 msgid ""
@@ -731,14 +731,13 @@ msgid ""
 msgstr "خريطة لتحديد توزيع وعدد وسائل تقديم الخدمة وفقا لامكانية الوصول;"
 
 #: ../docs/index.rst:287
-#, fuzzy
 msgid ""
 "donut charts to summarize the level of accessibility per number of MoSDs "
 "as well as the reported causes of inaccessibility per number of MoSDs; "
 "and"
 msgstr ""
-"مخططات دونات لتلخيص مستوى إمكانية الوصول بحسب عدد وسائل تقديم الخدمة "
-"وكذلك الأسباب المبلغ عنها لعدم الوصول حسب عدد وسائل تقديم الخدمة؛ و"
+"مخططات دونات لتلخيص مستوى إمكانية الوصول بحسب عدد وسائل تقديم الخدمة وكذلك "
+"الأسباب المبلغ عنها لعدم الوصول حسب عدد وسائل تقديم الخدمة؛ و"
 
 #: ../docs/index.rst:288
 msgid ""
@@ -774,20 +773,18 @@ msgstr ""
 "والخاصة والعقائدية والمنظمات غير الحكومية الوطنية / العالمية)."
 
 #: ../docs/index.rst:302
-#, fuzzy
 msgid ""
 "A donut chart to highlight the categories of ownership as a percentage of"
 " the total number of MoSDs."
 msgstr ""
 "مخطط دونات لتسليط الضوء على فئات الملكية كنسبة مئوية من إجمالي عدد وسائل "
-"تقديم الخدمة ."
+"تقديم الخدمة."
 
 #: ../docs/index.rst:304
 msgid "External support:"
 msgstr "الدعم الخارجي:"
 
 #: ../docs/index.rst:306
-#, fuzzy
 msgid "A donut  chart to illustrate the level of support provided by partners."
 msgstr "مخطط دونات لتوضيح مستوى الدعم المقدم من الشركاء."
 
@@ -796,26 +793,24 @@ msgid "Basic Amenities"
 msgstr "المرافق الأساسية"
 
 #: ../docs/index.rst:315
-#, fuzzy
 msgid ""
 "Information on **Basic Amenities** is presented in a series of subpages. "
 "Each subpage is dedicated to a particular category and includes:"
 msgstr ""
-"يتم تقديم معلومات عن **المرافق الأساسية ** في سلسلة من الصفحات الفرعية. "
-"كل صفحة فرعية مخصصة لفئة معينة وتشمل:"
+"يتم تقديم معلومات عن **المرافق الأساسية** في سلسلة من الصفحات الفرعية. كل "
+"صفحة فرعية مخصصة لفئة معينة وتشمل:"
 
 #: ../docs/index.rst:317
 msgid "a map displying the availability and sufficiency of the basic amenity; and"
 msgstr "خريطة توضح مدى توفر وكفاية وسائل الراحة الأساسية؛ و"
 
 #: ../docs/index.rst:318
-#, fuzzy
 msgid ""
 "donut charts highlighting the percentage of MoSDs with sufficient "
 "availability of the amenity as well as main sources."
 msgstr ""
-"مخططات دونات تسلط الضوء على نسبة وسائل تقديم الخدمة التي يتوفر فيها "
-"مايكفي من وسائل الراحة وكذلك مصادرها الرئيسية."
+"مخططات دونات تسلط الضوء على نسبة وسائل تقديم الخدمة التي يتوفر فيها مايكفي "
+"من وسائل الراحة وكذلك مصادرها الرئيسية."
 
 #: ../docs/index.rst:326
 msgid "Service Availability"
@@ -836,16 +831,14 @@ msgstr ""
 "اختيارها;"
 
 #: ../docs/index.rst:331
-#, fuzzy
 msgid ""
 "donut charts to summarize the level of service availability as well as "
 "the underlying causes of unavailability of the service; and"
 msgstr ""
-"مخططات دونات لتلخيص مستوى توفر الخدمة وكذلك الأسباب الكامنة وراء عدم توفر"
-" الخدمة؛ و"
+"مخططات دونات لتلخيص مستوى توفر الخدمة وكذلك الأسباب الكامنة وراء عدم توفر "
+"الخدمة؛ و"
 
 #: ../docs/index.rst:332
-#, fuzzy
 msgid ""
 "a table displaying the list of priority areas per service unavailability "
 "and the main reported underlying causes."
@@ -933,7 +926,6 @@ msgstr ""
 "فتح صفحة جديدة تعرض قائمة بجميع مساحات العمل المتاحة."
 
 #: ../docs/index.rst:357
-#, fuzzy
 msgid ""
 "HeRAMS uses so-called **Workspaces** to manage access permission to the "
 "underlying data. A workspace might represent, for example, a specific "
@@ -942,7 +934,7 @@ msgid ""
 msgstr ""
 "يستخدم هيرامس ما يسمى **مساحات العمل** لإدارة إذن الوصول إلى البيانات "
 "الأساسية. قد تمثل مساحة العمل، على سبيل المثال، مؤسسة معينة أو منطقة "
-"جغرافية. لمزيد من المعلومات حول **مساحات العمل**، انقر فوق `هنا`__."
+"جغرافية. لمزيد من المعلومات حول **مساحات العمل** انقر فوق `هنا`__."
 
 #: ../docs/index.rst:361
 msgid ""
@@ -974,7 +966,6 @@ msgid "The video below summarizes the steps to access the data entry interface."
 msgstr "يلخص الفيديو أدناه خطوات الوصول إلى واجهة إدخال البيانات."
 
 #: ../docs/index.rst:380
-#, fuzzy
 msgid "Edit a Health Facility Record"
 msgstr "تحرير سجل المرفق الصحي"
 
@@ -1037,7 +1028,6 @@ msgstr ""
 "السفلى من الصفحة."
 
 #: ../docs/index.rst:407
-#, fuzzy
 msgid "Update a Health Facility Record"
 msgstr "تحديث سجل المرفق الصحي"
 
@@ -1050,14 +1040,13 @@ msgstr ""
 "الصحي مع الاحتفاظ بالمعلومات الموجودة."
 
 #: ../docs/index.rst:411
-#, fuzzy
 msgid ""
 "The feature to update health facilities is not enabled in all projects. "
 "Contact your country focal point or send an email to `herams@who.int "
 "<mailto:herams@who.int?>`_ for further information."
 msgstr ""
-"لم يتم تفعيل ميزة تحديث المرافق الصحية في جميع المشاريع. اتصل بمركز "
-"الاتصال في بلدك أو أرسل بريدًا إلكترونيًا إلى `<?herams@who.int "
+"لم يتم تفعيل ميزة تحديث المرافق الصحية في جميع المشاريع. اتصل بمركز الاتصال "
+"في بلدك أو أرسل بريدًا إلكترونيًا إلى `<?herams@who.int "
 "<mailto:herams@who.int`_  للحصول على مزيد من المعلومات."
 
 #: ../docs/index.rst:413
@@ -1075,7 +1064,6 @@ msgid "To create a new record, click the button |new-record|."
 msgstr "لإنشاء سجل جديد ، انقر فوق الزر |new-record|."
 
 #: ../docs/index.rst:429
-#, fuzzy
 msgid "Delete a Health Facility Record"
 msgstr "احذف سجل المرفق الصحي"
 
@@ -1092,23 +1080,21 @@ msgid "Download Data"
 msgstr "تحميل البيانات"
 
 #: ../docs/index.rst:439
-#, fuzzy
 msgid ""
 "It is possible to download part of the data as **CSV** for further in-"
 "depth analysis. In rare cases, permissions could be granted to download "
 "the entire data set. To download the entire data set please follow the "
 "instructions `here`__, otherwise see the section below."
 msgstr ""
-"من الممكن تنزيل جزء من البيانات ك **CSV** لمزيد من التحليل المتعمق. في "
-"حالات نادرة، يمكن منح إذن لتنزيل مجموعة البيانات بأكملها. لتنزيل مجموعة "
-"البيانات بأكملها، يرجى اتباع التعليمات `هنا`__، وإلا فانظر للقسم أدناه."
+"من الممكن تنزيل جزء من البيانات ك **CSV** لمزيد من التحليل المتعمق. في حالات "
+"نادرة، يمكن منح إذن لتنزيل مجموعة البيانات بأكملها. لتنزيل مجموعة البيانات "
+"بأكملها، يرجى اتباع التعليمات `هنا`__، وإلا فانظر للقسم أدناه."
 
 #: ../docs/index.rst:444
 msgid "Download Workspace Data"
 msgstr "تنزيل بيانات مساحة العمل"
 
 #: ../docs/index.rst:446
-#, fuzzy
 msgid ""
 "Follow the instructions below to download data for a single workspace. If"
 " you require data from multiple workspaces, follow the below steps for "
@@ -1116,18 +1102,17 @@ msgid ""
 "choice."
 msgstr ""
 "اتبع الإرشادات أدناه لتنزيل البيانات لمساحة عمل واحدة. إذا كنت تحتاج إلى "
-"بيانات من مساحات عمل متعددة، فاتبع الخطوات التالية لكل مساحة عمل. يمكنك "
-"بعد ذلك دمج البيانات في أداة التحليل التي تختارها."
+"بيانات من مساحات عمل متعددة، فاتبع الخطوات التالية لكل مساحة عمل. يمكنك بعد "
+"ذلك دمج البيانات في أداة التحليل التي تختارها."
 
 #: ../docs/index.rst:448
-#, fuzzy
 msgid ""
 "In order to download data, you will require access to your workspace. "
 "Contact your system administrator to elevate your access rights if "
 "needed."
 msgstr ""
-"لتنزيل البيانات، ستحتاج إلى الوصول إلى مساحة العمل الخاصة بك. اتصل بمسؤول"
-" النظام لتنشيط حقوق الوصول الخاصة بك إذا لزم الأمر."
+"لتنزيل البيانات، ستحتاج إلى الوصول إلى مساحة العمل الخاصة بك. اتصل بمسؤول "
+"النظام لتنشيط حقوق الوصول الخاصة بك إذا لزم الأمر."
 
 #: ../docs/index.rst:450
 msgid ""
@@ -1184,15 +1169,14 @@ msgstr ""
 "اختياره (مثل R أو STATA) ، فيجب دائمًا ضبط تشفير البيانات على UTF-8."
 
 #: ../docs/index.rst:470
-#, fuzzy
 msgid ""
 "Encoding issues are particularly prevalent in languages with special "
 "character and can result in the data being unreadable. For example, "
 "instead of **camp de réfugiés** you get **Camp de rÃ©fugiÃ©s**."
 msgstr ""
 "مشكلات الترميز منتشرة في اللغات ذات الطابع الخاص ويمكن أن تؤدي إلى عدم "
-"إمكانية قراءة البيانات. مثال، بدلاً من **camp de réfugiés**، تحصل على "
-"**Camp de rÃ © fugiÃ © s**."
+"إمكانية قراءة البيانات. مثال، بدلاً من **camp de réfugiés**، تحصل على **Camp "
+"de rÃ © fugiÃ © s**."
 
 #: ../docs/index.rst:471
 msgid ""
@@ -1250,7 +1234,6 @@ msgstr ""
 "الخاصة بالمشروع."
 
 #: ../docs/index.rst:494
-#, fuzzy
 msgid ""
 "If you require your permissions to be changed, kindly contact your "
 "country focal point or send an email to `HeRAMS Support Team "
@@ -1260,15 +1243,14 @@ msgid ""
 msgstr ""
 "إذا كنت بحاجة إلى تغيير صلاحياتك، يرجى الاتصال بمسؤول التنسيق في بلدك أو "
 "إرسال بريد إلكتروني إلى `فريق دعم هيرامس `<?HeRAMS Support Team "
-"<mailto:herams@who.int`_ مع تحديد وظيفتك ودورك بالإضافة إلى شرح موجز عن "
-"سبب  رغبتك في تغيير صلاحيات الوصول الخاصة بك."
+"<mailto:herams@who.int`_ مع تحديد وظيفتك ودورك بالإضافة إلى شرح موجز عن سبب  "
+"رغبتك في تغيير صلاحيات الوصول الخاصة بك."
 
 #: ../docs/index.rst:498
 msgid "Workspaces"
 msgstr "مساحات العمل"
 
 #: ../docs/index.rst:500
-#, fuzzy
 msgid ""
 "HeRAMS uses the concept of workspaces to manage user permissions. Each "
 "workspace consists of several health facilities and has a dedicated focal"
@@ -1280,18 +1262,16 @@ msgid ""
 "underlying data. While most users only have access to a single workspace,"
 " project administrators might have access to several or all workspaces."
 msgstr ""
-"يستخدم هيرامس مفهوم مساحات العمل لإدارة صلاحيات المستخدم. تتكون كل مساحة "
-"عمل من عدة  وسائل لتقديم الخدمة (المرافق الصحية) ولديها جهة اتصال مخصصة "
-"مسؤولة عن تحديث هذه السجلات. قد تتضمن مساحة العمل، على سبيل المثال، جميع "
-"وسائل تقديم الخدمة في منطقة جغرافية أو التي يديرها شريك محدد أو أي فئة "
-"منطقية أخرى. وبالتالي، فإن استخدام مساحات العمل بالاقتران مع مستويات "
-"مختلفة من الصلاحيات (انظر أدناه) يضمن التحكم الدقيق في الوصول إلى المشروع"
-" والبيانات الأساسية. في حين أن معظم المستخدمين لديهم حق الوصول فقط إلى "
-"مساحة عمل واحدة، قد يكون لمسؤولي المشروع حق الوصول إلى العديد من أو كل "
-"مساحات العمل."
+"يستخدم هيرامس مفهوم مساحات العمل لإدارة صلاحيات المستخدم. تتكون كل مساحة عمل "
+"من عدة  وسائل لتقديم الخدمة (المرافق الصحية) ولديها جهة اتصال مخصصة مسؤولة "
+"عن تحديث هذه السجلات. قد تتضمن مساحة العمل، على سبيل المثال، جميع وسائل "
+"تقديم الخدمة في منطقة جغرافية أو التي يديرها شريك محدد أو أي فئة منطقية "
+"أخرى. وبالتالي، فإن استخدام مساحات العمل بالاقتران مع مستويات مختلفة من "
+"الصلاحيات (انظر أدناه) يضمن التحكم الدقيق في الوصول إلى المشروع والبيانات "
+"الأساسية. في حين أن معظم المستخدمين لديهم حق الوصول فقط إلى مساحة عمل واحدة، "
+"قد يكون لمسؤولي المشروع حق الوصول إلى العديد من أو كل مساحات العمل."
 
 #: ../docs/index.rst:502
-#, fuzzy
 msgid ""
 "|refresh| **Refresh Data Cache**: This button allows users to manually "
 "refresh the data cache of a workspace. Data is automatically refreshed "
@@ -1300,12 +1280,12 @@ msgid ""
 "data cache of a workspace the time lag limitation can be overcome and the"
 " changes made will become visible immediately."
 msgstr ""
-"|refresh| **تحديث ذاكرة التخزين المؤقت للبيانات**: يتيح هذا الزر "
-"للمستخدمين تحديث ذاكرة التخزين المؤقت لبيانات مساحة العمل، يدويًا. يتم "
-"تحديث البيانات تلقائيًا كل 30 دقيقة. هذا يعني أنه إذا تم تحديث السجل، فلن"
-" تنعكس التغييرات فورًا على لوحة المعلومات. وبالتالي، من خلال تحديث ذاكرة "
-"التخزين المؤقت لبيانات مساحة العمل يدويًا، يمكن التغلب على قيود التأخير "
-"الزمني وتصبح التغييرات التي تم إجراؤها مرئية على الفور."
+"|refresh| **تحديث ذاكرة التخزين المؤقت للبيانات**: يتيح هذا الزر للمستخدمين "
+"تحديث ذاكرة التخزين المؤقت لبيانات مساحة العمل، يدويًا. يتم تحديث البيانات "
+"تلقائيًا كل 30 دقيقة. هذا يعني أنه إذا تم تحديث السجل، فلن تنعكس التغييرات "
+"فورًا على لوحة المعلومات. وبالتالي، من خلال تحديث ذاكرة التخزين المؤقت "
+"لبيانات مساحة العمل يدويًا، يمكن التغلب على قيود التأخير الزمني وتصبح "
+"التغييرات التي تم إجراؤها مرئية على الفور."
 
 #: ../docs/index.rst:503
 msgid ""
@@ -1324,13 +1304,12 @@ msgstr ""
 "إضافة مستخدمين إلى مساحة عمل ، انقر فوق `هنا`__."
 
 #: ../docs/index.rst:505
-#, fuzzy
 msgid ""
 "|delete-black| **Delete Workspace**: Permanently removes a workspace from"
 " a project. See `Delete a Workspace`__ for more information."
 msgstr ""
-"|delete-black| **حذف مساحة العمل**: يزيل مساحة العمل بشكل دائم من "
-"المشروع. راجع `حذف مساحة عمل`__ للحصول على مزيد من المعلومات."
+"|delete-black| **حذف مساحة العمل**: يزيل مساحة العمل بشكل دائم من المشروع. "
+"راجع `حذف مساحة عمل`__ للحصول على مزيد من المعلومات."
 
 #: ../docs/index.rst:506
 msgid ""
@@ -1357,18 +1336,15 @@ msgid "There are two permission levels for workspaces:"
 msgstr "يوجد مستويان لصلاحيات مساحات العمل:"
 
 #: ../docs/index.rst:521
-#, fuzzy
 msgid "access to manage the underlying responses’ data; and"
 msgstr "الوصول لإدارة بيانات الردود الأساسية؛ و"
 
 #: ../docs/index.rst:522
-#, fuzzy
 msgid ""
 "full access (includes editing the workspace properties, token and "
 "responses’ data)."
 msgstr ""
-"الوصول الكامل (يشمل تحرير خصائص مساحة العمل، الرمز المميز، وبيانات "
-"الردود)."
+"الوصول الكامل (يشمل تحرير خصائص مساحة العمل، الرمز المميز، وبيانات الردود)."
 
 #: ../docs/index.rst:524
 msgid ""
@@ -1438,7 +1414,6 @@ msgstr ""
 "**Actions** ."
 
 #: ../docs/index.rst:534
-#, fuzzy
 msgid ""
 "You should now see a page similar to the image below. On the bottom half "
 "of the page, you can see a list of all users currently having access to "
@@ -1448,12 +1423,11 @@ msgid ""
 "dynamically filters as you are typing. Select the user you would like to "
 "add."
 msgstr ""
-"يجب أن تشاهد الآن صفحة مشابهة للصورة أدناه. في النصف السفلي من الصفحة، "
-"يمكنك رؤية قائمة بجميع المستخدمين الذين لديهم حق الوصول حاليًا إلى مساحة "
-"العمل بما في ذلك مستوى صلاحياتهم. في النصف العلوي من الصفحة ، لديك خيار "
-"لإضافة مستخدم جديد. ابدأ في كتابة اسم المستخدم في الحقل العلوي. ستلاحظ أن"
-" قائمة المستخدمين الحاليين يتم تصفيتها بشكل حيوي اثناء الكتابة. حدد "
-"المستخدم الذي تريد إضافته."
+"يجب أن تشاهد الآن صفحة مشابهة للصورة أدناه. في النصف السفلي من الصفحة، يمكنك "
+"رؤية قائمة بجميع المستخدمين الذين لديهم حق الوصول حاليًا إلى مساحة العمل بما "
+"في ذلك مستوى صلاحياتهم. في النصف العلوي من الصفحة ، لديك خيار لإضافة مستخدم "
+"جديد. ابدأ في كتابة اسم المستخدم في الحقل العلوي. ستلاحظ أن قائمة المستخدمين "
+"الحاليين يتم تصفيتها بشكل حيوي اثناء الكتابة. حدد المستخدم الذي تريد إضافته."
 
 #: ../docs/index.rst:545
 msgid ""
@@ -1589,7 +1563,6 @@ msgstr ""
 "سيتم فتح `لوحة القيادة`__ المشروع."
 
 #: ../docs/index.rst:613
-#, fuzzy
 msgid ""
 "|pencil-thin| **Edit Project Properties**: Permits users with specific "
 "permission to alter the project properties as well as to configure the "
@@ -1598,11 +1571,10 @@ msgid ""
 "configure the dashboard, consult the section `Configure the Project "
 "Dashboard`__."
 msgstr ""
-"|pencil-thin| **تحرير خصائص المشروع**: يسمح للمستخدمين بصلاحيات معينة "
-"بتغيير خصائص المشروع وكذلك تكوين لوحة معلومات المشروع. راجع `تعديل "
-"مشروع`__ للحصول على مزيد من المعلومات حول تحرير خصائص المشروع. للحصول على"
-" معلومات إضافية حول كيفية تكوين لوحة المعلومات، راجع قسم `تكوين لوحة "
-"معلومات المشروع`__."
+"|pencil-thin| **تحرير خصائص المشروع**: يسمح للمستخدمين بصلاحيات معينة بتغيير "
+"خصائص المشروع وكذلك تكوين لوحة معلومات المشروع. راجع `تعديل مشروع`__ للحصول "
+"على مزيد من المعلومات حول تحرير خصائص المشروع. للحصول على معلومات إضافية حول "
+"كيفية تكوين لوحة المعلومات، راجع قسم `تكوين لوحة معلومات المشروع`__."
 
 #: ../docs/index.rst:614
 msgid ""
@@ -1783,7 +1755,6 @@ msgid "Configure the Project Dashboard"
 msgstr "تكوين لوحة معلومات المشروع"
 
 #: ../docs/index.rst:693
-#, fuzzy
 msgid ""
 "For each HeRAMS Project, an interactive dashboard can be configured "
 "providing summarizing key indicators and findings of a project. This "
@@ -1792,9 +1763,9 @@ msgid ""
 " is available `here`__."
 msgstr ""
 "لكل مشروع هيرامس، يمكن تكوين لوحة معلومات تفاعلية توفر ملخصًا للمؤشرات "
-"والنتائج الرئيسية للمشروع. يوفر هذا القسم لمسؤولي المشروع وصفًا تفصيليًا "
-"حول كيفية تحرير لوحات المعلومات هذه. نظرة عامة على صفحات لوحة المعلومات "
-"القياسية متاحة `هنا`__."
+"والنتائج الرئيسية للمشروع. يوفر هذا القسم لمسؤولي المشروع وصفًا تفصيليًا حول "
+"كيفية تحرير لوحات المعلومات هذه. نظرة عامة على صفحات لوحة المعلومات القياسية "
+"متاحة `هنا`__."
 
 #: ../docs/index.rst:699
 msgid "Modify an Existing Dashboard Element"
@@ -1813,7 +1784,6 @@ msgid "Open the dashboard and navigate to the element you would like to change."
 msgstr "افتح لوحة المعلومات وانتقل إلى العنصر الذي تريد تغييره."
 
 #: ../docs/index.rst:707
-#, fuzzy
 msgid ""
 "In the top right corner of the element you would like to change, you "
 "should see a |pencil-thin| icon. Right-click the icon to open the "
@@ -1827,7 +1797,6 @@ msgid "You should now be able:"
 msgstr "يجب أن تكون قادرًا الآن:"
 
 #: ../docs/index.rst:709
-#, fuzzy
 msgid "to change the variables displayed;"
 msgstr "لتغيير المتغيرات المعروضة;"
 
@@ -1996,17 +1965,15 @@ msgstr ""
 "المعلومات. انقر فوق زر |pencil-thin| لفتح الصفحة التي ترغب في تعديلها."
 
 #: ../docs/index.rst:788
-#, fuzzy
 msgid ""
 "In the lower half of the page you will see a list of all elements "
 "displayed on the dashboard page. Use the |delete-black| to permanently "
 "delete the element."
 msgstr ""
-"في النصف السفلي من الصفحة، سترى قائمة بجميع العناصر المعروضة على صفحة "
-"لوحة المعلومات. استخدم |delete-black| لحذف العنصر بشكل دائم."
+"في النصف السفلي من الصفحة، سترى قائمة بجميع العناصر المعروضة على صفحة لوحة "
+"المعلومات. استخدم |delete-black| لحذف العنصر بشكل دائم."
 
 #: ../docs/index.rst:792
-#, fuzzy
 msgid ""
 "Be careful when deleting dashboard elements. Deleted elements cannot be "
 "restored."
@@ -2059,23 +2026,22 @@ msgid "Update a Dashboard Page"
 msgstr "تحديث صفحة لوحة المعلومات"
 
 #: ../docs/index.rst:821
-#, fuzzy
 msgid ""
 "To alter an existing page, click the |pencil-black| icon next to the "
 "page's name. This will open the page's settings. You are now able to "
 "change the title and the order of the page. See `above`__ for further "
 "details."
 msgstr ""
-"لتغيير صفحة حالية، انقر فوق زر |pencil-black| بجانب اسم الصفحة. هذا سيفتح"
-" إعدادات الصفحة. أنت الآن قادر على تغيير العنوان وترتيب الصفحة. انظر "
-"`أعلاه`__  للحصول على مزيد من التفاصيل."
+"لتغيير صفحة حالية، انقر فوق زر |pencil-black| بجانب اسم الصفحة. هذا سيفتح "
+"إعدادات الصفحة. أنت الآن قادر على تغيير العنوان وترتيب الصفحة. انظر `أعلاه`"
+"__  للحصول على مزيد من التفاصيل."
 
 #: ../docs/index.rst:822
-#, fuzzy
 msgid ""
 "On the page that opens, you should now be able to alter the page name and"
 " the display order."
-msgstr "في الصفحة المفتوحة، يجب أن تكون قادرًا على تغيير اسم الصفحة وترتيب العرض."
+msgstr ""
+"في الصفحة المفتوحة، يجب أن تكون قادرًا على تغيير اسم الصفحة وترتيب العرض."
 
 #: ../docs/index.rst:823
 msgid "Save your changes by clicking the |update-page| button."
@@ -2138,12 +2104,10 @@ msgid "`How to reset your password?`_"
 msgstr "`كيفية إعادة تعيين كلمة المرور الخاصة بك؟`_"
 
 #: ../docs/index.rst:848
-#, fuzzy
 msgid "`View a project/dashboard`_"
 msgstr "`عرض مشروع / لوحة المعلومات`_"
 
 #: ../docs/index.rst:850
-#, fuzzy
 msgid "`Can't access a project dashboard`_"
 msgstr "`لا يمكن الوصول إلى لوحة معلومات المشروع`_"
 
@@ -2160,7 +2124,6 @@ msgid "`Data updates don't appear on the dashboard`_"
 msgstr "`لا تظهر تحديثات البيانات على لوحة المعلومات`_"
 
 #: ../docs/index.rst:856
-#, fuzzy
 msgid "`Exported data is unreadable / contains strange characters`_"
 msgstr "`تصدير البيانات غير قابل للقراءة / يحتوي على أحرف غريبة`_"
 
@@ -2207,7 +2170,6 @@ msgid "How to reset your password?"
 msgstr "كيفية إعادة تعيين كلمة المرور الخاصة بك؟"
 
 #: ../docs/index.rst:875
-#, fuzzy
 msgid ""
 "If you forgot your password, follow the instructions provided `here`__ to"
 " reset your password."
@@ -2216,17 +2178,14 @@ msgstr ""
 "تعيين كلمة المرور الخاصة بك."
 
 #: ../docs/index.rst:881
-#, fuzzy
 msgid "View a project/dashboard"
 msgstr "عرض مشروع / لوحة المعلومات"
 
 #: ../docs/index.rst:884
-#, fuzzy
 msgid "Can't access a project dashboard"
 msgstr "لا يمكن الوصول إلى لوحة معلومات المشروع"
 
 #: ../docs/index.rst:886
-#, fuzzy
 msgid ""
 "For data protection reasons, access to the project dashboards is only "
 "granted upon request. If you require access to a project, please contact "
@@ -2234,10 +2193,10 @@ msgid ""
 "<mailto:herams@who.int?>`_, specifying why you require access to the "
 "project."
 msgstr ""
-"لأسباب تتعلق بحماية البيانات، يتم منح صلاحية الدخول إلى لوحات بيانات "
-"المشروع فقط عند الطلب. إذا كنت بحاجة إلى الدخول إلى مشروع، فيرجى الاتصال "
-"بمركز التنسيق في بلدك أو إرسال بريد إلكتروني إلى `<?hearms@who.int "
-"<mailto: herams@who.int`_، لتحديد سبب طلب الدخول إلى المشروع."
+"لأسباب تتعلق بحماية البيانات، يتم منح صلاحية الدخول إلى لوحات بيانات المشروع "
+"فقط عند الطلب. إذا كنت بحاجة إلى الدخول إلى مشروع، فيرجى الاتصال بمركز "
+"التنسيق في بلدك أو إرسال بريد إلكتروني إلى `<?hearms@who.int <mailto: "
+"herams@who.int`_، لتحديد سبب طلب الدخول إلى المشروع."
 
 #: ../docs/index.rst:889
 msgid "Who has access to your project?"
@@ -2280,12 +2239,10 @@ msgstr ""
 "المؤقت للبيانات، اقرأ القسم الخاص ب `مساحات العمل`__."
 
 #: ../docs/index.rst:911
-#, fuzzy
 msgid "Exported data is unreadable / contains strange characters"
 msgstr "البيانات التي تم تصديرها غير قابلة للقراءة او تحتوي على أحرف غريبة"
 
 #: ../docs/index.rst:913
-#, fuzzy
 msgid ""
 "If you open data downloaded from HeRAMS in Excel, you might experience an"
 " issue with special characters not displaying correctly, resulting in "
@@ -2294,12 +2251,11 @@ msgid ""
 "the correct encoding type to read your data. To correct the issue, follow"
 " the instruction outlined `here`__."
 msgstr ""
-"إذا قمت بفتح البيانات التي تم تنزيلها من هيرامس في برنامح اكسيل، فقد "
-"تواجه مشكلة  عدم عرض الأحرف الخاصة بشكل صحيح، مما يؤدي إلى نص غير قابل "
-"للقراءة. على سبيل المثال، بدلاً من **camp de réfugiés**، تحصل على ** Camp"
-" de rÃ © fugiÃ © s**. السبب في ذلك هو أن برنامح اكسيل لا يستخدم نوع "
-"الترميز الصحيح لقراءة بياناتك. لتصحيح المشكلة، اتبع التعليمات الموضحة "
-"`هنا`__."
+"إذا قمت بفتح البيانات التي تم تنزيلها من هيرامس في برنامح اكسيل، فقد تواجه "
+"مشكلة  عدم عرض الأحرف الخاصة بشكل صحيح، مما يؤدي إلى نص غير قابل للقراءة. "
+"على سبيل المثال، بدلاً من **camp de réfugiés**، تحصل على ** Camp de rÃ © "
+"fugiÃ © s**. السبب في ذلك هو أن برنامح اكسيل لا يستخدم نوع الترميز الصحيح "
+"لقراءة بياناتك. لتصحيح المشكلة، اتبع التعليمات الموضحة `هنا`__."
 
 #~ msgid ""
 #~ "It should be noted that the guide"
