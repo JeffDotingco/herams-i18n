@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-05 11:19+0000\n"
-"PO-Revision-Date: 2019-11-21 09:33+0000\n"
-"Last-Translator: Fatma Giha <gihaf@who.int>\n"
+"PO-Revision-Date: 2019-11-21 10:16+0000\n"
+"Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
 "Language: ar\n"
@@ -43,8 +43,8 @@ msgstr ""
 "الرئيسية لنظام هيرامس، بما في ذلك معلومات مفصلة حول كيفية استكشاف البيانات "
 "المتاحة باستخدام لوحات المعلومات التفاعلية. يمكن لمديري البيانات العثور على "
 "معلومات إضافية حول كيفية تحرير البيانات في قسم `تحرير البيانات`_. يرجى "
-"الرجوع إلى  قسم `إدارة المشروع`__  لمزيد من الموضوعات المتقدمة المتعلقة "
-"بإدارة المستخدمين وإدارة المشروع،."
+"الرجوع إلى  قسم `إدارة   لمزيد من الموضوعات المتقدمة المتعلقة بإدارة "
+"المستخدمين و `إدارة المشروع`__."
 
 #: ../docs/index.rst:16
 msgid ""
@@ -143,7 +143,7 @@ msgstr ""
 
 #: ../docs/index.rst:58 ../docs/index.rst:75
 msgid "Open the link `herams.org <https://herams.org>`_ in your browser."
-msgstr "افتح الرابط `<herams.org <https://herams.org`_ في متصفحك بالإنترنت."
+msgstr "افتح `herams.org الرابط <https://herams.org>`  في متصفحك بالإنترنت."
 
 #: ../docs/index.rst:59
 msgid "Enter your email address and password in the designated fields."
@@ -181,7 +181,7 @@ msgid ""
 "On the sign in page, click the `reset password "
 "<https://herams.org/user/forgot>`_ link located below the password field."
 msgstr ""
-"في صفحة تسجيل الدخول، انقر فوق رابط`إعادة تشغيل كلمة المرور <https://herams."
+"في صفحة تسجيل الدخول، انقر فوق رابط` إعادة تشغيل كلمة المرور <https://herams."
 "org/user/forgot>`_ الموجودة أسفل حقل كلمة المرور."
 
 #: ../docs/index.rst:80
@@ -263,7 +263,7 @@ msgid ""
 "your personal information such as your name, organization and contact "
 "details."
 msgstr ""
-"يفتح هذا ملف ` تعريف المستخدم الخاص بك <https://herams.org/user/settings/"
+"يفتح هذا ملف ` تعريف المستخدم الخاص` بك <https://herams.org/user/settings/"
 "profile>`_ ويسمح لك بتغيير معلوماتك الشخصية مثل اسمك ومؤسستك وتفاصيل الاتصال "
 "الخاصة بك."
 
