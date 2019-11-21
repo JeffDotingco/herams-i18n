@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-05 11:19+0000\n"
-"PO-Revision-Date: 2019-11-21 10:16+0000\n"
+"PO-Revision-Date: 2019-11-21 10:29+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -139,11 +139,11 @@ msgid ""
 "the instruction `here`__."
 msgstr ""
 "سيتعين على المستخدمين الجدد الذين ليس لديهم حساب، التسجيل قبل التمكن من "
-"الدخول إلى نظام هيرامس. لإنشاء حساب مستخدم ، اتبع التعليمات `هنا`__."
+"الدخول إلى نظام هيرامس. لإنشاء حساب مستخدم ، اتبع التعليمات `هنا`__ ."
 
 #: ../docs/index.rst:58 ../docs/index.rst:75
 msgid "Open the link `herams.org <https://herams.org>`_ in your browser."
-msgstr "افتح `herams.org الرابط <https://herams.org>`  في متصفحك بالإنترنت."
+msgstr "افتح `herams.org الرابط <https://herams.org>` في متصفحك بالإنترنت."
 
 #: ../docs/index.rst:59
 msgid "Enter your email address and password in the designated fields."
@@ -181,7 +181,7 @@ msgid ""
 "On the sign in page, click the `reset password "
 "<https://herams.org/user/forgot>`_ link located below the password field."
 msgstr ""
-"في صفحة تسجيل الدخول، انقر فوق رابط` إعادة تشغيل كلمة المرور <https://herams."
+"في صفحة تسجيل الدخول، انقر فوق رابط إعادة تشغيل كلمة `المرور <https://herams."
 "org/user/forgot>`_ الموجودة أسفل حقل كلمة المرور."
 
 #: ../docs/index.rst:80
@@ -480,13 +480,13 @@ msgstr "يمكنك تحديد عدد الحقول المعروضة باستخد�
 
 #: ../docs/index.rst:184
 msgid "Click the |applyfilter| button to activate your filter."
-msgstr "انقر فوق زر | Applyfilter | لتفعيل الفلتر الخاص بك."
+msgstr "انقر فوق زر |applyfilter| لتفعيل الفلتر الخاص بك."
 
 #: ../docs/index.rst:185
 msgid ""
 "To remove the filters, return to the **Filter** pages and click the "
 "|clearfilter| button."
-msgstr "لإزالة الفلتر، ارجع إلى صفحة ** Filter ** وانقر فوق زر | clearfilter | ."
+msgstr "لإزالة الفلتر، ارجع إلى صفحة ** Filter ** وانقر فوق زر |clearfilter| ."
 
 #: ../docs/index.rst:193
 msgid "Customizing the dashboard"
@@ -633,7 +633,7 @@ msgid ""
 "(**MoSD**\\s) by type as well as the modality of the building structure "
 "(permanent vs. temporary); and"
 msgstr ""
-"مخططات دونات لتوضيح Mo**\\des of **S**\\ervice **D**\\elivery (**MoSD**\\s)**"
+"مخططات دونات لتوضيح **Mo**\\des of **S**\\ervice **D**\\elivery (**MoSD**\\s)"
 " حسب النوع وكذلك طريقة هيكل المبنى (دائم مقابل مؤقت)؛ و"
 
 #: ../docs/index.rst:249
