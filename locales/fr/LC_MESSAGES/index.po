@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-05 11:19+0000\n"
-"PO-Revision-Date: 2019-11-12 14:41+0000\n"
+"PO-Revision-Date: 2019-11-21 10:56+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -1295,10 +1295,12 @@ msgid ""
 "In the top left corner of the pop-up window that opens, change the "
 "encoding type to **UTF-8**, and click **Import**."
 msgstr ""
+"Dans le coin supérieur gauche de la fenêtre pop-up qui s'ouvre, changez le "
+"type d'encodage en **UTF-8****, et cliquez sur **Importer**."
 
 #: ../docs/index.rst:486
 msgid "HeRAMS Administration"
-msgstr ""
+msgstr "HeRAMS Administration"
 
 #: ../docs/index.rst:488
 msgid ""
@@ -1309,6 +1311,12 @@ msgid ""
 "level administration and the configuration of project specific "
 "`Dashboard`__."
 msgstr ""
+"Ce chapitre fournit une vue d'ensemble des pages d'administration dans "
+"HeRAMS et offre des instructions étape par étape pour les tâches courantes "
+"effectuées par les utilisateurs avancés et les administrateurs de projets. "
+"La première partie du chapitre présente le concept d'`espaces de travail`__ "
+"tandis que la deuxième partie se concentre sur l'administration au niveau "
+"`projet`__ et la configuration des `tableaux de bord`__ spécifique au projet."
 
 #: ../docs/index.rst:494
 #, fuzzy
@@ -1329,7 +1337,7 @@ msgstr ""
 
 #: ../docs/index.rst:498
 msgid "Workspaces"
-msgstr ""
+msgstr "Les espaces de travail"
 
 #: ../docs/index.rst:500
 msgid ""
@@ -1359,6 +1367,8 @@ msgid ""
 "|pencil-thin| **Update Workspace**:  allows to change the title or token "
 "of a workspace."
 msgstr ""
+"|pencil-thin| **Mettre à jour l'espace de travail**: permet de changer le "
+"titre ou le token d'un espace de travail."
 
 #: ../docs/index.rst:504
 msgid ""
@@ -1366,6 +1376,10 @@ msgid ""
 "the workspace must be shared with the user. For more information on how "
 "to add users to a workspace click `here`__."
 msgstr ""
+"|share-icon| **Partager l'espace de travail**: Pour accorder à un "
+"utilisateur l'accès à l'espace de travail, celui-ci doit être partagé avec "
+"l'utilisateur. Pour plus d'informations sur la façon d'ajouter des "
+"utilisateurs à un espace de travail, cliquez `ici`__."
 
 #: ../docs/index.rst:505
 msgid ""
@@ -1378,20 +1392,26 @@ msgid ""
 "|download| **Download Data**: Downloads all records belonging to the "
 "selected workspace. See `Download Data`__ for more information."
 msgstr ""
+"|download| **Télécharger les données** : Télécharge tous les enregistrements "
+"appartenant à l'espace de travail sélectionné. Voir `Télécharger les données`"
+"__ pour plus d'informations."
 
 #: ../docs/index.rst:507
 msgid ""
 "|pencil-black| **Data Update**: This opens the data edit interface. More "
 "information on data editing and updating is available `here`__."
 msgstr ""
+"|pencil-black| **Mise à jour des données** : L'interface d'édition des "
+"données s'ouvre. Pour plus d'informations sur l'édition et la mise à jour "
+"des données, cliquez `ici`__."
 
 #: ../docs/index.rst:517
 msgid "Workspace Permissions"
-msgstr ""
+msgstr "Permissions de l'espace de travail"
 
 #: ../docs/index.rst:519
 msgid "There are two permission levels for workspaces:"
-msgstr ""
+msgstr "Il y a deux niveaux d'autorisation pour les espaces de travail:"
 
 #: ../docs/index.rst:521
 msgid "access to manage the underlying responses’ data; and"
@@ -1410,16 +1430,24 @@ msgid ""
 "permission (option 2) allowing them to add additional users to their "
 "workspace as well as to manage the underlying response data."
 msgstr ""
+"Les utilisateurs ayant le rôle de **Data Editor** ont accès à la mise à jour "
+"des données de réponse (option 1) tandis que **Workspace Owners** peut "
+"recevoir une permission élevée (option 2) leur permettant d'ajouter des "
+"utilisateurs supplémentaires à leur espace de travail ainsi que de gérer les "
+"données de réponse sous-jacentes."
 
 #: ../docs/index.rst:527
 msgid "Add a User to a Workspace"
-msgstr ""
+msgstr "Ajouter un utilisateur à un espace de travail"
 
 #: ../docs/index.rst:529
 msgid ""
 "To grant a user access to a workspace, open the admin interface by "
 "clicking the |settings| icon in the top right corner of the screen."
 msgstr ""
+"Pour accorder à un utilisateur l'accès à un espace de travail, ouvrez "
+"l'interface d'administration en cliquant sur l'icône |settings| dans le coin "
+"supérieur droit de l'écran."
 
 #: ../docs/index.rst:530
 #, fuzzy
@@ -1437,6 +1465,9 @@ msgid ""
 "buttons. Click the |workspace| icon. This will open the workspace of the "
 "selected project."
 msgstr ""
+"Dans la colonne de droite du tableau, vous devriez voir plusieurs boutons "
+"**Action**. Cliquez sur l'icône |workspace|. Cela ouvrira l'espace de "
+"travail du projet sélectionné."
 
 #: ../docs/index.rst:532
 msgid ""
@@ -1446,6 +1477,12 @@ msgid ""
 "facilities and responses. Alike the **Projects** table, the last column "
 "contains several **Action** buttons."
 msgstr ""
+"Vous devriez maintenant voir un tableau avec tous les espaces de travail de "
+"votre projet. Pour chaque espace de travail, le tableau fournit des "
+"informations sur la dernière synchronisation des données avec la base de "
+"données sous-jacente, le nombre de contributeurs, les formations sanitaires "
+"et les réponses. A l'instar du tableau **Projets**, la dernière colonne "
+"contient plusieurs boutons **Action**."
 
 #: ../docs/index.rst:533
 msgid ""
@@ -1453,6 +1490,9 @@ msgid ""
 " to share the workspace with them. Click the |share-icon| icon in the "
 "**Actions** column."
 msgstr ""
+"Pour autoriser un utilisateur à accéder à un espace de travail (par exemple "
+"pour mettre à jour les données), vous devez partager l'espace de travail "
+"avec lui. Cliquez sur l'icône |partager-icon| dans la colonne **Actions**."
 
 #: ../docs/index.rst:534
 msgid ""
@@ -1470,16 +1510,21 @@ msgid ""
 "Use the checkboxes to select the appropriate permission level. See "
 "`above`__ for further details on workspace permissions."
 msgstr ""
+"Utilisez les cases à cocher pour sélectionner le niveau d'autorisation "
+"approprié. Voir `ci-dessus`__ pour plus de détails sur les permissions de "
+"l'espace de travail."
 
 #: ../docs/index.rst:546
 msgid ""
 "Click the |share-button| button to share the workspace with the selected "
 "user(s)."
 msgstr ""
+"Cliquez sur le bouton |partager| pour partager l'espace de travail avec le "
+"ou les utilisateurs sélectionnés."
 
 #: ../docs/index.rst:556
 msgid "Remove a User from a Workspace"
-msgstr ""
+msgstr "Supprimer un utilisateur d'un espace de travail"
 
 #: ../docs/index.rst:558
 msgid ""
@@ -1487,6 +1532,9 @@ msgid ""
 "you would like to remove the user. (Follow steps 1 - 5 outlined `above`__"
 " to access the workspace)."
 msgstr ""
+"Pour supprimer un utilisateur d'un espace de travail, naviguez jusqu'à "
+"l'espace de travail dont vous souhaitez supprimer l'utilisateur. (Suivez les "
+"étapes 1 à 5 décrites `ci-dessus`__ pour accéder à l'espace de travail)."
 
 #: ../docs/index.rst:559 ../docs/index.rst:657
 msgid ""
@@ -1494,26 +1542,34 @@ msgid ""
 "access to the workspace. Click the |delete-black| icon to remove the user"
 " permanently."
 msgstr ""
+"Dans la deuxième moitié de la page, vous verrez une liste de tous les "
+"utilisateurs ayant accès à l'espace de travail. Cliquez sur l'icône |delete-"
+"black| pour supprimer définitivement l'utilisateur."
 
 #: ../docs/index.rst:565
 msgid "Change a User's Workspace Permission"
-msgstr ""
+msgstr "Modifier les droits d'accès d'espace de travail d'un utilisateur"
 
 #: ../docs/index.rst:567
 msgid ""
 "To change a user's permission, remove the user from the workspace as "
 "outlined `above`__"
 msgstr ""
+"Pour modifier l'autorisation d'un utilisateur, supprimez-le de l'espace de "
+"travail comme indiqué `ci-dessus`__."
 
 #: ../docs/index.rst:568
 msgid ""
 "Now add the user again using the new permission level (see `Add a User to"
 " a Workspace`__ for details)."
 msgstr ""
+"Maintenant, ajoutez à nouveau l'utilisateur en utilisant le nouveau niveau "
+"d'autorisation (voir `Ajouter un utilisateur à un espace de travail`__ pour "
+"plus de détails)."
 
 #: ../docs/index.rst:575
 msgid "Create a New Workspace"
-msgstr ""
+msgstr "Créer un nouvel espace de travail"
 
 #: ../docs/index.rst:577
 msgid ""
