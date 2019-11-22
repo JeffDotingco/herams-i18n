@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-05 11:19+0000\n"
-"PO-Revision-Date: 2019-11-22 15:36+0000\n"
+"PO-Revision-Date: 2019-11-22 15:54+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -45,7 +45,7 @@ msgstr ""
 "informations supplémentaires sur la manière de modifier les données dans la "
 "section `Modifier les données`_. Pour des sujets plus avancés liée à la "
 "gestion des utilisateurs et à l'administration de projet veuillez consulter "
-"la section `HeRAMS Administration<#HeRAMS-Administration>`_."
+"la section `HeRAMS Administration`_."
 
 #: ../docs/index.rst:16
 msgid ""
@@ -102,8 +102,8 @@ msgid ""
 "button."
 msgstr ""
 "Dans la page d'ouverture, veuillez cliquer sur le lien `sign up "
-"<https://herams.org/user/register/>`_, situé au-dessus du bouton de "
-"connexion |login|."
+"<https://herams.org/user/register>`_, situé au-dessus du bouton de connexion "
+"|login|."
 
 #: ../docs/index.rst:39
 msgid "On the page that opens, enter your details."
@@ -147,7 +147,7 @@ msgstr ""
 #: ../docs/index.rst:58 ../docs/index.rst:75
 msgid "Open the link `herams.org <https://herams.org>`_ in your browser."
 msgstr ""
-"Veuillez ouvrir le lien `https://herams.org <https://herams.org>` dans "
+"Veuillez ouvrir le lien `https://herams.org <https://herams.org>`_ dans "
 "votre navigateur."
 
 #: ../docs/index.rst:59
@@ -294,7 +294,8 @@ msgstr "Modifier le mot de passe"
 msgid "To alter your password, open your user profile as explained `above`__."
 msgstr ""
 "Pour modifier votre mot de passe, veuillez ouvrir votre profil de "
-"l'utilisateur comme expliqué `ci-dessus`__."
+"l'utilisateur comme expliqué `ci-dessus <#Mise-à-jour-du-profil-"
+"utilisateur>`_."
 
 #: ../docs/index.rst:110
 msgid ""
