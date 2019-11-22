@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-05 11:19+0000\n"
-"PO-Revision-Date: 2019-11-22 13:50+0000\n"
+"PO-Revision-Date: 2019-11-22 13:57+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -486,7 +486,7 @@ msgstr "انقر فوق زر |applyfilter| لتفعيل الفلتر الخاص 
 msgid ""
 "To remove the filters, return to the **Filter** pages and click the "
 "|clearfilter| button."
-msgstr "لإزالة الفلتر، ارجع إلى صفحة ** Filter ** وانقر فوق زر |clearfilter| ."
+msgstr "لإزالة الفلتر، ارجع إلى صفحة **Filter** وانقر فوق زر |clearfilter| ."
 
 #: ../docs/index.rst:193
 msgid "Customizing the dashboard"
@@ -587,7 +587,7 @@ msgstr "نظرة عامة"
 
 #: ../docs/index.rst:231
 msgid "The **Overview** page provides a summary, in form of:"
-msgstr "تقدم صفحة ** نظرة عامة ** ملخصًا في شكل:"
+msgstr "تقدم صفحة **نظرة عامة** ملخصًا في شكل:"
 
 #: ../docs/index.rst:233
 msgid ""
@@ -686,8 +686,8 @@ msgid ""
 "MoSDs following a standard classification and scale (Fully Functioning to"
 " Not Functioning) represented as:"
 msgstr ""
-"تعرض صفحة ** حالة العمل ** مستوى حالة عمل المرفق الصحي بعد تصنيف ومقياس "
-"قياسي (يعمل بشكل كامل الى لا يعمل) ممثلاً على النحو التالي:"
+"تعرض صفحة **حالة العمل** مستوى حالة عمل المرفق الصحي بعد تصنيف ومقياس قياسي ("
+"يعمل بشكل كامل الى لا يعمل) ممثلاً على النحو التالي:"
 
 #: ../docs/index.rst:273
 msgid ""
@@ -757,8 +757,8 @@ msgid ""
 "of the MoSDs and the level of support provided by partners. The "
 "information is illustrated in terms of:"
 msgstr ""
-"تعرض صفحة ** الإدارة والدعم ** معلومات حول إدارة وسائل تقديم الخدمة "
-"ومستوى الدعم المقدم من الشركاء. يتم توضيح المعلومات من حيث:"
+"تعرض صفحة **الإدارة والدعم** معلومات حول إدارة وسائل تقديم الخدمة ومستوى "
+"الدعم المقدم من الشركاء. يتم توضيح المعلومات من حيث:"
 
 #: ../docs/index.rst:299
 msgid "Ownership:"
@@ -820,7 +820,8 @@ msgstr "توفر الخدمة"
 msgid ""
 "The **Service Availability** page displays multiple pages per type of "
 "service. Each page displays:"
-msgstr "تعرض ** توفر الخدمة ** صفحات متعددة لكل نوع من أنواع الخدمة. كل صفحة تعرض:"
+msgstr ""
+"تعرض **توفر الخدمة** صفحات متعددة لكل نوع من أنواع الخدمة. كل صفحة تعرض:"
 
 #: ../docs/index.rst:330
 msgid ""
@@ -2232,10 +2233,10 @@ msgid ""
 "`Workspaces`__."
 msgstr ""
 "من المهم ملاحظة أن البيانات المعروضة على لوحات المعلومات التفاعلية تتم "
-"مزامنتها كل 30 دقيقة فقط. وبالتالي، من الممكن ألا تظهر تحديثات البيانات "
-"فورًا على لوحات المعلومات. لحل المشكلة، قم بمزامنة ذاكرة التخزين المؤقت "
-"للبيانات الخاصة بمساحة العمل يدويًا. لمزيد من المعلومات حول التخزين "
-"المؤقت للبيانات، اقرأ القسم الخاص ب `مساحات العمل`__."
+"مزامنتها كل 30 دقيقة فقط. وبالتالي، من الممكن ألا تظهر تحديثات البيانات فورً"
+"ا على لوحات المعلومات. لحل المشكلة، قم بمزامنة ذاكرة التخزين المؤقت للبيانات "
+"الخاصة بمساحة العمل يدويًا. لمزيد من المعلومات حول التخزين المؤقت للبيانات، "
+"اقرأ القسم الخاص ب `مساحات العمل`__ ."
 
 #: ../docs/index.rst:911
 msgid "Exported data is unreadable / contains strange characters"
@@ -2254,7 +2255,7 @@ msgstr ""
 "مشكلة  عدم عرض الأحرف الخاصة بشكل صحيح، مما يؤدي إلى نص غير قابل للقراءة. "
 "على سبيل المثال، بدلاً من **camp de réfugiés**، تحصل على ** Camp de rÃ © "
 "fugiÃ © s**. السبب في ذلك هو أن برنامح اكسيل لا يستخدم نوع الترميز الصحيح "
-"لقراءة بياناتك. لتصحيح المشكلة، اتبع التعليمات الموضحة `هنا`_."
+"لقراءة بياناتك. لتصحيح المشكلة، اتبع التعليمات الموضحة`هنا`__ ."
 
 #~ msgid ""
 #~ "It should be noted that the guide"
