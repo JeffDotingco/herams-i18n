@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-05 11:19+0000\n"
-"PO-Revision-Date: 2019-11-21 12:41+0000\n"
+"PO-Revision-Date: 2019-11-22 11:41+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -1569,46 +1569,60 @@ msgid ""
 "To create a new workspace, access the workspace page of your project. "
 "(Follow steps 1 - 5 outlined `above`__ to access the workspace)."
 msgstr ""
+"Pour créer un nouvel espace de travail, accédez à la page des espaces de "
+"travail de votre projet. (Suivez les étapes 1 à 5 décrites `ci-dessus`__pour "
+"accéder aux espaces de travail)."
 
 #: ../docs/index.rst:578
 msgid ""
 "In the upper left corner, you will see a button labelled |create-"
 "workspace|."
 msgstr ""
+"Dans le coin supérieur gauche, vous verrez un bouton intitulé create-"
+"workspace|."
 
 #: ../docs/index.rst:579
 msgid "On the page that opens, you should now be able to create a new workspace."
 msgstr ""
+"Sur la page qui s'ouvre, vous devriez maintenant pouvoir créer un nouvel "
+"espace de travail."
 
 #: ../docs/index.rst:580
 msgid "Enter the workspace's name into the title field."
-msgstr ""
+msgstr "Entrez le nom de l'espace de travail dans le champ titre."
 
 #: ../docs/index.rst:581
 msgid ""
 "Use the dropdown list to select the corresponding **Token** or create a "
 "new token by selecting **Create new token**."
 msgstr ""
+"Utilisez la liste déroulante pour sélectionner le **Token** correspondant ou "
+"créez un nouveau token en sélectionnant **Create new token** *(Créer un "
+"nouveau token)*."
 
 #: ../docs/index.rst:593
 msgid "Delete a Workspace"
-msgstr ""
+msgstr "Supprimer un espace de travail"
 
 #: ../docs/index.rst:595
 msgid ""
 "You can remove a workspace by clicking the |delete-black| icon in the "
 "**Actions** column next to the selected workspace."
 msgstr ""
+"Vous pouvez supprimer un espace de travail en cliquant sur l'icône |delete-"
+"black| dans la colonne **Actions** à côté de l'espace de travail sélectionné."
 
 #: ../docs/index.rst:603
 msgid "Projects"
-msgstr ""
+msgstr "Projets"
 
 #: ../docs/index.rst:605
 msgid ""
 "The `Projects <https://herams.org/project/index>`_ page provides a brief "
 "overview of all projects available on the HeRAMS platform."
 msgstr ""
+"La page `Projets <https://herams.org/project/index>`_  donne un bref aperçu "
+"de tous les projets disponibles sur la plate-forme HeRAMS."
 
 #: ../docs/index.rst:611
 msgid ""
@@ -1616,12 +1630,17 @@ msgid ""
 "workspace belonging to the project. See `here`__ for more information on "
 "workspaces."
 msgstr ""
+"|workspace| **Espace de travail** : Ceci ouvre la liste de tous les espaces "
+"de travail disponibles appartenant au projet. Voir `ici`__ pour plus "
+"d'informations sur les espaces de travail."
 
 #: ../docs/index.rst:612
 msgid ""
 "|dashboard| **Dashboard**: By clicking the dashboard icon, the project "
 "`dashboard`__ will be opened."
 msgstr ""
+"|dashboard| **Tableau de bord** : En cliquant sur l'icône du tableau de "
+"bord, le projet `dashboard`__ s'ouvre."
 
 #: ../docs/index.rst:613
 msgid ""
@@ -1638,16 +1657,21 @@ msgid ""
 "|check| **Check Data**: Can be used for a quick review of the data to "
 "identify invalid responses."
 msgstr ""
+"|check| **Vérifier les données** : Peut être utilisé pour un examen rapide "
+"des données afin d'identifier les réponses invalides."
 
 #: ../docs/index.rst:615
 msgid ""
 "|share-icon| **Share**: The sharing function is used to grant users "
 "access to a project. See `below`__ for further details."
 msgstr ""
+"|share-icon| **Partager** : La fonction de partage est utilisée pour "
+"permettre aux utilisateurs d'accéder à un projet. Voir `ci-dessous`__ pour "
+"plus de détails."
 
 #: ../docs/index.rst:626
 msgid "Add a User to a Project"
-msgstr ""
+msgstr "Ajouter un utilisateur à un projet"
 
 #: ../docs/index.rst:628
 msgid ""
