@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-25 13:45+0000\n"
-"PO-Revision-Date: 2019-11-25 14:43+0000\n"
+"PO-Revision-Date: 2019-11-25 15:04+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -897,8 +897,8 @@ msgid ""
 "From the navigation pane on the left, select `Projects "
 "<https://herams.org/project/index>`_."
 msgstr ""
-"من جزء التنقل الموجود على اليسار، حدد `<Projects "
-"<https://herams.org/project/index>` _."
+"من جزء التنقل الموجود على اليسار، حدد `<Projects <https://herams.org/project/"
+"index`_."
 
 #: ../docs/index.rst:344
 msgid ""
@@ -1383,8 +1383,8 @@ msgid ""
 "<https://herams.org/project/index>`_ to open the **Projects** overview "
 "table."
 msgstr ""
-"في جزء التنقل الموجود على اليسار، انقر فوق `<Projects "
-"<https://herams.org/project/index` _ لفتح جدول نظرة عامة **Projects **."
+"في جزء التنقل الموجود على اليسار، انقر فوق `<Projects <https://herams.org/"
+"project/index`_ لفتح جدول نظرة عامة **Projects**."
 
 #: ../docs/index.rst:506
 msgid ""
@@ -1532,8 +1532,8 @@ msgid ""
 "Use the dropdown list to select the corresponding **Token** or create a "
 "new token by selecting **Create new token**."
 msgstr ""
-"استخدم القائمة المنسدلة لتحديد الرمز المميز **Token** أو إنشاء رمز مميز "
-"جديد عن طريق تحديد إنشاء رمز مميز جديد**Create new token**."
+"استخدم القائمة المنسدلة لتحديد الرمز المميز **Token** أو إنشاء رمز مميز جديد "
+"عن طريق تحديد إنشاء رمز مميز جديد **Create new token**."
 
 #: ../docs/index.rst:557
 msgid "Delete a Workspace"
@@ -1544,8 +1544,8 @@ msgid ""
 "You can remove a workspace by clicking the |delete-black| icon in the "
 "**Actions** column next to the selected workspace."
 msgstr ""
-"يمكنك حذف مساحة عمل من خلال النقر فوق |delete-black| في العمود **Actions "
-"** بجانب مساحة العمل المحددة."
+"يمكنك حذف مساحة عمل من خلال النقر فوق |delete-black| في العمود **Actions** "
+"بجانب مساحة العمل المحددة."
 
 #: ../docs/index.rst:565
 msgid "Projects"
@@ -1556,8 +1556,8 @@ msgid ""
 "The `Projects <https://herams.org/project/index>`_ page provides a brief "
 "overview of all projects available on the HeRAMS platform."
 msgstr ""
-"تقدم صفحة `المشاريع <https://herams.org/project/index>` _ نظرة عامة "
-"مختصرة على جميع المشروعات المتاحة على نظام هيرامس."
+"تقدم صفحة `المشاريع <https://herams.org/project/index>`_ نظرة عامة مختصرة "
+"على جميع المشروعات المتاحة على نظام هيرامس."
 
 #: ../docs/index.rst:573
 msgid ""
@@ -1574,7 +1574,7 @@ msgid ""
 "|dashboard| **Dashboard**: By clicking the dashboard icon, the `Project "
 "Dashboard`_ will be opened."
 msgstr ""
-"|dashboard| ** لوحة المعلومات **: من خلال النقر على زر لوحة المعلومات ، سيتم "
+"|dashboard| **لوحة المعلومات**: من خلال النقر على زر لوحة المعلومات ، سيتم "
 "فتح `لوحة القيادة`_ المشروع."
 
 #: ../docs/index.rst:575
@@ -1626,8 +1626,8 @@ msgid ""
 "<https://herams.org/project/index>`_ to display the list of all available"
 " projects."
 msgstr ""
-"في جزء التنقل الموجود على اليسار، انقر فوق `<Projects "
-"<https://herams.org/project/index` _ لعرض قائمة بجميع المشاريع المتاحة."
+"في جزء التنقل الموجود على اليسار، انقر فوق `<Projects <https://herams.org/"
+"project/index`_ لعرض قائمة بجميع المشاريع المتاحة."
 
 #: ../docs/index.rst:586
 msgid ""
@@ -1678,7 +1678,7 @@ msgid ""
 "sharing page."
 msgstr ""
 "لحذف مستخدم من مشروع، اتبع الخطوات 1-3 الموضحة في`القسم السابق <#add-a-user-"
-"to-a-project>` _ للوصول إلى صفحة مشاركة المشروع."
+"to-a-project>`_ للوصول إلى صفحة مشاركة المشروع."
 
 #: ../docs/index.rst:614
 msgid "Change a User's Project Permissions"
@@ -1717,16 +1717,16 @@ msgid ""
 "Open the **Projects** page by selecting `Projects "
 "<https://herams.org/project/index>`_ in the navigation pane on the left."
 msgstr ""
-"افتح صفحة **Projects ** عن طريق تحديد `<Projects "
-"<https://herams.org/project/index` _ في جزء التنقل على اليسار."
+"افتح صفحة **Projects ** عن طريق تحديد `<Projects <https://herams.org/project/"
+"index`_ في جزء التنقل على اليسار."
 
 #: ../docs/index.rst:625
 msgid ""
 "Click the |pencil-thin| icon in the **Actions** column of your project. "
 "This will open the project properties page."
 msgstr ""
-"انقر فوق زر |pencil-thin|  في العمود ** Actions ** في مشروعك. سيؤدي هذا "
-"إلى فتح صفحة خصائص المشروع."
+"انقر فوق زر |pencil-thin|  في العمود **Actions** في مشروعك. سيؤدي هذا إلى "
+"فتح صفحة خصائص المشروع."
 
 #: ../docs/index.rst:631
 msgid ""
@@ -1916,8 +1916,8 @@ msgid ""
 "Now use the **Code** dropdown list to select which field you would like "
 "to display on your element."
 msgstr ""
-"استخدم الآن القائمة المنسدلة ** Code ** لتحديد الحقل الذي ترغب في عرضه "
-"على العنصر الخاص بك."
+"استخدم الآن القائمة المنسدلة **Code** لتحديد الحقل الذي ترغب في عرضه على "
+"العنصر الخاص بك."
 
 #: ../docs/index.rst:695
 msgid ""
@@ -1925,7 +1925,7 @@ msgid ""
 "**Sort** index. Increment the index by 1 for each new item, starting with"
 " 0 for the first page."
 msgstr ""
-"حدد موضع العنصر في صفحة لوحة المعلومات عن طريق تحديد فهرس ** Sort **. قم "
+"حدد موضع العنصر في صفحة لوحة المعلومات عن طريق تحديد فهرس **Sort**. قم "
 "بزيادة الفهرس بمقدار 1 لكل عنصر جديد ، بدءًا من 0 للصفحة الأولى."
 
 #: ../docs/index.rst:696
@@ -1936,7 +1936,7 @@ msgstr "يتيح الحقل ** العرض ** والحقل ** الارتفاع **
 
 #: ../docs/index.rst:700
 msgid "Optionally, the **Title** field allows you to overwrite the default title."
-msgstr "اختياريًا ، يسمح لك الحقل ** Title ** بالكتابة فوق العنوان الافتراضي."
+msgstr "اختياريًا ، يسمح لك الحقل **Title** بالكتابة فوق العنوان الافتراضي."
 
 #: ../docs/index.rst:701
 msgid ""
@@ -2030,8 +2030,8 @@ msgid ""
 "Define the page order by entering a **Sort** index. Increment the index "
 "by 1 for each new page, starting with **0** for the first page."
 msgstr ""
-"حدد ترتيب الصفحة عن طريق إدخال فهرس ** Sort **. قم بزيادة الفهرس بمقدار 1"
-" لكل صفحة جديدة ، بدءًا من **0** للصفحة الأولى."
+"حدد ترتيب الصفحة عن طريق إدخال فهرس **Sort**. قم بزيادة الفهرس بمقدار 1 لكل "
+"صفحة جديدة ، بدءًا من **0** للصفحة الأولى."
 
 #: ../docs/index.rst:742
 msgid "Click the |create-page| button to add the page to the dashboard."
@@ -2276,7 +2276,7 @@ msgstr ""
 "مشكلة  عدم عرض الأحرف الخاصة بشكل صحيح، مما يؤدي إلى نص غير قابل للقراءة. "
 "على سبيل المثال، بدلاً من **camp de réfugiés**، تحصل على ** Camp de rÃ © "
 "fugiÃ © s**. السبب في ذلك هو أن برنامح اكسيل لا يستخدم نوع الترميز الصحيح "
-"لقراءة بياناتك. لتصحيح المشكلة، اتبع التعليمات الموضحة`هنا <#data-encoding-"
+"لقراءة بياناتك. لتصحيح المشكلة، اتبع التعليمات الموضحة `هنا <#data-encoding-"
 "in-excel>`_ ."
 
 #~ msgid ""
