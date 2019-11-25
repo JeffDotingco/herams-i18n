@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-25 15:42+0000\n"
+"POT-Creation-Date: 2019-11-25 15:54+0000\n"
 "PO-Revision-Date: 2019-09-17 14:00+0000\n"
 "Last-Translator: Sam <sam@mousa.nl>\n"
 "Language: nl\n"
@@ -1835,6 +1835,12 @@ msgstr ""
 
 #: ../docs/index.rst:827
 msgid "Below is a sample button, it should be localized:"
+msgstr ""
+
+#: ../docs/index.rst:831
+msgid ""
+"Below is a sample button |sample-button|, it should be localized: .. "
+"|sample-button| image:: media/img/bt_next.png"
 msgstr ""
 
 #~ msgid "Below is a sample button, it should be localized:"
