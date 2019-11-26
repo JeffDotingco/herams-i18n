@@ -5,19 +5,20 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  HeRAMS\n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-26 16:18+0000\n"
-"PO-Revision-Date: 2019-11-26 11:20+0000\n"
+"PO-Revision-Date: 2019-11-26 16:28+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
+"herams-user-guide/ar/>\n"
 "Language: ar\n"
-"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams"
-"/herams-user-guide/ar/>\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
-"n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
@@ -199,9 +200,8 @@ msgid "Enter the the characters displayed into the field below the image."
 msgstr "أدخل الحروف المعروضة في الحقل أسفل الصورة."
 
 #: ../docs/index.rst:78
-#, fuzzy
 msgid "Click the |submit-en| button."
-msgstr "انقر فوق زر |submit| ."
+msgstr "انقر فوق زر |submit-en| ."
 
 #: ../docs/index.rst:79
 msgid ""
@@ -224,9 +224,8 @@ msgid "On the page that opens, enter your new password."
 msgstr "في الصفحة التي تفتح، أدخل كلمة المرور الجديدة."
 
 #: ../docs/index.rst:84
-#, fuzzy
 msgid "Click the |submit-en| button to confirm your new password."
-msgstr "انقر فوق |submit| زر لتأكيد كلمة المرور الجديدة."
+msgstr "انقر فوق |submit-en| زر لتأكيد كلمة المرور الجديدة."
 
 #: ../docs/index.rst:85
 msgid ""
@@ -302,9 +301,8 @@ msgstr ""
 "وإدخال كلمة مرور جديدة."
 
 #: ../docs/index.rst:108
-#, fuzzy
 msgid "Make sure to click the |submit-en| button to confirm your changes."
-msgstr "تأكد من النقر فوق زر |submit| لتأكيد التغييرات الخاصة بك."
+msgstr "تأكد من النقر فوق زر |submit-en| لتأكيد التغييرات الخاصة بك."
 
 #: ../docs/index.rst:116
 msgid "World map"
@@ -3190,4 +3188,3 @@ msgstr ""
 
 #~ msgid "Below is a sample button |sample-button|, it should be localized:"
 #~ msgstr ""
-
