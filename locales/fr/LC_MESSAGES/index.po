@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  HeRAMS\n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-26 16:18+0000\n"
-"PO-Revision-Date: 2019-11-26 16:09+0000\n"
+"PO-Revision-Date: 2019-11-26 16:28+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
+"herams-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French <https://weblate.herams-staging.org/projects/herams"
-"/herams-user-guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
@@ -211,9 +212,8 @@ msgid "Enter the the characters displayed into the field below the image."
 msgstr "Veuillez taper les caractères dans le champ situé en dessous de l'image."
 
 #: ../docs/index.rst:78
-#, fuzzy
 msgid "Click the |submit-en| button."
-msgstr "Veuillez cliquer sur le bouton |submit|."
+msgstr "Veuillez cliquer sur le bouton |submit-en|."
 
 #: ../docs/index.rst:79
 msgid ""
@@ -236,9 +236,8 @@ msgid "On the page that opens, enter your new password."
 msgstr "Dans la page qui s’affiche, veuillez saisir votre nouvel mot de passe."
 
 #: ../docs/index.rst:84
-#, fuzzy
 msgid "Click the |submit-en| button to confirm your new password."
-msgstr "Confirmez votre nouvel mot de passe en cliquant le bouton |submit|."
+msgstr "Confirmez votre nouvel mot de passe en cliquant le bouton |submit-en|."
 
 #: ../docs/index.rst:85
 msgid ""
@@ -319,10 +318,9 @@ msgstr ""
 "email et entrer un nouveau mot de passe."
 
 #: ../docs/index.rst:108
-#, fuzzy
 msgid "Make sure to click the |submit-en| button to confirm your changes."
 msgstr ""
-"Assurez-vous de cliquer sur le bouton |submit| pour confirmer vos "
+"Assurez-vous de cliquer sur le bouton |submit-en| pour confirmer vos "
 "modifications."
 
 #: ../docs/index.rst:116
@@ -5193,4 +5191,3 @@ msgstr ""
 
 #~ msgid "Below is a sample button |sample-button|, it should be localized:"
 #~ msgstr ""
-
