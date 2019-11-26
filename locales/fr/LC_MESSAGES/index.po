@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-26 09:19+0000\n"
-"PO-Revision-Date: 2019-11-26 13:23+0000\n"
+"PO-Revision-Date: 2019-11-26 14:19+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/fr/>\n"
@@ -137,14 +137,13 @@ msgid "Logging in"
 msgstr "Se connecter"
 
 #: ../docs/index.rst:51
-#, fuzzy
 msgid ""
 "New users without an existing account, will have to register before being"
 " able to login to the HeRAMS platform. To create a user account, follow "
 "the instructions `here <#creating-a-user-account>`_."
 msgstr ""
-"Les nouveaux utilisateurs sans compte existant devront s’inscrire avant "
-"de pouvoir se connecter à la plate-forme HeRAMS. Pour créer un compte "
+"Les nouveaux utilisateurs sans compte existant devront s’inscrire avant de "
+"pouvoir se connecter à la plate-forme HeRAMS. Pour créer un compte "
 "d'utilisateur veuillez suivez les instructions `ici <#creating-a-user-"
 "account>`_."
 
@@ -179,7 +178,6 @@ msgid "Reset password"
 msgstr "Réinitialiser le mot de passe"
 
 #: ../docs/index.rst:68
-#, fuzzy
 msgid ""
 "In case you forgot your password, the instructions below will guide you "
 "through the steps to reset your password."
@@ -676,16 +674,15 @@ msgstr ""
 "d'établissements de santé par type ;"
 
 #: ../docs/index.rst:241
-#, fuzzy
 msgid ""
 "donut charts to illustrate **Mo**\\des of **S**\\ervice **D**\\elivery "
 "(**MoSD**\\s) by type as well as the modality of the building structure "
 "(permanent vs. temporary); and"
 msgstr ""
-"des graphiques de beignes pour illustrer  les modes de prestation des "
-"series (**MoSD**\\s, angl. *Mo**\\des of **S**\\ervice **D**\\elivery)  "
-"par type ainsi que la modalité de la structure du bâtiment (permanente "
-"vs. temporaire) ; et"
+"des graphiques de beignes pour illustrer  les modes de prestation des series "
+"(**MoSD**\\s, angl. *Mo**\\des of **S**\\ervice **D**\\elivery)  par type "
+"ainsi que la modalité de la structure du bâtiment (permanente vs. temporaire)"
+" ; et"
 
 #: ../docs/index.rst:242
 msgid "a table to illustrate reported accessibility barriers."
