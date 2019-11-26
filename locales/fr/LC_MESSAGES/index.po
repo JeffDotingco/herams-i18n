@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-25 15:57+0000\n"
+"POT-Creation-Date: 2019-11-26 09:19+0000\n"
 "PO-Revision-Date: 2019-11-25 15:38+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language: fr\n"
@@ -2410,14 +2410,6 @@ msgstr ""
 "raison en est qu'Excel n'utilise pas le bon type d'encodage pour lire vos"
 " données. Pour corriger le problème, suivez les instructions décrites "
 "`ici <#data-encodage-in-excel>`_."
-
-#: ../docs/index.rst:827
-msgid "Below is a sample button, it should be localized:"
-msgstr ""
-
-#: ../docs/index.rst:831
-msgid "Below is a sample button |sample-button|, it should be localized:"
-msgstr ""
 
 #~ msgid "Below is a sample button, it should be localized:"
 #~ msgstr ""
@@ -5194,5 +5186,8 @@ msgstr ""
 #~ "Below is a sample button |sample-"
 #~ "button|, it should be localized: .. "
 #~ "|sample-button| image:: media/img/bt_next.png"
+#~ msgstr ""
+
+#~ msgid "Below is a sample button |sample-button|, it should be localized:"
 #~ msgstr ""
 

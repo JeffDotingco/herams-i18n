@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-26 08:32+0000\n"
+"POT-Creation-Date: 2019-11-26 09:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1310,13 +1310,5 @@ msgstr ""
 
 #: ../docs/index.rst:825
 msgid "If you open data downloaded from HeRAMS in Excel, you might experience an issue with special characters not displaying correctly, resulting in unreadable text. For example, instead of **camp de réfugiés** you get **Camp de rÃ©fugiÃ©s**. The reason for this is that Excel is not using the correct encoding type to read your data. To correct the issue, follow the instruction outlined `here <#data-encoding-in-excel>`_."
-msgstr ""
-
-#: ../docs/index.rst:827
-msgid "Below is a sample button, it should be localized:"
-msgstr ""
-
-#: ../docs/index.rst:831
-msgid "Below is a sample button |sample-button|, it should be localized:"
 msgstr ""
 

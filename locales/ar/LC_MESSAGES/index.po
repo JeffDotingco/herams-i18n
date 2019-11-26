@@ -5,20 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: HeRAMS\n"
+"Project-Id-Version:  HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-25 15:57+0000\n"
+"POT-Creation-Date: 2019-11-26 09:19+0000\n"
 "PO-Revision-Date: 2019-11-26 08:39+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
-"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
-"herams-user-guide/ar/>\n"
 "Language: ar\n"
+"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams"
+"/herams-user-guide/ar/>\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
+"n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
@@ -1631,8 +1630,8 @@ msgid ""
 "<https://herams.org/project/index>`_ to display the list of all available"
 " projects."
 msgstr ""
-"في جزء التنقل الموجود على اليسار، انقر فوق `Projects  ربط <https://herams."
-"org/project/index>`_ لعرض قائمة بجميع المشاريع المتاحة."
+"في جزء التنقل الموجود على اليسار، انقر فوق `Projects  ربط "
+"<https://herams.org/project/index>`_ لعرض قائمة بجميع المشاريع المتاحة."
 
 #: ../docs/index.rst:584
 msgid ""
@@ -2283,14 +2282,6 @@ msgstr ""
 " de rÃ © fugiÃ © s**. السبب في ذلك هو أن برنامح اكسيل لا يستخدم نوع "
 "الترميز الصحيح لقراءة بياناتك. لتصحيح المشكلة، اتبع التعليمات الموضحة "
 "`هنا <#data-encoding-in-excel>`_ ."
-
-#: ../docs/index.rst:827
-msgid "Below is a sample button, it should be localized:"
-msgstr ""
-
-#: ../docs/index.rst:831
-msgid "Below is a sample button |sample-button|, it should be localized:"
-msgstr ""
 
 #~ msgid ""
 #~ "It should be noted that the guide"
@@ -3194,3 +3185,10 @@ msgstr ""
 #~ "button|, it should be localized: .. "
 #~ "|sample-button| image:: media/img/bt_next.png"
 #~ msgstr ""
+
+#~ msgid "Below is a sample button, it should be localized:"
+#~ msgstr ""
+
+#~ msgid "Below is a sample button |sample-button|, it should be localized:"
+#~ msgstr ""
+
