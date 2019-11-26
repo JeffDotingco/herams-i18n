@@ -5,19 +5,20 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  HeRAMS\n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-26 09:19+0000\n"
-"PO-Revision-Date: 2019-11-26 08:39+0000\n"
+"PO-Revision-Date: 2019-11-26 09:21+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
+"herams-user-guide/ar/>\n"
 "Language: ar\n"
-"Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams"
-"/herams-user-guide/ar/>\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
-"n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
@@ -132,15 +133,14 @@ msgid "Logging in"
 msgstr "تسجيل الدخول"
 
 #: ../docs/index.rst:51
-#, fuzzy
 msgid ""
 "New users without an existing account, will have to register before being"
 " able to login to the HeRAMS platform. To create a user account, follow "
 "the instructions `here <#creating-a-user-account>`_."
 msgstr ""
 "سيتعين على المستخدمين الجدد الذين ليس لديهم حساب، التسجيل قبل التمكن من "
-"الدخول إلى نظام هيرامس. لإنشاء حساب مستخدم ، اتبع التعليمات `هنا "
-"<#creating-a-user-account>`_."
+"الدخول إلى نظام هيرامس. لإنشاء حساب مستخدم ، اتبع التعليمات `هنا <#creating-a"
+"-user-account>`_."
 
 #: ../docs/index.rst:53 ../docs/index.rst:70
 msgid "Open the link `herams.org <https://herams.org>`_ in your browser."
@@ -170,7 +170,6 @@ msgid "Reset password"
 msgstr "إعادة تشغيل كلمة المرور"
 
 #: ../docs/index.rst:68
-#, fuzzy
 msgid ""
 "In case you forgot your password, the instructions below will guide you "
 "through the steps to reset your password."
@@ -929,7 +928,6 @@ msgstr ""
 "فتح صفحة جديدة تعرض قائمة بجميع مساحات العمل المتاحة."
 
 #: ../docs/index.rst:350
-#, fuzzy
 msgid ""
 "HeRAMS uses so-called **Workspaces** to manage access permission to the "
 "underlying data. A workspace might represent, for example, a specific "
@@ -938,8 +936,8 @@ msgid ""
 msgstr ""
 "يستخدم هيرامس ما يسمى **مساحات العمل** لإدارة إذن الوصول إلى البيانات "
 "الأساسية. قد تمثل مساحة العمل، على سبيل المثال، مؤسسة معينة أو منطقة "
-"جغرافية. لمزيد من المعلومات حول **مساحات العمل** انقر فوق`هنا<#مساحات "
-"العمل>`_ ."
+"جغرافية. لمزيد من المعلومات حول **مساحات العمل** انقر فوق`هنا<#مساحات العمل>`"
+"_ ."
 
 #: ../docs/index.rst:352
 msgid ""
@@ -3191,4 +3189,3 @@ msgstr ""
 
 #~ msgid "Below is a sample button |sample-button|, it should be localized:"
 #~ msgstr ""
-
