@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-27 15:33+0000\n"
-"PO-Revision-Date: 2019-11-27 16:22+0000\n"
+"PO-Revision-Date: 2019-11-27 16:27+0000\n"
 "Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
@@ -1298,16 +1298,14 @@ msgid ""
 msgstr "|pencil-thin| **تحديث مساحة العمل**: يسمح بتغيير عنوان أو رمز مساحة العمل."
 
 #: ../docs/index.rst:487
-#, fuzzy
 msgid ""
 "|share-icon| **Share Workspace**: To grant a user access to workspace, "
 "the workspace must be shared with the user. For more information on how "
 "to add users to a workspace click `here <#add-a-user-to-a-workspace>`__."
 msgstr ""
-"|share-icon| **مشاركة مساحة العمل**: لمنح المستخدم حق الوصول إلى مساحة "
-"العمل ، يجب مشاركة مساحة العمل مع المستخدم. لمزيد من المعلومات حول كيفية "
-"إضافة مستخدمين إلى مساحة عمل ، انقر فوق `هنا <#add-a-user-"
-"to-a-workspace>`_."
+"|share-icon| **مشاركة مساحة العمل**: لمنح المستخدم حق الوصول إلى مساحة العمل "
+"، يجب مشاركة مساحة العمل مع المستخدم. لمزيد من المعلومات حول كيفية إضافة "
+"مستخدمين إلى مساحة عمل ، انقر فوق `هنا <#add-a-user-to-a-workspace>`__."
 
 #: ../docs/index.rst:488
 msgid ""
@@ -1326,14 +1324,13 @@ msgstr ""
 "العمل المحددة. راجع `تنزيل البيانات`_ للحصول على مزيد من المعلومات."
 
 #: ../docs/index.rst:490
-#, fuzzy
 msgid ""
 "|pencil-black| **Data Update**: This opens the data edit interface. More "
 "information on data editing and updating is available `here <#edit-"
 "date>`__."
 msgstr ""
 "|pencil-black| **تحديث البيانات**: هذا يفتح واجهة تحرير البيانات. تتوفر "
-"المزيد من المعلومات حول تحرير البيانات وتحديثها `هنا <#edit-date>`_."
+"المزيد من المعلومات حول تحرير البيانات وتحديثها `هنا <#edit-date>`__."
 
 #: ../docs/index.rst:495
 msgid "Workspace Permissions"
@@ -1380,14 +1377,13 @@ msgstr ""
 "رز |settings| في الزاوية اليمنى العليا من الشاشة."
 
 #: ../docs/index.rst:508
-#, fuzzy
 msgid ""
 "In the navigation pane on the left, click `Projects "
 "<https://herams.org/project/index>`__ to open the **Projects** overview "
 "table."
 msgstr ""
-"في جزء التنقل الموجود على اليسار، انقر فوق `<Projects "
-"<https://herams.org/project/index`_ لفتح جدول نظرة عامة **Projects**."
+"في جزء التنقل الموجود على اليسار، انقر فوق `<Projects <https://herams.org/"
+"project/index`__ لفتح جدول نظرة عامة **Projects**."
 
 #: ../docs/index.rst:509
 msgid ""
@@ -1463,15 +1459,14 @@ msgid "Remove a User from a Workspace"
 msgstr "إزالة مستخدم من مساحة العمل"
 
 #: ../docs/index.rst:534
-#, fuzzy
 msgid ""
 "To remove a user from a workspace, navigate to the workspace from which "
 "you would like to remove the user. (Follow steps 1 - 5 outlined `above "
 "<#add-a-user-to-a-workspace>`__ to access the workspace)."
 msgstr ""
-"لحذف مستخدم من مساحة عمل، انتقل إلى مساحة العمل التي ترغب في حذف المستخدم"
-" منها. (اتبع الخطوات من 1 إلى 5 `الموضحة أعلاه <#add-a-user-"
-"to-a-workspace>`_  للوصول إلى مساحة العمل)."
+"لحذف مستخدم من مساحة عمل، انتقل إلى مساحة العمل التي ترغب في حذف المستخدم "
+"منها. (اتبع الخطوات من 1 إلى 5 `الموضحة أعلاه <#add-a-user-to-a-workspace>`"
+"__  للوصول إلى مساحة العمل)."
 
 #: ../docs/index.rst:535 ../docs/index.rst:614
 msgid ""
@@ -1488,13 +1483,12 @@ msgid "Change a User's Workspace Permission"
 msgstr "تغيير صلاحية المستخدم لمساحة العمل"
 
 #: ../docs/index.rst:540
-#, fuzzy
 msgid ""
 "To change a user's permission, remove the user from the workspace as "
 "outlined `above <#remove-a-user-from-a-workspace>`__."
 msgstr ""
 "لتغيير صلاحية المستخدم، أزل المستخدم من مساحة العمل كما هو موضح `أعلاه "
-"<#remove-a-user-from-a-workspace>`_"
+"<#remove-a-user-from-a-workspace>`__."
 
 #: ../docs/index.rst:541
 msgid ""
@@ -1509,14 +1503,13 @@ msgid "Create a New Workspace"
 msgstr "إنشاء مساحة عمل جديدة"
 
 #: ../docs/index.rst:546
-#, fuzzy
 msgid ""
 "To create a new workspace, access the workspace page of your project. "
 "(Follow steps 1 - 5 outlined `above <#add-a-user-to-a-workspace>`__ to "
 "access the workspace)."
 msgstr ""
-"لإنشاء مساحة عمل جديدة ، قم بالدخول إلى صفحة مساحة العمل الخاصة بمشروعك. "
-"(اتبع الخطوات من 1 إلى 5 الموضحة `أعلاه <#add-a-user-to-a-workspace>`_ "
+"لإنشاء مساحة عمل جديدة ، قم بالدخول إلى صفحة مساحة العمل الخاصة بمشروعك. ("
+"اتبع الخطوات من 1 إلى 5 الموضحة `أعلاه <#add-a-user-to-a-workspace>`__ "
 "للوصول إلى مساحة العمل)."
 
 #: ../docs/index.rst:547
@@ -1566,15 +1559,14 @@ msgstr ""
 " على جميع المشروعات المتاحة على نظام هيرامس."
 
 #: ../docs/index.rst:576
-#, fuzzy
 msgid ""
 "|workspace| **Workspaces**: This opens the list of all available "
 "workspace belonging to the project. See `here <#workspaces>`__ for more "
 "information on workspaces."
 msgstr ""
 "|workspace| **مساحات العمل**: تفتح  قائمة بجميع مساحات العمل المتاحة "
-"للمشروع. انظر `هنا <#workspaces>`_  للحصول على مزيد من المعلومات حول "
-"مساحات العمل."
+"للمشروع. انظر `هنا <#workspaces>`__  للحصول على مزيد من المعلومات حول مساحات "
+"العمل."
 
 #: ../docs/index.rst:577
 msgid ""
@@ -1608,14 +1600,13 @@ msgstr ""
 "لتحديد الردود غير الصحيحة."
 
 #: ../docs/index.rst:580
-#, fuzzy
 msgid ""
 "|share-icon| **Share**: The sharing function is used to grant users "
 "access to a project. See `below <#add-a-user-to-a-project>`__ for further"
 " details."
 msgstr ""
-"|share-icon|  **المشاركة**: يتم استخدام وظيفة المشاركة لمنح المستخدمين حق"
-" الوصول إلى المشروع. انظر `أدناه` _ لمزيد من التفاصيل."
+"|share-icon|  **المشاركة**: يتم استخدام وظيفة المشاركة لمنح المستخدمين حق "
+"الوصول إلى المشروع. انظر `أدناه` __ لمزيد من التفاصيل."
 
 #: ../docs/index.rst:585
 msgid "Add a User to a Project"
@@ -1660,15 +1651,13 @@ msgstr ""
 "قائمة المستخدمين تقوم بالتصفيةبشكل حيوي. حدد المستخدم الذي تريد إضافته."
 
 #: ../docs/index.rst:601
-#, fuzzy
 msgid ""
 "Use the checkboxes to select the appropriate permission level. See `above"
 " <#project-permissions>`__ for further details on project level "
 "permissions."
 msgstr ""
-"استخدم مربعات الاختيار لتحديد مستوى الصلاحية المناسب. انظر `أعلاه "
-"<#project-permissions>`_ للحصول على مزيد من التفاصيل حول الصلاحيات علي "
-"مستوى المشروع."
+"استخدم مربعات الاختيار لتحديد مستوى الصلاحية المناسب. انظر `أعلاه <#project-"
+"permissions>`__ للحصول على مزيد من التفاصيل حول الصلاحيات علي مستوى المشروع."
 
 #: ../docs/index.rst:602
 msgid ""
@@ -1683,27 +1672,25 @@ msgid "Remove a User from a Project"
 msgstr "حذف مستخدم من مشروع"
 
 #: ../docs/index.rst:613
-#, fuzzy
 msgid ""
 "To remove a user from a Project, follow steps 1-3 outlined in the "
 "`previous section <#add-a-user-to-a-project>`__ to access the project "
 "sharing page."
 msgstr ""
-"لحذف مستخدم من مشروع، اتبع الخطوات 1-3 الموضحة في`القسم السابق <#add-a"
-"-user-to-a-project>`_ للوصول إلى صفحة مشاركة المشروع."
+"لحذف مستخدم من مشروع، اتبع الخطوات 1-3 الموضحة في`القسم السابق <#add-a-user-"
+"to-a-project>`__ للوصول إلى صفحة مشاركة المشروع."
 
 #: ../docs/index.rst:617
 msgid "Change a User's Project Permissions"
 msgstr "تغيير صلاحيات المشروع بالنسبة للمستخدم"
 
 #: ../docs/index.rst:619
-#, fuzzy
 msgid ""
 "To change a user's permission, remove the user from the project as "
 "outlined `above <#remove-a-user-from-a-project>`__"
 msgstr ""
 "لتغيير صلاحية المستخدم، قم بحذف المستخدم من المشروع كما هو موضح `أعلاه "
-"<#remove-a-user-from-a-project>`_."
+"<#remove-a-user-from-a-project>`__."
 
 #: ../docs/index.rst:620
 msgid ""
@@ -1772,14 +1759,13 @@ msgid "to configure the pop-up information displayed on the main page; and"
 msgstr "لتكوين المعلومات المنبثقة المعروضة على الصفحة الرئيسية ؛ و"
 
 #: ../docs/index.rst:635
-#, fuzzy
 msgid ""
 "to configure the project dashboard. Additional information on how to "
 "configure the project dashboard is available `here <#configure-the-"
 "project-dashboard>`__."
 msgstr ""
 "لتكوين لوحة معلومات المشروع. تتوفر معلومات إضافية حول كيفية تكوين لوحة "
-"معلومات المشروع `هنا <#configure-the-project-dashboard>`_."
+"معلومات المشروع `هنا <#configure-the-project-dashboard>`__."
 
 #: ../docs/index.rst:636
 msgid "Make sure you save your changes by clicking the |update-project| button."
@@ -1790,7 +1776,6 @@ msgid "Configure the Project Dashboard"
 msgstr "تكوين لوحة معلومات المشروع"
 
 #: ../docs/index.rst:641
-#, fuzzy
 msgid ""
 "For each HeRAMS Project, an interactive dashboard can be configured "
 "providing summarizing key indicators and findings of a project. This "
@@ -1799,9 +1784,9 @@ msgid ""
 " is available `here <#default-dashboard-pages>`__."
 msgstr ""
 "لكل مشروع هيرامس، يمكن تكوين لوحة معلومات تفاعلية توفر ملخصًا للمؤشرات "
-"والنتائج الرئيسية للمشروع. يوفر هذا القسم لمسؤولي المشروع وصفًا تفصيليًا "
-"حول كيفية تحرير لوحات المعلومات هذه. نظرة عامة على صفحات لوحة المعلومات "
-"القياسية متاحة `هنا <#default-dashboard-pages>`_."
+"والنتائج الرئيسية للمشروع. يوفر هذا القسم لمسؤولي المشروع وصفًا تفصيليًا حول "
+"كيفية تحرير لوحات المعلومات هذه. نظرة عامة على صفحات لوحة المعلومات القياسية "
+"متاحة `هنا <#default-dashboard-pages>`__."
 
 #: ../docs/index.rst:644
 msgid "Modify an Existing Dashboard Element"
@@ -2062,16 +2047,15 @@ msgid "Update a Dashboard Page"
 msgstr "تحديث صفحة لوحة المعلومات"
 
 #: ../docs/index.rst:753
-#, fuzzy
 msgid ""
 "To alter an existing page, click the |pencil-black| icon next to the "
 "page's name. This will open the page's settings. You are now able to "
 "change the title and the order of the page. See `above <#add-a-new-page-"
 "to-a-dashboard>`__ for further details."
 msgstr ""
-"لتغيير صفحة حالية، انقر فوق زر |pencil-black| بجانب اسم الصفحة. هذا سيفتح"
-" إعدادات الصفحة. أنت الآن قادر على تغيير العنوان وترتيب الصفحة. انظر "
-"`أعلاه <#add-a-new-page-to-a-dashboard>`_  للحصول على مزيد من التفاصيل."
+"لتغيير صفحة حالية، انقر فوق زر |pencil-black| بجانب اسم الصفحة. هذا سيفتح "
+"إعدادات الصفحة. أنت الآن قادر على تغيير العنوان وترتيب الصفحة. انظر `أعلاه "
+"<#add-a-new-page-to-a-dashboard>`__  للحصول على مزيد من التفاصيل."
 
 #: ../docs/index.rst:754
 msgid ""
@@ -2206,13 +2190,12 @@ msgid "How to reset your password?"
 msgstr "كيفية إعادة تعيين كلمة المرور الخاصة بك؟"
 
 #: ../docs/index.rst:802
-#, fuzzy
 msgid ""
 "If you forgot your password, follow the instructions provided `here "
 "<#reset-password>`__ to reset your password."
 msgstr ""
 "إذا نسيت كلمة المرور الخاصة بك، فاتبع الإرشادات المتوفرة `هنا  <#reset-"
-"password>`_ لإعادة تعيين كلمة المرور الخاصة بك."
+"password>`__ لإعادة تعيين كلمة المرور الخاصة بك."
 
 #: ../docs/index.rst:805
 msgid "View a project/dashboard"
@@ -2280,7 +2263,6 @@ msgid "Exported data is unreadable / contains strange characters"
 msgstr "البيانات التي تم تصديرها غير قابلة للقراءة او تحتوي على أحرف غريبة"
 
 #: ../docs/index.rst:830
-#, fuzzy
 msgid ""
 "If you open data downloaded from HeRAMS in Excel, you might experience an"
 " issue with special characters not displaying correctly, resulting in "
@@ -2289,12 +2271,12 @@ msgid ""
 "the correct encoding type to read your data. To correct the issue, follow"
 " the instruction outlined `here <#data-encoding-in-excel>`__."
 msgstr ""
-"إذا قمت بفتح البيانات التي تم تنزيلها من هيرامس في برنامح اكسيل، فقد "
-"تواجه مشكلة  عدم عرض الأحرف الخاصة بشكل صحيح، مما يؤدي إلى نص غير قابل "
-"للقراءة. على سبيل المثال، بدلاً من **camp de réfugiés**، تحصل على **Camp "
-"de rÃ © fugiÃ © s**. السبب في ذلك هو أن برنامح اكسيل لا يستخدم نوع "
-"الترميز الصحيح لقراءة بياناتك. لتصحيح المشكلة، اتبع التعليمات الموضحة "
-"`هنا <#data-encoding-in-excel>`_ ."
+"إذا قمت بفتح البيانات التي تم تنزيلها من هيرامس في برنامح اكسيل، فقد تواجه "
+"مشكلة  عدم عرض الأحرف الخاصة بشكل صحيح، مما يؤدي إلى نص غير قابل للقراءة. "
+"على سبيل المثال، بدلاً من **camp de réfugiés**، تحصل على **Camp de rÃ © "
+"fugiÃ © s**. السبب في ذلك هو أن برنامح اكسيل لا يستخدم نوع الترميز الصحيح "
+"لقراءة بياناتك. لتصحيح المشكلة، اتبع التعليمات الموضحة `هنا <#data-encoding-"
+"in-excel>`__ ."
 
 #~ msgid ""
 #~ "It should be noted that the guide"
