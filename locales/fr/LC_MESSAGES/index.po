@@ -5,18 +5,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  HeRAMS\n"
+"Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-27 15:33+0000\n"
-"PO-Revision-Date: 2019-11-27 12:07+0000\n"
-"Last-Translator: Sam <sam@mousa.nl>\n"
+"PO-Revision-Date: 2019-11-27 16:22+0000\n"
+"Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"Language-Team: French <https://weblate.herams-staging.org/projects/herams/"
+"herams-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French <https://weblate.herams-staging.org/projects/herams"
-"/herams-user-guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.7.0\n"
 
 #: ../docs/index.rst:8
@@ -994,18 +995,17 @@ msgstr ""
 "les espaces de travail disponibles."
 
 #: ../docs/index.rst:354
-#, fuzzy
 msgid ""
 "HeRAMS uses so-called **Workspaces** to manage access permission to the "
 "underlying data. A workspace might represent, for example, a specific "
 "organization or a geographic region. For more information on "
 "**Workspaces** click `here <#workspaces>`__."
 msgstr ""
-"HeRAMS utilise ce que l'on appelle **Workspaces** *(espace de travail)* "
-"pour gérer les droits d'accès aux données sous-jacentes. Un espace de "
-"travail peut représenter, par exemple, une organisation spécifique ou une"
-" région géographique. Pour plus d'informations sur  les **espaces de "
-"travail** veuillez cliquer`ici <#workspaces>`_."
+"HeRAMS utilise ce que l'on appelle **Workspaces** *(espace de travail)* pour "
+"gérer les droits d'accès aux données sous-jacentes. Un espace de travail "
+"peut représenter, par exemple, une organisation spécifique ou une région "
+"géographique. Pour plus d'informations sur  les **espaces de travail** "
+"veuillez cliquer`ici <#workspaces>`_."
 
 #: ../docs/index.rst:356
 msgid ""
@@ -1055,13 +1055,12 @@ msgstr ""
 "dessous."
 
 #: ../docs/index.rst:379
-#, fuzzy
 msgid ""
 "Open the data update interface as outlined `above <#access-the-data-"
 "update-interface>`__."
 msgstr ""
-"Veuillez ouvrir l'interface de saisie des données comme indiqué `ci-"
-"dessus <#access-the-data-update-interface>`_."
+"Veuillez ouvrir l'interface de saisie des données comme indiqué `ci-dessus "
+"<#access-the-data-update-interface>`_."
 
 #: ../docs/index.rst:380
 msgid "To edit a record, click the |pencil-blue| icon in the left most column."
@@ -1172,7 +1171,6 @@ msgid "Download Data"
 msgstr "Téléchargement les données"
 
 #: ../docs/index.rst:431
-#, fuzzy
 msgid ""
 "It is possible to download part of the data as **CSV** for further in-"
 "depth analysis. In rare cases, permissions could be granted to download "
@@ -1180,12 +1178,11 @@ msgid ""
 "instructions `here <#download-the-entire-data-set>`__, otherwise see the "
 "section below."
 msgstr ""
-"Il est possible de télécharger une partie des données au format **CSV** "
-"pour une analyse plus approfondie. Dans de rares cas, des permissions "
-"peuvent être accordées pour télécharger l'ensemble des données. Pour "
-"télécharger l'ensemble complet des données, veuillez suivre les "
-"instructions `ici <#download-the-entire-data-set>`_, sinon voir la "
-"section ci-dessous."
+"Il est possible de télécharger une partie des données au format **CSV** pour "
+"une analyse plus approfondie. Dans de rares cas, des permissions peuvent "
+"être accordées pour télécharger l'ensemble des données. Pour télécharger "
+"l'ensemble complet des données, veuillez suivre les instructions `ici "
+"<#download-the-entire-data-set>`_, sinon voir la section ci-dessous."
 
 #: ../docs/index.rst:434
 msgid "Download Workspace Data"
@@ -1379,17 +1376,16 @@ msgstr ""
 " titre ou le token d'un espace de travail."
 
 #: ../docs/index.rst:487
-#, fuzzy
 msgid ""
 "|share-icon| **Share Workspace**: To grant a user access to workspace, "
 "the workspace must be shared with the user. For more information on how "
 "to add users to a workspace click `here <#add-a-user-to-a-workspace>`__."
 msgstr ""
 "|share-icon| **Partager l'espace de travail**: Pour accorder à un "
-"utilisateur l'accès à l'espace de travail, celui-ci doit être partagé "
-"avec l'utilisateur. Pour plus d'informations sur la façon d'ajouter des "
+"utilisateur l'accès à l'espace de travail, celui-ci doit être partagé avec "
+"l'utilisateur. Pour plus d'informations sur la façon d'ajouter des "
 "utilisateurs à un espace de travail, cliquez `ici <#add-a-user-"
-"to-a-workspace>`_."
+"to-a-workspace>`__."
 
 #: ../docs/index.rst:488
 msgid ""
@@ -1410,15 +1406,14 @@ msgstr ""
 "`Télécharger les données`_ pour plus d'informations."
 
 #: ../docs/index.rst:490
-#, fuzzy
 msgid ""
 "|pencil-black| **Data Update**: This opens the data edit interface. More "
 "information on data editing and updating is available `here <#edit-"
 "date>`__."
 msgstr ""
 "|pencil-black| **Mise à jour des données** : L'interface d'édition des "
-"données s'ouvre. Pour plus d'informations sur l'édition et la mise à jour"
-" des données, cliquez `ici <#edit-date>`_."
+"données s'ouvre. Pour plus d'informations sur l'édition et la mise à jour "
+"des données, cliquez `ici <#edit-date>`__."
 
 #: ../docs/index.rst:495
 msgid "Workspace Permissions"
@@ -1465,14 +1460,13 @@ msgstr ""
 "coin supérieur droit de l'écran."
 
 #: ../docs/index.rst:508
-#, fuzzy
 msgid ""
 "In the navigation pane on the left, click `Projects "
 "<https://herams.org/project/index>`__ to open the **Projects** overview "
 "table."
 msgstr ""
 "Dans le volet de navigation gauche, veuillez cliquer sur `Projects "
-"<https://herams.org/project/index>`_."
+"<https://herams.org/project/index>`__."
 
 #: ../docs/index.rst:509
 msgid ""
@@ -1544,15 +1538,14 @@ msgid "Remove a User from a Workspace"
 msgstr "Supprimer un utilisateur d'un espace de travail"
 
 #: ../docs/index.rst:534
-#, fuzzy
 msgid ""
 "To remove a user from a workspace, navigate to the workspace from which "
 "you would like to remove the user. (Follow steps 1 - 5 outlined `above "
 "<#add-a-user-to-a-workspace>`__ to access the workspace)."
 msgstr ""
 "Pour supprimer un utilisateur d'un espace de travail, naviguez jusqu'à "
-"l'espace de travail dont vous souhaitez supprimer l'utilisateur. (Suivez "
-"les étapes 1 à 5 décrites `ci-dessus <#add-a-user-to-a-workspace>`_ pour "
+"l'espace de travail dont vous souhaitez supprimer l'utilisateur. (Suivez les "
+"étapes 1 à 5 décrites `ci-dessus <#add-a-user-to-a-workspace>`__ pour "
 "accéder à l'espace de travail)."
 
 #: ../docs/index.rst:535 ../docs/index.rst:614
@@ -1570,13 +1563,12 @@ msgid "Change a User's Workspace Permission"
 msgstr "Modifier les droits d'accès d'espace de travail d'un utilisateur"
 
 #: ../docs/index.rst:540
-#, fuzzy
 msgid ""
 "To change a user's permission, remove the user from the workspace as "
 "outlined `above <#remove-a-user-from-a-workspace>`__."
 msgstr ""
-"Pour modifier l'autorisation d'un utilisateur, supprimez-le de l'espace "
-"de travail comme indiqué `ci-dessus  <#remove-a-user-from-a-workspace>`_."
+"Pour modifier l'autorisation d'un utilisateur, supprimez-le de l'espace de "
+"travail comme indiqué `ci-dessus  <#remove-a-user-from-a-workspace>`__."
 
 #: ../docs/index.rst:541
 msgid ""
@@ -1592,15 +1584,14 @@ msgid "Create a New Workspace"
 msgstr "Créer un nouvel espace de travail"
 
 #: ../docs/index.rst:546
-#, fuzzy
 msgid ""
 "To create a new workspace, access the workspace page of your project. "
 "(Follow steps 1 - 5 outlined `above <#add-a-user-to-a-workspace>`__ to "
 "access the workspace)."
 msgstr ""
 "Pour créer un nouvel espace de travail, accédez à la page des espaces de "
-"travail de votre projet. (Suivez les étapes 1 à 5 décrites `ci-dessus "
-"<#add-a-user-to-a-workspace>`_pour accéder aux espaces de travail)."
+"travail de votre projet. (Suivez les étapes 1 à 5 décrites `ci-dessus <#add-a"
+"-user-to-a-workspace>`__ pour accéder aux espaces de travail)."
 
 #: ../docs/index.rst:547
 msgid ""
@@ -1655,15 +1646,14 @@ msgstr ""
 "aperçu de tous les projets disponibles sur la plate-forme HeRAMS."
 
 #: ../docs/index.rst:576
-#, fuzzy
 msgid ""
 "|workspace| **Workspaces**: This opens the list of all available "
 "workspace belonging to the project. See `here <#workspaces>`__ for more "
 "information on workspaces."
 msgstr ""
-"|workspace| **Espace de travail** : Ceci ouvre la liste de tous les "
-"espaces de travail disponibles appartenant au projet. Voir `ici  "
-"<#workspaces>`_ pour plus d'informations sur les espaces de travail."
+"|workspace| **Espace de travail** : Ceci ouvre la liste de tous les espaces "
+"de travail disponibles appartenant au projet. Voir `ici  <#workspaces>`__ "
+"pour plus d'informations sur les espaces de travail."
 
 #: ../docs/index.rst:577
 msgid ""
@@ -1699,15 +1689,14 @@ msgstr ""
 "rapide des données afin d'identifier les réponses invalides."
 
 #: ../docs/index.rst:580
-#, fuzzy
 msgid ""
 "|share-icon| **Share**: The sharing function is used to grant users "
 "access to a project. See `below <#add-a-user-to-a-project>`__ for further"
 " details."
 msgstr ""
 "|share-icon| **Partager** : La fonction de partage est utilisée pour "
-"permettre aux utilisateurs d'accéder à un projet. Voir `ci-dessous "
-"<#add-a-user-to-a-project>`_ pour plus de détails."
+"permettre aux utilisateurs d'accéder à un projet. Voir `ci-dessous <#add-a"
+"-user-to-a-project>`__ pour plus de détails."
 
 #: ../docs/index.rst:585
 msgid "Add a User to a Project"
@@ -1759,14 +1748,13 @@ msgstr ""
 "l'utilisateur que vous souhaitez ajouter."
 
 #: ../docs/index.rst:601
-#, fuzzy
 msgid ""
 "Use the checkboxes to select the appropriate permission level. See `above"
 " <#project-permissions>`__ for further details on project level "
 "permissions."
 msgstr ""
 "Utilisez les cases à cocher pour sélectionner le niveau d'autorisation "
-"approprié. Voir `ci-dessus <#project-permissions>`_ pour plus de détails "
+"approprié. Voir `ci-dessus <#project-permissions>`__ pour plus de détails "
 "sur les permissions au niveau du projet."
 
 #: ../docs/index.rst:602
@@ -1782,28 +1770,26 @@ msgid "Remove a User from a Project"
 msgstr "Supprimer un utilisateur d'un projet"
 
 #: ../docs/index.rst:613
-#, fuzzy
 msgid ""
 "To remove a user from a Project, follow steps 1-3 outlined in the "
 "`previous section <#add-a-user-to-a-project>`__ to access the project "
 "sharing page."
 msgstr ""
-"Pour supprimer un utilisateur d'un projet, suivez les étapes 1 à 3 "
-"décrites dans la `section précédente <#add-a-user-to-a-project>`_ pour "
-"accéder à la page de partage de projet."
+"Pour supprimer un utilisateur d'un projet, suivez les étapes 1 à 3 décrites "
+"dans la `section précédente <#add-a-user-to-a-project>`__ pour accéder à la "
+"page de partage de projet."
 
 #: ../docs/index.rst:617
 msgid "Change a User's Project Permissions"
 msgstr "Modifier les autorisations de projet d'un utilisateur"
 
 #: ../docs/index.rst:619
-#, fuzzy
 msgid ""
 "To change a user's permission, remove the user from the project as "
 "outlined `above <#remove-a-user-from-a-project>`__"
 msgstr ""
-"Pour modifier l'autorisation d'un utilisateur, supprimez-le du projet "
-"comme indiqué `ci-dessus <#remove-a-user-from-a-project>`_."
+"Pour modifier l'autorisation d'un utilisateur, supprimez-le du projet comme "
+"indiqué `ci-dessus <#remove-a-user-from-a-project>`__."
 
 #: ../docs/index.rst:620
 msgid ""
@@ -1879,15 +1865,14 @@ msgstr ""
 "principale ; et"
 
 #: ../docs/index.rst:635
-#, fuzzy
 msgid ""
 "to configure the project dashboard. Additional information on how to "
 "configure the project dashboard is available `here <#configure-the-"
 "project-dashboard>`__."
 msgstr ""
-"pour configurer le tableau de bord du projet. Pour plus d'informations "
-"sur la configuration du tableau de bord du projet, veuillez cliquer `ici "
-"<#configure-the-project-dashboard>`_."
+"pour configurer le tableau de bord du projet. Pour plus d'informations sur "
+"la configuration du tableau de bord du projet, veuillez cliquer `ici "
+"<#configure-the-project-dashboard>`__."
 
 #: ../docs/index.rst:636
 msgid "Make sure you save your changes by clicking the |update-project| button."
@@ -1900,7 +1885,6 @@ msgid "Configure the Project Dashboard"
 msgstr "Configurer le tableau de bord du projet"
 
 #: ../docs/index.rst:641
-#, fuzzy
 msgid ""
 "For each HeRAMS Project, an interactive dashboard can be configured "
 "providing summarizing key indicators and findings of a project. This "
@@ -1908,12 +1892,12 @@ msgid ""
 "how to edit these dashboards. An overview of the standard dashboard pages"
 " is available `here <#default-dashboard-pages>`__."
 msgstr ""
-"Pour chaque projet HeRAMS, un tableau de bord interactif peut être "
-"configuré pour fournir un résumé des indicateurs clés et des résultats "
-"d'un projet. Cette section fournit aux administrateurs de projet une "
-"description détaillée de la façon de modifier ces tableaux de bord. Un "
-"aperçu des pages du tableau de bord standard est disponible `ici "
-"<#default-dashboard-pages>`_."
+"Pour chaque projet HeRAMS, un tableau de bord interactif peut être configuré "
+"pour fournir un résumé des indicateurs clés et des résultats d'un projet. "
+"Cette section fournit aux administrateurs de projet une description "
+"détaillée de la façon de modifier ces tableaux de bord. Un aperçu des pages "
+"du tableau de bord standard est disponible `ici <#default-dashboard-"
+"pages>`__."
 
 #: ../docs/index.rst:644
 msgid "Modify an Existing Dashboard Element"
@@ -2195,17 +2179,16 @@ msgid "Update a Dashboard Page"
 msgstr "Mettre à jour une page de tableau de bord"
 
 #: ../docs/index.rst:753
-#, fuzzy
 msgid ""
 "To alter an existing page, click the |pencil-black| icon next to the "
 "page's name. This will open the page's settings. You are now able to "
 "change the title and the order of the page. See `above <#add-a-new-page-"
 "to-a-dashboard>`__ for further details."
 msgstr ""
-"Pour modifier une page existante, cliquez sur l'icône |crayon-noir| à "
-"côté du nom de la page. Cela ouvrira les paramètres de la page. Vous "
-"pouvez maintenant changer le titre et l'ordre de la page. Voir `ci-dessus"
-" <#add-a-new-page-to-a-dashboard>`_ pour plus de détails."
+"Pour modifier une page existante, cliquez sur l'icône |crayon-noir| à côté "
+"du nom de la page. Cela ouvrira les paramètres de la page. Vous pouvez "
+"maintenant changer le titre et l'ordre de la page. Voir `ci-dessus <#add-a"
+"-new-page-to-a-dashboard>`__ pour plus de détails."
 
 #: ../docs/index.rst:754
 msgid ""
@@ -2340,14 +2323,13 @@ msgid "How to reset your password?"
 msgstr "Réinitialiser le mot de passe"
 
 #: ../docs/index.rst:802
-#, fuzzy
 msgid ""
 "If you forgot your password, follow the instructions provided `here "
 "<#reset-password>`__ to reset your password."
 msgstr ""
-"Dans le cas où vous auriez oublié votre mot de passe,  les instructions "
-"`ci-dessous <#reset-password>`_  vous guiderons dans la réinitialisation "
-"de votre mot de passe."
+"Dans le cas où vous auriez oublié votre mot de passe,  les instructions `ci-"
+"dessous <#reset-password>`__  vous guiderons dans la réinitialisation de "
+"votre mot de passe."
 
 #: ../docs/index.rst:805
 msgid "View a project/dashboard"
@@ -2415,7 +2397,6 @@ msgid "Exported data is unreadable / contains strange characters"
 msgstr ""
 
 #: ../docs/index.rst:830
-#, fuzzy
 msgid ""
 "If you open data downloaded from HeRAMS in Excel, you might experience an"
 " issue with special characters not displaying correctly, resulting in "
@@ -2424,13 +2405,12 @@ msgid ""
 "the correct encoding type to read your data. To correct the issue, follow"
 " the instruction outlined `here <#data-encoding-in-excel>`__."
 msgstr ""
-"Si vous ouvrez des données téléchargées depuis HeRAMS dans Excel, il se "
-"peut que vous rencontriez un problème d'affichage incorrect des "
-"caractères spéciaux, ce qui rendrait le texte illisible. Par exemple, au "
-"lieu de **camp de réfugiés** vous obtenez **Camp de rÃ©fugiÃ©s**. La "
-"raison en est qu'Excel n'utilise pas le bon type d'encodage pour lire vos"
-" données. Pour corriger le problème, suivez les instructions décrites "
-"`ici <#data-encodage-in-excel>`_."
+"Si vous ouvrez des données téléchargées depuis HeRAMS dans Excel, il se peut "
+"que vous rencontriez un problème d'affichage incorrect des caractères "
+"spéciaux, ce qui rendrait le texte illisible. Par exemple, au lieu de **camp "
+"de réfugiés** vous obtenez **Camp de rÃ©fugiÃ©s**. La raison en est qu'Excel "
+"n'utilise pas le bon type d'encodage pour lire vos données. Pour corriger le "
+"problème, suivez les instructions décrites `ici <#data-encodage-in-excel>`__."
 
 #~ msgid "Below is a sample button, it should be localized:"
 #~ msgstr ""
@@ -5211,4 +5191,3 @@ msgstr ""
 
 #~ msgid "Below is a sample button |sample-button|, it should be localized:"
 #~ msgstr ""
-
