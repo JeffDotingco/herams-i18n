@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-27 15:33+0000\n"
-"PO-Revision-Date: 2019-11-27 16:27+0000\n"
-"Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"PO-Revision-Date: 2019-12-03 10:41+0000\n"
+"Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <https://weblate.herams-staging.org/projects/herams/"
 "herams-user-guide/ar/>\n"
 "Language: ar\n"
@@ -362,15 +362,15 @@ msgid ""
 "<mailto:herams@who.int?>`_ specifying your function and role as well as a"
 " brief explanation why you would like to access the dashboard."
 msgstr ""
-"يقتصر الوصول إلى لوحات معلومات المشروع على المستخدمين المحددين. إذا كنت "
-"ترغب في الحصول على حق الوصول إلى لوحة معلومات المشروع، فيرجى الاتصال "
-"بمسئول التنسيق في بلدك أو إرسال بريد إلكتروني إلى `بفريق دعم هيرامس "
-"<?mailto:herams@who.int>`_ مع تحديد وظيفتك ودورك بالنسبة لمشروع هيرامس "
-"وكذلك شرح موجز عن سبب رغبتك في الوصول إلى لوحة القيادة."
+"يقتصر الوصول إلى لوحات معلومات المشروع على المستخدمين المحددين. إذا كنت ترغب "
+"في الحصول على حق الوصول إلى لوحة معلومات المشروع، فيرجى الاتصال بمسئول "
+"التنسيق في بلدك أو إرسال بريد إلكتروني إلى `بفريق دعم هيرامس "
+"<?mailto:herams@who.int>`_ مع تحديد وظيفتك ودورك بالنسبة لمشروع هيرامس وكذلك "
+"شرح موجز عن سبب رغبتك في الوصول إلى لوحة معلومات المشروع."
 
 #: ../docs/index.rst:135
 msgid "Project Dashboard"
-msgstr "لوحة معلومات المشروع"
+msgstr "لوحة التحكم بمعلومات المشروع"
 
 #: ../docs/index.rst:137
 msgid ""
@@ -396,8 +396,8 @@ msgid ""
 "In the pop-up window, click the |details| button. This will open the "
 "interactive dashboard."
 msgstr ""
-"في النافذة المنبثقة ، انقر فوق زر |details| . هذا سيفتح لوحة القيادة "
-"التفاعلية."
+"في النافذة المنبثقة ، انقر فوق زر |details| . هذا سيفتح اللوحة التفاعلية "
+"لمعلومات المشروع ."
 
 #: ../docs/index.rst:141
 msgid ""
@@ -427,10 +427,10 @@ msgid ""
 "Nigeria dashboard. To return to the first page of the dashboard, click on"
 " **Nigeria** in the breadcrumb trail."
 msgstr ""
-"5. للرجوع إلى صفحة سابقة، يمكنك إما تحديد الصفحة في لوحة التنقل على "
-"اليسار أو استخدام مسار التنقل في أعلى لوحة القيادة. على سبيل المثال، تعرض"
-" الصورة أدناه صفحة فرعية من لوحة معلومات نيجيريا. للعودة إلى الصفحة "
-"الأولى من لوحة القيادة ، انقر فوق **Nigeria** في مسار التنقل."
+"5. للرجوع إلى صفحة سابقة، يمكنك إما تحديد الصفحة في لوحة التنقل على اليسار "
+"أو استخدام مسار التنقل في أعلى لوحة القيادة. على سبيل المثال، تعرض الصورة "
+"أدناه صفحة فرعية من لوحة معلومات نيجيريا. للعودة إلى الصفحة الأولى من لوحة "
+"المعلومات، انقر فوق **Nigeria** في مسار التنقل."
 
 #: ../docs/index.rst:159
 msgid "The animation below shows the dashboards in action."
@@ -445,8 +445,8 @@ msgid ""
 "Data on the dashboard can be filtered. This allows you to scrutinise the "
 "data subsets that are of interest to you."
 msgstr ""
-"يمكن تصفية البيانات الموجودة على لوحة القيادة. هذه الخاصية تتيح لك "
-"التدقيق مجموعات البيانات الفرعية التي تهمك."
+"يمكن تصفية البيانات الموجودة على لوحة المعلومات. هذه الخاصية تتيح لك التدقيق "
+"مجموعات البيانات الفرعية التي تهمك."
 
 #: ../docs/index.rst:172
 msgid "Filtering is not persistent and only visible during your current session."
@@ -456,7 +456,7 @@ msgstr ""
 
 #: ../docs/index.rst:174
 msgid "In the top right corner of the dashboard, click the |filter| button."
-msgstr "في الزاوية العلوية اليمنى من لوحة المعلومات ، انقر فوق زر |filter| ."
+msgstr "في الزاوية العلوية اليمنى من لوحة المعلومات، انقر فوق زر |filter| ."
 
 #: ../docs/index.rst:175
 msgid ""
@@ -493,15 +493,15 @@ msgstr "لإزالة الفلتر، ارجع إلى صفحة **Filter** وانق
 
 #: ../docs/index.rst:190
 msgid "Customizing the dashboard"
-msgstr "تعديل لوحة القيادة"
+msgstr "تعديل لوحة التحكم بمعلومات المشروع"
 
 #: ../docs/index.rst:192
 msgid ""
 "This section provides a few tips and tricks on how to customize the "
 "dashboard and view additional details."
 msgstr ""
-"يقدم هذا القسم بعض النصائح حول كيفية تعديل لوحة القيادة وعرض تفاصيل "
-"إضافية."
+"يقدم هذا القسم بعض النصائح حول كيفية تعديل لوحة التحكم بمعلومات المشروع وعرض "
+"تفاصيل إضافية."
 
 #: ../docs/index.rst:195
 msgid "Tooltips"
@@ -564,15 +564,15 @@ msgstr ""
 
 #: ../docs/index.rst:219
 msgid "Default dashboard pages"
-msgstr "صفحات لوحة القيادة الافتراضية"
+msgstr "صفحات  لوحة المعلومات الافتراضية"
 
 #: ../docs/index.rst:221
 msgid ""
 "The below section provides an overview of the standard pages available in"
 " a dashboard. Each page refers to a HeRAMS standard information pillar."
 msgstr ""
-"يقدم القسم أدناه نظرة عامة على الصفحات القياسية المتوفرة في لوحة القيادة."
-" تشير كل صفحة إلى عمود معلومات هيرامس القياسي."
+"يقدم القسم أدناه نظرة عامة على الصفحات القياسية المتوفرة في لوحة المعلومات. "
+"تشير كل صفحة إلى احد اعمدة  معلومات هيرامس القياسية."
 
 #: ../docs/index.rst:223
 msgid ""
@@ -580,9 +580,8 @@ msgid ""
 " on each project's need. Your dashboard might, therefore, be "
 "substantially different from the example pages displayed below."
 msgstr ""
-"يتم تخصيص الطلب ومحتوى لوحات المعلومات بشكل فردي بناءً على حاجة كل مشروع."
-" لذلك، قد تكون لوحة المعلومات مختلفة تمامًا عن أمثلة الصفحات المعروضة "
-"أدناه."
+"يتم  ترتيب وبناء محتوى لوحات المعلومات بشكل فردي بناءً على حوجة كل مشروع. "
+"لذلك، قد تكون لوحة المعلومات مختلفة تمامًا عن أمثلة الصفحات المعروضة أدناه."
 
 #: ../docs/index.rst:226
 msgid "Overview"
@@ -1235,6 +1234,10 @@ msgid ""
 "level administration and the configuration of project specific `Project "
 "Dashboard`_."
 msgstr ""
+"يقدم هذا الفصل نظرة عامة على صفحات الادارة في هيرامس ويقدم إرشادات خطوة "
+"بخطوة للمهام  يؤديها المستخدمون المتقدمون ومسؤولو المشروع. يقدم الجزء الأول "
+"من الفصل مفهوم `مساحات العمل`_ في حين يركز الجزء الثاني على `إدارة`_  مستوى "
+"المشروعات وتهيئة المشروع المحددة `لوحة معلومات المشروع`_."
 
 #: ../docs/index.rst:477
 msgid ""
@@ -1573,8 +1576,8 @@ msgid ""
 "|dashboard| **Dashboard**: By clicking the dashboard icon, the `Project "
 "Dashboard`_ will be opened."
 msgstr ""
-"|dashboard| **لوحة المعلومات**: من خلال النقر على زر لوحة المعلومات ، "
-"سيتم فتح `لوحة القيادة`_ المشروع."
+"|dashboard| **لوحة المعلومات**: من خلال النقر على زر لوحة المعلومات ، سيتم "
+"فتح `لوحة معلومات`_ المشروع."
 
 #: ../docs/index.rst:578
 msgid ""
@@ -1982,8 +1985,8 @@ msgid ""
 "dashboard pages. Click the |pencil-thin| icon to open the page you would "
 "like to modify."
 msgstr ""
-"في النصف السفلي من الصفحة ، سترى قائمة بجميع الصفحات المتاحة للوحة "
-"المعلومات. انقر فوق زر |pencil-thin| لفتح الصفحة التي ترغب في تعديلها."
+"في النصف السفلي من الصفحة، سترى قائمة بجميع الصفحات المتاحة للوحة المعلومات. "
+"انقر فوق زر |pencil-thin| لفتح الصفحة التي ترغب في تعديلها."
 
 #: ../docs/index.rst:727
 msgid ""
@@ -1998,7 +2001,7 @@ msgstr ""
 msgid ""
 "Be careful when deleting dashboard elements. Deleted elements cannot be "
 "restored."
-msgstr "كن حذرا عند حذف عناصر لوحة القيادة. لا يمكن استعادة العناصر المحذوفة."
+msgstr "كن حذرا عند حذف عناصر لوحة المعلومات. لا يمكن استعادة العناصر المحذوفة."
 
 #: ../docs/index.rst:732
 msgid "Add a New Page to a Dashboard"
