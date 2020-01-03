@@ -3,14 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-20 09:45+0000\n"
+"POT-Creation-Date: 2020-01-03 11:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 msgctxt "app"
 msgid "# Contributors"
@@ -250,6 +250,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Error!"
+msgstr ""
+
+msgctxt "app"
+msgid "Export"
 msgstr ""
 
 msgctxt "app"
@@ -1796,154 +1800,5 @@ msgstr ""
 
 #~ msgctxt "app"
 #~ msgid "Your account has been created"
-#~ msgstr ""
-
-#~ msgctxt "app"
-#~ msgid "Alternative phone"
-#~ msgstr ""
-
-#~ msgctxt "app"
-#~ msgid "Copy the code above"
-#~ msgstr ""
-
-#~ msgctxt "app"
-#~ msgid "Country"
-#~ msgstr ""
-
-#~ msgctxt "app"
-#~ msgid "Location"
-#~ msgstr ""
-
-#~ msgctxt "app"
-#~ msgid "Other contact point (e.g. Skype)"
-#~ msgstr ""
-
-#~ msgctxt "app"
-#~ msgid "Please enter a valid phone number"
-#~ msgstr ""
-
-#~ msgctxt "app"
-#~ msgid "Register for HeRAMS"
-#~ msgstr ""
-
-#~ msgctxt "app"
-#~ msgid "Resend confirmation"
-#~ msgstr ""
-
-#~ msgctxt "app"
-#~ msgid "Submit"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "(not set)"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Account"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Account settings"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Are you sure you want to block this user?"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Are you sure you want to confirm this user?"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Are you sure you want to unblock this user?"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Are you sure?"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Block"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Block status"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Confirm"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Confirmation"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Confirmed"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Connect"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Disconnect"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Generate and send new password to user"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Networks"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Profile"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Profile settings"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "The HeRAMS Team"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "To activate your account please follow this link:"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Unblock"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "Update"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid ""
-#~ "Welcome to {0}, the Health Resources "
-#~ "and Services Availability Monitoring System"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "You can connect multiple accounts to be able to log in using them"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid ""
-#~ "You have successfully registered to {0},"
-#~ " Health Resources and Services Availability"
-#~ " Monitoring System"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "{0}: Password reset"
-#~ msgstr ""
-
-#~ msgctxt "user"
-#~ msgid "{0}: Your account has successfully been activated!"
 #~ msgstr ""
 
