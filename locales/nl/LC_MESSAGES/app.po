@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-03 11:21+0000\n"
+"POT-Creation-Date: 2020-01-03 16:16+0000\n"
 "PO-Revision-Date: 2019-09-18 09:51+0000\n"
 "Last-Translator: Sam <sam@mousa.nl>\n"
 "Language: nl\n"
@@ -80,6 +80,12 @@ msgid "Allow everything"
 msgstr ""
 
 msgctxt "app"
+msgid ""
+"Allows full access to all workspaces in this project as well as creating "
+"new ones or deleting existing ones"
+msgstr ""
+
+msgctxt "app"
 msgid "Already have an account? Sign in!"
 msgstr ""
 
@@ -127,10 +133,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Causes of unavailability"
-msgstr ""
-
-msgctxt "app"
-msgid "Check data"
 msgstr ""
 
 msgctxt "app"
@@ -261,6 +263,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Export all"
+msgstr ""
+
+msgctxt "app"
+msgid "Export, allows exporting data"
 msgstr ""
 
 msgctxt "app"
@@ -430,6 +436,10 @@ msgid "Permission"
 msgstr ""
 
 msgctxt "app"
+msgid "Permissions"
+msgstr ""
+
+msgctxt "app"
 msgid "Please check your mailbox"
 msgstr ""
 
@@ -521,6 +531,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Share {project}"
+msgstr ""
+
+msgctxt "app"
+msgid "Share, allows this users to give other users limited access"
 msgstr ""
 
 msgctxt "app"
@@ -1803,5 +1817,9 @@ msgstr ""
 
 #~ msgctxt "app"
 #~ msgid "Your account has been created"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Check data"
 #~ msgstr ""
 
