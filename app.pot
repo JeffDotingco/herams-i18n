@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-17 08:44+0000\n"
+"POT-Creation-Date: 2020-01-17 09:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,10 +72,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Allow everything"
-msgstr ""
-
-msgctxt "app"
-msgid "Allows full access to all workspaces in this project as well as creating new ones or deleting existing ones"
 msgstr ""
 
 msgctxt "app"
@@ -267,10 +263,6 @@ msgid "Full"
 msgstr ""
 
 msgctxt "app"
-msgid "Full access, includes editing the workspace properties, token and response data"
-msgstr ""
-
-msgctxt "app"
 msgid "Fully available"
 msgstr ""
 
@@ -339,7 +331,11 @@ msgid "Log in to HeRAMS"
 msgstr ""
 
 msgctxt "app"
-msgid "Manage the underlying response data"
+msgid "Manage data in LimeSurvey"
+msgstr ""
+
+msgctxt "app"
+msgid "Manage workspaces in the project"
 msgstr ""
 
 msgctxt "app"
@@ -687,7 +683,7 @@ msgid "World overview"
 msgstr ""
 
 msgctxt "app"
-msgid "Write, this grants access to children or data"
+msgid "Write, this grants access to properties"
 msgstr ""
 
 msgctxt "app"
