@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-21 15:50+0000\n"
+"POT-Creation-Date: 2020-01-21 15:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -124,14 +124,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Clear"
-msgstr ""
-
-msgctxt "app"
-msgid "Collecthor email verification"
-msgstr ""
-
-msgctxt "app"
-msgid "Collecthor password reset"
 msgstr ""
 
 msgctxt "app"
@@ -268,6 +260,14 @@ msgstr ""
 
 msgctxt "app"
 msgid "Global admin"
+msgstr ""
+
+msgctxt "app"
+msgid "HeRAMS email verification"
+msgstr ""
+
+msgctxt "app"
+msgid "HeRAMS password reset"
 msgstr ""
 
 msgctxt "app"
