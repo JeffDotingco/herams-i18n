@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-21 15:59+0000\n"
+"POT-Creation-Date: 2020-01-21 16:05+0000\n"
 "PO-Revision-Date: 2019-09-18 09:51+0000\n"
 "Last-Translator: Sam <sam@mousa.nl>\n"
 "Language: nl\n"
@@ -713,6 +713,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Yes"
+msgstr ""
+
+msgctxt "app"
+msgid "You are not allowed to share this project"
 msgstr ""
 
 msgctxt "app"
@@ -1821,13 +1825,5 @@ msgstr ""
 #~ "in this project as well as "
 #~ "creating new ones or deleting existing"
 #~ " ones"
-#~ msgstr ""
-
-#~ msgctxt "app"
-#~ msgid "Collecthor email verification"
-#~ msgstr ""
-
-#~ msgctxt "app"
-#~ msgid "Collecthor password reset"
 #~ msgstr ""
 
