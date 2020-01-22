@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-21 16:05+0000\n"
+"POT-Creation-Date: 2020-01-22 15:39+0000\n"
 "PO-Revision-Date: 2019-09-18 09:51+0000\n"
 "Last-Translator: Sam <sam@mousa.nl>\n"
 "Language: nl\n"
@@ -97,6 +97,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Are you sure you want to delete this page?"
+msgstr ""
+
+msgctxt "app"
+msgid "Are you sure you want to revoke this global permission?"
 msgstr ""
 
 msgctxt "app"
@@ -269,6 +273,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Global admin"
+msgstr ""
+
+msgctxt "app"
+msgid "Global permissions granted to {users}"
 msgstr ""
 
 msgctxt "app"
