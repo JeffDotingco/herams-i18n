@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-23 12:38+0000\n"
+"POT-Creation-Date: 2020-01-23 12:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -535,10 +535,6 @@ msgid "Share {project}"
 msgstr ""
 
 msgctxt "app"
-msgid "Share, allows this user to give other users the share permission"
-msgstr ""
-
-msgctxt "app"
 msgid "Share, allows users to give other users limited access"
 msgstr ""
 
@@ -552,6 +548,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Success!"
+msgstr ""
+
+msgctxt "app"
+msgid "Super share, allows this user to give other users the share permission"
 msgstr ""
 
 msgctxt "app"
@@ -1838,5 +1838,9 @@ msgstr ""
 
 #~ msgctxt "app"
 #~ msgid "Share, allows this users to give other users limited access"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Share, allows this user to give other users the share permission"
 #~ msgstr ""
 
