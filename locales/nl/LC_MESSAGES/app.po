@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-02-03 08:41+0000\n"
+"POT-Creation-Date: 2020-02-03 10:09+0000\n"
 "PO-Revision-Date: 2019-09-18 09:51+0000\n"
 "Last-Translator: Sam <sam@mousa.nl>\n"
 "Language: nl\n"
@@ -220,6 +220,10 @@ msgid "Edit"
 msgstr ""
 
 msgctxt "app"
+msgid "Edit dashboard"
+msgstr ""
+
+msgctxt "app"
 msgid "Edit token"
 msgstr ""
 
@@ -417,6 +421,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Page <strong>{page}</strong> updated"
+msgstr ""
+
+msgctxt "app"
+msgid "Pages"
 msgstr ""
 
 msgctxt "app"

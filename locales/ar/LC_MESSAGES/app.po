@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-03 08:41+0000\n"
+"POT-Creation-Date: 2020-02-03 10:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -217,6 +217,10 @@ msgid "Edit"
 msgstr ""
 
 msgctxt "app"
+msgid "Edit dashboard"
+msgstr ""
+
+msgctxt "app"
 msgid "Edit token"
 msgstr ""
 
@@ -414,6 +418,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Page <strong>{page}</strong> updated"
+msgstr ""
+
+msgctxt "app"
+msgid "Pages"
 msgstr ""
 
 msgctxt "app"
