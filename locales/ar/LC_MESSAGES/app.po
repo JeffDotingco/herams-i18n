@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-03 10:09+0000\n"
+"POT-Creation-Date: 2020-02-04 15:15+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -258,6 +258,14 @@ msgstr ""
 
 msgctxt "app"
 msgid "Export all"
+msgstr ""
+
+msgctxt "app"
+msgid "Export data from project {project}"
+msgstr ""
+
+msgctxt "app"
+msgid "Export data from workspace {workspace}"
 msgstr ""
 
 msgctxt "app"
