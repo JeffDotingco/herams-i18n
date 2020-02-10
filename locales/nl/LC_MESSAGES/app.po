@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-02-04 15:22+0000\n"
+"POT-Creation-Date: 2020-02-10 07:36+0000\n"
 "PO-Revision-Date: 2019-09-18 09:51+0000\n"
 "Last-Translator: Sam <sam@mousa.nl>\n"
 "Language: nl\n"
@@ -138,6 +138,10 @@ msgid "Clear"
 msgstr ""
 
 msgctxt "app"
+msgid "Configure dashboard"
+msgstr ""
+
+msgctxt "app"
 msgid "Confirmation"
 msgstr ""
 
@@ -216,11 +220,19 @@ msgid "Download"
 msgstr ""
 
 msgctxt "app"
+msgid "Download data"
+msgstr ""
+
+msgctxt "app"
 msgid "Edit"
 msgstr ""
 
 msgctxt "app"
 msgid "Edit dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "Edit settings"
 msgstr ""
 
 msgctxt "app"
@@ -272,10 +284,6 @@ msgid "Export data from workspace {workspace}"
 msgstr ""
 
 msgctxt "app"
-msgid "Export, allows exporting data"
-msgstr ""
-
-msgctxt "app"
 msgid "Failed to update email address"
 msgstr ""
 
@@ -293,6 +301,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Global permissions granted to {users}"
+msgstr ""
+
+msgctxt "app"
+msgid "Grant admin permissions"
 msgstr ""
 
 msgctxt "app"
@@ -368,15 +380,15 @@ msgid "Log in to HeRAMS"
 msgstr ""
 
 msgctxt "app"
-msgid "Manage dashboards in the project"
-msgstr ""
-
-msgctxt "app"
 msgid "Manage data in LimeSurvey"
 msgstr ""
 
 msgctxt "app"
-msgid "Manage workspaces in the project"
+msgid "Manage users"
+msgstr ""
+
+msgctxt "app"
+msgid "Manage workspaces"
 msgstr ""
 
 msgctxt "app"
@@ -504,10 +516,6 @@ msgid "Question code containing the type (case sensitive)"
 msgstr ""
 
 msgctxt "app"
-msgid "Read, this grants access to the dashboard"
-msgstr ""
-
-msgctxt "app"
 msgid "Refresh data from limesurvey"
 msgstr ""
 
@@ -562,10 +570,6 @@ msgid "Share {project}"
 msgstr ""
 
 msgctxt "app"
-msgid "Share, allows users to give other users limited access"
-msgstr ""
-
-msgctxt "app"
 msgid "Sign up"
 msgstr ""
 
@@ -575,10 +579,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Success!"
-msgstr ""
-
-msgctxt "app"
-msgid "Super share, allows this user to give other users the share permission"
 msgstr ""
 
 msgctxt "app"
@@ -688,6 +688,10 @@ msgid "Users"
 msgstr ""
 
 msgctxt "app"
+msgid "View dashboard"
+msgstr ""
+
+msgctxt "app"
 msgid "Warning!"
 msgstr ""
 
@@ -745,10 +749,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "World overview"
-msgstr ""
-
-msgctxt "app"
-msgid "Write, this grants access to properties"
 msgstr ""
 
 msgctxt "app"
@@ -1873,5 +1873,33 @@ msgstr ""
 
 #~ msgctxt "app"
 #~ msgid "Share, allows this user to give other users the share permission"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Export, allows exporting data"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Manage dashboards in the project"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Manage workspaces in the project"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Read, this grants access to the dashboard"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Share, allows users to give other users limited access"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Super share, allows this user to give other users the share permission"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Write, this grants access to properties"
 #~ msgstr ""
 
