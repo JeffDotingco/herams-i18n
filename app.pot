@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-25 08:42+0000\n"
+"POT-Creation-Date: 2020-02-25 10:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -223,6 +223,10 @@ msgid "Edit dashboard"
 msgstr ""
 
 msgctxt "app"
+msgid "Edit data"
+msgstr ""
+
+msgctxt "app"
 msgid "Edit settings"
 msgstr ""
 
@@ -368,10 +372,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Log in to HeRAMS"
-msgstr ""
-
-msgctxt "app"
-msgid "Manage data in LimeSurvey"
 msgstr ""
 
 msgctxt "app"

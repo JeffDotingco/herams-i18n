@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-10 07:36+0000\n"
+"POT-Creation-Date: 2020-02-25 10:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -229,6 +229,10 @@ msgid "Edit dashboard"
 msgstr ""
 
 msgctxt "app"
+msgid "Edit data"
+msgstr ""
+
+msgctxt "app"
 msgid "Edit settings"
 msgstr ""
 
@@ -374,10 +378,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Log in to HeRAMS"
-msgstr ""
-
-msgctxt "app"
-msgid "Manage data in LimeSurvey"
 msgstr ""
 
 msgctxt "app"
@@ -1885,10 +1885,6 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgctxt "app"
-#~ msgid "Read, this grants access to the dashboard"
-#~ msgstr ""
-
-#~ msgctxt "app"
 #~ msgid "Share, allows users to give other users limited access"
 #~ msgstr ""
 
@@ -1898,5 +1894,9 @@ msgstr ""
 
 #~ msgctxt "app"
 #~ msgid "Write, this grants access to properties"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Manage data in LimeSurvey"
 #~ msgstr ""
 
