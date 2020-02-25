@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-25 11:46+0000\n"
+"POT-Creation-Date: 2020-02-25 11:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -459,6 +459,10 @@ msgid "Password confirmation"
 msgstr ""
 
 msgctxt "app"
+msgid "Password update failed"
+msgstr ""
+
+msgctxt "app"
 msgid "Passwords don't match"
 msgstr ""
 
@@ -591,6 +595,10 @@ msgid "The token field that is used as the workspace name, empty token attribute
 msgstr ""
 
 msgctxt "app"
+msgid "This link is no longer valid; your password has been changed since it was issued"
+msgstr ""
+
+msgctxt "app"
 msgid "This will reload the page losing all other changes!!"
 msgstr ""
 
@@ -663,11 +671,19 @@ msgid "User"
 msgstr ""
 
 msgctxt "app"
+msgid "User not found"
+msgstr ""
+
+msgctxt "app"
 msgid "User updated"
 msgstr ""
 
 msgctxt "app"
 msgid "Users"
+msgstr ""
+
+msgctxt "app"
+msgid "Validation failed"
 msgstr ""
 
 msgctxt "app"
@@ -752,6 +768,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Your email address has been updated"
+msgstr ""
+
+msgctxt "app"
+msgid "Your password has been reset!"
 msgstr ""
 
 msgctxt "user"
