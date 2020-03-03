@@ -447,7 +447,17 @@ Download the Entire Data Set
 
 .. note:: Users are advised to download data for individual workspace as outlined above. The permission to download the entire data set is restricted to a few users. Contact your system administrator for further information.
 
-*Coming soon*
+1. Open the admin interface by clicking the |settings| button on the top right corner of the page (next to your username). 
+2. From the navigation pane on the left, select `Projects <https://herams.org/project/index>`_.
+3. In the rightmost column of the table, you should see several Action buttons. Click the |download| icon. 
+4. You should now see the export data from a project page with the following options:
+* Include text header 
+* Include code header 
+* Answers as text to download the responses as text 
+* Language with English as the default language  
+* Report date: Entering a date will limit the export to the last record before or equal to the selected date for each health facility. To export all historic records of a health facility, leave the field blank.
+
+.. tip:: It is advised to disable include text header in exporting for an easier alignment of the data in the statistical software of choice (e.g., R or STATA) as well as in Excel. For surveys in languages other than English, make sure to correctly define the encoding when opening the data in Excel (see Data Encoding in Excel for details). 
 
 Data Encoding in Excel
 ----------------------
