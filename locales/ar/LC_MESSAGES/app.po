@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-06 13:09+0000\n"
+"POT-Creation-Date: 2020-03-18 12:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -101,12 +101,6 @@ msgid "Are you sure you want to revoke this global permission?"
 msgstr ""
 
 msgctxt "app"
-msgid ""
-"Are you sure you want to stop sharing <strong>{modelName}</strong> with "
-"<strong>{userName}</strong>"
-msgstr ""
-
-msgctxt "app"
 msgid "Are you sure you wish to remove this project from the system?"
 msgstr ""
 
@@ -200,6 +194,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Delete"
+msgstr ""
+
+msgctxt "app"
+msgid "Deleted user"
 msgstr ""
 
 msgctxt "app"
@@ -542,10 +540,6 @@ msgid ""
 msgstr ""
 
 msgctxt "app"
-msgid "Remove"
-msgstr ""
-
-msgctxt "app"
 msgid "Repeat password"
 msgstr ""
 
@@ -699,10 +693,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Update workspace {workspace}"
-msgstr ""
-
-msgctxt "app"
-msgid "User"
 msgstr ""
 
 msgctxt "app"
@@ -1946,5 +1936,20 @@ msgstr ""
 #~ "This will only export the last "
 #~ "record before this date for each "
 #~ "health facility"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid ""
+#~ "Are you sure you want to stop "
+#~ "sharing <strong>{modelName}</strong> with "
+#~ "<strong>{userName}</strong>"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Remove"
+#~ msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "User"
 #~ msgstr ""
 
