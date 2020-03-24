@@ -67,6 +67,10 @@ msgid "A verification email has beent sent to your address"
 msgstr ""
 
 msgctxt "app"
+msgid "Add permissions"
+msgstr ""
+
+msgctxt "app"
 msgid "Admin dashboard"
 msgstr ""
 
@@ -379,6 +383,10 @@ msgid "Log in to HeRAMS"
 msgstr ""
 
 msgctxt "app"
+msgid "Manage user permissions for {project}"
+msgstr ""
+
+msgctxt "app"
 msgid "Manage users"
 msgstr ""
 
@@ -567,10 +575,6 @@ msgid "Share workspace {workspace}"
 msgstr ""
 
 msgctxt "app"
-msgid "Share {project}"
-msgstr ""
-
-msgctxt "app"
 msgid "Sign up"
 msgstr ""
 
@@ -691,11 +695,19 @@ msgid "Users"
 msgstr ""
 
 msgctxt "app"
+msgid "Users and permissions"
+msgstr ""
+
+msgctxt "app"
 msgid "Validation failed"
 msgstr ""
 
 msgctxt "app"
 msgid "View dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "View user permissions"
 msgstr ""
 
 msgctxt "app"
