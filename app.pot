@@ -275,6 +275,14 @@ msgid "Export"
 msgstr ""
 
 msgctxt "app"
+msgid "Export CSV"
+msgstr ""
+
+msgctxt "app"
+msgid "Export XLSX"
+msgstr ""
+
+msgctxt "app"
 msgid "Export all"
 msgstr ""
 
