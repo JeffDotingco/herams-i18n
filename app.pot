@@ -271,10 +271,6 @@ msgid "Error!"
 msgstr ""
 
 msgctxt "app"
-msgid "Export"
-msgstr ""
-
-msgctxt "app"
 msgid "Export CSV"
 msgstr ""
 
