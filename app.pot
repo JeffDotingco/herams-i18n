@@ -67,6 +67,10 @@ msgid "A verification email has beent sent to your address"
 msgstr ""
 
 msgctxt "app"
+msgid "Add"
+msgstr ""
+
+msgctxt "app"
 msgid "Add permissions"
 msgstr ""
 
