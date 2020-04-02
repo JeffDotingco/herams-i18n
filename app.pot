@@ -699,10 +699,6 @@ msgid "Users"
 msgstr ""
 
 msgctxt "app"
-msgid "Users and permissions"
-msgstr ""
-
-msgctxt "app"
 msgid "Validation failed"
 msgstr ""
 
