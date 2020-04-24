@@ -351,10 +351,6 @@ msgid "Import workspaces"
 msgstr ""
 
 msgctxt "app"
-msgid "In progress"
-msgstr ""
-
-msgctxt "app"
 msgid "Info"
 msgstr ""
 
