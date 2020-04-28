@@ -351,6 +351,10 @@ msgid "Health facilities"
 msgstr ""
 
 msgctxt "app"
+msgid "Home"
+msgstr ""
+
+msgctxt "app"
 msgid "Import"
 msgstr ""
 
