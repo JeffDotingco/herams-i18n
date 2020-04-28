@@ -147,6 +147,18 @@ msgid "Contributors"
 msgstr ""
 
 msgctxt "app"
+msgid "Create Page"
+msgstr ""
+
+msgctxt "app"
+msgid "Create Project"
+msgstr ""
+
+msgctxt "app"
+msgid "Create Workspace"
+msgstr ""
+
+msgctxt "app"
 msgid "Create a new project"
 msgstr ""
 
@@ -340,6 +352,14 @@ msgstr ""
 
 msgctxt "app"
 msgid "Import"
+msgstr ""
+
+msgctxt "app"
+msgid "Import Project"
+msgstr ""
+
+msgctxt "app"
+msgid "Import Workspace"
 msgstr ""
 
 msgctxt "app"
@@ -643,7 +663,19 @@ msgid "Update"
 msgstr ""
 
 msgctxt "app"
+msgid "Update "
+msgstr ""
+
+msgctxt "app"
 msgid "Update & go to dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "Update Page"
+msgstr ""
+
+msgctxt "app"
+msgid "Update Workspace"
 msgstr ""
 
 msgctxt "app"
