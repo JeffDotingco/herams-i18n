@@ -211,6 +211,10 @@ msgid "Data update"
 msgstr ""
 
 msgctxt "app"
+msgid "Date"
+msgstr ""
+
+msgctxt "app"
 msgid "Delete"
 msgstr ""
 
@@ -308,6 +312,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Failed to update email address"
+msgstr ""
+
+msgctxt "app"
+msgid "Filters"
 msgstr ""
 
 msgctxt "app"
