@@ -207,6 +207,10 @@ msgid "Current password"
 msgstr ""
 
 msgctxt "app"
+msgid "Dashboard"
+msgstr ""
+
+msgctxt "app"
 msgid "Data update"
 msgstr ""
 
@@ -312,6 +316,14 @@ msgstr ""
 
 msgctxt "app"
 msgid "Failed to update email address"
+msgstr ""
+
+msgctxt "app"
+msgid "Favorite workspaces"
+msgstr ""
+
+msgctxt "app"
+msgid "Favorites"
 msgstr ""
 
 msgctxt "app"
