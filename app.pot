@@ -135,6 +135,10 @@ msgid "Clear"
 msgstr ""
 
 msgctxt "app"
+msgid "Compare data for HF {hf}"
+msgstr ""
+
+msgctxt "app"
 msgid "Configure dashboard"
 msgstr ""
 
@@ -600,6 +604,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Reset your password"
+msgstr ""
+
+msgctxt "app"
+msgid "Responses"
 msgstr ""
 
 msgctxt "app"
