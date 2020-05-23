@@ -67,6 +67,10 @@ msgid "A verification email has beent sent to your address"
 msgstr ""
 
 msgctxt "app"
+msgid "Actions"
+msgstr ""
+
+msgctxt "app"
 msgid "Add"
 msgstr ""
 
@@ -148,6 +152,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Confirmation"
+msgstr ""
+
+msgctxt "app"
+msgid "Contributor count"
 msgstr ""
 
 msgctxt "app"
@@ -323,6 +331,10 @@ msgid "Export data from workspace {workspace}"
 msgstr ""
 
 msgctxt "app"
+msgid "Facility count"
+msgstr ""
+
+msgctxt "app"
 msgid "Failed to update email address"
 msgstr ""
 
@@ -387,6 +399,10 @@ msgid "Home"
 msgstr ""
 
 msgctxt "app"
+msgid "ID"
+msgstr ""
+
+msgctxt "app"
 msgid "Import"
 msgstr ""
 
@@ -435,6 +451,10 @@ msgid "Lack of training of health staff"
 msgstr ""
 
 msgctxt "app"
+msgid "Language"
+msgstr ""
+
+msgctxt "app"
 msgid "Latest update"
 msgstr ""
 
@@ -460,6 +480,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "N/A"
+msgstr ""
+
+msgctxt "app"
+msgid "Name"
 msgstr ""
 
 msgctxt "app"
@@ -555,6 +579,10 @@ msgid "Please check your mailbox"
 msgstr ""
 
 msgctxt "app"
+msgid "Profile"
+msgstr ""
+
+msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
 msgstr ""
 
@@ -612,6 +640,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Reset your password"
+msgstr ""
+
+msgctxt "app"
+msgid "Response count"
 msgstr ""
 
 msgctxt "app"
@@ -680,6 +712,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "This will reload the page losing all other changes!!"
+msgstr ""
+
+msgctxt "app"
+msgid "Title"
 msgstr ""
 
 msgctxt "app"
