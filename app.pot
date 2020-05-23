@@ -119,6 +119,10 @@ msgid "Are you sure you wish to remove this workspace from the system?"
 msgstr ""
 
 msgctxt "app"
+msgid "Autodetected ({language}"
+msgstr ""
+
+msgctxt "app"
 msgid "Back to sign in"
 msgstr ""
 
@@ -344,6 +348,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Global admin"
+msgstr ""
+
+msgctxt "app"
+msgid "Global admins"
 msgstr ""
 
 msgctxt "app"
