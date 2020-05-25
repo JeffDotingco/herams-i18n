@@ -1,3 +1,6 @@
+
+
+
 .. image:: media/img/HeRAMS.png
    :height: 100px
    :alt: HeRAMS Logo
@@ -30,16 +33,16 @@ This chapter provides step-by-step instructions on how to access the `HeRAMS pla
 
 .. image:: media/img/HeRAMS_register.png
    :alt: HeRAMS Login
-   :height: 200px
+   :height: 150px
    :align: center
 
-3. On the page that opens, enter your details.
-4. Submit your information by clicking the |sign-up| button.
-5. A confirmation email will be sent to the email address you entered.
+3. On the page that opens, enter your e-mail and click the |request-access| button.
+4. A confirmation email will be sent to the email address you entered. Confirm your registration by clicking the link in your email.
    
 .. tip:: If you don't receive a confirmation email within a few minutes, check your spam folder.
 
-6. Confirm your registration by clicking the link in your email.
+5. A new tab will open prompting you to enter your name and password. Click the |create-account| button to finalize your registration.
+6.  You should now  be able to access the `HeRAMS platfrom <https://herams.org>`_. Enter your username and password into the designated fields and press |login|.
 
 .. image:: media/vid/HeRAMS_create_account.gif
     :align: center
@@ -68,23 +71,23 @@ Reset password
 In case you forgot your password, the instructions below will guide you through the steps to reset your password.
 
 1. Open the link `herams.org <https://herams.org>`_ in your browser.
+2. On the sign in page, click the `reset password <https://herams.org/user/request-reset>`_ link.
 
-.. tip:: It is strongly recommended to either user FireFox or Chrome.
+.. image:: media/img/HeRAMS_reset_password_link.png
+   :alt: HeRAMS Login
+   :height: 200px
+   :align: center
 
-2. On the sign in page, click the `reset password <https://herams.org/user/request-reset>`_ link located below the password field.
-3. Enter your email address in the top field.
-4. Below the email field, you will see an image similar to this one: |captcha|
-5. Enter the the characters displayed into the field below the image.
-6. Click the |submit-en| button.
-7. You will receive an email with a password reset link. Click the link to open the password reset page. 
+4. Enter your email address in the designated field and click the |submit-en| button.
+8. You will receive an email with a password reset link. Click the link in the email to open the password reset page. 
 
 .. note:: If you did not receive this email within a few minutes, check your spam folder.
 
-7. On the page that opens, enter your new password.
-8. Click the |submit-en| button to confirm your new password.
-9. To login into HeRAMS, return to the `sign in page <https://herams.org>`_.
+7. On the page that opens, enter your new password. 
+8. Click the |reset_password-en| button to confirm your new password.
+9. You have now successfully changed your password. To access the HeRAMS platform, return to the `sign in page <https://herams.org>`_ and enter your credentials.
 
-.. image:: media/vid/HeRAMS_password_reset.gif
+.. image:: media/vid/HeRAMS_reset_password.gif
    :alt: Password reset
    :height: 300px
    :align: center
@@ -92,20 +95,19 @@ In case you forgot your password, the instructions below will guide you through 
 
 Update your User Profile
 ------------------------
-Each user has a profile associated with their account. This permits you do to customize your profile, change your email address or password without requiring additional support.
+Each user has a profile associated with their account. This permits you to change your user name, email address or password without requiring additional support.
 
-1. To update your user profile or account details, click your username shown on the top right corner of the page.
-2. This opens your `user profile <https://herams.org/user/account>`_ and allows you to change your personal information such as your name, organization and contact details.
-
-.. note:: First name, last name and organization are mandatory fields.
+1. To update your user profile, click your username shown on the top right corner of the page.
+2. This opens your `user profile <https://herams.org/user/account>`_ and allows you to change your personal information.
 
 Change Password
 ---------------
 
-1. To alter your password, open your user profile as explained `above <#update-your-user-profile>`_.
-2. Click on the `Account <https://herams.org/user/account>`_ link to access your account information.
-3. On the page opening, you should be able to change your email address and enter a new password.
-4. Make sure to click the |submit-en| button to confirm your changes.
+1. To change your password, open your user profile as explained `above <#update-your-user-profile>`_.
+2. In the pop-up window that opens, select the `Password`  tab.  
+3. You should be able to change your email address and enter a new password.
+4. Make sure to click the |update-password-en| button to confirm your changes.
+5. To return to the main page, close the pop-up by clicking the X in the top right corner.
 
 .. image:: media/vid/HeRAMS_change_password.gif
    :alt: change password video
@@ -133,8 +135,10 @@ In addition, a brief summary on the number of projects available in HeRAMS, the 
 
 Project Dashboard
 =================
-
 Each project in HeRAMS has a custom interactive dashboard providing an instant and in-depth analysis based on the available data.
+
+View a project dashboard
+-------------------------
 
 1. To view a project dashboard, open the project summary by selecting your project from the navigation pane on the left. Alternatively, you can open the project summary by clicking the corresponding blue dot on the world map.
 2. In the pop-up window, click the |details| button. This will open the interactive dashboard.
@@ -163,11 +167,14 @@ The animation below shows the dashboards in action.
    :height: 300px
    :align: center
 
+Customizing a dashboard
+-------------------------
+This section provides a few tips and tricks on how to customize the dashboard by applying filters and alter some of default display options.
 
 Filtering data
---------------
+~~~~~~~~~~~~~~
 
-Data on the dashboard can be filtered. This allows you to scrutinise the data subsets that are of interest to you.
+Data on the dashboard can be filtered. This allows you to scrutinize the data subsets that are of interest to you.
 
 .. note:: Filtering is not persistent and only visible during your current session.
 
@@ -185,11 +192,6 @@ Data on the dashboard can be filtered. This allows you to scrutinise the data su
    :height: 300px
    :align: center
 
-
-Customizing the dashboard
--------------------------
-
-This section provides a few tips and tricks on how to customize the dashboard and view additional details.
 
 Tooltips
 ~~~~~~~~
@@ -214,6 +216,19 @@ Depending on the zoom level applied to a map, it may happen that several points 
 .. image:: media/vid/HeRAMS_dashboard_customize_maps.gif
    :height: 300px
 
+Exporting a dashboard
+-----------------------
+Dashboards can be printed or exported as PDF document. 
+
+.. note:: The export will include any filters that might applied. 
+
+1. To export a dashboard, open the desired dashboard as explained `here <#view-a-project-dashboard>`__.
+2. Click the |pdf-bt| icon in the top right corner of your screen.
+
+.. image:: media/img/HeRAMS_dashboard_pdf.png
+   :height: 300px
+
+3. This will open a new tab containing a printable version of the dashboard. Click `CTRL`+ `P` to print the dashboard or save it as a pdf. 
 
 Default dashboard pages
 -----------------------
@@ -336,22 +351,19 @@ The **Service Availability** page displays multiple pages per type of service. E
 Edit Data
 =========
 
-This chapter is itended primarily for data managers responsible to update the HeRAMS data. It covers all aspects related to data editing, including registering new health facilities, updating the status of exisiting health facilities as well as deleting erroneous records (e.g. duplicates). 
+This chapter is intended for data managers responsible to update the HeRAMS data. It covers all aspects related to data editing, including registering new health facilities, updating the status of existing health facilities as well as deleting erroneous records (e.g. duplicates). 
 
 .. note:: Access to the data edit interface is limited to users responsible to update the data. If you require your access permissions to be changed, kindly contact your country focal point or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to altered.
 
-Access the Data Update Interface
+Access your workspace
 --------------------------------
+HeRAMS uses so-called **Workspaces** to manage access permission to the underlying data. A workspace represents for example, a specific organization or a geographic region. For more information on **Workspaces** click `here <#workspaces>`__.
 
-1. Open the admin interface by clicking the |settings| button on the top right corner of the page (next to your username). 
-2. From the navigation pane on the left, select `Projects <https://herams.org/project/index>`_.
-3. You should now see a table of all available projects. For each project, the table displays the number **Workspaces**, **Contributors**, **Health facilities** and **Responses**.
+1. Open the project summary pop-up by selecting your project from the navigation pane on the left. Alternatively, you can open the project summary by clicking the corresponding blue dot on the world map.
+2. Click the |workspace-bt| button on the bottom right corner of the pop-up.
+3. This opens the list of available workspace of the selected project. For each project, the table displays the number **Workspaces**, **Contributors**, **Health facilities** and **Responses**.
   
 .. tip:: The number of responses can be higher than the total number of health facilities. This indicates that a health facility was assessed multiple times.
-
-4. In the last column of the table, click the |workspace| icon. This will open a new page displaying a list of all available workspace.
-
-.. note:: HeRAMS uses so-called **Workspaces** to manage access permission to the underlying data. A workspace might represent, for example, a specific organization or a geographic region. For more information on **Workspaces** click `here <#workspaces>`__.
 
 5. To view the health facilities that are part of a specific workspace, click the |update-data| icon in the Action column.
 6. Use the |forward-page| buttons to move to the next page or filter the workspaces by typing the workspace name in the field below the header row.
@@ -426,34 +438,54 @@ Delete a Health Facility Record
 
 
 Download Data
-==============
+=============
 
-It is possible to download part of the data as **CSV** for further in-depth analysis. In rare cases, permissions could be granted to download the entire data set. To download the entire data set please follow the instructions `here <#download-the-entire-data-set>`__, otherwise see the section below.
+Data for individual health facilities can be downloaded as **CSV** or **Excel** file. 
+
+.. note:: Whether you have access to download data depends on your function and role. If you require your access permissions to be changed, kindly contact your country focal point or send an email to `herams@who.int <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation on why you would like your access permissions to altered.
 
 Download Workspace Data
 -----------------------
 
-Follow the instructions below to download data for a single workspace. If you require data from multiple workspaces, follow the below steps for each workspace. You can then merge the data in your analysis tool of choice.
+Follow the instructions below to download data for your workspace. If you require data from multiple workspaces, you can repeat the below steps and merge your data in an analysis tool of choice.
 
-.. note:: In order to download data, you will require access to your workspace. Contact your system administrator to elevate your access rights if needed.
+.. note:: In order to download data, you will require special permissions to the workspace. Contact your system administrator to elevate your access rights if needed.
 
-1. Navigate to the workspace page of your project (see `Access the Data Update Interface`_ steps 1 - 4 for detailed instructions).
-2. In the rightmost column, click the |download| button. This will download all records of this workspace.
-  
-.. tip:: For surveys in languages other than English, make sure to correctly define the encoding when opening the data in Excel (see `Data Encoding in Excel`_ for details).
+
+1. Navigate to the workspace page of your project (see `Access your workspace`_ steps 1 - 4 for detailed instructions).
+2. In the rightmost column, click the |download| icon. This will open a new page, allowing you to customize your export.
+3. The survey settings enabling you to tailor the export to your needs. You can chose between exporting data as text or code as well as the type of header to be included in your export. Use the on/off switches to modify the default options.
+
+.. note:: If you choose to export answers as code, question with predefined answer option will show coded value (e.g. A1) instead of the text label.  
+
+4. If a survey is available in multiple language, use the drop-down list to specify the export language. 
+5. By default, only the most recent response for each health facility is exported. For projects with multiple records per health facility, the data exported can be further customized in the Advanced settings. 
+	- **Export all records**: To export all historic records of a health facility, leave the **Report date** filed blank. 
+	- **Export one record per Health facility**: If a report date is defined,  only the last record before or equal to the selected date will be exported for each health facility. To get the most recent data, set the **Report date** equal to today.
+6. Once you have defined the export settings, select between the two export formats (**CSV** or **Excel**) by clicking the respective button. 
+
+.. note:: For large data sets, exporting data in Excel takes substantially longer than exporting as **CSV** format.  
+
+.. tip:: To avoid encoding issues, it is recommended that you download your data as Excel file if you select a language other than English. For more information of encoding of **CSV** files for use in Excel, see  `Data Encoding in Excel`_ .
 
 Download the Entire Data Set
 ----------------------------
+Project administrators or users with special permissions can export the entire project data from the admin interface. 
 
-.. note:: Users are advised to download data for individual workspace as outlined above. The permission to download the entire data set is restricted to a few users. Contact your system administrator for further information.
+.. note:: Access to project level data is limited to selected users only. Contact your country administrator for further information.
 
-*Coming soon*
+1. Open the admin interface by clicking the |settings| icon in the top right corner of the screen.
+2. In the navigation pane on the left, click `Projects <https://herams.org/project/index>`__ . This will open a overview table of all ongoing **Projects** in HeRAMS. 
+3. In the rightmost column of the table, you should see several **Action** buttons. Click the |download| icon. This will open  the download settings. 
+4. You should now be able to customize your export as outlined in the previous section `here <#download-workspace-data>`__.
 
 Data Encoding in Excel
 ----------------------
-If data is downloaded for further analysis in Excel or a statistical software of choice (e.g. R or STATA), data encoding should always be set to UTF-8.
+If data is downloaded for further analysis in Excel or a statistical software of choice (e.g. R or STATA), data encoding should always be set to UTF-8. 
 
 .. tip:: Encoding issues are particularly prevalent in languages with special character and can result in the data being unreadable. For example, instead of **camp de réfugiés** you get **Camp de rÃ©fugiÃ©s**.
+
+.. tip:: To avoid encoding issues, it is recommended that you download your data as an **Excel** file. 
 
 The below instructions guide users through the steps to define the data encoding in Excel. 
 
@@ -466,7 +498,6 @@ The below instructions guide users through the steps to define the data encoding
    :height: 300px
    :alt: excel encoding
    :align: center
-
 
 
 HeRAMS Administration
@@ -857,6 +888,11 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
    :align: top
    :alt: clearfilter
 
+.. |create-account| image:: media/img/bt_create-account.png
+   :height: 1.5em
+   :alt: create-element
+   :align: top
+
 .. |create-element-blue| image:: media/img/bt_create_element_blue.png
    :height: 1.5em
    :alt: create-element
@@ -936,6 +972,11 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
    :alt: submit
    :align: top
 
+.. |pdf-bt| image:: media/img/bt_pdf.png
+   :height: 1.5em
+   :alt: edit
+   :align: top
+   
 .. |pencil-black| image:: media/img/icon_data_update_black.png
    :height: 1.5em
    :alt: edit
@@ -954,7 +995,12 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
 .. |refresh| image:: media/img/icon_refresh_data.png
    :height: 1.5em
    :alt: refresh
-   :align: top   
+   :align: top 
+
+.. |request-access| image:: media/img/request-access.png
+   :height: 1.5em
+   :alt: refresh
+   :align: top  
 
 .. |share-icon| image:: media/img/icon_share.png
    :height: 1.5em
@@ -1010,8 +1056,12 @@ If you open data downloaded from HeRAMS in Excel, you might experience an issue 
    :height: 1.5em
    :alt: update-project
    :align: top
-
+	
 .. |workspace| image:: media/img/icon_workspace.png
+   :height: 1.5em
+   :alt: workspace
+   :align: top
+.. |workspace-bt| image:: media/img/bt_workspace.png
    :height: 1.5em
    :alt: workspace
    :align: top
