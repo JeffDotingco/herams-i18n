@@ -1,20 +1,23 @@
-
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2020-03-18 12:59+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-05-26 09:45+0000\n"
+"Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
+"Language-Team: French <http://weblate.herams-staging.org/projects/herams/"
+"herams-platform/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.3\n"
 "Generated-By: Babel 2.8.0\n"
 
 msgctxt "app"
 msgid "# Contributors"
-msgstr ""
+msgstr "# de contributeurs"
 
 msgctxt "app"
 msgid "# Health facilities"
@@ -34,87 +37,88 @@ msgstr ""
 
 msgctxt "app"
 msgid "50 - 75%"
-msgstr ""
+msgstr "50 - 75%"
 
 msgctxt "app"
 msgid "< 25%"
-msgstr ""
+msgstr "< 25%"
 
 msgctxt "app"
 msgid "> 75%"
-msgstr ""
+msgstr "> 75%"
 
 msgctxt "app"
 msgid "A bar chart"
-msgstr ""
+msgstr "Diagramme à barres"
 
 msgctxt "app"
 msgid "A chart"
-msgstr ""
+msgstr "Un diagramme"
 
 msgctxt "app"
 msgid "A dashboard element that shows a map"
-msgstr ""
+msgstr "Un élément du tableau de bord affichant une carte"
 
 msgctxt "app"
 msgid "A password reset email has beent sent to your address"
 msgstr ""
+"Un e-mail de réinitialisation de mot de passe a été envoyé à votre adresse"
 
 msgctxt "app"
 msgid "A table"
-msgstr ""
+msgstr "Un tableau"
 
 msgctxt "app"
 msgid "A verification email has beent sent to your address"
-msgstr ""
+msgstr "Un e-mail de vérification a été envoyé à votre adresse"
 
 msgctxt "app"
 msgid "Admin dashboard"
-msgstr ""
+msgstr "Tableau de bord de l'administration"
 
 msgctxt "app"
 msgid "Allow everything"
-msgstr ""
+msgstr "Autoriser tout"
 
 msgctxt "app"
 msgid "Already have an account? Sign in!"
-msgstr ""
+msgstr "Vous avez déjà un compte ? Connectez-vous !"
 
 msgctxt "app"
 msgid "Already shared with"
-msgstr ""
+msgstr "Déjà partagé avec"
 
 msgctxt "app"
 msgid "Apply"
-msgstr ""
+msgstr "Appliquer"
 
 msgctxt "app"
 msgid "Apply changes"
-msgstr ""
+msgstr "Appliquer les changements"
 
 msgctxt "app"
 msgid "Are you sure you want to delete this page?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer cette page ?"
 
 msgctxt "app"
 msgid "Are you sure you want to revoke this global permission?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir révoquer cette autorisation globale ?"
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this project from the system?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir retirer ce projet du système ?"
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this tool from the system?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer cet outil du système ?"
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this workspace from the system?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer cet espace de travail du système ?"
 
 msgctxt "app"
 msgid "Back to sign in"
-msgstr ""
+msgstr "Retour à la page de connexion"
 
 msgctxt "app"
 msgid "Backend administration"
@@ -122,59 +126,59 @@ msgstr ""
 
 msgctxt "app"
 msgid "Causes of unavailability"
-msgstr ""
+msgstr "Causes d'indisponibilité"
 
 msgctxt "app"
 msgid "Clear"
-msgstr ""
+msgstr "Effacer"
 
 msgctxt "app"
 msgid "Configure dashboard"
-msgstr ""
+msgstr "Configurer le tableau de bord"
 
 msgctxt "app"
 msgid "Confirmation"
-msgstr ""
+msgstr "Confirmation"
 
 msgctxt "app"
 msgid "Contributors"
-msgstr ""
+msgstr "Contributeurs"
 
 msgctxt "app"
 msgid "Create a new project"
-msgstr ""
+msgstr "Créer un nouveau projet"
 
 msgctxt "app"
 msgid "Create account"
-msgstr ""
+msgstr "Créer un compte"
 
 msgctxt "app"
 msgid "Create chart"
-msgstr ""
+msgstr "Créer un graphique"
 
 msgctxt "app"
 msgid "Create element"
-msgstr ""
+msgstr "Créer un élément"
 
 msgctxt "app"
 msgid "Create map"
-msgstr ""
+msgstr "Créer une carte"
 
 msgctxt "app"
 msgid "Create page"
-msgstr ""
+msgstr "Créer une page"
 
 msgctxt "app"
 msgid "Create project"
-msgstr ""
+msgstr "Créer un projet"
 
 msgctxt "app"
 msgid "Create table"
-msgstr ""
+msgstr "Créer un tableau"
 
 msgctxt "app"
 msgid "Create workspace"
-msgstr ""
+msgstr "Créer un espace de travail"
 
 msgctxt "app"
 msgid "Created {success} workspaces, failed to create {fail} workspaces"
@@ -186,65 +190,68 @@ msgstr ""
 
 msgctxt "app"
 msgid "Current password"
-msgstr ""
+msgstr "Mot de passe actuel"
 
 msgctxt "app"
 msgid "Data update"
-msgstr ""
+msgstr "Mise à jour des données"
 
 msgctxt "app"
 msgid "Delete"
-msgstr ""
+msgstr "Supprimer"
 
 msgctxt "app"
 msgid "Deleted user"
-msgstr ""
+msgstr "Utilisateur supprimé"
 
 msgctxt "app"
 msgid ""
 "Determines the order of elements on a page, elements shown in ascending "
 "order"
 msgstr ""
+"Détermine l'ordre des éléments sur une page, les éléments étant présentés en "
+"ordre croissant"
 
 msgctxt "app"
 msgid "Discard changes & go to dashboard"
-msgstr ""
+msgstr "Annuler les changements & retourner au tableau de bord"
 
 msgctxt "app"
 msgid "Download"
-msgstr ""
+msgstr "Télécharger"
 
 msgctxt "app"
 msgid "Download data"
-msgstr ""
+msgstr "Télécharger les données"
 
 msgctxt "app"
 msgid "Edit"
-msgstr ""
+msgstr "Modifier"
 
 msgctxt "app"
 msgid "Edit dashboard"
-msgstr ""
+msgstr "Modifier le tableau de bord"
 
 msgctxt "app"
 msgid "Edit data"
-msgstr ""
+msgstr "Modifier les données"
 
 msgctxt "app"
 msgid "Edit settings"
-msgstr ""
+msgstr "Modifier les paramètres"
 
+#, fuzzy
 msgctxt "app"
 msgid "Edit token"
-msgstr ""
+msgstr "Modifier le jeton"
 
 msgctxt "app"
 msgid "Element created"
-msgstr ""
+msgstr "Élément créé"
 
 msgctxt "app"
 msgid "Element not created"
-msgstr ""
+msgstr "Élément pas créé"
 
 msgctxt "app"
 msgid "Element not updated"
@@ -303,23 +310,24 @@ msgstr ""
 
 msgctxt "app"
 msgid "Global admin"
-msgstr ""
+msgstr "Administration globale"
 
 msgctxt "app"
 msgid "Global permissions granted to {users}"
-msgstr ""
+msgstr "Permissions globales accordées aux {users}"
 
 msgctxt "app"
 msgid "Grant admin permissions"
-msgstr ""
+msgstr "Accorder des permissions administratives"
 
 msgctxt "app"
 msgid "HeRAMS email verification"
 msgstr ""
 
+#, fuzzy
 msgctxt "app"
 msgid "HeRAMS password reset"
-msgstr ""
+msgstr "Réinitialisation du mot de passe HeRAMS"
 
 msgctxt "app"
 msgid "HeRAMS projects"
@@ -327,7 +335,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Health Facilities"
-msgstr ""
+msgstr "Établissements de santé"
 
 msgctxt "app"
 msgid "Health facilities"
@@ -1952,4 +1960,3 @@ msgstr ""
 #~ msgctxt "app"
 #~ msgid "User"
 #~ msgstr ""
-
