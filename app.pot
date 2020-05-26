@@ -83,6 +83,10 @@ msgid "Admin dashboard"
 msgstr ""
 
 msgctxt "app"
+msgid "After closing this screen you must click {{apply}} to see the changes"
+msgstr ""
+
+msgctxt "app"
 msgid "Allow everything"
 msgstr ""
 
@@ -100,6 +104,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Apply changes"
+msgstr ""
+
+msgctxt "app"
+msgid "Apply filters"
 msgstr ""
 
 msgctxt "app"
@@ -527,6 +535,10 @@ msgid "Old email address"
 msgstr ""
 
 msgctxt "app"
+msgid "PDF"
+msgstr ""
+
+msgctxt "app"
 msgid "Page <strong>{page}</strong> created"
 msgstr ""
 
@@ -652,6 +664,14 @@ msgstr ""
 
 msgctxt "app"
 msgid "Save"
+msgstr ""
+
+msgctxt "app"
+msgid "Search"
+msgstr ""
+
+msgctxt "app"
+msgid "Search also uses the group name, for example try typing \"Trauma\""
 msgstr ""
 
 msgctxt "app"
@@ -884,6 +904,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "You do not have permission to change these values."
+msgstr ""
+
+msgctxt "app"
+msgid "You may search for multiple terms, only results that contain all terms are shown"
 msgstr ""
 
 msgctxt "app"
