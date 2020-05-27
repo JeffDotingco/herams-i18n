@@ -531,6 +531,10 @@ msgid "None"
 msgstr ""
 
 msgctxt "app"
+msgid "Not a member ?"
+msgstr ""
+
+msgctxt "app"
 msgid "Not available"
 msgstr ""
 
