@@ -267,6 +267,10 @@ msgid "Discard changes & go to dashboard"
 msgstr ""
 
 msgctxt "app"
+msgid "Don't have an account?"
+msgstr ""
+
+msgctxt "app"
 msgid "Download"
 msgstr ""
 
@@ -475,6 +479,10 @@ msgid "Latest update"
 msgstr ""
 
 msgctxt "app"
+msgid "Log in"
+msgstr ""
+
+msgctxt "app"
 msgid "Log in to HeRAMS"
 msgstr ""
 
@@ -528,10 +536,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "None"
-msgstr ""
-
-msgctxt "app"
-msgid "Not a member ?"
 msgstr ""
 
 msgctxt "app"
@@ -655,6 +659,10 @@ msgid "Report date"
 msgstr ""
 
 msgctxt "app"
+msgid "Request account"
+msgstr ""
+
+msgctxt "app"
 msgid "Request password reset"
 msgstr ""
 
@@ -700,10 +708,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Share workspace {workspace}"
-msgstr ""
-
-msgctxt "app"
-msgid "Sign up"
 msgstr ""
 
 msgctxt "app"
