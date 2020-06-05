@@ -67,6 +67,10 @@ msgid "A verification email has beent sent to your address"
 msgstr ""
 
 msgctxt "app"
+msgid "Accessibility"
+msgstr ""
+
+msgctxt "app"
 msgid "Actions"
 msgstr ""
 
@@ -79,7 +83,15 @@ msgid "Add permissions"
 msgstr ""
 
 msgctxt "app"
+msgid "Add services"
+msgstr ""
+
+msgctxt "app"
 msgid "Admin dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "Advanced settings"
 msgstr ""
 
 msgctxt "app"
@@ -91,11 +103,19 @@ msgid "Allow everything"
 msgstr ""
 
 msgctxt "app"
+msgid "Allowed"
+msgstr ""
+
+msgctxt "app"
 msgid "Already have an account? Sign in!"
 msgstr ""
 
 msgctxt "app"
 msgid "Already shared with"
+msgstr ""
+
+msgctxt "app"
+msgid "Answers as text"
 msgstr ""
 
 msgctxt "app"
@@ -159,7 +179,19 @@ msgid "Clear"
 msgstr ""
 
 msgctxt "app"
+msgid "Closed"
+msgstr ""
+
+msgctxt "app"
 msgid "Compare data for HF {hf}"
+msgstr ""
+
+msgctxt "app"
+msgid "Condition"
+msgstr ""
+
+msgctxt "app"
+msgid "Config"
 msgstr ""
 
 msgctxt "app"
@@ -227,6 +259,10 @@ msgid "Create workspace"
 msgstr ""
 
 msgctxt "app"
+msgid "Created at"
+msgstr ""
+
+msgctxt "app"
 msgid "Created {success} workspaces, failed to create {fail} workspaces"
 msgstr ""
 
@@ -256,6 +292,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Deleted user"
+msgstr ""
+
+msgctxt "app"
+msgid "Denied"
 msgstr ""
 
 msgctxt "app"
@@ -379,6 +419,10 @@ msgid "Fully available"
 msgstr ""
 
 msgctxt "app"
+msgid "Functionality"
+msgstr ""
+
+msgctxt "app"
 msgid "Global admin"
 msgstr ""
 
@@ -415,11 +459,23 @@ msgid "Health facilities"
 msgstr ""
 
 msgctxt "app"
+msgid "Height"
+msgstr ""
+
+msgctxt "app"
+msgid "Hidden"
+msgstr ""
+
+msgctxt "app"
 msgid "Home"
 msgstr ""
 
 msgctxt "app"
-msgid "ID"
+msgid "Id"
+msgstr ""
+
+msgctxt "app"
+msgid "If you use a predefined option it will automatically be translated"
 msgstr ""
 
 msgctxt "app"
@@ -443,7 +499,19 @@ msgid "Import workspaces"
 msgstr ""
 
 msgctxt "app"
+msgid "Include code header"
+msgstr ""
+
+msgctxt "app"
+msgid "Include text header"
+msgstr ""
+
+msgctxt "app"
 msgid "Info"
+msgstr ""
+
+msgctxt "app"
+msgid "Infrastructure"
 msgstr ""
 
 msgctxt "app"
@@ -475,7 +543,15 @@ msgid "Language"
 msgstr ""
 
 msgctxt "app"
+msgid "Last login at"
+msgstr ""
+
+msgctxt "app"
 msgid "Latest update"
+msgstr ""
+
+msgctxt "app"
+msgid "Latitude"
 msgstr ""
 
 msgctxt "app"
@@ -484,6 +560,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Log in to HeRAMS"
+msgstr ""
+
+msgctxt "app"
+msgid "Longitude"
 msgstr ""
 
 msgctxt "app"
@@ -500,6 +580,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Map facility types for use in the world map"
+msgstr ""
+
+msgctxt "app"
+msgid "Marker radius"
 msgstr ""
 
 msgctxt "app"
@@ -547,11 +631,31 @@ msgid "Not normally provided"
 msgstr ""
 
 msgctxt "app"
+msgid "Off"
+msgstr ""
+
+msgctxt "app"
 msgid "Old email address"
 msgstr ""
 
 msgctxt "app"
+msgid "On"
+msgstr ""
+
+msgctxt "app"
+msgid "Overrides"
+msgstr ""
+
+msgctxt "app"
+msgid "Overview"
+msgstr ""
+
+msgctxt "app"
 msgid "PDF"
+msgstr ""
+
+msgctxt "app"
+msgid "Page"
 msgstr ""
 
 msgctxt "app"
@@ -564,6 +668,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Pages"
+msgstr ""
+
+msgctxt "app"
+msgid "Parent page"
 msgstr ""
 
 msgctxt "app"
@@ -584,6 +692,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Password confirmation"
+msgstr ""
+
+msgctxt "app"
+msgid "Password hash"
 msgstr ""
 
 msgctxt "app"
@@ -608,6 +720,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Profile"
+msgstr ""
+
+msgctxt "app"
+msgid "Project"
 msgstr ""
 
 msgctxt "app"
@@ -703,6 +819,10 @@ msgid "Service availability"
 msgstr ""
 
 msgctxt "app"
+msgid "Settings"
+msgstr ""
+
+msgctxt "app"
 msgid "Share"
 msgstr ""
 
@@ -712,6 +832,18 @@ msgstr ""
 
 msgctxt "app"
 msgid "Sign up for the HeRAMS platform"
+msgstr ""
+
+msgctxt "app"
+msgid "Sort"
+msgstr ""
+
+msgctxt "app"
+msgid "Sort index"
+msgstr ""
+
+msgctxt "app"
+msgid "Status"
 msgstr ""
 
 msgctxt "app"
@@ -728,6 +860,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Survey {id} does not exist"
+msgstr ""
+
+msgctxt "app"
+msgid "The Health Resources and Services Availability Monitoring System is a collaborative process for the monitoring of essential health resources and services in support to the identification of needs, gaps and priorities"
 msgstr ""
 
 msgctxt "app"
@@ -755,11 +891,27 @@ msgid "Title"
 msgstr ""
 
 msgctxt "app"
+msgid "Token"
+msgstr ""
+
+msgctxt "app"
 msgid "Token updated."
 msgstr ""
 
 msgctxt "app"
 msgid "Too many attempts, try again in {seconds} seconds"
+msgstr ""
+
+msgctxt "app"
+msgid "Transpose"
+msgstr ""
+
+msgctxt "app"
+msgid "Type"
+msgstr ""
+
+msgctxt "app"
+msgid "Typemap"
 msgstr ""
 
 msgctxt "app"
@@ -831,6 +983,10 @@ msgid "Update workspace {workspace}"
 msgstr ""
 
 msgctxt "app"
+msgid "Updated at"
+msgstr ""
+
+msgctxt "app"
 msgid "User not found"
 msgstr ""
 
@@ -852,6 +1008,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "View user permissions"
+msgstr ""
+
+msgctxt "app"
+msgid "Visibility"
 msgstr ""
 
 msgctxt "app"
@@ -880,6 +1040,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Whether this element needs data at facility (HF) or subject (service) level"
+msgstr ""
+
+msgctxt "app"
+msgid "Width"
 msgstr ""
 
 msgctxt "app"
