@@ -199,10 +199,6 @@ msgid "Configure dashboard"
 msgstr ""
 
 msgctxt "app"
-msgid "Confirmation"
-msgstr ""
-
-msgctxt "app"
 msgid "Contributor count"
 msgstr ""
 
@@ -691,10 +687,6 @@ msgid "Password changed"
 msgstr ""
 
 msgctxt "app"
-msgid "Password confirmation"
-msgstr ""
-
-msgctxt "app"
 msgid "Password hash"
 msgstr ""
 
@@ -1148,10 +1140,6 @@ msgstr ""
 
 msgctxt "user"
 msgid "The Prime Team"
-msgstr ""
-
-msgctxt "user"
-msgid "This email address has already been taken"
 msgstr ""
 
 msgctxt "user"
