@@ -67,10 +67,6 @@ msgid "A verification email has beent sent to your address"
 msgstr ""
 
 msgctxt "app"
-msgid "Accessibility"
-msgstr ""
-
-msgctxt "app"
 msgid "Actions"
 msgstr ""
 
@@ -184,10 +180,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Compare data for HF {hf}"
-msgstr ""
-
-msgctxt "app"
-msgid "Condition"
 msgstr ""
 
 msgctxt "app"
@@ -415,10 +407,6 @@ msgid "Fully available"
 msgstr ""
 
 msgctxt "app"
-msgid "Functionality"
-msgstr ""
-
-msgctxt "app"
 msgid "Global admin"
 msgstr ""
 
@@ -504,10 +492,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Info"
-msgstr ""
-
-msgctxt "app"
-msgid "Infrastructure"
 msgstr ""
 
 msgctxt "app"
@@ -640,10 +624,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Overrides"
-msgstr ""
-
-msgctxt "app"
-msgid "Overview"
 msgstr ""
 
 msgctxt "app"
@@ -1102,75 +1082,23 @@ msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
 msgstr ""
 
-msgctxt "user"
-msgid "Hello"
+msgctxt "app.pagetitle"
+msgid "Accessibility"
 msgstr ""
 
-msgctxt "user"
-msgid "If you cannot click the link, please try pasting the text into your browser"
+msgctxt "app.pagetitle"
+msgid "Condition"
 msgstr ""
 
-msgctxt "user"
-msgid "If you did not make this request you can ignore this email"
+msgctxt "app.pagetitle"
+msgid "Functionality"
 msgstr ""
 
-msgctxt "user"
-msgid "If you don't want to change your password or didn't request this, just ignore and delete this message"
+msgctxt "app.pagetitle"
+msgid "Infrastructure"
 msgstr ""
 
-msgctxt "user"
-msgid "In order to complete your registration, please click the link below"
-msgstr ""
-
-msgctxt "user"
-msgid "In order to complete your request, please click the link below"
-msgstr ""
-
-msgctxt "user"
-msgid "Please click the link below to complete your password reset"
-msgstr ""
-
-msgctxt "user"
-msgid "Please use the following link to log in"
-msgstr ""
-
-msgctxt "user"
-msgid "Thank you for signing up on {0}"
-msgstr ""
-
-msgctxt "user"
-msgid "The Prime Team"
-msgstr ""
-
-msgctxt "user"
-msgid "To keep your account secure, please don't forward this email to anyone"
-msgstr ""
-
-msgctxt "user"
-msgid "To reset your password please follow this link:"
-msgstr ""
-
-msgctxt "user"
-msgid "We have generated a password for you"
-msgstr ""
-
-msgctxt "user"
-msgid "We have received a request to change the email address for your account on {0}"
-msgstr ""
-
-msgctxt "user"
-msgid "We have received a request to reset the password for your account on {0}"
-msgstr ""
-
-msgctxt "user"
-msgid "We have received a request to reset your {0} password"
-msgstr ""
-
-msgctxt "user"
-msgid "Your account on {0} has been created"
-msgstr ""
-
-msgctxt "user"
-msgid "Your {0} account has successfully been activated."
+msgctxt "app.pagetitle"
+msgid "Overview"
 msgstr ""
 
