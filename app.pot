@@ -295,10 +295,6 @@ msgid "Discard changes & go to dashboard"
 msgstr ""
 
 msgctxt "app"
-msgid "Don't have an account?"
-msgstr ""
-
-msgctxt "app"
 msgid "Download"
 msgstr ""
 
@@ -352,6 +348,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Enter a date to limit the export to the last record before or equal to the selected date for each health facility. To export all historic records of a health facility, leave the field blank."
+msgstr ""
+
+msgctxt "app"
+msgid "Enter your email to receive a secure link to the \nsign up form"
 msgstr ""
 
 msgctxt "app"
@@ -536,10 +536,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Log in"
-msgstr ""
-
-msgctxt "app"
-msgid "Log in to HeRAMS"
 msgstr ""
 
 msgctxt "app"
@@ -739,6 +735,10 @@ msgid "Refreshing data took {time} seconds; \n        {new} new records, \n     
 msgstr ""
 
 msgctxt "app"
+msgid "Register"
+msgstr ""
+
+msgctxt "app"
 msgid "Repeat password"
 msgstr ""
 
@@ -832,6 +832,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Survey {id} does not exist"
+msgstr ""
+
+msgctxt "app"
+msgid "The Health Resources and Services Availability Monitoring System is a collaborative process for the\n            monitoring of essential health resources and services in support to the identification of needs,\n            gaps and priorities"
 msgstr ""
 
 msgctxt "app"
