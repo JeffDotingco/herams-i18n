@@ -535,6 +535,10 @@ msgid "Latitude"
 msgstr ""
 
 msgctxt "app"
+msgid "Loading project summary"
+msgstr ""
+
+msgctxt "app"
 msgid "Log in"
 msgstr ""
 
@@ -963,10 +967,6 @@ msgid "Updated at"
 msgstr ""
 
 msgctxt "app"
-msgid "User"
-msgstr ""
-
-msgctxt "app"
 msgid "User not found"
 msgstr ""
 
@@ -1108,5 +1108,25 @@ msgstr ""
 
 msgctxt "app.pagetitle"
 msgid "Overview"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Permission"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Source ID"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Source type"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Target ID"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Target type"
 msgstr ""
 
