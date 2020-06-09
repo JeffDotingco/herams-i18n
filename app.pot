@@ -351,10 +351,6 @@ msgid "Enter a date to limit the export to the last record before or equal to th
 msgstr ""
 
 msgctxt "app"
-msgid "Enter your email to receive a secure link to the \nsign up form"
-msgstr ""
-
-msgctxt "app"
 msgid "Error!"
 msgstr ""
 
@@ -396,6 +392,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Filters"
+msgstr ""
+
+msgctxt "app"
+msgid "Forgot your password ?"
 msgstr ""
 
 msgctxt "app"
@@ -748,10 +748,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "Report date"
-msgstr ""
-
-msgctxt "app"
-msgid "Request account"
 msgstr ""
 
 msgctxt "app"
