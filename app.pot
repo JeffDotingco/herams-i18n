@@ -835,11 +835,7 @@ msgid "Survey {id} does not exist"
 msgstr ""
 
 msgctxt "app"
-msgid "The Health Resources and Services Availability Monitoring System is a collaborative process for the\n            monitoring of essential health resources and services in support to the identification of needs,\n            gaps and priorities"
-msgstr ""
-
-msgctxt "app"
-msgid "The Health Resources and Services Availability Monitoring System is a collaborative process for the monitoring of essential health resources and services in support to the identification of needs, gaps and priorities"
+msgid "The Health Resources and Services Availability Monitoring System (HeRAMS) is a collaborative approach aimed at ensuring that core information on essential health resources and services is systematically shared and readily available to decision makers at country, regional and global levels"
 msgstr ""
 
 msgctxt "app"
