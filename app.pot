@@ -155,6 +155,10 @@ msgid "Autodetected ({language}"
 msgstr ""
 
 msgctxt "app"
+msgid "Back to list"
+msgstr ""
+
+msgctxt "app"
 msgid "Back to sign in"
 msgstr ""
 
@@ -1048,10 +1052,6 @@ msgstr ""
 
 msgctxt "app"
 msgid "You are not allowed to share this project"
-msgstr ""
-
-msgctxt "app"
-msgid "You do not have permission to change these values."
 msgstr ""
 
 msgctxt "app"
