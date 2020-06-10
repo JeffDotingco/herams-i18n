@@ -535,10 +535,6 @@ msgid "Latitude"
 msgstr ""
 
 msgctxt "app"
-msgid "Loading project summary"
-msgstr ""
-
-msgctxt "app"
 msgid "Log in"
 msgstr ""
 
