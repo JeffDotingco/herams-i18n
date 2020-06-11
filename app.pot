@@ -167,11 +167,19 @@ msgid "Backend administration"
 msgstr ""
 
 msgctxt "app"
+msgid "Bar"
+msgstr ""
+
+msgctxt "app"
 msgid "Become this user"
 msgstr ""
 
 msgctxt "app"
 msgid "Causes of unavailability"
+msgstr ""
+
+msgctxt "app"
+msgid "Chart type"
 msgstr ""
 
 msgctxt "app"
@@ -296,6 +304,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Discard changes & go to dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "Donut"
 msgstr ""
 
 msgctxt "app"
