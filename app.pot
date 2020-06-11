@@ -211,6 +211,10 @@ msgid "Contributors"
 msgstr ""
 
 msgctxt "app"
+msgid "Country"
+msgstr ""
+
+msgctxt "app"
 msgid "Create Page"
 msgstr ""
 
@@ -632,6 +636,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "On"
+msgstr ""
+
+msgctxt "app"
+msgid "Only countries with an ISO3166 Alpha-3:wq\n             code are listed"
 msgstr ""
 
 msgctxt "app"
