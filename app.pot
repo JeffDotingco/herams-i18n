@@ -959,6 +959,10 @@ msgid "Updated at"
 msgstr ""
 
 msgctxt "app"
+msgid "User"
+msgstr ""
+
+msgctxt "app"
 msgid "User not found"
 msgstr ""
 
