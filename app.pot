@@ -1031,10 +1031,6 @@ msgid "We will send you a secure link to the reset form"
 msgstr ""
 
 msgctxt "app"
-msgid "We will send you a secure link to the sign up form"
-msgstr ""
-
-msgctxt "app"
 msgid "Whether this element needs data at facility (HF) or subject (service) level"
 msgstr ""
 
