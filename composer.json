@@ -1,0 +1,13 @@
+{
+    "name": "herams/i18n",
+    "description": "Localizations for HeRAMS",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sam Mousa",
+            "email": "sam@mousa.nl"
+        }
+    ],
+    "require": {}
+}
