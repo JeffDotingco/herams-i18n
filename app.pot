@@ -427,6 +427,14 @@ msgid "Fully available"
 msgstr ""
 
 msgctxt "app"
+msgid "Fully functional"
+msgstr ""
+
+msgctxt "app"
+msgid "Functionality"
+msgstr ""
+
+msgctxt "app"
 msgid "Global admin"
 msgstr ""
 
@@ -503,6 +511,10 @@ msgid "Import workspaces"
 msgstr ""
 
 msgctxt "app"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "app"
 msgid "Include code header"
 msgstr ""
 
@@ -552,6 +564,18 @@ msgstr ""
 
 msgctxt "app"
 msgid "Latitude"
+msgstr ""
+
+msgctxt "app"
+msgid "Loading Error"
+msgstr ""
+
+msgctxt "app"
+msgid "Loading failed"
+msgstr ""
+
+msgctxt "app"
+msgid "Loading project summary"
 msgstr ""
 
 msgctxt "app"
@@ -623,6 +647,10 @@ msgid "Not available"
 msgstr ""
 
 msgctxt "app"
+msgid "Not functional"
+msgstr ""
+
+msgctxt "app"
 msgid "Not normally provided"
 msgstr ""
 
@@ -640,6 +668,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Only countries with an ISO3166 Alpha-3:wq\n             code are listed"
+msgstr ""
+
+msgctxt "app"
+msgid "Other"
 msgstr ""
 
 msgctxt "app"
@@ -679,6 +711,10 @@ msgid "Partially available"
 msgstr ""
 
 msgctxt "app"
+msgid "Partially functional"
+msgstr ""
+
+msgctxt "app"
 msgid "Password"
 msgstr ""
 
@@ -708,6 +744,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Please check your mailbox"
+msgstr ""
+
+msgctxt "app"
+msgid "Primary"
 msgstr ""
 
 msgctxt "app"
@@ -748,6 +788,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Question code containing the type (case sensitive)"
+msgstr ""
+
+msgctxt "app"
+msgid "Refresh"
 msgstr ""
 
 msgctxt "app"
@@ -803,7 +847,15 @@ msgid "Search also uses the group name, for example try typing \"Trauma\""
 msgstr ""
 
 msgctxt "app"
+msgid "Secondary"
+msgstr ""
+
+msgctxt "app"
 msgid "Send confirmation"
+msgstr ""
+
+msgctxt "app"
+msgid "Service Availability"
 msgstr ""
 
 msgctxt "app"
@@ -855,6 +907,10 @@ msgid "Survey {id} does not exist"
 msgstr ""
 
 msgctxt "app"
+msgid "Tertiary"
+msgstr ""
+
+msgctxt "app"
 msgid "The Health Resources and Services Availability Monitoring System (HeRAMS) is a collaborative approach aimed at ensuring that core information on essential health resources and services is systematically shared and readily available to decision makers at country, regional and global levels"
 msgstr ""
 
@@ -896,6 +952,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Transpose"
+msgstr ""
+
+msgctxt "app"
+msgid "Try refreshing the project"
 msgstr ""
 
 msgctxt "app"
@@ -1092,6 +1152,10 @@ msgstr ""
 
 msgctxt "app"
 msgid "Your password has been reset!"
+msgstr ""
+
+msgctxt "app"
+msgid "in progress"
 msgstr ""
 
 msgctxt "app"
