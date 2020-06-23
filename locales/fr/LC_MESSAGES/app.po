@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-18 12:59+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-23 13:07+0000\n"
 "PO-Revision-Date: 2020-06-12 13:52+0000\n"
 "Last-Translator: Samuel Petragallo <petragallos@who.int>\n"
 "Language-Team: French <http://weblate.herams-staging.org/projects/herams/"
 "herams-platform/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.0.4\n"
@@ -30,6 +30,10 @@ msgstr "# Réponses"
 msgctxt "app"
 msgid "# Workspaces"
 msgstr "# d'espaces de travail"
+
+msgctxt "app"
+msgid "(Not set)"
+msgstr ""
 
 msgctxt "app"
 msgid "25 - 50%"
@@ -73,12 +77,40 @@ msgid "A verification email has beent sent to your address"
 msgstr "Un e-mail de vérification a été envoyé à votre adresse"
 
 msgctxt "app"
+msgid "Actions"
+msgstr ""
+
+msgctxt "app"
+msgid "Add"
+msgstr ""
+
+msgctxt "app"
+msgid "Add permissions"
+msgstr ""
+
+msgctxt "app"
+msgid "Add services"
+msgstr ""
+
+msgctxt "app"
 msgid "Admin dashboard"
 msgstr "Tableau de bord administratif"
 
 msgctxt "app"
+msgid "Advanced settings"
+msgstr ""
+
+msgctxt "app"
+msgid "After closing this screen you must click {{apply}} to see the changes"
+msgstr ""
+
+msgctxt "app"
 msgid "Allow everything"
 msgstr "Autoriser tout"
+
+msgctxt "app"
+msgid "Allowed"
+msgstr ""
 
 msgctxt "app"
 msgid "Already have an account? Sign in!"
@@ -89,6 +121,10 @@ msgid "Already shared with"
 msgstr "Déjà partagé avec"
 
 msgctxt "app"
+msgid "Answers as text"
+msgstr ""
+
+msgctxt "app"
 msgid "Apply"
 msgstr "Appliquer"
 
@@ -97,12 +133,21 @@ msgid "Apply changes"
 msgstr "Appliquer les changements"
 
 msgctxt "app"
+msgid "Apply filters"
+msgstr ""
+
+msgctxt "app"
 msgid "Are you sure you want to delete this page?"
 msgstr "Êtes-vous sûr de vouloir supprimer cette page ?"
 
 msgctxt "app"
 msgid "Are you sure you want to revoke this global permission?"
 msgstr "Êtes-vous sûr de vouloir révoquer cette permission globale ?"
+
+msgctxt "app"
+msgid ""
+"Are you sure you want to switch to this user for the rest of this Session?"
+msgstr ""
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this project from the system?"
@@ -117,6 +162,14 @@ msgid "Are you sure you wish to remove this workspace from the system?"
 msgstr "Êtes-vous sûr de vouloir supprimer cet espace de travail ?"
 
 msgctxt "app"
+msgid "Autodetected ({language}"
+msgstr ""
+
+msgctxt "app"
+msgid "Back to list"
+msgstr ""
+
+msgctxt "app"
 msgid "Back to sign in"
 msgstr "Retour à la page de connexion"
 
@@ -125,24 +178,64 @@ msgid "Backend administration"
 msgstr "Console administrative"
 
 msgctxt "app"
+msgid "Bar"
+msgstr ""
+
+msgctxt "app"
+msgid "Become this user"
+msgstr ""
+
+msgctxt "app"
 msgid "Causes of unavailability"
 msgstr "Causes d'indisponibilité"
+
+msgctxt "app"
+msgid "Chart type"
+msgstr ""
 
 msgctxt "app"
 msgid "Clear"
 msgstr "Effacer"
 
 msgctxt "app"
+msgid "Closed"
+msgstr ""
+
+msgctxt "app"
+msgid "Compare data for HF {hf}"
+msgstr ""
+
+msgctxt "app"
+msgid "Config"
+msgstr ""
+
+msgctxt "app"
 msgid "Configure dashboard"
 msgstr "Configurer le tableau de bord"
 
 msgctxt "app"
-msgid "Confirmation"
-msgstr "Confirmation"
+msgid "Contributor count"
+msgstr ""
 
 msgctxt "app"
 msgid "Contributors"
 msgstr "Contributeurs"
+
+msgctxt "app"
+msgid "Country"
+msgstr ""
+
+msgctxt "app"
+msgid "Create Page"
+msgstr ""
+
+msgctxt "app"
+msgid "Create Project"
+msgstr ""
+
+msgctxt "app"
+msgid "Create Workspace"
+msgstr ""
 
 msgctxt "app"
 msgid "Create a new project"
@@ -181,6 +274,10 @@ msgid "Create workspace"
 msgstr "Créer un espace de travail"
 
 msgctxt "app"
+msgid "Created at"
+msgstr ""
+
+msgctxt "app"
 msgid "Created {success} workspaces, failed to create {fail} workspaces"
 msgstr ""
 "Espaces de travail créés {success}, Echec de création des espaces de travail "
@@ -195,8 +292,16 @@ msgid "Current password"
 msgstr "Mot de passe actuel"
 
 msgctxt "app"
+msgid "Dashboard"
+msgstr ""
+
+msgctxt "app"
 msgid "Data update"
 msgstr "Mise à jour des données"
+
+msgctxt "app"
+msgid "Date"
+msgstr ""
 
 msgctxt "app"
 msgid "Delete"
@@ -207,16 +312,23 @@ msgid "Deleted user"
 msgstr "Utilisateur supprimé"
 
 msgctxt "app"
+msgid "Denied"
+msgstr ""
+
+msgctxt "app"
 msgid ""
-"Determines the order of elements on a page, elements shown in ascending "
-"order"
+"Determines the order of elements on a page, elements shown in ascending order"
 msgstr ""
 "Détermine l'ordre des éléments sur une page, les éléments sont présentés en "
 "ordre croissant"
 
 msgctxt "app"
-msgid "Discard changes & go to dashboard"
-msgstr "Annuler les changements / Retourner au tableau de bord"
+msgid "Discard & go to dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "Donut"
+msgstr ""
 
 msgctxt "app"
 msgid "Download"
@@ -272,9 +384,9 @@ msgstr "Email déjà utilisé"
 
 msgctxt "app"
 msgid ""
-"Enter a date to limit the export to the last record before or equal to "
-"the selected date for each health facility. To export all historic "
-"records of a health facility, leave the field blank."
+"Enter a date to limit the export to the last record before or equal to the "
+"selected date for each health facility. To export all historic records of a "
+"health facility, leave the field blank."
 msgstr ""
 "Saisir une date pour limiter l'export à la dernière mise à jour chaque "
 "structure de santé avant cette date. Pour exporter tout l'historique, "
@@ -285,8 +397,12 @@ msgid "Error!"
 msgstr "Erreur"
 
 msgctxt "app"
-msgid "Export"
-msgstr "Export"
+msgid "Export CSV"
+msgstr ""
+
+msgctxt "app"
+msgid "Export XLSX"
+msgstr ""
 
 msgctxt "app"
 msgid "Export all"
@@ -301,8 +417,28 @@ msgid "Export data from workspace {workspace}"
 msgstr "Export des données de l'espace de travail {workspace}"
 
 msgctxt "app"
+msgid "Facility count"
+msgstr ""
+
+msgctxt "app"
 msgid "Failed to update email address"
 msgstr "Erreur de mise à jour de l'adresse email"
+
+msgctxt "app"
+msgid "Favorite workspaces"
+msgstr ""
+
+msgctxt "app"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "app"
+msgid "Filters"
+msgstr ""
+
+msgctxt "app"
+msgid "Forgot your password ?"
+msgstr ""
 
 msgctxt "app"
 msgid "Full"
@@ -313,8 +449,20 @@ msgid "Fully available"
 msgstr "Disponible"
 
 msgctxt "app"
+msgid "Fully functional"
+msgstr ""
+
+msgctxt "app"
+msgid "Functionality"
+msgstr ""
+
+msgctxt "app"
 msgid "Global admin"
 msgstr "Administration globale"
+
+msgctxt "app"
+msgid "Global admins"
+msgstr ""
 
 msgctxt "app"
 msgid "Global permissions granted to {users}"
@@ -345,8 +493,36 @@ msgid "Health facilities"
 msgstr "Structures sanitaires"
 
 msgctxt "app"
+msgid "Height"
+msgstr ""
+
+msgctxt "app"
+msgid "Hidden"
+msgstr ""
+
+msgctxt "app"
+msgid "Home"
+msgstr ""
+
+msgctxt "app"
+msgid "Id"
+msgstr ""
+
+msgctxt "app"
+msgid "If you use a predefined option it will automatically be translated"
+msgstr ""
+
+msgctxt "app"
 msgid "Import"
 msgstr "Import"
+
+msgctxt "app"
+msgid "Import Project"
+msgstr ""
+
+msgctxt "app"
+msgid "Import Workspace"
+msgstr ""
 
 msgctxt "app"
 msgid "Import pages"
@@ -357,8 +533,16 @@ msgid "Import workspaces"
 msgstr "Import d'espaces de travail"
 
 msgctxt "app"
-msgid "In progress"
-msgstr "En cours"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "app"
+msgid "Include code header"
+msgstr ""
+
+msgctxt "app"
+msgid "Include text header"
+msgstr ""
 
 msgctxt "app"
 msgid "Info"
@@ -389,12 +573,44 @@ msgid "Lack of training of health staff"
 msgstr "Manque de formation"
 
 msgctxt "app"
+msgid "Language"
+msgstr ""
+
+msgctxt "app"
+msgid "Last login at"
+msgstr ""
+
+msgctxt "app"
 msgid "Latest update"
 msgstr "Dernière mise à jour"
 
 msgctxt "app"
-msgid "Log in to HeRAMS"
-msgstr "Connection"
+msgid "Latitude"
+msgstr ""
+
+msgctxt "app"
+msgid "Loading Error"
+msgstr ""
+
+msgctxt "app"
+msgid "Loading failed"
+msgstr ""
+
+msgctxt "app"
+msgid "Loading project summary"
+msgstr ""
+
+msgctxt "app"
+msgid "Log in"
+msgstr ""
+
+msgctxt "app"
+msgid "Longitude"
+msgstr ""
+
+msgctxt "app"
+msgid "Manage user permissions for {project}"
+msgstr ""
 
 msgctxt "app"
 msgid "Manage users"
@@ -410,8 +626,16 @@ msgstr ""
 "Recatégoriser les types de structures sanitaires pour le résumé du projet"
 
 msgctxt "app"
+msgid "Marker radius"
+msgstr ""
+
+msgctxt "app"
 msgid "N/A"
 msgstr "N/A"
+
+msgctxt "app"
+msgid "Name"
+msgstr ""
 
 msgctxt "app"
 msgid "New email address"
@@ -446,12 +670,46 @@ msgid "Not available"
 msgstr "Non disponible"
 
 msgctxt "app"
+msgid "Not functional"
+msgstr ""
+
+msgctxt "app"
 msgid "Not normally provided"
 msgstr "Non prévu"
 
 msgctxt "app"
+msgid "Off"
+msgstr ""
+
+msgctxt "app"
 msgid "Old email address"
 msgstr "Ancien email"
+
+msgctxt "app"
+msgid "On"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"Only countries with an ISO3166 Alpha-3:wq\n"
+"             code are listed"
+msgstr ""
+
+msgctxt "app"
+msgid "Other"
+msgstr ""
+
+msgctxt "app"
+msgid "Overrides"
+msgstr ""
+
+msgctxt "app"
+msgid "PDF"
+msgstr ""
+
+msgctxt "app"
+msgid "Page"
+msgstr ""
 
 msgctxt "app"
 msgid "Page <strong>{page}</strong> created"
@@ -466,12 +724,20 @@ msgid "Pages"
 msgstr "Pages"
 
 msgctxt "app"
+msgid "Parent page"
+msgstr ""
+
+msgctxt "app"
 msgid "Partial"
 msgstr "Partiellement"
 
 msgctxt "app"
 msgid "Partially available"
 msgstr "Partiellement disponible"
+
+msgctxt "app"
+msgid "Partially functional"
+msgstr ""
 
 msgctxt "app"
 msgid "Password"
@@ -482,8 +748,8 @@ msgid "Password changed"
 msgstr "Mot de passe modifié"
 
 msgctxt "app"
-msgid "Password confirmation"
-msgstr "Confirmation du mot de passe"
+msgid "Password hash"
+msgstr ""
 
 msgctxt "app"
 msgid "Password update failed"
@@ -504,6 +770,18 @@ msgstr "Permissions"
 msgctxt "app"
 msgid "Please check your mailbox"
 msgstr "Veuillez vérifier votre boîte à lettres"
+
+msgctxt "app"
+msgid "Primary"
+msgstr ""
+
+msgctxt "app"
+msgid "Profile"
+msgstr ""
+
+msgctxt "app"
+msgid "Project"
+msgstr ""
 
 msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
@@ -538,6 +816,10 @@ msgid "Question code containing the type (case sensitive)"
 msgstr "Code question contenant le type (sensible à la casse)"
 
 msgctxt "app"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "app"
 msgid "Refresh data from limesurvey"
 msgstr "Rafraîchir les données"
 
@@ -556,6 +838,10 @@ msgstr ""
 "        {deleted} enregistrements effacés, \n"
 "        {unchanged} enregistrements inchangés, \n"
 "        {failed} enregistrements invalides"
+
+msgctxt "app"
+msgid "Register"
+msgstr ""
 
 msgctxt "app"
 msgid "Repeat password"
@@ -578,16 +864,44 @@ msgid "Reset your password"
 msgstr "Réinitialisation du mot de passe"
 
 msgctxt "app"
+msgid "Response count"
+msgstr ""
+
+msgctxt "app"
+msgid "Responses"
+msgstr ""
+
+msgctxt "app"
 msgid "Save"
 msgstr "Enregistrer"
+
+msgctxt "app"
+msgid "Search"
+msgstr ""
+
+msgctxt "app"
+msgid "Search also uses the group name, for example try typing \"Trauma\""
+msgstr ""
+
+msgctxt "app"
+msgid "Secondary"
+msgstr ""
 
 msgctxt "app"
 msgid "Send confirmation"
 msgstr "Envoyer une confirmation"
 
 msgctxt "app"
+msgid "Service Availability"
+msgstr ""
+
+msgctxt "app"
 msgid "Service availability"
 msgstr "Disponibilité des services de santé"
+
+msgctxt "app"
+msgid "Settings"
+msgstr ""
 
 msgctxt "app"
 msgid "Share"
@@ -598,16 +912,20 @@ msgid "Share workspace {workspace}"
 msgstr "Partager l'espace de travail {workspace}"
 
 msgctxt "app"
-msgid "Share {project}"
-msgstr "Partager {project}"
-
-msgctxt "app"
-msgid "Sign up"
-msgstr "Créer un compte"
-
-msgctxt "app"
 msgid "Sign up for the HeRAMS platform"
 msgstr "Créer un compte"
+
+msgctxt "app"
+msgid "Sort"
+msgstr ""
+
+msgctxt "app"
+msgid "Sort index"
+msgstr ""
+
+msgctxt "app"
+msgid "Status"
+msgstr ""
 
 msgctxt "app"
 msgid "Success!"
@@ -626,6 +944,18 @@ msgid "Survey {id} does not exist"
 msgstr "Formulaire {id} inexistant"
 
 msgctxt "app"
+msgid "Tertiary"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"The Health Resources and Services Availability Monitoring System (HeRAMS) is "
+"a collaborative approach aimed at ensuring that core information on "
+"essential health resources and services is systematically shared and readily "
+"available to decision makers at country, regional and global levels"
+msgstr ""
+
+msgctxt "app"
 msgid "The aggregate availability of services per HF"
 msgstr "Agrégation de la disponibilité des services par structure sanitaire"
 
@@ -635,21 +965,29 @@ msgstr "La page que vous demandez n'existe pas"
 
 msgctxt "app"
 msgid ""
-"The token field that is used as the workspace name, empty token "
-"attributes are ignored"
+"The token field that is used as the workspace name, empty token attributes "
+"are ignored"
 msgstr ""
 "Champ du token utilisé pour le nom de l'espace de travail, les champs vides "
 "sont ignorés"
 
 msgctxt "app"
 msgid ""
-"This link is no longer valid; your password has been changed since it was"
-" issued"
+"This link is no longer valid; your password has been changed since it was "
+"issued"
 msgstr "Ce lien n'est plus valable. Votre mot de passe a été modifié depuis."
 
 msgctxt "app"
 msgid "This will reload the page losing all other changes!!"
 msgstr "Les changements non enregistrés seront perdus"
+
+msgctxt "app"
+msgid "Title"
+msgstr ""
+
+msgctxt "app"
+msgid "Token"
+msgstr ""
 
 msgctxt "app"
 msgid "Token updated."
@@ -658,6 +996,22 @@ msgstr "Token mis à jour"
 msgctxt "app"
 msgid "Too many attempts, try again in {seconds} seconds"
 msgstr "Trop de tentatives simultanées. Réessayez dans {seconds} secondes"
+
+msgctxt "app"
+msgid "Transpose"
+msgstr ""
+
+msgctxt "app"
+msgid "Try refreshing the project"
+msgstr ""
+
+msgctxt "app"
+msgid "Type"
+msgstr ""
+
+msgctxt "app"
+msgid "Typemap"
+msgstr ""
 
 msgctxt "app"
 msgid "Unknown"
@@ -672,8 +1026,20 @@ msgid "Update"
 msgstr "Enregistrer"
 
 msgctxt "app"
+msgid "Update "
+msgstr ""
+
+msgctxt "app"
 msgid "Update & go to dashboard"
 msgstr "Enregistrer / Retourner au tableau de bord"
+
+msgctxt "app"
+msgid "Update Page"
+msgstr ""
+
+msgctxt "app"
+msgid "Update Workspace"
+msgstr ""
 
 msgctxt "app"
 msgid "Update account"
@@ -716,6 +1082,14 @@ msgid "Update workspace {workspace}"
 msgstr "Modifier l'espace de travail {workspace}"
 
 msgctxt "app"
+msgid "Updated at"
+msgstr ""
+
+msgctxt "app"
+msgid "User"
+msgstr ""
+
+msgctxt "app"
 msgid "User not found"
 msgstr "Utilisateur inconnu"
 
@@ -734,6 +1108,14 @@ msgstr "Erreur de validation"
 msgctxt "app"
 msgid "View dashboard"
 msgstr "Afficher le tableau de bord"
+
+msgctxt "app"
+msgid "View user permissions"
+msgstr ""
+
+msgctxt "app"
+msgid "Visibility"
+msgstr ""
 
 msgctxt "app"
 msgid "Warning!"
@@ -756,15 +1138,14 @@ msgid "We will send you a secure link to the reset form"
 msgstr "Un lien sécurisé de réinitialisation vous a été envoyé"
 
 msgctxt "app"
-msgid "We will send you a secure link to the sign up form"
-msgstr "Un lien sécurisé d'enregistrement vous a été envoyé"
-
-msgctxt "app"
 msgid ""
-"Whether this element needs data at facility (HF) or subject (service) "
-"level"
+"Whether this element needs data at facility (HF) or subject (service) level"
 msgstr ""
 "Compilation des données par centre de santé (HF) ou par service (Service)"
+
+msgctxt "app"
+msgid "Width"
+msgstr ""
 
 msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> created"
@@ -772,11 +1153,11 @@ msgstr "Espace de travail <strong>{modelName}</strong> créé"
 
 msgctxt "app"
 msgid ""
-"Workspace <strong>{modelName}</strong> has been shared with: "
-"<strong>{users}</strong>"
+"Workspace <strong>{modelName}</strong> has been shared with: <strong>{users}"
+"</strong>"
 msgstr ""
-"Espace de travail <strong>{modelName}</strong> partagé avec: "
-"<strong>{users}</strong>"
+"Espace de travail <strong>{modelName}</strong> partagé avec: <strong>{users}"
+"</strong>"
 
 msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> has been updated."
@@ -807,8 +1188,10 @@ msgid "You are not allowed to share this project"
 msgstr "Vous n'avez pas la permission de partager ce projet"
 
 msgctxt "app"
-msgid "You do not have permission to change these values."
-msgstr "Vous n'avez pas la permission de modifier ces informations"
+msgid ""
+"You may search for multiple terms, only results that contain all terms are "
+"shown"
+msgstr ""
 
 msgctxt "app"
 msgid "Your account has been created"
@@ -826,110 +1209,248 @@ msgctxt "app"
 msgid "Your password has been reset!"
 msgstr "Mot de passe réinitialisé"
 
-msgctxt "user"
-msgid "Are you sure you want to switch to this user for the rest of this Session?"
-msgstr "Etes-vous sûr(e) de vouloir continuer la session en tant que {user}?"
-
-msgctxt "user"
-msgid "Become this user"
-msgstr "Continuez la navigation en tant que {user}"
-
-msgctxt "user"
-msgid "Hello"
-msgstr "Bonjour"
-
-msgctxt "user"
-msgid ""
-"If you cannot click the link, please try pasting the text into your "
-"browser"
+msgctxt "app"
+msgid "in progress"
 msgstr ""
-"Si le lien ne répond pas, tentez de le copier/coller dans la barre d'adresse "
-"de votre navigateur"
 
-msgctxt "user"
-msgid "If you did not make this request you can ignore this email"
-msgstr "Si vous navez pas fait de demande, ignorez ce message"
-
-msgctxt "user"
-msgid ""
-"If you don't want to change your password or didn't request this, just "
-"ignore and delete this message"
-msgstr "If you did not make this request please ignore this message"
-
-msgctxt "user"
-msgid "In order to complete your registration, please click the link below"
-msgstr ""
-"Afin de finaliser votre inscription, veuillez cliquer sur le lien ci-dessous"
-
-msgctxt "user"
-msgid "In order to complete your request, please click the link below"
-msgstr ""
-"Afin de compléter votre demande, veuillez cliquer sur le lien ci-dessous"
-
-msgctxt "user"
-msgid "Manage users"
-msgstr "Gérer les utilisateurs"
-
-msgctxt "user"
-msgid "Please click the link below to complete your password reset"
-msgstr ""
-"Veuillez cliquer sur le lien ci-dessous pour réinitialiser votre mot de passe"
-
-msgctxt "user"
-msgid "Please use the following link to log in"
-msgstr "Veuillez utiliser le lien suivant pour vous connecter"
-
-msgctxt "user"
-msgid "Thank you for signing up on {0}"
-msgstr "Vous êtes enregistré(e) sur {0}"
-
-msgctxt "user"
-msgid "The Prime Team"
-msgstr "L'équipe HeRAMS"
-
-msgctxt "user"
-msgid "This email address has already been taken"
-msgstr "Il existe déjà un compte utilisateur avec cet email"
-
-msgctxt "user"
-msgid "To keep your account secure, please don't forward this email to anyone"
-msgstr "Pour des raisons de sécurité ne pas partager ce message"
-
-msgctxt "user"
-msgid "To reset your password please follow this link:"
-msgstr "Pour réinitialiser votre mot de passe suivez ce lien :"
-
-msgctxt "user"
-msgid "We have generated a password for you"
-msgstr "Un mot de passe a été créé pour vous"
-
-msgctxt "user"
-msgid ""
-"We have received a request to change the email address for your account "
-"on {0}"
-msgstr ""
-"Nous avons reçu une demande de modification de l'adresse e-mail de votre "
-"compte sur {0}."
-
-msgctxt "user"
-msgid "We have received a request to reset the password for your account on {0}"
-msgstr ""
-"Nous avons reçu une demande de réinitialisation du mot de passe de votre "
-"compte sur {0}"
-
-msgctxt "user"
-msgid "We have received a request to reset your {0} password"
-msgstr ""
-"Nous avons reçu une demande de réinitialisation de votre mot de passe {0}"
-
-msgctxt "user"
-msgid "Your account on {0} has been created"
-msgstr "Votre compte sur {0} a été créé"
-
-msgctxt "user"
-msgid "Your {0} account has successfully been activated."
-msgstr "Votre compte {0} a été activé avec succès"
-
-msgctxt "user"
+msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
-msgstr "{0, date, MMMM dd, YYYY HH:mm}"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Accessibility"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Basic Amenities"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Building and equipment condition"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Cold chain"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Communication"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Condition"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Functionality"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Health Information"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Infrastructure"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Management and support"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Overview"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Power"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Sanitation"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Service availability"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Waste management"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Water"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Permission"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Source ID"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Source type"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Target ID"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Target type"
+msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Confirmation"
+#~ msgstr "Confirmation"
+
+#~ msgctxt "app"
+#~ msgid "Discard changes & go to dashboard"
+#~ msgstr "Annuler les changements / Retourner au tableau de bord"
+
+#~ msgctxt "app"
+#~ msgid "Export"
+#~ msgstr "Export"
+
+#~ msgctxt "app"
+#~ msgid "In progress"
+#~ msgstr "En cours"
+
+#~ msgctxt "app"
+#~ msgid "Log in to HeRAMS"
+#~ msgstr "Connection"
+
+#~ msgctxt "app"
+#~ msgid "Password confirmation"
+#~ msgstr "Confirmation du mot de passe"
+
+#~ msgctxt "app"
+#~ msgid "Share {project}"
+#~ msgstr "Partager {project}"
+
+#~ msgctxt "app"
+#~ msgid "Sign up"
+#~ msgstr "Créer un compte"
+
+#~ msgctxt "app"
+#~ msgid "We will send you a secure link to the sign up form"
+#~ msgstr "Un lien sécurisé d'enregistrement vous a été envoyé"
+
+#~ msgctxt "app"
+#~ msgid "You do not have permission to change these values."
+#~ msgstr "Vous n'avez pas la permission de modifier ces informations"
+
+#~ msgctxt "user"
+#~ msgid ""
+#~ "Are you sure you want to switch to this user for the rest of this Session?"
+#~ msgstr ""
+#~ "Etes-vous sûr(e) de vouloir continuer la session en tant que {user}?"
+
+#~ msgctxt "user"
+#~ msgid "Become this user"
+#~ msgstr "Continuez la navigation en tant que {user}"
+
+#~ msgctxt "user"
+#~ msgid "Hello"
+#~ msgstr "Bonjour"
+
+#~ msgctxt "user"
+#~ msgid ""
+#~ "If you cannot click the link, please try pasting the text into your "
+#~ "browser"
+#~ msgstr ""
+#~ "Si le lien ne répond pas, tentez de le copier/coller dans la barre "
+#~ "d'adresse de votre navigateur"
+
+#~ msgctxt "user"
+#~ msgid "If you did not make this request you can ignore this email"
+#~ msgstr "Si vous navez pas fait de demande, ignorez ce message"
+
+#~ msgctxt "user"
+#~ msgid ""
+#~ "If you don't want to change your password or didn't request this, just "
+#~ "ignore and delete this message"
+#~ msgstr "If you did not make this request please ignore this message"
+
+#~ msgctxt "user"
+#~ msgid "In order to complete your registration, please click the link below"
+#~ msgstr ""
+#~ "Afin de finaliser votre inscription, veuillez cliquer sur le lien ci-"
+#~ "dessous"
+
+#~ msgctxt "user"
+#~ msgid "In order to complete your request, please click the link below"
+#~ msgstr ""
+#~ "Afin de compléter votre demande, veuillez cliquer sur le lien ci-dessous"
+
+#~ msgctxt "user"
+#~ msgid "Manage users"
+#~ msgstr "Gérer les utilisateurs"
+
+#~ msgctxt "user"
+#~ msgid "Please click the link below to complete your password reset"
+#~ msgstr ""
+#~ "Veuillez cliquer sur le lien ci-dessous pour réinitialiser votre mot de "
+#~ "passe"
+
+#~ msgctxt "user"
+#~ msgid "Please use the following link to log in"
+#~ msgstr "Veuillez utiliser le lien suivant pour vous connecter"
+
+#~ msgctxt "user"
+#~ msgid "Thank you for signing up on {0}"
+#~ msgstr "Vous êtes enregistré(e) sur {0}"
+
+#~ msgctxt "user"
+#~ msgid "The Prime Team"
+#~ msgstr "L'équipe HeRAMS"
+
+#~ msgctxt "user"
+#~ msgid "This email address has already been taken"
+#~ msgstr "Il existe déjà un compte utilisateur avec cet email"
+
+#~ msgctxt "user"
+#~ msgid ""
+#~ "To keep your account secure, please don't forward this email to anyone"
+#~ msgstr "Pour des raisons de sécurité ne pas partager ce message"
+
+#~ msgctxt "user"
+#~ msgid "To reset your password please follow this link:"
+#~ msgstr "Pour réinitialiser votre mot de passe suivez ce lien :"
+
+#~ msgctxt "user"
+#~ msgid "We have generated a password for you"
+#~ msgstr "Un mot de passe a été créé pour vous"
+
+#~ msgctxt "user"
+#~ msgid ""
+#~ "We have received a request to change the email address for your account "
+#~ "on {0}"
+#~ msgstr ""
+#~ "Nous avons reçu une demande de modification de l'adresse e-mail de votre "
+#~ "compte sur {0}."
+
+#~ msgctxt "user"
+#~ msgid ""
+#~ "We have received a request to reset the password for your account on {0}"
+#~ msgstr ""
+#~ "Nous avons reçu une demande de réinitialisation du mot de passe de votre "
+#~ "compte sur {0}"
+
+#~ msgctxt "user"
+#~ msgid "We have received a request to reset your {0} password"
+#~ msgstr ""
+#~ "Nous avons reçu une demande de réinitialisation de votre mot de passe {0}"
+
+#~ msgctxt "user"
+#~ msgid "Your account on {0} has been created"
+#~ msgstr "Votre compte sur {0} a été créé"
+
+#~ msgctxt "user"
+#~ msgid "Your {0} account has successfully been activated."
+#~ msgstr "Votre compte {0} a été activé avec succès"
+
+#~ msgctxt "user"
+#~ msgid "{0, date, MMMM dd, YYYY HH:mm}"
+#~ msgstr "{0, date, MMMM dd, YYYY HH:mm}"

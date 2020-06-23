@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HeRAMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-18 12:59+0000\n"
+"POT-Creation-Date: 2020-03-23 13:07+0000\n"
 "PO-Revision-Date: 2020-06-03 15:52+0000\n"
 "Last-Translator: Fatma Giha <gihaf@who.int>\n"
 "Language-Team: Arabic <http://weblate.herams-staging.org/projects/herams/"
 "herams-platform/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
@@ -31,6 +31,10 @@ msgstr "# الأجوبة"
 msgctxt "app"
 msgid "# Workspaces"
 msgstr "# مساحات العمل"
+
+msgctxt "app"
+msgid "(Not set)"
+msgstr ""
 
 msgctxt "app"
 msgid "25 - 50%"
@@ -73,12 +77,40 @@ msgid "A verification email has beent sent to your address"
 msgstr "تم إرسال بريد إلكتروني للتحقق من عنوانك"
 
 msgctxt "app"
+msgid "Actions"
+msgstr ""
+
+msgctxt "app"
+msgid "Add"
+msgstr ""
+
+msgctxt "app"
+msgid "Add permissions"
+msgstr ""
+
+msgctxt "app"
+msgid "Add services"
+msgstr ""
+
+msgctxt "app"
 msgid "Admin dashboard"
 msgstr "لوحة تحكم المشرف"
 
 msgctxt "app"
+msgid "Advanced settings"
+msgstr ""
+
+msgctxt "app"
+msgid "After closing this screen you must click {{apply}} to see the changes"
+msgstr ""
+
+msgctxt "app"
 msgid "Allow everything"
 msgstr "السماح بكل شيء"
+
+msgctxt "app"
+msgid "Allowed"
+msgstr ""
 
 msgctxt "app"
 msgid "Already have an account? Sign in!"
@@ -89,6 +121,10 @@ msgid "Already shared with"
 msgstr "تمت المشاركة بالفعل مع"
 
 msgctxt "app"
+msgid "Answers as text"
+msgstr ""
+
+msgctxt "app"
 msgid "Apply"
 msgstr "طبق"
 
@@ -97,12 +133,21 @@ msgid "Apply changes"
 msgstr "قم بتطبيق التعديلات"
 
 msgctxt "app"
+msgid "Apply filters"
+msgstr ""
+
+msgctxt "app"
 msgid "Are you sure you want to delete this page?"
 msgstr "هل أنت متأكد أنك تريد حذف هذه الصفحة؟"
 
 msgctxt "app"
 msgid "Are you sure you want to revoke this global permission?"
 msgstr "هل أنت متأكد من أنك تريد إلغاء هذا الإذن الشامل؟"
+
+msgctxt "app"
+msgid ""
+"Are you sure you want to switch to this user for the rest of this Session?"
+msgstr ""
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this project from the system?"
@@ -117,6 +162,14 @@ msgid "Are you sure you wish to remove this workspace from the system?"
 msgstr "هل أنت متأكد من أنك تريد حذف مساحة العمل هذه من النظام؟"
 
 msgctxt "app"
+msgid "Autodetected ({language}"
+msgstr ""
+
+msgctxt "app"
+msgid "Back to list"
+msgstr ""
+
+msgctxt "app"
 msgid "Back to sign in"
 msgstr "العودة إلى تسجيل الدخول"
 
@@ -125,24 +178,64 @@ msgid "Backend administration"
 msgstr "إدارة الخلفية"
 
 msgctxt "app"
+msgid "Bar"
+msgstr ""
+
+msgctxt "app"
+msgid "Become this user"
+msgstr ""
+
+msgctxt "app"
 msgid "Causes of unavailability"
 msgstr "أسباب عدم التوافر"
+
+msgctxt "app"
+msgid "Chart type"
+msgstr ""
 
 msgctxt "app"
 msgid "Clear"
 msgstr "أمسح"
 
 msgctxt "app"
+msgid "Closed"
+msgstr ""
+
+msgctxt "app"
+msgid "Compare data for HF {hf}"
+msgstr ""
+
+msgctxt "app"
+msgid "Config"
+msgstr ""
+
+msgctxt "app"
 msgid "Configure dashboard"
 msgstr "تكوين لوحة القيادة"
 
 msgctxt "app"
-msgid "Confirmation"
-msgstr "تأكيد"
+msgid "Contributor count"
+msgstr ""
 
 msgctxt "app"
 msgid "Contributors"
 msgstr "المساهمون"
+
+msgctxt "app"
+msgid "Country"
+msgstr ""
+
+msgctxt "app"
+msgid "Create Page"
+msgstr ""
+
+msgctxt "app"
+msgid "Create Project"
+msgstr ""
+
+msgctxt "app"
+msgid "Create Workspace"
+msgstr ""
 
 msgctxt "app"
 msgid "Create a new project"
@@ -181,6 +274,10 @@ msgid "Create workspace"
 msgstr "إنشاء مساحة عمل"
 
 msgctxt "app"
+msgid "Created at"
+msgstr ""
+
+msgctxt "app"
 msgid "Created {success} workspaces, failed to create {fail} workspaces"
 msgstr "تم إنشاء مساحات عمل {نجاح} ، فشل في إنشاء مساحات عمل {فشل}"
 
@@ -193,8 +290,16 @@ msgid "Current password"
 msgstr "كلمة المرور الحالي"
 
 msgctxt "app"
+msgid "Dashboard"
+msgstr ""
+
+msgctxt "app"
 msgid "Data update"
 msgstr "تحديث البيانات"
+
+msgctxt "app"
+msgid "Date"
+msgstr ""
 
 msgctxt "app"
 msgid "Delete"
@@ -205,14 +310,21 @@ msgid "Deleted user"
 msgstr "مستخدم محذوف"
 
 msgctxt "app"
+msgid "Denied"
+msgstr ""
+
+msgctxt "app"
 msgid ""
-"Determines the order of elements on a page, elements shown in ascending "
-"order"
+"Determines the order of elements on a page, elements shown in ascending order"
 msgstr "يحدد ترتيب العناصر على الصفحة، والعناصر الموضحة بترتيب تصاعدي"
 
 msgctxt "app"
-msgid "Discard changes & go to dashboard"
-msgstr "تجاهل التغييرات وانتقل إلى لوحة التحكم"
+msgid "Discard & go to dashboard"
+msgstr ""
+
+msgctxt "app"
+msgid "Donut"
+msgstr ""
 
 msgctxt "app"
 msgid "Download"
@@ -268,9 +380,9 @@ msgstr "هذا البريد الإلكتروني تم أخذه بالفعل"
 
 msgctxt "app"
 msgid ""
-"Enter a date to limit the export to the last record before or equal to "
-"the selected date for each health facility. To export all historic "
-"records of a health facility, leave the field blank."
+"Enter a date to limit the export to the last record before or equal to the "
+"selected date for each health facility. To export all historic records of a "
+"health facility, leave the field blank."
 msgstr ""
 "أدخل تاريخًا لكي يقتصر تصدير البيانات على السجل الأخير الذي تم ادخاله بتاريخ "
 "قبل أو مساوٍ للتاريخ الذي تم اختيارة لكل مرفق صحي. لتصدير جميع السجلات "
@@ -281,8 +393,12 @@ msgid "Error!"
 msgstr "خطأ!"
 
 msgctxt "app"
-msgid "Export"
-msgstr "تصدير"
+msgid "Export CSV"
+msgstr ""
+
+msgctxt "app"
+msgid "Export XLSX"
+msgstr ""
 
 msgctxt "app"
 msgid "Export all"
@@ -297,8 +413,28 @@ msgid "Export data from workspace {workspace}"
 msgstr "تصدير البيانات من مساحة العمل {مساحة العمل}"
 
 msgctxt "app"
+msgid "Facility count"
+msgstr ""
+
+msgctxt "app"
 msgid "Failed to update email address"
 msgstr "فشل تحديث عنوان البريد الإلكتروني"
+
+msgctxt "app"
+msgid "Favorite workspaces"
+msgstr ""
+
+msgctxt "app"
+msgid "Favorites"
+msgstr ""
+
+msgctxt "app"
+msgid "Filters"
+msgstr ""
+
+msgctxt "app"
+msgid "Forgot your password ?"
+msgstr ""
 
 msgctxt "app"
 msgid "Full"
@@ -309,8 +445,20 @@ msgid "Fully available"
 msgstr "متوفر بالكامل"
 
 msgctxt "app"
+msgid "Fully functional"
+msgstr ""
+
+msgctxt "app"
+msgid "Functionality"
+msgstr ""
+
+msgctxt "app"
 msgid "Global admin"
 msgstr "المسؤول العام"
+
+msgctxt "app"
+msgid "Global admins"
+msgstr ""
 
 msgctxt "app"
 msgid "Global permissions granted to {users}"
@@ -341,8 +489,36 @@ msgid "Health facilities"
 msgstr "المرافق الصحية"
 
 msgctxt "app"
+msgid "Height"
+msgstr ""
+
+msgctxt "app"
+msgid "Hidden"
+msgstr ""
+
+msgctxt "app"
+msgid "Home"
+msgstr ""
+
+msgctxt "app"
+msgid "Id"
+msgstr ""
+
+msgctxt "app"
+msgid "If you use a predefined option it will automatically be translated"
+msgstr ""
+
+msgctxt "app"
 msgid "Import"
 msgstr "استيراد"
+
+msgctxt "app"
+msgid "Import Project"
+msgstr ""
+
+msgctxt "app"
+msgid "Import Workspace"
+msgstr ""
 
 msgctxt "app"
 msgid "Import pages"
@@ -353,8 +529,16 @@ msgid "Import workspaces"
 msgstr "استيراد مساحات العمل"
 
 msgctxt "app"
-msgid "In progress"
-msgstr "في تقدم"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "app"
+msgid "Include code header"
+msgstr ""
+
+msgctxt "app"
+msgid "Include text header"
+msgstr ""
 
 msgctxt "app"
 msgid "Info"
@@ -385,12 +569,44 @@ msgid "Lack of training of health staff"
 msgstr "عدم تدريب الكوادر الصحية"
 
 msgctxt "app"
+msgid "Language"
+msgstr ""
+
+msgctxt "app"
+msgid "Last login at"
+msgstr ""
+
+msgctxt "app"
 msgid "Latest update"
 msgstr "اخر تحديث"
 
 msgctxt "app"
-msgid "Log in to HeRAMS"
-msgstr "تسجيل الدخول إلى هيرامس"
+msgid "Latitude"
+msgstr ""
+
+msgctxt "app"
+msgid "Loading Error"
+msgstr ""
+
+msgctxt "app"
+msgid "Loading failed"
+msgstr ""
+
+msgctxt "app"
+msgid "Loading project summary"
+msgstr ""
+
+msgctxt "app"
+msgid "Log in"
+msgstr ""
+
+msgctxt "app"
+msgid "Longitude"
+msgstr ""
+
+msgctxt "app"
+msgid "Manage user permissions for {project}"
+msgstr ""
 
 msgctxt "app"
 msgid "Manage users"
@@ -405,8 +621,16 @@ msgid "Map facility types for use in the world map"
 msgstr "رسم أنواع المرافق الصحية لاستخدامها في خريطة العالم"
 
 msgctxt "app"
+msgid "Marker radius"
+msgstr ""
+
+msgctxt "app"
 msgid "N/A"
 msgstr "لا يمكن تطبيقة"
+
+msgctxt "app"
+msgid "Name"
+msgstr ""
 
 msgctxt "app"
 msgid "New email address"
@@ -441,12 +665,46 @@ msgid "Not available"
 msgstr "غير متوفر"
 
 msgctxt "app"
+msgid "Not functional"
+msgstr ""
+
+msgctxt "app"
 msgid "Not normally provided"
 msgstr "لا تُقدم عادة"
 
 msgctxt "app"
+msgid "Off"
+msgstr ""
+
+msgctxt "app"
 msgid "Old email address"
 msgstr "عنوان بريد إلكتروني قديم"
+
+msgctxt "app"
+msgid "On"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"Only countries with an ISO3166 Alpha-3:wq\n"
+"             code are listed"
+msgstr ""
+
+msgctxt "app"
+msgid "Other"
+msgstr ""
+
+msgctxt "app"
+msgid "Overrides"
+msgstr ""
+
+msgctxt "app"
+msgid "PDF"
+msgstr ""
+
+msgctxt "app"
+msgid "Page"
+msgstr ""
 
 msgctxt "app"
 msgid "Page <strong>{page}</strong> created"
@@ -461,12 +719,20 @@ msgid "Pages"
 msgstr "الصفحات"
 
 msgctxt "app"
+msgid "Parent page"
+msgstr ""
+
+msgctxt "app"
 msgid "Partial"
 msgstr "جزئي"
 
 msgctxt "app"
 msgid "Partially available"
 msgstr "متوفر جزئيًا"
+
+msgctxt "app"
+msgid "Partially functional"
+msgstr ""
 
 msgctxt "app"
 msgid "Password"
@@ -477,8 +743,8 @@ msgid "Password changed"
 msgstr "تم تغيير كلمة السر"
 
 msgctxt "app"
-msgid "Password confirmation"
-msgstr "تأكيد كلمة المرور"
+msgid "Password hash"
+msgstr ""
 
 msgctxt "app"
 msgid "Password update failed"
@@ -499,6 +765,18 @@ msgstr "الإذونات"
 msgctxt "app"
 msgid "Please check your mailbox"
 msgstr "يرجى مراجعة صندوق البريد الخاص بك"
+
+msgctxt "app"
+msgid "Primary"
+msgstr ""
+
+msgctxt "app"
+msgid "Profile"
+msgstr ""
+
+msgctxt "app"
+msgid "Project"
+msgstr ""
 
 msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
@@ -533,6 +811,10 @@ msgid "Question code containing the type (case sensitive)"
 msgstr "رمز السؤال يحتوي على النوع (حساس لحالة الأحرف)"
 
 msgctxt "app"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "app"
 msgid "Refresh data from limesurvey"
 msgstr "قم بتحديث البيانات من limesurvey"
 
@@ -551,6 +833,10 @@ msgstr ""
 "         {deleted} السجلات المحذوفة ،\n"
 "         {unchanged} سجلات غير متغيرة ،\n"
 "         {failed} السجلات غير صالحة"
+
+msgctxt "app"
+msgid "Register"
+msgstr ""
 
 msgctxt "app"
 msgid "Repeat password"
@@ -573,16 +859,44 @@ msgid "Reset your password"
 msgstr "اعد ضبط كلمة المرور الخاصة بك"
 
 msgctxt "app"
+msgid "Response count"
+msgstr ""
+
+msgctxt "app"
+msgid "Responses"
+msgstr ""
+
+msgctxt "app"
 msgid "Save"
 msgstr "حفظ"
+
+msgctxt "app"
+msgid "Search"
+msgstr ""
+
+msgctxt "app"
+msgid "Search also uses the group name, for example try typing \"Trauma\""
+msgstr ""
+
+msgctxt "app"
+msgid "Secondary"
+msgstr ""
 
 msgctxt "app"
 msgid "Send confirmation"
 msgstr "أرسل التأكيد"
 
 msgctxt "app"
+msgid "Service Availability"
+msgstr ""
+
+msgctxt "app"
 msgid "Service availability"
 msgstr "توفر الخدمة"
+
+msgctxt "app"
+msgid "Settings"
+msgstr ""
 
 msgctxt "app"
 msgid "Share"
@@ -593,16 +907,20 @@ msgid "Share workspace {workspace}"
 msgstr "مشاركة مساحة العمل {workspace}"
 
 msgctxt "app"
-msgid "Share {project}"
-msgstr "شارك {project}"
-
-msgctxt "app"
-msgid "Sign up"
-msgstr "قم بالتسجيل"
-
-msgctxt "app"
 msgid "Sign up for the HeRAMS platform"
 msgstr "قم بالتسجيل في منصة هيرامس"
+
+msgctxt "app"
+msgid "Sort"
+msgstr ""
+
+msgctxt "app"
+msgid "Sort index"
+msgstr ""
+
+msgctxt "app"
+msgid "Status"
+msgstr ""
 
 msgctxt "app"
 msgid "Success!"
@@ -621,6 +939,18 @@ msgid "Survey {id} does not exist"
 msgstr "الاستطلاع {id} غير موجود"
 
 msgctxt "app"
+msgid "Tertiary"
+msgstr ""
+
+msgctxt "app"
+msgid ""
+"The Health Resources and Services Availability Monitoring System (HeRAMS) is "
+"a collaborative approach aimed at ensuring that core information on "
+"essential health resources and services is systematically shared and readily "
+"available to decision makers at country, regional and global levels"
+msgstr ""
+
+msgctxt "app"
 msgid "The aggregate availability of services per HF"
 msgstr "التوافر الكلي للخدمات لكل مرفق صحي"
 
@@ -630,21 +960,29 @@ msgstr "الصفحة التي تبحث عنها غير موجودة"
 
 msgctxt "app"
 msgid ""
-"The token field that is used as the workspace name, empty token "
-"attributes are ignored"
+"The token field that is used as the workspace name, empty token attributes "
+"are ignored"
 msgstr ""
 "حقل الرمز المميز المستخدم كاسم مساحة العمل، يتم تجاهل سمات الرمز المميز "
 "الفارغة"
 
 msgctxt "app"
 msgid ""
-"This link is no longer valid; your password has been changed since it was"
-" issued"
+"This link is no longer valid; your password has been changed since it was "
+"issued"
 msgstr "هذا الرابط لم يعد صالحًا؛ تم تغيير كلمة المرور الخاصة بك منذ إصدارها"
 
 msgctxt "app"
 msgid "This will reload the page losing all other changes!!"
 msgstr "سيؤدي ذلك إلى إعادة تحميل الصفحة وسوف تفقد جميع التغييرات الأخرى !!"
+
+msgctxt "app"
+msgid "Title"
+msgstr ""
+
+msgctxt "app"
+msgid "Token"
+msgstr ""
 
 msgctxt "app"
 msgid "Token updated."
@@ -653,6 +991,22 @@ msgstr "تم تحديث الرمز."
 msgctxt "app"
 msgid "Too many attempts, try again in {seconds} seconds"
 msgstr "محاولات كثيرة ، حاول مرة أخرى بعد {seconds} ثانية"
+
+msgctxt "app"
+msgid "Transpose"
+msgstr ""
+
+msgctxt "app"
+msgid "Try refreshing the project"
+msgstr ""
+
+msgctxt "app"
+msgid "Type"
+msgstr ""
+
+msgctxt "app"
+msgid "Typemap"
+msgstr ""
 
 msgctxt "app"
 msgid "Unknown"
@@ -667,8 +1021,20 @@ msgid "Update"
 msgstr "تحديث"
 
 msgctxt "app"
+msgid "Update "
+msgstr ""
+
+msgctxt "app"
 msgid "Update & go to dashboard"
 msgstr "قم بالتحديث وانتقل إلى لوحة التحكم"
+
+msgctxt "app"
+msgid "Update Page"
+msgstr ""
+
+msgctxt "app"
+msgid "Update Workspace"
+msgstr ""
 
 msgctxt "app"
 msgid "Update account"
@@ -711,6 +1077,14 @@ msgid "Update workspace {workspace}"
 msgstr "تحديث مساحة العمل {workspace}"
 
 msgctxt "app"
+msgid "Updated at"
+msgstr ""
+
+msgctxt "app"
+msgid "User"
+msgstr ""
+
+msgctxt "app"
 msgid "User not found"
 msgstr "المستخدم ليس موجود"
 
@@ -729,6 +1103,14 @@ msgstr "فشل التحقق من صحة البيانات"
 msgctxt "app"
 msgid "View dashboard"
 msgstr "عرض لوحة التحكم"
+
+msgctxt "app"
+msgid "View user permissions"
+msgstr ""
+
+msgctxt "app"
+msgid "Visibility"
+msgstr ""
 
 msgctxt "app"
 msgid "Warning!"
@@ -751,16 +1133,15 @@ msgid "We will send you a secure link to the reset form"
 msgstr "سنرسل لك رابطًا آمنًا لإعادة تشغيل كلمة المرور الخاصة بك"
 
 msgctxt "app"
-msgid "We will send you a secure link to the sign up form"
-msgstr "سنرسل لك رابطًا آمنًا لكي تتمكن من إعادة التسجيل"
-
-msgctxt "app"
 msgid ""
-"Whether this element needs data at facility (HF) or subject (service) "
-"level"
+"Whether this element needs data at facility (HF) or subject (service) level"
 msgstr ""
 "ما إذا كان هذا العنصر يحتاج إلى بيانات على مستوى المرفق الصحي (HF) أو "
 "الموضوع (الخدمة)"
+
+msgctxt "app"
+msgid "Width"
+msgstr ""
 
 msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> created"
@@ -768,11 +1149,11 @@ msgstr "تم إنشاء مساحة العمل <strong> {modelName} </strong>"
 
 msgctxt "app"
 msgid ""
-"Workspace <strong>{modelName}</strong> has been shared with: "
-"<strong>{users}</strong>"
-msgstr ""
-"تمت مشاركة مساحة العمل <strong> {modelName} </strong> مع: <strong> {users} "
+"Workspace <strong>{modelName}</strong> has been shared with: <strong>{users}"
 "</strong>"
+msgstr ""
+"تمت مشاركة مساحة العمل <strong> {modelName} </strong> مع: <strong> {users} </"
+"strong>"
 
 msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> has been updated."
@@ -803,8 +1184,10 @@ msgid "You are not allowed to share this project"
 msgstr "لا يسمح لك بمشاركة هذا المشروع"
 
 msgctxt "app"
-msgid "You do not have permission to change these values."
-msgstr "ليس لديك إذن بتغيير هذه القيم."
+msgid ""
+"You may search for multiple terms, only results that contain all terms are "
+"shown"
+msgstr ""
 
 msgctxt "app"
 msgid "Your account has been created"
@@ -822,104 +1205,243 @@ msgctxt "app"
 msgid "Your password has been reset!"
 msgstr "تم إعادة تشغيل كلمة المرور الخاصة بك!"
 
-msgctxt "user"
-msgid "Are you sure you want to switch to this user for the rest of this Session?"
-msgstr "هل أنت متأكد من أنك تريد الإنتقال إلى هذا المستخدم لبقية هذه الجلسة؟"
-
-msgctxt "user"
-msgid "Become this user"
-msgstr "كن هذا المستخدم"
-
-msgctxt "user"
-msgid "Hello"
-msgstr "مرحبا"
-
-msgctxt "user"
-msgid ""
-"If you cannot click the link, please try pasting the text into your "
-"browser"
+msgctxt "app"
+msgid "in progress"
 msgstr ""
-"إذا لم تتمكن من النقر فوق الرابط، فيرجى محاولة لصق النص في المتصفح الخاص بك"
 
-msgctxt "user"
-msgid "If you did not make this request you can ignore this email"
-msgstr "إذا لم تقدم هذا الطلب، يمكنك تجاهل هذا البريد الإلكتروني"
-
-msgctxt "user"
-msgid ""
-"If you don't want to change your password or didn't request this, just "
-"ignore and delete this message"
-msgstr ""
-"إذا كنت لا تريد تغيير كلمة المرور الخاصة بك أو لم تطلب ذلك، فما عليك سوى "
-"تجاهل هذه الرسالة وحذفها"
-
-msgctxt "user"
-msgid "In order to complete your registration, please click the link below"
-msgstr "لإكمال التسجيل، يرجى النقر على الرابط أدناه"
-
-msgctxt "user"
-msgid "In order to complete your request, please click the link below"
-msgstr "لإكمال طلبك، يرجى النقر على الرابط أدناه"
-
-msgctxt "user"
-msgid "Manage users"
-msgstr "ادارة المستخدمين"
-
-msgctxt "user"
-msgid "Please click the link below to complete your password reset"
-msgstr "يرجى النقر على الرابط أدناه لإكمال إعادة تشغيل كلمة المرور الخاصة بك"
-
-msgctxt "user"
-msgid "Please use the following link to log in"
-msgstr "يرجى استخدام الرابط التالي لتسجيل الدخول"
-
-msgctxt "user"
-msgid "Thank you for signing up on {0}"
-msgstr "شكرًا لاشتراكك في {0}"
-
-msgctxt "user"
-msgid "The Prime Team"
-msgstr "فريق Prime"
-
-msgctxt "user"
-msgid "This email address has already been taken"
-msgstr "تم أخذ عنوان البريد الإلكتروني هذا بالفعل"
-
-msgctxt "user"
-msgid "To keep your account secure, please don't forward this email to anyone"
-msgstr ""
-"للحفاظ على أمان حسابك، يرجى عدم إعادة توجيه هذا البريد الإلكتروني إلى أي شخص"
-
-msgctxt "user"
-msgid "To reset your password please follow this link:"
-msgstr "لإعادة تشغيل كلمة المرور الخاصة بك، يرجى اتباع هذا الرابط:"
-
-msgctxt "user"
-msgid "We have generated a password for you"
-msgstr "لقد أنشأنا كلمة مرور خاصة بك"
-
-msgctxt "user"
-msgid ""
-"We have received a request to change the email address for your account "
-"on {0}"
-msgstr "لقد تلقينا طلبًا لتغيير عنوان البريد الإلكتروني الخاص بك في {0}"
-
-msgctxt "user"
-msgid "We have received a request to reset the password for your account on {0}"
-msgstr "لقد تلقينا طلبًا لإعادة تشغيل كلمة المرور لحسابك على {0}"
-
-msgctxt "user"
-msgid "We have received a request to reset your {0} password"
-msgstr "لقد تلقينا طلبًا لإعادة تشغيل {0} كلمة مرور الخاصة بك"
-
-msgctxt "user"
-msgid "Your account on {0} has been created"
-msgstr "تم إنشاء حسابك على {0}"
-
-msgctxt "user"
-msgid "Your {0} account has successfully been activated."
-msgstr "تم تنشيط حسابك {0} بنجاح."
-
-msgctxt "user"
+msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
-msgstr "{0, date, MMMM dd, YYYY HH:mm}"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Accessibility"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Basic Amenities"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Building and equipment condition"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Cold chain"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Communication"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Condition"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Functionality"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Health Information"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Infrastructure"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Management and support"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Overview"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Power"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Sanitation"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Service availability"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Waste management"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Water"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Permission"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Source ID"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Source type"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Target ID"
+msgstr ""
+
+msgctxt "app.permission"
+msgid "Target type"
+msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Confirmation"
+#~ msgstr "تأكيد"
+
+#~ msgctxt "app"
+#~ msgid "Discard changes & go to dashboard"
+#~ msgstr "تجاهل التغييرات وانتقل إلى لوحة التحكم"
+
+#~ msgctxt "app"
+#~ msgid "Export"
+#~ msgstr "تصدير"
+
+#~ msgctxt "app"
+#~ msgid "In progress"
+#~ msgstr "في تقدم"
+
+#~ msgctxt "app"
+#~ msgid "Log in to HeRAMS"
+#~ msgstr "تسجيل الدخول إلى هيرامس"
+
+#~ msgctxt "app"
+#~ msgid "Password confirmation"
+#~ msgstr "تأكيد كلمة المرور"
+
+#~ msgctxt "app"
+#~ msgid "Share {project}"
+#~ msgstr "شارك {project}"
+
+#~ msgctxt "app"
+#~ msgid "Sign up"
+#~ msgstr "قم بالتسجيل"
+
+#~ msgctxt "app"
+#~ msgid "We will send you a secure link to the sign up form"
+#~ msgstr "سنرسل لك رابطًا آمنًا لكي تتمكن من إعادة التسجيل"
+
+#~ msgctxt "app"
+#~ msgid "You do not have permission to change these values."
+#~ msgstr "ليس لديك إذن بتغيير هذه القيم."
+
+#~ msgctxt "user"
+#~ msgid ""
+#~ "Are you sure you want to switch to this user for the rest of this Session?"
+#~ msgstr ""
+#~ "هل أنت متأكد من أنك تريد الإنتقال إلى هذا المستخدم لبقية هذه الجلسة؟"
+
+#~ msgctxt "user"
+#~ msgid "Become this user"
+#~ msgstr "كن هذا المستخدم"
+
+#~ msgctxt "user"
+#~ msgid "Hello"
+#~ msgstr "مرحبا"
+
+#~ msgctxt "user"
+#~ msgid ""
+#~ "If you cannot click the link, please try pasting the text into your "
+#~ "browser"
+#~ msgstr ""
+#~ "إذا لم تتمكن من النقر فوق الرابط، فيرجى محاولة لصق النص في المتصفح الخاص "
+#~ "بك"
+
+#~ msgctxt "user"
+#~ msgid "If you did not make this request you can ignore this email"
+#~ msgstr "إذا لم تقدم هذا الطلب، يمكنك تجاهل هذا البريد الإلكتروني"
+
+#~ msgctxt "user"
+#~ msgid ""
+#~ "If you don't want to change your password or didn't request this, just "
+#~ "ignore and delete this message"
+#~ msgstr ""
+#~ "إذا كنت لا تريد تغيير كلمة المرور الخاصة بك أو لم تطلب ذلك، فما عليك سوى "
+#~ "تجاهل هذه الرسالة وحذفها"
+
+#~ msgctxt "user"
+#~ msgid "In order to complete your registration, please click the link below"
+#~ msgstr "لإكمال التسجيل، يرجى النقر على الرابط أدناه"
+
+#~ msgctxt "user"
+#~ msgid "In order to complete your request, please click the link below"
+#~ msgstr "لإكمال طلبك، يرجى النقر على الرابط أدناه"
+
+#~ msgctxt "user"
+#~ msgid "Manage users"
+#~ msgstr "ادارة المستخدمين"
+
+#~ msgctxt "user"
+#~ msgid "Please click the link below to complete your password reset"
+#~ msgstr ""
+#~ "يرجى النقر على الرابط أدناه لإكمال إعادة تشغيل كلمة المرور الخاصة بك"
+
+#~ msgctxt "user"
+#~ msgid "Please use the following link to log in"
+#~ msgstr "يرجى استخدام الرابط التالي لتسجيل الدخول"
+
+#~ msgctxt "user"
+#~ msgid "Thank you for signing up on {0}"
+#~ msgstr "شكرًا لاشتراكك في {0}"
+
+#~ msgctxt "user"
+#~ msgid "The Prime Team"
+#~ msgstr "فريق Prime"
+
+#~ msgctxt "user"
+#~ msgid "This email address has already been taken"
+#~ msgstr "تم أخذ عنوان البريد الإلكتروني هذا بالفعل"
+
+#~ msgctxt "user"
+#~ msgid ""
+#~ "To keep your account secure, please don't forward this email to anyone"
+#~ msgstr ""
+#~ "للحفاظ على أمان حسابك، يرجى عدم إعادة توجيه هذا البريد الإلكتروني إلى أي "
+#~ "شخص"
+
+#~ msgctxt "user"
+#~ msgid "To reset your password please follow this link:"
+#~ msgstr "لإعادة تشغيل كلمة المرور الخاصة بك، يرجى اتباع هذا الرابط:"
+
+#~ msgctxt "user"
+#~ msgid "We have generated a password for you"
+#~ msgstr "لقد أنشأنا كلمة مرور خاصة بك"
+
+#~ msgctxt "user"
+#~ msgid ""
+#~ "We have received a request to change the email address for your account "
+#~ "on {0}"
+#~ msgstr "لقد تلقينا طلبًا لتغيير عنوان البريد الإلكتروني الخاص بك في {0}"
+
+#~ msgctxt "user"
+#~ msgid ""
+#~ "We have received a request to reset the password for your account on {0}"
+#~ msgstr "لقد تلقينا طلبًا لإعادة تشغيل كلمة المرور لحسابك على {0}"
+
+#~ msgctxt "user"
+#~ msgid "We have received a request to reset your {0} password"
+#~ msgstr "لقد تلقينا طلبًا لإعادة تشغيل {0} كلمة مرور الخاصة بك"
+
+#~ msgctxt "user"
+#~ msgid "Your account on {0} has been created"
+#~ msgstr "تم إنشاء حسابك على {0}"
+
+#~ msgctxt "user"
+#~ msgid "Your {0} account has successfully been activated."
+#~ msgstr "تم تنشيط حسابك {0} بنجاح."
+
+#~ msgctxt "user"
+#~ msgid "{0, date, MMMM dd, YYYY HH:mm}"
+#~ msgstr "{0, date, MMMM dd, YYYY HH:mm}"
