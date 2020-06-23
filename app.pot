@@ -375,7 +375,7 @@ msgid "Enter a date to limit the export to the last record before or equal to th
 msgstr ""
 
 msgctxt "app"
-msgid "Error!"
+msgid "Error"
 msgstr ""
 
 msgctxt "app"
@@ -895,7 +895,7 @@ msgid "Status"
 msgstr ""
 
 msgctxt "app"
-msgid "Success!"
+msgid "Success"
 msgstr ""
 
 msgctxt "app"
@@ -935,7 +935,7 @@ msgid "This link is no longer valid; your password has been changed since it was
 msgstr ""
 
 msgctxt "app"
-msgid "This will reload the page losing all other changes!!"
+msgid "This will reload the page losing all other changes"
 msgstr ""
 
 msgctxt "app"
@@ -1075,7 +1075,7 @@ msgid "Visibility"
 msgstr ""
 
 msgctxt "app"
-msgid "Warning!"
+msgid "Warning"
 msgstr ""
 
 msgctxt "app"
@@ -1155,7 +1155,7 @@ msgid "Your email address has been updated"
 msgstr ""
 
 msgctxt "app"
-msgid "Your password has been reset!"
+msgid "Your password has been reset"
 msgstr ""
 
 msgctxt "app"
