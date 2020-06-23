@@ -311,7 +311,7 @@ msgid "Determines the order of elements on a page, elements shown in ascending o
 msgstr ""
 
 msgctxt "app"
-msgid "Discard changes & go to dashboard"
+msgid "Discard & go to dashboard"
 msgstr ""
 
 msgctxt "app"
