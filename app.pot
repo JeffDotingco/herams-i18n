@@ -1171,6 +1171,22 @@ msgid "Accessibility"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "Basic Amenities"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Building and equipment condition"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Cold chain"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Communication"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Condition"
 msgstr ""
 
@@ -1179,11 +1195,39 @@ msgid "Functionality"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "Health Information"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Infrastructure"
 msgstr ""
 
 msgctxt "app.pagetitle"
+msgid "Management and support"
+msgstr ""
+
+msgctxt "app.pagetitle"
 msgid "Overview"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Power"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Sanitation"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Service availability"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Waste management"
+msgstr ""
+
+msgctxt "app.pagetitle"
+msgid "Water"
 msgstr ""
 
 msgctxt "app.permission"
