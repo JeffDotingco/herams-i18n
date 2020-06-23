@@ -947,7 +947,7 @@ msgid "Token"
 msgstr ""
 
 msgctxt "app"
-msgid "Token updated."
+msgid "Token updated"
 msgstr ""
 
 msgctxt "app"
@@ -1079,11 +1079,11 @@ msgid "Warning!"
 msgstr ""
 
 msgctxt "app"
-msgid "We use this field to store the country for the project."
+msgid "We use this field to store the country for the project"
 msgstr ""
 
 msgctxt "app"
-msgid "We use this field to store the last name of the project owner."
+msgid "We use this field to store the last name of the project owner"
 msgstr ""
 
 msgctxt "app"
@@ -1111,11 +1111,11 @@ msgid "Workspace <strong>{modelName}</strong> has been shared with: <strong>{use
 msgstr ""
 
 msgctxt "app"
-msgid "Workspace <strong>{modelName}</strong> has been updated."
+msgid "Workspace {workspace}"
 msgstr ""
 
 msgctxt "app"
-msgid "Workspace {workspace}"
+msgid "Workspace {workspace} has been updated"
 msgstr ""
 
 msgctxt "app"
