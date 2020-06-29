@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-23 13:07+0000\n"
-"PO-Revision-Date: 2020-06-12 13:52+0000\n"
-"Last-Translator: Samuel Petragallo <petragallos@who.int>\n"
+"PO-Revision-Date: 2020-06-29 11:31+0000\n"
+"Last-Translator: Caroline <caroline.fuhrer@gmail.com>\n"
 "Language-Team: French <http://weblate.herams-staging.org/projects/herams/"
 "herams-platform/fr/>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.0.4\n"
+"X-Generator: Weblate 4.1.1\n"
 "Generated-By: Babel 2.8.0\n"
 
 msgctxt "app"
@@ -21,11 +21,11 @@ msgstr "# de contributeurs"
 
 msgctxt "app"
 msgid "# Health facilities"
-msgstr "# Centres de santé"
+msgstr "# Structures sanitaires"
 
 msgctxt "app"
 msgid "# Responses"
-msgstr "# Réponses"
+msgstr "# des réponses"
 
 msgctxt "app"
 msgid "# Workspaces"
@@ -33,7 +33,7 @@ msgstr "# d'espaces de travail"
 
 msgctxt "app"
 msgid "(Not set)"
-msgstr ""
+msgstr "(Pas défini)"
 
 msgctxt "app"
 msgid "25 - 50%"
@@ -78,19 +78,19 @@ msgstr "Un e-mail de vérification a été envoyé à votre adresse"
 
 msgctxt "app"
 msgid "Actions"
-msgstr ""
+msgstr "Actions"
 
 msgctxt "app"
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 msgctxt "app"
 msgid "Add permissions"
-msgstr ""
+msgstr "Ajouter des permissions"
 
 msgctxt "app"
 msgid "Add services"
-msgstr ""
+msgstr "Ajouter des services de santé"
 
 msgctxt "app"
 msgid "Admin dashboard"
@@ -98,11 +98,13 @@ msgstr "Tableau de bord administratif"
 
 msgctxt "app"
 msgid "Advanced settings"
-msgstr ""
+msgstr "Paramètres avancés"
 
 msgctxt "app"
 msgid "After closing this screen you must click {{apply}} to see the changes"
 msgstr ""
+"Après avoir fermé cet écran, vous devez cliquer sur {{apply}} pour voir les "
+"changements"
 
 msgctxt "app"
 msgid "Allow everything"
@@ -110,7 +112,7 @@ msgstr "Autoriser tout"
 
 msgctxt "app"
 msgid "Allowed"
-msgstr ""
+msgstr "Autorisé(e)"
 
 msgctxt "app"
 msgid "Already have an account? Sign in!"
@@ -122,7 +124,7 @@ msgstr "Déjà partagé avec"
 
 msgctxt "app"
 msgid "Answers as text"
-msgstr ""
+msgstr "Réponses en texte"
 
 msgctxt "app"
 msgid "Apply"
@@ -134,7 +136,7 @@ msgstr "Appliquer les changements"
 
 msgctxt "app"
 msgid "Apply filters"
-msgstr ""
+msgstr "Appliquer les filtres"
 
 msgctxt "app"
 msgid "Are you sure you want to delete this page?"
@@ -148,6 +150,8 @@ msgctxt "app"
 msgid ""
 "Are you sure you want to switch to this user for the rest of this Session?"
 msgstr ""
+"Êtes-vous sûr de vouloir passer à cet utilisateur pour le reste de la "
+"session?"
 
 msgctxt "app"
 msgid "Are you sure you wish to remove this project from the system?"
@@ -163,11 +167,11 @@ msgstr "Êtes-vous sûr de vouloir supprimer cet espace de travail ?"
 
 msgctxt "app"
 msgid "Autodetected ({language}"
-msgstr ""
+msgstr "Autodétecté ({language})"
 
 msgctxt "app"
 msgid "Back to list"
-msgstr ""
+msgstr "Retourner à la liste"
 
 msgctxt "app"
 msgid "Back to sign in"
@@ -179,11 +183,11 @@ msgstr "Console administrative"
 
 msgctxt "app"
 msgid "Bar"
-msgstr ""
+msgstr "barre"
 
 msgctxt "app"
 msgid "Become this user"
-msgstr ""
+msgstr "Devenir cet utilisateur"
 
 msgctxt "app"
 msgid "Causes of unavailability"
@@ -191,7 +195,7 @@ msgstr "Causes d'indisponibilité"
 
 msgctxt "app"
 msgid "Chart type"
-msgstr ""
+msgstr "Type de graphique"
 
 msgctxt "app"
 msgid "Clear"
@@ -199,15 +203,15 @@ msgstr "Effacer"
 
 msgctxt "app"
 msgid "Closed"
-msgstr ""
+msgstr "Fermé"
 
 msgctxt "app"
 msgid "Compare data for HF {hf}"
-msgstr ""
+msgstr "Comparer les données pour la strcuture sanitaire {hf}"
 
 msgctxt "app"
 msgid "Config"
-msgstr ""
+msgstr "Config"
 
 msgctxt "app"
 msgid "Configure dashboard"
@@ -215,7 +219,7 @@ msgstr "Configurer le tableau de bord"
 
 msgctxt "app"
 msgid "Contributor count"
-msgstr ""
+msgstr "# de contributeurs"
 
 msgctxt "app"
 msgid "Contributors"
@@ -223,19 +227,19 @@ msgstr "Contributeurs"
 
 msgctxt "app"
 msgid "Country"
-msgstr ""
+msgstr "Pays"
 
 msgctxt "app"
 msgid "Create Page"
-msgstr ""
+msgstr "Créer une page"
 
 msgctxt "app"
 msgid "Create Project"
-msgstr ""
+msgstr "Créer un projet"
 
 msgctxt "app"
 msgid "Create Workspace"
-msgstr ""
+msgstr "Créer un espace de travail"
 
 msgctxt "app"
 msgid "Create a new project"
@@ -275,7 +279,7 @@ msgstr "Créer un espace de travail"
 
 msgctxt "app"
 msgid "Created at"
-msgstr ""
+msgstr "Crée le"
 
 msgctxt "app"
 msgid "Created {success} workspaces, failed to create {fail} workspaces"
@@ -293,7 +297,7 @@ msgstr "Mot de passe actuel"
 
 msgctxt "app"
 msgid "Dashboard"
-msgstr ""
+msgstr "Tableau de bord"
 
 msgctxt "app"
 msgid "Data update"
@@ -301,7 +305,7 @@ msgstr "Mise à jour des données"
 
 msgctxt "app"
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 msgctxt "app"
 msgid "Delete"
@@ -313,7 +317,7 @@ msgstr "Utilisateur supprimé"
 
 msgctxt "app"
 msgid "Denied"
-msgstr ""
+msgstr "Refusé(e)"
 
 msgctxt "app"
 msgid ""
@@ -324,11 +328,11 @@ msgstr ""
 
 msgctxt "app"
 msgid "Discard & go to dashboard"
-msgstr ""
+msgstr "Annuler / Retourner au tableau de bord"
 
 msgctxt "app"
 msgid "Donut"
-msgstr ""
+msgstr "Beignet"
 
 msgctxt "app"
 msgid "Download"
@@ -389,7 +393,7 @@ msgid ""
 "health facility, leave the field blank."
 msgstr ""
 "Saisir une date pour limiter l'export à la dernière mise à jour chaque "
-"structure de santé avant cette date. Pour exporter tout l'historique, "
+"structure sanitaires avant cette date. Pour exporter tout l'historique, "
 "laisser le champ libre."
 
 msgctxt "app"
@@ -398,11 +402,11 @@ msgstr "Erreur"
 
 msgctxt "app"
 msgid "Export CSV"
-msgstr ""
+msgstr "Exporter CSV"
 
 msgctxt "app"
 msgid "Export XLSX"
-msgstr ""
+msgstr "Exporter XLSX"
 
 msgctxt "app"
 msgid "Export all"
@@ -418,7 +422,7 @@ msgstr "Export des données de l'espace de travail {workspace}"
 
 msgctxt "app"
 msgid "Facility count"
-msgstr ""
+msgstr "# de centres de santé"
 
 msgctxt "app"
 msgid "Failed to update email address"
@@ -426,19 +430,19 @@ msgstr "Erreur de mise à jour de l'adresse email"
 
 msgctxt "app"
 msgid "Favorite workspaces"
-msgstr ""
+msgstr "Espaces de travail préférés"
 
 msgctxt "app"
 msgid "Favorites"
-msgstr ""
+msgstr "Favoris"
 
 msgctxt "app"
 msgid "Filters"
-msgstr ""
+msgstr "Filters"
 
 msgctxt "app"
 msgid "Forgot your password ?"
-msgstr ""
+msgstr "Oublié votre mot de passe?"
 
 msgctxt "app"
 msgid "Full"
@@ -450,11 +454,11 @@ msgstr "Disponible"
 
 msgctxt "app"
 msgid "Fully functional"
-msgstr ""
+msgstr "Fonctionnelles"
 
 msgctxt "app"
 msgid "Functionality"
-msgstr ""
+msgstr "Fonctionnalité"
 
 msgctxt "app"
 msgid "Global admin"
@@ -462,7 +466,7 @@ msgstr "Administration globale"
 
 msgctxt "app"
 msgid "Global admins"
-msgstr ""
+msgstr "Administrateur globale"
 
 msgctxt "app"
 msgid "Global permissions granted to {users}"
@@ -486,7 +490,7 @@ msgstr "Projets HeRAMS"
 
 msgctxt "app"
 msgid "Health Facilities"
-msgstr "Établissements de santé"
+msgstr "Structures sanitaires"
 
 msgctxt "app"
 msgid "Health facilities"
@@ -494,23 +498,24 @@ msgstr "Structures sanitaires"
 
 msgctxt "app"
 msgid "Height"
-msgstr ""
+msgstr "Hauteur"
 
 msgctxt "app"
 msgid "Hidden"
-msgstr ""
+msgstr "Masqué"
 
 msgctxt "app"
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 msgctxt "app"
 msgid "Id"
-msgstr ""
+msgstr "ID"
 
 msgctxt "app"
 msgid "If you use a predefined option it will automatically be translated"
 msgstr ""
+"Si vous utilisez une option prédéfinie, elle sera automatiquement traduite"
 
 msgctxt "app"
 msgid "Import"
@@ -518,11 +523,11 @@ msgstr "Import"
 
 msgctxt "app"
 msgid "Import Project"
-msgstr ""
+msgstr "Import le projet"
 
 msgctxt "app"
 msgid "Import Workspace"
-msgstr ""
+msgstr "Import l'espace de travail"
 
 msgctxt "app"
 msgid "Import pages"
@@ -534,15 +539,15 @@ msgstr "Import d'espaces de travail"
 
 msgctxt "app"
 msgid "In Progress"
-msgstr ""
+msgstr "En cours"
 
 msgctxt "app"
 msgid "Include code header"
-msgstr ""
+msgstr "Inclure en-tête de code"
 
 msgctxt "app"
 msgid "Include text header"
-msgstr ""
+msgstr "Inclure en-tête de text"
 
 msgctxt "app"
 msgid "Info"
@@ -574,11 +579,11 @@ msgstr "Manque de formation"
 
 msgctxt "app"
 msgid "Language"
-msgstr ""
+msgstr "Langue"
 
 msgctxt "app"
 msgid "Last login at"
-msgstr ""
+msgstr "Date du dernier login"
 
 msgctxt "app"
 msgid "Latest update"
@@ -586,31 +591,31 @@ msgstr "Dernière mise à jour"
 
 msgctxt "app"
 msgid "Latitude"
-msgstr ""
+msgstr "Latitude"
 
 msgctxt "app"
 msgid "Loading Error"
-msgstr ""
+msgstr "Erreur de chargement"
 
 msgctxt "app"
 msgid "Loading failed"
-msgstr ""
+msgstr "Echec du chargement"
 
 msgctxt "app"
 msgid "Loading project summary"
-msgstr ""
+msgstr "Chargement du résumé du projet"
 
 msgctxt "app"
 msgid "Log in"
-msgstr ""
+msgstr "Se connecter"
 
 msgctxt "app"
 msgid "Longitude"
-msgstr ""
+msgstr "Longitude"
 
 msgctxt "app"
 msgid "Manage user permissions for {project}"
-msgstr ""
+msgstr "Gérer les permissions des utilisateurs pour {projet}"
 
 msgctxt "app"
 msgid "Manage users"
@@ -627,7 +632,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Marker radius"
-msgstr ""
+msgstr "Rayon du marqueur"
 
 msgctxt "app"
 msgid "N/A"
@@ -635,7 +640,7 @@ msgstr "N/A"
 
 msgctxt "app"
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 msgctxt "app"
 msgid "New email address"
@@ -671,7 +676,7 @@ msgstr "Non disponible"
 
 msgctxt "app"
 msgid "Not functional"
-msgstr ""
+msgstr "Pas fonctionnels"
 
 msgctxt "app"
 msgid "Not normally provided"
@@ -694,22 +699,24 @@ msgid ""
 "Only countries with an ISO3166 Alpha-3:wq\n"
 "             code are listed"
 msgstr ""
+"Seuls les pays ayant un code ISO3166 Alpha-3:wq\n"
+"             sont listés"
 
 msgctxt "app"
 msgid "Other"
-msgstr ""
+msgstr "Autre"
 
 msgctxt "app"
 msgid "Overrides"
-msgstr ""
+msgstr "Remplace"
 
 msgctxt "app"
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 msgctxt "app"
 msgid "Page"
-msgstr ""
+msgstr "Page"
 
 msgctxt "app"
 msgid "Page <strong>{page}</strong> created"
@@ -725,7 +732,7 @@ msgstr "Pages"
 
 msgctxt "app"
 msgid "Parent page"
-msgstr ""
+msgstr "Page parent"
 
 msgctxt "app"
 msgid "Partial"
@@ -737,7 +744,7 @@ msgstr "Partiellement disponible"
 
 msgctxt "app"
 msgid "Partially functional"
-msgstr ""
+msgstr "Partiellement fonctionnelles"
 
 msgctxt "app"
 msgid "Password"
@@ -749,7 +756,7 @@ msgstr "Mot de passe modifié"
 
 msgctxt "app"
 msgid "Password hash"
-msgstr ""
+msgstr "Hashs de mots de passe"
 
 msgctxt "app"
 msgid "Password update failed"
@@ -773,15 +780,15 @@ msgstr "Veuillez vérifier votre boîte à lettres"
 
 msgctxt "app"
 msgid "Primary"
-msgstr ""
+msgstr "Primaires"
 
 msgctxt "app"
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 msgctxt "app"
 msgid "Project"
-msgstr ""
+msgstr "Projet"
 
 msgctxt "app"
 msgid "Project <strong>{project}</strong> created"
@@ -817,7 +824,7 @@ msgstr "Code question contenant le type (sensible à la casse)"
 
 msgctxt "app"
 msgid "Refresh"
-msgstr ""
+msgstr "Actualiser"
 
 msgctxt "app"
 msgid "Refresh data from limesurvey"
@@ -841,7 +848,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Register"
-msgstr ""
+msgstr "S'inscrire"
 
 msgctxt "app"
 msgid "Repeat password"
@@ -865,11 +872,11 @@ msgstr "Réinitialisation du mot de passe"
 
 msgctxt "app"
 msgid "Response count"
-msgstr ""
+msgstr "# des réponses"
 
 msgctxt "app"
 msgid "Responses"
-msgstr ""
+msgstr "Réponses"
 
 msgctxt "app"
 msgid "Save"
@@ -877,15 +884,17 @@ msgstr "Enregistrer"
 
 msgctxt "app"
 msgid "Search"
-msgstr ""
+msgstr "Rechercher"
 
 msgctxt "app"
 msgid "Search also uses the group name, for example try typing \"Trauma\""
 msgstr ""
+"La fonction de recherche utilise également le nom du groupe, p. ex., essayez "
+"de taper \"Trauma\""
 
 msgctxt "app"
 msgid "Secondary"
-msgstr ""
+msgstr "Secondaires"
 
 msgctxt "app"
 msgid "Send confirmation"
@@ -893,7 +902,7 @@ msgstr "Envoyer une confirmation"
 
 msgctxt "app"
 msgid "Service Availability"
-msgstr ""
+msgstr "Disponibilité des services de santé"
 
 msgctxt "app"
 msgid "Service availability"
@@ -901,7 +910,7 @@ msgstr "Disponibilité des services de santé"
 
 msgctxt "app"
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 msgctxt "app"
 msgid "Share"
@@ -917,15 +926,15 @@ msgstr "Créer un compte"
 
 msgctxt "app"
 msgid "Sort"
-msgstr ""
+msgstr "Trier"
 
 msgctxt "app"
 msgid "Sort index"
-msgstr ""
+msgstr "Index de tri"
 
 msgctxt "app"
 msgid "Status"
-msgstr ""
+msgstr "Statut"
 
 msgctxt "app"
 msgid "Success!"
@@ -945,7 +954,7 @@ msgstr "Formulaire {id} inexistant"
 
 msgctxt "app"
 msgid "Tertiary"
-msgstr ""
+msgstr "Tertiaires"
 
 msgctxt "app"
 msgid ""
@@ -954,6 +963,11 @@ msgid ""
 "essential health resources and services is systematically shared and readily "
 "available to decision makers at country, regional and global levels"
 msgstr ""
+"Le système de surveillance de la disponibilité des ressources et services "
+"essentiels de santé (HeRAMS) est une approche collaborative visant à "
+"garantir que les informations de base sur les ressources et services de "
+"santé essentiels sont systématiquement partagées et facilement accessibles "
+"aux décideurs aux niveaux national, régional et mondial"
 
 msgctxt "app"
 msgid "The aggregate availability of services per HF"
@@ -983,15 +997,15 @@ msgstr "Les changements non enregistrés seront perdus"
 
 msgctxt "app"
 msgid "Title"
-msgstr ""
+msgstr "Titre"
 
 msgctxt "app"
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 msgctxt "app"
 msgid "Token updated."
-msgstr "Token mis à jour"
+msgstr "Token mis à jour."
 
 msgctxt "app"
 msgid "Too many attempts, try again in {seconds} seconds"
@@ -999,15 +1013,15 @@ msgstr "Trop de tentatives simultanées. Réessayez dans {seconds} secondes"
 
 msgctxt "app"
 msgid "Transpose"
-msgstr ""
+msgstr "Transposer"
 
 msgctxt "app"
 msgid "Try refreshing the project"
-msgstr ""
+msgstr "Essayez d'actualiser le projet"
 
 msgctxt "app"
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 msgctxt "app"
 msgid "Typemap"
@@ -1027,7 +1041,7 @@ msgstr "Enregistrer"
 
 msgctxt "app"
 msgid "Update "
-msgstr ""
+msgstr "Enregistrer "
 
 msgctxt "app"
 msgid "Update & go to dashboard"
@@ -1035,11 +1049,11 @@ msgstr "Enregistrer / Retourner au tableau de bord"
 
 msgctxt "app"
 msgid "Update Page"
-msgstr ""
+msgstr "Mise à jour de la page"
 
 msgctxt "app"
 msgid "Update Workspace"
-msgstr ""
+msgstr "Modifier l'espace de travail"
 
 msgctxt "app"
 msgid "Update account"
@@ -1055,11 +1069,11 @@ msgstr "Mise à jour des données pour {workspace}"
 
 msgctxt "app"
 msgid "Update element"
-msgstr "Modifier l'élément"
+msgstr "Mise à jour de l'élément"
 
 msgctxt "app"
 msgid "Update page"
-msgstr "Modifier la page"
+msgstr "Mise à jour de la page"
 
 msgctxt "app"
 msgid "Update password"
@@ -1083,11 +1097,11 @@ msgstr "Modifier l'espace de travail {workspace}"
 
 msgctxt "app"
 msgid "Updated at"
-msgstr ""
+msgstr "Mise à jour le"
 
 msgctxt "app"
 msgid "User"
-msgstr ""
+msgstr "Utilisateur"
 
 msgctxt "app"
 msgid "User not found"
@@ -1111,11 +1125,11 @@ msgstr "Afficher le tableau de bord"
 
 msgctxt "app"
 msgid "View user permissions"
-msgstr ""
+msgstr "Voir les permissions des utilisateurs"
 
 msgctxt "app"
 msgid "Visibility"
-msgstr ""
+msgstr "Visibilité"
 
 msgctxt "app"
 msgid "Warning!"
@@ -1145,7 +1159,7 @@ msgstr ""
 
 msgctxt "app"
 msgid "Width"
-msgstr ""
+msgstr "Largeur"
 
 msgctxt "app"
 msgid "Workspace <strong>{modelName}</strong> created"
@@ -1192,6 +1206,8 @@ msgid ""
 "You may search for multiple terms, only results that contain all terms are "
 "shown"
 msgstr ""
+"Vous pouvez rechercher plusieurs termes, seuls les résultats qui contiennent "
+"tous les termes sont affichés"
 
 msgctxt "app"
 msgid "Your account has been created"
@@ -1211,95 +1227,95 @@ msgstr "Mot de passe réinitialisé"
 
 msgctxt "app"
 msgid "in progress"
-msgstr ""
+msgstr "en cours"
 
 msgctxt "app"
 msgid "{0, date, MMMM dd, YYYY HH:mm}"
-msgstr ""
+msgstr "{0, date, MMMM dd, YYYY HH:mm}"
 
 msgctxt "app.pagetitle"
 msgid "Accessibility"
-msgstr ""
+msgstr "Accessibilité"
 
 msgctxt "app.pagetitle"
 msgid "Basic Amenities"
-msgstr ""
+msgstr "Aménagements structurels"
 
 msgctxt "app.pagetitle"
 msgid "Building and equipment condition"
-msgstr ""
+msgstr "État des bâtiments et des équipements"
 
 msgctxt "app.pagetitle"
 msgid "Cold chain"
-msgstr ""
+msgstr "Chaîne de froid"
 
 msgctxt "app.pagetitle"
 msgid "Communication"
-msgstr ""
+msgstr "Communication"
 
 msgctxt "app.pagetitle"
 msgid "Condition"
-msgstr ""
+msgstr "État"
 
 msgctxt "app.pagetitle"
 msgid "Functionality"
-msgstr ""
+msgstr "Fonctionnalité"
 
 msgctxt "app.pagetitle"
 msgid "Health Information"
-msgstr ""
+msgstr "Systèmes d'information"
 
 msgctxt "app.pagetitle"
 msgid "Infrastructure"
-msgstr ""
+msgstr "Infrastructure"
 
 msgctxt "app.pagetitle"
 msgid "Management and support"
-msgstr ""
+msgstr "Gestion et soutien"
 
 msgctxt "app.pagetitle"
 msgid "Overview"
-msgstr ""
+msgstr "Vue d’ensemble"
 
 msgctxt "app.pagetitle"
 msgid "Power"
-msgstr ""
+msgstr "Énergie"
 
 msgctxt "app.pagetitle"
 msgid "Sanitation"
-msgstr ""
+msgstr "Assainissement"
 
 msgctxt "app.pagetitle"
 msgid "Service availability"
-msgstr ""
+msgstr "Disponibilité des services de santé"
 
 msgctxt "app.pagetitle"
 msgid "Waste management"
-msgstr ""
+msgstr "Gestion des déchets"
 
 msgctxt "app.pagetitle"
 msgid "Water"
-msgstr ""
+msgstr "Eau"
 
 msgctxt "app.permission"
 msgid "Permission"
-msgstr ""
+msgstr "Permission"
 
 msgctxt "app.permission"
 msgid "Source ID"
-msgstr ""
+msgstr "ID source"
 
 msgctxt "app.permission"
 msgid "Source type"
-msgstr ""
+msgstr "Type de source"
 
 msgctxt "app.permission"
 msgid "Target ID"
-msgstr ""
+msgstr "ID cible"
 
 msgctxt "app.permission"
 msgid "Target type"
-msgstr ""
+msgstr "Type cible"
 
 #~ msgctxt "app"
 #~ msgid "Confirmation"
