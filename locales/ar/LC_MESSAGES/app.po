@@ -389,8 +389,8 @@ msgstr ""
 "القديمة للمرفق الصحي، اترك الحقل فارغًا."
 
 msgctxt "app"
-msgid "Error!"
-msgstr "خطأ!"
+msgid "Error"
+msgstr ""
 
 msgctxt "app"
 msgid "Export CSV"
@@ -923,8 +923,8 @@ msgid "Status"
 msgstr ""
 
 msgctxt "app"
-msgid "Success!"
-msgstr "نجاح!"
+msgid "Success"
+msgstr ""
 
 msgctxt "app"
 msgid "Survey"
@@ -973,8 +973,8 @@ msgid ""
 msgstr "هذا الرابط لم يعد صالحًا؛ تم تغيير كلمة المرور الخاصة بك منذ إصدارها"
 
 msgctxt "app"
-msgid "This will reload the page losing all other changes!!"
-msgstr "سيؤدي ذلك إلى إعادة تحميل الصفحة وسوف تفقد جميع التغييرات الأخرى !!"
+msgid "This will reload the page losing all other changes"
+msgstr ""
 
 msgctxt "app"
 msgid "Title"
@@ -985,8 +985,8 @@ msgid "Token"
 msgstr ""
 
 msgctxt "app"
-msgid "Token updated."
-msgstr "تم تحديث الرمز."
+msgid "Token updated"
+msgstr ""
 
 msgctxt "app"
 msgid "Too many attempts, try again in {seconds} seconds"
@@ -1113,16 +1113,16 @@ msgid "Visibility"
 msgstr ""
 
 msgctxt "app"
-msgid "Warning!"
-msgstr "تحذير!"
+msgid "Warning"
+msgstr ""
 
 msgctxt "app"
-msgid "We use this field to store the country for the project."
-msgstr "نستخدم هذا الحقل لتخزين مشروع العمل."
+msgid "We use this field to store the country for the project"
+msgstr ""
 
 msgctxt "app"
-msgid "We use this field to store the last name of the project owner."
-msgstr "نستخدم هذا الحقل لتخزين الاسم الأخير لصاحب المشروع."
+msgid "We use this field to store the last name of the project owner"
+msgstr ""
 
 msgctxt "app"
 msgid "We will send a confirmation message to this address"
@@ -1156,12 +1156,12 @@ msgstr ""
 "strong>"
 
 msgctxt "app"
-msgid "Workspace <strong>{modelName}</strong> has been updated."
-msgstr "تم تحديث مساحة العمل <strong> {modelName} </strong>."
-
-msgctxt "app"
 msgid "Workspace {workspace}"
 msgstr "مساحة العمل {workspace}"
+
+msgctxt "app"
+msgid "Workspace {workspace} has been updated"
+msgstr ""
 
 msgctxt "app"
 msgid "Workspaces"
@@ -1202,8 +1202,8 @@ msgid "Your email address has been updated"
 msgstr "تم تحديث عنوان بريدك الإلكتروني"
 
 msgctxt "app"
-msgid "Your password has been reset!"
-msgstr "تم إعادة تشغيل كلمة المرور الخاصة بك!"
+msgid "Your password has been reset"
+msgstr ""
 
 msgctxt "app"
 msgid "in progress"
@@ -1296,6 +1296,42 @@ msgstr ""
 msgctxt "app.permission"
 msgid "Target type"
 msgstr ""
+
+#~ msgctxt "app"
+#~ msgid "Error!"
+#~ msgstr "خطأ!"
+
+#~ msgctxt "app"
+#~ msgid "Success!"
+#~ msgstr "نجاح!"
+
+#~ msgctxt "app"
+#~ msgid "This will reload the page losing all other changes!!"
+#~ msgstr "سيؤدي ذلك إلى إعادة تحميل الصفحة وسوف تفقد جميع التغييرات الأخرى !!"
+
+#~ msgctxt "app"
+#~ msgid "Token updated."
+#~ msgstr "تم تحديث الرمز."
+
+#~ msgctxt "app"
+#~ msgid "Warning!"
+#~ msgstr "تحذير!"
+
+#~ msgctxt "app"
+#~ msgid "We use this field to store the country for the project."
+#~ msgstr "نستخدم هذا الحقل لتخزين مشروع العمل."
+
+#~ msgctxt "app"
+#~ msgid "We use this field to store the last name of the project owner."
+#~ msgstr "نستخدم هذا الحقل لتخزين الاسم الأخير لصاحب المشروع."
+
+#~ msgctxt "app"
+#~ msgid "Workspace <strong>{modelName}</strong> has been updated."
+#~ msgstr "تم تحديث مساحة العمل <strong> {modelName} </strong>."
+
+#~ msgctxt "app"
+#~ msgid "Your password has been reset!"
+#~ msgstr "تم إعادة تشغيل كلمة المرور الخاصة بك!"
 
 #~ msgctxt "app"
 #~ msgid "Confirmation"

@@ -397,8 +397,8 @@ msgstr ""
 "laisser le champ libre."
 
 msgctxt "app"
-msgid "Error!"
-msgstr "Erreur"
+msgid "Error"
+msgstr ""
 
 msgctxt "app"
 msgid "Export CSV"
@@ -937,8 +937,8 @@ msgid "Status"
 msgstr "Statut"
 
 msgctxt "app"
-msgid "Success!"
-msgstr "Succès"
+msgid "Success"
+msgstr ""
 
 msgctxt "app"
 msgid "Survey"
@@ -992,8 +992,8 @@ msgid ""
 msgstr "Ce lien n'est plus valable. Votre mot de passe a été modifié depuis."
 
 msgctxt "app"
-msgid "This will reload the page losing all other changes!!"
-msgstr "Les changements non enregistrés seront perdus"
+msgid "This will reload the page losing all other changes"
+msgstr ""
 
 msgctxt "app"
 msgid "Title"
@@ -1004,8 +1004,8 @@ msgid "Token"
 msgstr "Token"
 
 msgctxt "app"
-msgid "Token updated."
-msgstr "Token mis à jour."
+msgid "Token updated"
+msgstr ""
 
 msgctxt "app"
 msgid "Too many attempts, try again in {seconds} seconds"
@@ -1132,16 +1132,16 @@ msgid "Visibility"
 msgstr "Visibilité"
 
 msgctxt "app"
-msgid "Warning!"
-msgstr "Alerte"
+msgid "Warning"
+msgstr ""
 
 msgctxt "app"
-msgid "We use this field to store the country for the project."
-msgstr "Ce champs contient le pays du projet"
+msgid "We use this field to store the country for the project"
+msgstr ""
 
 msgctxt "app"
-msgid "We use this field to store the last name of the project owner."
-msgstr "Ce champs contient le nom du responsable de projet"
+msgid "We use this field to store the last name of the project owner"
+msgstr ""
 
 msgctxt "app"
 msgid "We will send a confirmation message to this address"
@@ -1174,12 +1174,12 @@ msgstr ""
 "</strong>"
 
 msgctxt "app"
-msgid "Workspace <strong>{modelName}</strong> has been updated."
-msgstr "Espace de travail <strong>{modelName}</strong> modifié"
-
-msgctxt "app"
 msgid "Workspace {workspace}"
 msgstr "Espace de travail {workspace}"
+
+msgctxt "app"
+msgid "Workspace {workspace} has been updated"
+msgstr ""
 
 msgctxt "app"
 msgid "Workspaces"
@@ -1222,8 +1222,8 @@ msgid "Your email address has been updated"
 msgstr "Votre email a été modifié"
 
 msgctxt "app"
-msgid "Your password has been reset!"
-msgstr "Mot de passe réinitialisé"
+msgid "Your password has been reset"
+msgstr ""
 
 msgctxt "app"
 msgid "in progress"
@@ -1316,6 +1316,42 @@ msgstr "ID cible"
 msgctxt "app.permission"
 msgid "Target type"
 msgstr "Type cible"
+
+#~ msgctxt "app"
+#~ msgid "Error!"
+#~ msgstr "Erreur"
+
+#~ msgctxt "app"
+#~ msgid "Success!"
+#~ msgstr "Succès"
+
+#~ msgctxt "app"
+#~ msgid "This will reload the page losing all other changes!!"
+#~ msgstr "Les changements non enregistrés seront perdus"
+
+#~ msgctxt "app"
+#~ msgid "Token updated."
+#~ msgstr "Token mis à jour."
+
+#~ msgctxt "app"
+#~ msgid "Warning!"
+#~ msgstr "Alerte"
+
+#~ msgctxt "app"
+#~ msgid "We use this field to store the country for the project."
+#~ msgstr "Ce champs contient le pays du projet"
+
+#~ msgctxt "app"
+#~ msgid "We use this field to store the last name of the project owner."
+#~ msgstr "Ce champs contient le nom du responsable de projet"
+
+#~ msgctxt "app"
+#~ msgid "Workspace <strong>{modelName}</strong> has been updated."
+#~ msgstr "Espace de travail <strong>{modelName}</strong> modifié"
+
+#~ msgctxt "app"
+#~ msgid "Your password has been reset!"
+#~ msgstr "Mot de passe réinitialisé"
 
 #~ msgctxt "app"
 #~ msgid "Confirmation"
