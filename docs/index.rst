@@ -44,7 +44,7 @@ Creating a User Account
 
 5. A new tab will open prompting you to enter your name and password. Click the |register-blue| button to finalize your registration.
 
-.. note:: If you are not automatically logged-in, please follow the steps outlined below to login as exisitng user. 
+.. note:: If you are not automatically logged-in, please follow the steps outlined below to login as existing user. 
 
 
 .. image:: media/vid/HeRAMS_register.gif
