@@ -608,7 +608,7 @@ The below instructions guide users through the steps to define the data encoding
 HeRAMS Administration
 =====================
 
-This chapter provides an overview of the admin pages in HeRAMS and offers step-by-step instructions for common tasks performed by advanced users (e.g. *Workspace Owners* and *Project Admins*. The first part of the chapter focuses on user management. It provides an overview of the default HeRAMS **User roles** used through the platform followed by detailed description on how to add users to workspaces and projects. The remaining parts of this chapter focuses on more advanced topics and are intended to guide *Project Admins* on how to administer a project locally. 
+This chapter provides an overview of the admin pages in HeRAMS and offers step-by-step instructions for common tasks performed by advanced users (e.g. *Workspace Owners* and *Project Admins*). The first part of the chapter focuses on user management. It provides an overview of the default HeRAMS **User roles** used through the platform followed by detailed description on how to add users to workspaces and projects. The remaining parts of this chapter focuses on more advanced topics and are intended to guide *Project Admins* on how to administer a project locally. 
 
 
 .. note:: Access to different parts of the admin interface depend on your function and role. If you require your permissions to be changed, kindly contact your *Project Admin* or send an email to `HeRAMS Support Team <mailto:herams@who.int?>`_ specifying your function and role as well as a brief explanation of why you would like your access permissions to altered.
@@ -619,7 +619,7 @@ User Management
 Workspace Permissions
 ~~~~~~~~~~~~~~~~~~~~~
 
-Granting a users permission to a workspace enables them to contribute or download data, as well as as to manage user access to their workspace. There are four permissions for workspaces that can be assigned independently:
+Granting a user permission to a workspace enables them to contribute or download data, as well as to manage user access to their workspace. There are four permissions for workspaces that can be assigned independently:
 
 **Edit data**: Allows user to create, edit and delete records.
 
@@ -629,18 +629,15 @@ Granting a users permission to a workspace enables them to contribute or downloa
 
 **Grant admin permissions**: This permission is only available to *Project administrators* and should only be granted to *Workspace owners* responsible for managing a workspace. By granting a user admin permission to a workspace, the user will be able to grant other users permission to share access to the workspace. Thus, this permission should be used very carefully. 
 
-  .. Note: The permission a user can share are depending on a users own permissions. Thus, it is possible that a user with the permission to 
+  .. Note: Sharing workspace permissions to other users depends on the user's own permissions. Thus, it is possible that a user with the permission to **Manage users** is not able to grant access to edit data to other users. 
 
-**Manage users** is not able to grant access to edit data. 
-
-Workspace permission should always be assigned in with regard to the a users roles. The below screenshots indicate the level of permissions that should be granted to the respective user. 
-For further details on the standard HeRAMS user roles, please consult the `previous section <#user-roles>`__.
+Workspace permission should always be assigned with regards to the user roles. The below screenshots indicate the level of permissions that should be granted to the respective user. For further details on the standard HeRAMS user roles, please consult the `previous section <#user-roles>`__.
 
 
 Project Permissions
 ~~~~~~~~~~~~~~~~~~~~~
 
-Similar to workspace permissions, permissions can also be granted at the project level. It is important to notice that if permissions are granted at the *Project level*, users are being granted access to all workspaces. For example, if a user is granted *Edit* permission at the *Project level*, they can edit data for all workspace. In contrast, if a user is granted access at the *Workspace level*, they are only able to contribute data to that specific workspace.
+Similar to workspace permissions, permissions can also be granted at the project level. It is important to note that if permissions are granted at the *Project level*, users are being granted access to all workspaces. For example, if a user is granted *Edit* permission at the *Project level*, they can edit data for all workspace. In contrast, if a user is granted access at the *Workspace level*, they are only able to contribute data to that specific workspace.
 
 There are five permissions that can be granted at the project level.
 
@@ -648,9 +645,9 @@ There are five permissions that can be granted at the project level.
 
 **Edit data**: Allows user to create, edit and delete records in any workspace of the project. 
 
-**Download data**: Enables users to download  the entire dateset, including records from all workspace for further analysis in external applications. 
+**Download data**: Enables users to download  the entire dataset, including records from all workspaces for further analysis in external applications. 
 
-**Manage workspaces** grants a user access to create, modify and delete workspaces as well as the ability to invite users to contribute to individual worksapace. 
+**Manage workspaces**: grants a user access to create, modify and delete workspaces as well as the ability to invite users to contribute to an individual workspace. 
 
 .. Warning: *Workspace Owners* must be granted permission at the workspace level. If a user is granted permissions to *Manage workspaces* they will have access to **all** workspaces.
 
@@ -672,13 +669,13 @@ There six standard roles that are used accross HeRAMS projects.
 
 **Project Admin**: The *Project Owner* typically relies on an Information Management Officer to manage the daily activities of the HeRAMS Project and assigns them the role of *Project Admin*. The *Project Admin* has access to all workspaces. Depending on the project setup, they might also be assigned to configure the project dashboard. While *Project Admins* are responsible for the overall training and management of users, they can assign *Workspace Owners* to manage individual workspaces.
 
-**Workspace Owner:** are commonly at the sub-national level, overseeing data collection for a specific area (e.g. a district). They have full control over their workspace and can invite other users to contribute to their workspace. It is important to notice that *Workspace Owners* can only edit or share access to the workspaces they own. However, like any user having been granted access to a project, they can explore data from other workspaces using the project dashboard.
+**Workspace Owner:** Are commonly at the sub-national level, overseeing data collection for a specific area (e.g. a district). They have full control over their workspace and can invite other users to contribute to their workspace. It is important to note that *Workspace Owners* can only edit or share access to the workspaces they own. However, like any user having been granted access to a project, they can explore data from other workspaces using the project dashboard.
 
-**Data Contributor:** Support the workspace owner in collecting and managing information on individual health facilities. Alike *Workspace Owners* they can only edit data within their workspace but are able to view the overall project by accessing the project dashboard.
+**Data Contributor:** Support the workspace owner in collecting and managing information on individual health facilities. Like *Workspace Owners* they can only edit data within their workspace but are able to view the overall project by accessing the project dashboard.
 
-**Data Viewers**: In exceptional situations, a user might be granted role of *Data Viewer*. This means they are granted access to download the workspace data but are unable to edit data. Alike all users having been granted access to a project, they are also able to access the project dashboard. 
+**Data Viewers**: In exceptional situations, a user might be granted a role of *Data Viewer*. This means they are granted access to download the workspace data but are unable to edit data. Like all users having been granted access to a project, they are also able to access the project dashboard. 
 
-**Project Viewer:** The role of *Project Viewer* is intended for users at any level who rely on HeRAMS data for their own work. Their access is limited to the project dashboard and the list of available workspace.
+**Project Viewer:** The role of *Project Viewer* is intended for users at any level who rely on HeRAMS data for their own work. Their access is limited to the project dashboard and the list of available workspaces.
 
 .. Note: If a project is set to **Private** or **Closed** access to the project dashboard can be further restricted. Please consult `Project Settings` for further information on project statuses. 
 
