@@ -647,11 +647,11 @@ There are five permissions that can be granted at the project level.
 
 **Download data**: Enables users to download  the entire dataset, including records from all workspaces for further analysis in external applications. 
 
-**Manage workspaces**: grants a user access to create, modify and delete workspaces as well as the ability to invite users to contribute to an individual workspace. 
+**Manage workspaces**: Grants a user access to create, modify and delete workspaces as well as the ability to invite users to contribute to an individual workspace. 
 
 .. Warning: *Workspace Owners* must be granted permission at the workspace level. If a user is granted permissions to *Manage workspaces* they will have access to **all** workspaces.
 
-**Configure dashboard**: grants users the ability to edit and configure their *Project Dashboard*. 
+**Configure dashboard**: Grants users the ability to edit and configure their *Project Dashboard*. 
 
 
 HeRAMS User Roles
@@ -673,7 +673,7 @@ There six standard roles that are used accross HeRAMS projects.
 
 **Data Contributor:** Support the workspace owner in collecting and managing information on individual health facilities. Like *Workspace Owners* they can only edit data within their workspace but are able to view the overall project by accessing the project dashboard.
 
-**Data Viewers**: In exceptional situations, a user might be granted a role of *Data Viewer*. This means they are granted access to download the workspace data but are unable to edit data. Like all users having been granted access to a project, they are also able to access the project dashboard. 
+**Data Viewers**: Under exceptional situations, a user might be granted a role of *Data Viewer*. This means they are granted access to download the workspace data but are unable to edit data. Like all users having been granted access to a project, they are also able to access the project dashboard. 
 
 **Project Viewer:** The role of *Project Viewer* is intended for users at any level who rely on HeRAMS data for their own work. Their access is limited to the project dashboard and the list of available workspaces.
 
@@ -697,14 +697,14 @@ Optionally, *Data Contributors* can also be granted permissions to download data
 	:alt: data contributor (advanced)
 	:align: center
 
-**Data Viewers**: t is possible to grant a users access to download data without providing them with edit rights. While this permission is commonly combined with access to *Edit Data*, under special circumstances, access might be granted to download data only. 
+**Data Viewers**: It is possible to grant users access to download data without providing them with edit rights. While this permission is commonly combined with access to *Edit Data*, under special circumstances, access might be granted to download data only. 
 
   .. image:: media/img/HeRAMS_permissions_data_viewer.png
 	:height: 200px
 	:alt: data viewer
 	:align: center
 
-**Workspace Owners**: In addition to editing and downloading data, *Workspace Owner* are granted the permission to *Manage Users*. This grants them the ability to invite other users to contribute to their workspace.
+**Workspace Owners**: In addition to editing and downloading data, *Workspace Owners* are granted the permission to *Manage Users*. This grants them the ability to invite other users to contribute to their workspace.
 
   .. image:: media/img/HeRAMS_permissions_workspace_owner.png
 	:height: 200px
@@ -725,8 +725,7 @@ Under special circumstance a *Project Admin* might grant a *Workspace Owner* adm
 Add a User
 ~~~~~~~~~~
 
-1. To grant a user access to a workspace or project, navigate to the list of workspace or projects, respectively. 
-For more details see `Access your worksapace`__.
+1. To grant a user access to a workspace or project, navigate to the list of workspace or projects, respectively. For more details see `Access your worksapace`__.
 	
 2. You should now see a table similar to the image below. In the right-most column of your table you should see one or several icons. Click the |share-icon|. This will the user management page. For all full list of icons and their meanings got `<#icons-and-their-meanings`__.  
 
@@ -790,8 +789,8 @@ Create a Workspace
 ~~~~~~~~~~~~~~~~~~~~~~
 
 1. To create a new workspace, access the workspace page of your project. See `Access your worksapace`__ for more detailed instructions.
-2. In the upper left corner, you will see a button labelled |create-workspace|.
-3. On the page that opens, you should now be able to create a new workspace.
+2. In the upper right corner, you will see a button labelled |create-workspace|.
+3. You will be directed to a page where you will be able to create a new workspace.
 4. Enter the workspace's name into the title field.
 5. Use the dropdown list to select the corresponding **Token** or create a new token by selecting **Create new token**.
   
@@ -802,7 +801,7 @@ Create a Workspace
      
   .. Note: Tokens are unique identifiers that link health facilities to workspaces. To add a health facility to a workspace the token of the record in question has to be manually changed. Contact your system administrator for guidance on how to change a record's token.
 
-Rename a Worksapce
+Rename a Workspace
 ~~~~~~~~~~~~~~~
 
 1. To rename a workspace, access the workspace page of your project. See `Access your worksapace`__ for more detailed instructions. 
